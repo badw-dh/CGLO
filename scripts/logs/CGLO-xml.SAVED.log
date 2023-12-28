@@ -1,0 +1,537 @@
+INFO:root:Adding XML attributes to xml_output/CGLO.01.A.xml
+INFO:root:Upper-case sublemma (Abegato at line 107)?
+INFO:root:Upper-case sublemma (Abes at line 567)? // Markdown is correct??
+INFO:root:Upper-case sublemma (Accersibiles at line 701)?
+  Missing line break.
+INFO:root:Upper-case sublemma (Acherontes at line 915)?
+  Proper adj
+INFO:root:Upper-case sublemma (Achiuis at line 919)?
+  Proper adj
+INFO:root:Upper-case sublemma (Actio at line 1079)?
+  Nomen proprium
+INFO:root:Upper-case sublemma (Acuminatus at line 1121)?
+  Missing line break
+INFO:root:Upper-case sublemma (Adar zios at line 1209)?
+INFO:root:Lower-case lemma (adisse) at line 1299? // Continues paragraph from prev. page
+INFO:root:Upper-case sublemma (Adipiscendi at line 1427)?
+  Missing line break.
+INFO:root:Upper-case sublemma (Adiuuamentum at line 1465)?
+  Missing line break.
+INFO:root:Lower-case lemma (adiuuas) at line 1473?
+  Extra space before adiuuas.
+INFO:root:Upper-case sublemma (Adonius at line 1571)?
+INFO:root:Error: no <form> tag in paragraph at line 1601
+  Extra space after **Adorea liba**
+INFO:root:Upper-case sublemma (Adtesascondit at line 1667)?
+INFO:root:Upper-case sublemma (Aeorus at line 1957)?
+INFO:root:Upper-case sublemma (Hesculapius at line 2139)?
+INFO:root:Upper-case sublemma (Aethiopes at line 2219)?
+INFO:root:Upper-case sublemma (Aethiopes at line 2219)?
+INFO:root:Upper-case sublemma (Aethon at line 2223)?
+INFO:root:Upper-case sublemma (Aethon at line 2223)?
+INFO:root:Lower-case lemma (adfines) at line 2311?
+INFO:root:Upper-case sublemma (Afflictio at line 2327)?
+INFO:root:Lower-case lemma (adflictes) at line 2333?
+INFO:root:Upper-case sublemma (Agrippas at line 2595)?
+INFO:root:Upper-case sublemma (Agrum at line 2599)?
+INFO:root:Upper-case sublemma (Allobrox at line 2987)?
+INFO:root:Upper-case sublemma (Ambrox at line 2987)?
+INFO:root:Upper-case sublemma (Adlobrus at line 2987)?
+INFO:root:Upper-case sublemma (Allobroga at line 2987)?
+INFO:root:Upper-case sublemma (Allobroges at line 2987)?
+INFO:root:Upper-case sublemma (Alpis at line 3059)?
+INFO:root:Upper-case sublemma (Alpes at line 3059)?
+INFO:root:Upper-case sublemma (Amaryllida at line 3277)?
+INFO:root:Upper-case sublemma (Amaryllidis at line 3277)?
+INFO:root:Upper-case sublemma (Paphus at line 3283)?
+INFO:root:Lower-case lemma (amblyopiae) at line 3365? // Continues paragraph from prev. page
+INFO:root:Upper-case sublemma (Aminei at line 3481)?
+INFO:root:Upper-case sublemma (Amineae at line 3481)?
+INFO:root:Upper-case sublemma (Amphitrites at line 3573)?
+INFO:root:Upper-case sublemma (Amphitrides at line 3575)?
+INFO:root:Upper-case sublemma (Amplica at line 3599)?
+INFO:root:Lower-case lemma (amiterminus) at line 3635?
+INFO:root:Upper-case sublemma (Amyclis at line 3651)?
+INFO:root:Lower-case lemma (anagalico) at line 3687?
+INFO:root:Lower-case lemma (sarina) at line 4181?
+INFO:root:Upper-case sublemma (Antebello at line 4201)?
+INFO:root:Upper-case sublemma (Antehac at line 4237)?
+INFO:root:Upper-case sublemma (A at line 4381)?
+INFO:root:Upper-case sublemma (Antinoo at line 4381)?
+INFO:root:Lower-case lemma (amtorbato) at line 4439?
+INFO:root:Upper-case sublemma (Anubin at line 4445)?
+INFO:root:Upper-case sublemma (Afrodisios at line 4569)?
+INFO:root:Upper-case sublemma (Apollonaria at line 4645)?
+INFO:root:Upper-case sublemma (Appositio at line 4791)?
+INFO:root:Lower-case lemma (aptare) at line 4883?
+INFO:root:Lower-case lemma (acuae) at line 4913?
+INFO:root:Upper-case sublemma (Arcendis at line 5171)?
+INFO:root:Upper-case sublemma (Argiuis at line 5389)?
+INFO:root:Upper-case sublemma (Argi at line 5389)?
+INFO:root:Upper-case sublemma (Arui at line 5389)?
+INFO:root:Upper-case sublemma (Argis at line 5389)?
+INFO:root:Upper-case sublemma (Argolicam at line 5393)?
+INFO:root:Upper-case sublemma (Argolici at line 5393)?
+INFO:root:Upper-case sublemma (Argolicas at line 5393)?
+INFO:root:Upper-case sublemma (Argumentose at line 5407)?
+INFO:root:Upper-case sublemma (Afestotiles at line 5475)?
+INFO:root:Upper-case sublemma (Afestitolis at line 5475)?
+INFO:root:Lower-case lemma (adsciueri<t>) at line 5857?
+INFO:root:Upper-case sublemma (Assia at line 5883)?
+INFO:root:Upper-case sublemma (Asia at line 5883)?
+INFO:root:Upper-case sublemma (Assiani at line 5885)?
+INFO:root:Error: no <form> tag in paragraph at line 6203
+INFO:root:Upper-case sublemma (Atarna at line 6283)?
+INFO:root:Upper-case sublemma (Atellani at line 6295)?
+INFO:root:Upper-case sublemma (Atubus at line 6511)?
+INFO:root:Upper-case sublemma (Aurunculus at line 6801)?
+INFO:root:Upper-case sublemma (Aruncus at line 6803)?
+INFO:root:Upper-case sublemma (Auxinium at line 6821)?
+INFO:root:Upper-case sublemma (Auer at line 6945)?
+INFO:root:Lower-case lemma (num) at line 6947?
+INFO:root:Upper-case sublemma (Auerni at line 6947)?
+INFO:root:Upper-case sublemma (Auerno at line 6947)?
+INFO:root:Upper-case sublemma (Auerno at line 6947)?
+
+INFO:root:Adding XML attributes to xml_output/CGLO.02.B.xml
+INFO:root:Upper-case sublemma (Babylonia at line 21)?
+INFO:root:Upper-case sublemma (Babylonius at line 21)?
+INFO:root:Upper-case sublemma (Babil at line 21)?
+INFO:root:Upper-case sublemma (Babylona at line 23)?
+INFO:root:Upper-case sublemma (Babylonia at line 23)?
+INFO:root:Upper-case sublemma (Bacchi latex at line 61)?
+INFO:root:Upper-case sublemma (Bacchi ueteris at line 63)?
+INFO:root:Upper-case sublemma (Baccum at line 73)?
+INFO:root:Upper-case sublemma (Baiae, Cumae at line 125)?
+INFO:root:Upper-case sublemma (Balastrum at line 153)?
+INFO:root:Lower-case lemma (balastium) at line 155?
+INFO:root:Upper-case sublemma (Barbustinus at line 303)?
+INFO:root:Upper-case sublemma (Barciae at line 307)?
+INFO:root:Upper-case sublemma (Balcei at line 307)?
+INFO:root:Upper-case sublemma (Biarces at line 307)?
+INFO:root:Upper-case sublemma (Bardes at line 315)?
+INFO:root:Upper-case sublemma (Babricaus at line 497)?
+INFO:root:Upper-case sublemma (Belis at line 519)?
+INFO:root:Upper-case sublemma (Berencia at line 743)?
+INFO:root:Lower-case lemma (bimum) at line 983?
+INFO:root:Upper-case sublemma (Bistoniae at line 1055)?
+INFO:root:Upper-case sublemma (Buxetum at line 1855)?
+
+INFO:root:Adding XML attributes to xml_output/CGLO.03.C.xml
+INFO:root:Upper-case sublemma (Calchantem at line 381)?
+INFO:root:Upper-case sublemma (Calcifraga at line 391)?
+INFO:root:Upper-case sublemma (Caldamenta at line 429)?
+INFO:root:Upper-case sublemma (Calliope at line 523)?
+INFO:root:Error: no <form> tag in paragraph at line 585
+INFO:root:Upper-case sublemma (Camara at line 601)?
+INFO:root:Upper-case sublemma (Cantabri at line 837)?
+INFO:root:Upper-case sublemma (Carniuorum at line 1293)?
+INFO:root:Upper-case sublemma (Kasleu at line 1397)?
+INFO:root:Upper-case sublemma (Casleu at line 1397)?
+INFO:root:Upper-case sublemma (Casita at line 1405)?
+INFO:root:Upper-case sublemma (Cassidatus at line 1431)?
+INFO:root:Upper-case sublemma (Cassiepia at line 1435)?
+INFO:root:Upper-case sublemma (Pollux at line 1479)?
+INFO:root:Upper-case sublemma (Catamiti at line 1541)?
+INFO:root:Upper-case sublemma (Cataphrygarum at line 1553)?
+INFO:root:Upper-case sublemma (Cathis at line 1649)?
+INFO:root:Upper-case sublemma (Celeus at line 1915)?
+INFO:root:Upper-case sublemma (Centurum at line 2027)?
+INFO:root:Upper-case sublemma (Cerunia at line 2129)?
+INFO:root:Upper-case sublemma (Cerealia at line 2151)?
+INFO:root:Upper-case sublemma (Cereris at line 2167)?
+INFO:root:Upper-case sublemma (Cererem at line 2167)?
+INFO:root:Upper-case sublemma (Cerere at line 2167)?
+INFO:root:Upper-case sublemma (Cerualis at line 2267)?
+INFO:root:Upper-case sublemma (Cymira at line 2467)?
+INFO:root:Upper-case sublemma (Chimaera at line 2467)?
+INFO:root:Upper-case sublemma (Enceladus at line 2495)?
+INFO:root:Upper-case sublemma (Cicerones at line 2607)?
+INFO:root:Upper-case sublemma (Ciliacus at line 2655)?
+INFO:root:Upper-case sublemma (Cilicium at line 2661)?
+INFO:root:Upper-case sublemma (Cimbri at line 2675)?
+INFO:root:Upper-case sublemma (Clarius at line 3201)?
+INFO:root:Upper-case sublemma (Clato at line 3403)?
+INFO:root:Upper-case sublemma (Cludidenus at line 3407)?
+INFO:root:Upper-case sublemma (Cocitus at line 3585)?
+INFO:root:Upper-case sublemma (Cocuetus at line 3585)?
+INFO:root:Upper-case sublemma (Cocytos amnes at line 3585)?
+INFO:root:Lower-case lemma (cho<r>s militum) at line 3703?
+INFO:root:Lower-case lemma (ludit) at line 3905?
+INFO:root:Lower-case lemma (colum) at line 4001?
+INFO:root:Upper-case sublemma (Combibula at line 4075)?
+INFO:root:Error: no <form> tag in paragraph at line 4179
+INFO:root:Upper-case sublemma (Commisticium at line 4299)?
+INFO:root:Lower-case lemma (ducere) at line 5063?
+INFO:root:Lower-case lemma (congermaniscere) at line 5307?
+INFO:root:Upper-case sublemma (Conglutinatum at line 5335)?
+INFO:root:Lower-case lemma (congregat) at line 5351?
+INFO:root:Lower-case lemma (iecturam) at line 5397?
+INFO:root:Upper-case sublemma (Connubium at line 5471)?
+INFO:root:Lower-case lemma (consentiunt) at line 5583?
+INFO:root:Lower-case lemma (consuetudinem) at line 5795?
+INFO:root:Upper-case sublemma (Conso at line 5861)?
+INFO:root:Upper-case sublemma (Cossus at line 5861)?
+INFO:root:Lower-case lemma (controuersiae) at line 6107?
+INFO:root:Lower-case lemma (uicta) at line 6271?
+INFO:root:Upper-case sublemma (Corrigari at line 6599)?
+INFO:root:Upper-case sublemma (Cory\[m\]bantes at line 6691)?
+INFO:root:Upper-case sublemma (Corybantes at line 6691)?
+INFO:root:Upper-case sublemma (Creta at line 6969)?
+INFO:root:Lower-case lemma (tior) at line 7033?
+INFO:root:Upper-case sublemma (Crustumia at line 7189)?
+INFO:root:Upper-case sublemma (Cumulatim at line 7431)?
+INFO:root:Upper-case sublemma (Cybeles at line 7689)?
+INFO:root:Upper-case sublemma (Celides at line 7689)?
+INFO:root:Upper-case sublemma (Cycladas at line 7697)?
+INFO:root:Upper-case sublemma (Cyclopes at line 7705)?
+INFO:root:Upper-case sublemma (Cidnus at line 7715)?
+INFO:root:Upper-case sublemma (Cyllenus at line 7729)?
+INFO:root:Upper-case sublemma (Cyllenius at line 7729)?
+INFO:root:Upper-case sublemma (Cynthiam at line 7765)?
+INFO:root:Upper-case sublemma (Cynthius at line 7767)?
+INFO:root:Upper-case sublemma (Cyprum at line 7791)?
+
+INFO:root:Adding XML attributes to xml_output/CGLO.04.D.xml
+INFO:root:Upper-case sublemma (Damascena at line 51)?
+INFO:root:Lower-case lemma (dammam) at line 73?
+INFO:root:Upper-case sublemma (Damotretas at line 103)?
+INFO:root:Upper-case sublemma (Danai at line 107)?
+INFO:root:Upper-case sublemma (Daphnis at line 123)?
+INFO:root:Upper-case sublemma (Dardani at line 139)?
+INFO:root:Upper-case sublemma (Dau\[n\]um at line 185)?
+INFO:root:Lower-case lemma (decerni) at line 339?
+INFO:root:Lower-case lemma (docet) at line 581?
+INFO:root:Lower-case lemma (defectat) at line 607?
+INFO:root:Upper-case sublemma (Deliberantes at line 997)?
+INFO:root:Lower-case lemma (monstrat) at line 1229?
+INFO:root:Upper-case sublemma (Denegator at line 1273)?
+INFO:root:Upper-case sublemma (Descat at line 1697)?
+INFO:root:Lower-case lemma (despectare) at line 1825?
+INFO:root:Lower-case lemma (dixerunt) at line 2325?
+INFO:root:Upper-case sublemma (Dionesius at line 2805)?
+INFO:root:Upper-case sublemma (Dircaea at line 2845)?
+INFO:root:Upper-case sublemma (Directe at line 2849)?
+INFO:root:Upper-case sublemma (Dis at line 3131)?
+INFO:root:Upper-case sublemma (Ditis at line 3131)?
+INFO:root:Upper-case sublemma (Ditis pater at line 3131)?
+INFO:root:Upper-case sublemma (Ditis at line 3131)?
+INFO:root:Upper-case sublemma (Ditis at line 3131)?
+INFO:root:Upper-case sublemma (Diespiter, Ditis at line 3131)?
+INFO:root:Upper-case sublemma (Dispater at line 3131)?
+INFO:root:Upper-case sublemma (Dispater at line 3131)?
+INFO:root:Upper-case sublemma (Despiter at line 3131)?
+INFO:root:Upper-case sublemma (Dium <D>ius at line 3465)?
+INFO:root:Lower-case lemma (diuus) at line 3605?
+INFO:root:Upper-case sublemma (Dorica at line 3831)?
+INFO:root:Upper-case sublemma (Dorica castra at line 3831)?
+INFO:root:Upper-case sublemma (Doris at line 3833)?
+INFO:root:Upper-case sublemma (Duis at line 4043)?
+INFO:root:Upper-case sublemma (Duribuccius at line 4183)?
+
+INFO:root:Adding XML attributes to xml_output/CGLO.05.E.xml
+INFO:root:Upper-case sublemma (Equidem at line 5)?
+INFO:root:Upper-case sublemma (Ecedo at line 87)?
+INFO:root:Upper-case sublemma (Edoni at line 187)?
+INFO:root:Upper-case sublemma (Israel at line 427)?
+INFO:root:Upper-case sublemma (Elissae at line 625)?
+INFO:root:Upper-case sublemma (Elysium Elysi at line 729)?
+INFO:root:Upper-case sublemma (Elysios campos at line 731)?
+INFO:root:Upper-case sublemma (Elysios at line 731)?
+INFO:root:Upper-case sublemma (Endodecarit at line 993)?
+INFO:root:Upper-case sublemma (Eos at line 1181)?
+INFO:root:Upper-case sublemma (Manasse at line 1217)?
+INFO:root:Upper-case sublemma (Effreni at line 1217)?
+INFO:root:Lower-case lemma (epicroca) at line 1241?
+INFO:root:Upper-case sublemma (Epicureorum at line 1243)?
+INFO:root:Upper-case sublemma (Epicur\[i\]us at line 1245)?
+INFO:root:Upper-case sublemma (Romanus at line 1373)?
+INFO:root:Upper-case sublemma (Erebi at line 1465)?
+INFO:root:Upper-case sublemma (Eridanus fluuius at line 1533)?
+INFO:root:Upper-case sublemma (Erunis at line 1549)?
+INFO:root:Upper-case sublemma (Erinae at line 1549)?
+INFO:root:Upper-case sublemma (Eritium at line 1553)?
+INFO:root:Upper-case sublemma (Erulorum at line 1645)?
+INFO:root:Upper-case sublemma (Etrusci at line 1797)?
+INFO:root:Upper-case sublemma (Euan at line 1815)?
+INFO:root:Upper-case sublemma (Eumenidum at line 1847)?
+INFO:root:Upper-case sublemma (Eumenidus at line 1847)?
+INFO:root:Upper-case sublemma (Eumenidum at line 1847)?
+INFO:root:Upper-case sublemma (Eupatorium at line 1867)?
+INFO:root:Upper-case sublemma (Euphonia at line 1867)?
+INFO:root:Upper-case sublemma (Europa, Asia at line 1879)?
+INFO:root:Upper-case sublemma (Africa at line 1879)?
+INFO:root:Upper-case sublemma (Eridanus at line 1883)?
+INFO:root:Lower-case lemma (euacuatur) at line 1903?
+INFO:root:Upper-case sublemma (Exechus at line 2409)?
+INFO:root:Lower-case lemma (eximus) at line 2439?
+INFO:root:Lower-case lemma (tendit) at line 3189?
+
+INFO:root:Adding XML attributes to xml_output/CGLO.06.F.xml
+INFO:root:Upper-case sublemma (Faecula at line 209)?
+INFO:root:Upper-case sublemma (Faen- at line 215)?
+INFO:root:Upper-case sublemma (Psyllii at line 433)?
+INFO:root:Upper-case sublemma (Faonum at line 609)?
+INFO:root:Upper-case sublemma (Fauni at line 609)?
+INFO:root:Upper-case sublemma (Fauni at line 609)?
+INFO:root:Upper-case sublemma (Febricula at line 669)?
+INFO:root:Upper-case sublemma (Febrientibus at line 669)?
+INFO:root:Upper-case sublemma (Februarium at line 685)?
+INFO:root:Lower-case lemma (femora) at line 769?
+INFO:root:Lower-case lemma (fidelem) at line 1137?
+INFO:root:Upper-case sublemma (Flamicus at line 1475)?
+INFO:root:Upper-case sublemma (Famicus at line 1475)?
+INFO:root:Upper-case sublemma (Foederator at line 1747)?
+INFO:root:Upper-case sublemma (Fortuna at line 2001)?
+INFO:root:Upper-case sublemma (Fostulla at line 2063)?
+INFO:root:Upper-case sublemma (Fotilis at line 2065)?
+INFO:root:Lower-case lemma (mebant) at line 2193?
+INFO:root:Upper-case sublemma (Sagaris at line 2493)?
+INFO:root:Upper-case sublemma (Fundatur at line 2679)?
+INFO:root:Upper-case sublemma (Furiae at line 2773)?
+INFO:root:Upper-case sublemma (Furias at line 2773)?
+
+INFO:root:Adding XML attributes to xml_output/CGLO.07.G.xml
+INFO:root:Lower-case lemma (gessa) at line 27?
+INFO:root:Upper-case sublemma (Gaetuli at line 33)?
+INFO:root:Upper-case sublemma (Gaetulis at line 33)?
+INFO:root:Upper-case sublemma (Galacteam at line 53)?
+INFO:root:Upper-case sublemma (Gallicanorum at line 111)?
+INFO:root:Lower-case lemma (galbalacrum) at line 149?
+INFO:root:Upper-case sublemma (Gantes at line 191)?
+INFO:root:Upper-case sublemma (Ganimedis at line 207)?
+INFO:root:Lower-case lemma (dium) at line 259?
+INFO:root:Upper-case sublemma (Gehenna at line 297)?
+INFO:root:Upper-case sublemma (Getae at line 641)?
+INFO:root:Upper-case sublemma (Geti at line 641)?
+INFO:root:Upper-case sublemma (Getae at line 641)?
+INFO:root:Upper-case sublemma (Glaucus at line 791)?
+INFO:root:Upper-case sublemma (Glycerium at line 919)?
+INFO:root:Upper-case sublemma (Gnosia at line 969)?
+INFO:root:Upper-case sublemma (Gurgas at line 1001)?
+INFO:root:Upper-case sublemma (Gorgoni at line 1001)?
+INFO:root:Upper-case sublemma (Gorgones at line 1001)?
+INFO:root:Upper-case sublemma (Gradiuum patrem at line 1045)?
+INFO:root:Upper-case sublemma (Gradiuus at line 1045)?
+INFO:root:Upper-case sublemma (Graecum at line 1067)?
+INFO:root:Upper-case sublemma (Graeci at line 1067)?
+INFO:root:Upper-case sublemma (Graeci at line 1067)?
+INFO:root:Upper-case sublemma (Graecorum at line 1067)?
+INFO:root:Upper-case sublemma (Graecos at line 1067)?
+INFO:root:Upper-case sublemma (Grai at line 1079)?
+INFO:root:Upper-case sublemma (Graiae at line 1079)?
+INFO:root:Upper-case sublemma (Graiorum at line 1079)?
+INFO:root:Upper-case sublemma (Grados at line 1079)?
+INFO:root:Upper-case sublemma (Gratiae deae at line 1207)?
+INFO:root:Lower-case lemma (gratificare) at line 1227?
+INFO:root:Lower-case lemma (grata) at line 1251?
+INFO:root:Upper-case sublemma (Grina at line 1337)?
+INFO:root:Upper-case sublemma (Grina at line 1395)?
+
+INFO:root:Adding XML attributes to xml_output/CGLO.08.H.xml
+INFO:root:Upper-case sublemma (Aides at line 63)?
+INFO:root:Upper-case sublemma (Aiden at line 63)?
+INFO:root:Upper-case sublemma (Ade at line 63)?
+INFO:root:Upper-case sublemma (Adeo at line 63)?
+INFO:root:Upper-case sublemma (Heumenia at line 95)?
+INFO:root:Upper-case sublemma (Ca<r>poforos at line 107)?
+INFO:root:Upper-case sublemma (Hamio at line 149)?
+INFO:root:Upper-case sublemma (Harpyae at line 187)?
+INFO:root:Upper-case sublemma (Ebruum at line 333)?
+INFO:root:Upper-case sublemma (Hellespontum at line 375)?
+INFO:root:Upper-case sublemma (Herculus at line 489)?
+INFO:root:Upper-case sublemma (Hermes at line 523)?
+INFO:root:Upper-case sublemma (Hermon at line 533)?
+INFO:root:<form> tag with empty text at line 543
+INFO:root:Upper-case sublemma (Hesperiam at line 569)?
+INFO:root:Upper-case sublemma (Iesferos at line 575)?
+INFO:root:Upper-case sublemma (Hiber at line 625)?
+INFO:root:Upper-case sublemma (Hiberia at line 625)?
+INFO:root:Upper-case sublemma (Hirnia at line 777)?
+INFO:root:Upper-case sublemma (Hosirim at line 1071)?
+INFO:root:Upper-case sublemma (Horum at line 1071)?
+INFO:root:Upper-case sublemma (Yblaeae at line 1233)?
+INFO:root:Upper-case sublemma (Ircanum at line 1343)?
+
+INFO:root:Adding XML attributes to xml_output/CGLO.09.I.xml
+INFO:root:Upper-case sublemma (Ianiculum at line 101)?
+INFO:root:Upper-case sublemma (Februarius at line 121)?
+INFO:root:Upper-case sublemma (Martius at line 121)?
+INFO:root:Upper-case sublemma (Aprilis at line 121)?
+INFO:root:Upper-case sublemma (Maius at line 121)?
+INFO:root:Upper-case sublemma (Iunius at line 121)?
+INFO:root:Upper-case sublemma (Iulius at line 121)?
+INFO:root:Upper-case sublemma (Augustus at line 121)?
+INFO:root:Upper-case sublemma (Septem­ber at line 121)?
+INFO:root:Upper-case sublemma (October at line 121)?
+INFO:root:Upper-case sublemma (Nouember at line 121)?
+INFO:root:Lower-case lemma (ldumaea) at line 249?
+INFO:root:Upper-case sublemma (Iliaci at line 367)?
+INFO:root:Upper-case sublemma (Iliacas at line 367)?
+INFO:root:Upper-case sublemma (Iliacis at line 367)?
+INFO:root:Upper-case sublemma (Ilibus at line 367)?
+INFO:root:Upper-case sublemma (Iliacus at line 367)?
+INFO:root:Lower-case lemma (imbuere) at line 611?
+INFO:root:Upper-case sublemma (Incuba at line 1785)?
+INFO:root:Upper-case sublemma (Incibus at line 1787)?
+INFO:root:Upper-case sublemma (Incuu at line 1787)?
+INFO:root:Lower-case lemma (indole) at line 2101?
+INFO:root:Lower-case lemma (inenarrabile) at line 2225?
+INFO:root:Lower-case lemma (inhibere) at line 2861?
+INFO:root:Lower-case lemma (institutores) at line 3699?
+INFO:root:Upper-case sublemma (Inauspicatus at line 3793)?
+INFO:root:Upper-case sublemma (Intenti at line 3889)?
+INFO:root:Lower-case lemma (interpretor) at line 4153?
+INFO:root:Upper-case sublemma (Interspondium at line 4211)?
+INFO:root:Error: no <form> tag in paragraph at line 4625
+INFO:root:Upper-case sublemma (Ieortasticai at line 4661)?
+INFO:root:Upper-case sublemma (Inormes at line 4661)?
+INFO:root:Upper-case sublemma (Hiopadis at line 4675)?
+INFO:root:Upper-case sublemma (Ioui barba at line 4695)?
+INFO:root:Upper-case sublemma (Iouis b. at line 4695)?
+INFO:root:Upper-case sublemma (Isciscitari at line 4895)?
+INFO:root:Upper-case sublemma (Ister Dacus at line 4925)?
+INFO:root:Upper-case sublemma (Isaurum at line 4925)?
+INFO:root:Upper-case sublemma (Itarum at line 4925)?
+INFO:root:Upper-case sublemma (Iturae<i> arcus at line 5021)?
+INFO:root:Upper-case sublemma (Iulium at line 5143)?
+INFO:root:Lower-case lemma (ceas) at line 5157?
+INFO:root:Upper-case sublemma (Iunonis at line 5189)?
+INFO:root:Upper-case sublemma (Iouis at line 5201)?
+INFO:root:Upper-case sublemma (Iouis at line 5201)?
+INFO:root:Upper-case sublemma (Iouis at line 5201)?
+INFO:root:Upper-case sublemma (Iuppres at line 5201)?
+INFO:root:Upper-case sublemma (Iouis at line 5201)?
+INFO:root:Upper-case sublemma (Ioui at line 5201)?
+INFO:root:Upper-case sublemma (Iouem at line 5201)?
+INFO:root:Upper-case sublemma (Ioue at line 5201)?
+INFO:root:Upper-case sublemma (Iuppiter at line 5201)?
+INFO:root:Upper-case sublemma (Diuturna at line 5331)?
+INFO:root:Upper-case sublemma (Iuturna at line 5331)?
+INFO:root:Upper-case sublemma (Iuueuta\[ti\]s at line 5361)?
+
+INFO:root:Adding XML attributes to xml_output/CGLO.10.K.xml
+INFO:root:Error: no <form> tag in paragraph at line 9
+
+INFO:root:Adding XML attributes to xml_output/CGLO.11.L.xml
+INFO:root:Upper-case sublemma (Lacos at line 123)?
+INFO:root:Upper-case sublemma (Laestrigones at line 219)?
+INFO:root:Upper-case sublemma (Lamia at line 285)?
+INFO:root:Upper-case sublemma (Lamiae at line 285)?
+INFO:root:Upper-case sublemma (Lapitus at line 467)?
+INFO:root:Upper-case sublemma (P\[i\]thia at line 559)?
+INFO:root:Upper-case sublemma (Latinum at line 697)?
+INFO:root:Upper-case sublemma (Latini at line 697)?
+INFO:root:Upper-case sublemma (Leini at line 697)?
+INFO:root:Upper-case sublemma (Latini at line 697)?
+INFO:root:Upper-case sublemma (Latinum at line 709)?
+INFO:root:Upper-case sublemma (Latio at line 709)?
+INFO:root:Upper-case sublemma (Latreusis at line 727)?
+INFO:root:Upper-case sublemma (Laurentem at line 797)?
+INFO:root:Upper-case sublemma (Lauriola at line 815)?
+INFO:root:Lower-case lemma (runt) at line 873?
+INFO:root:Upper-case sublemma (Lepos at line 1187)?
+INFO:root:Upper-case sublemma (Lethaeo at line 1227)?
+INFO:root:Upper-case sublemma (Lethe\[s\] at line 1233)?
+INFO:root:Error: no <form> tag in paragraph at line 1293
+INFO:root:Upper-case sublemma (Liber at line 1353)?
+INFO:root:Upper-case sublemma (Liberum at line 1353)?
+INFO:root:Upper-case sublemma (Libero at line 1353)?
+INFO:root:Upper-case sublemma (Lilybaeum at line 1411)?
+INFO:root:Upper-case sublemma (Limpe at line 1435)?
+INFO:root:Upper-case sublemma (Liburni at line 1437)?
+INFO:root:Upper-case sublemma (Liburnae at line 1437)?
+INFO:root:Upper-case sublemma (Libyae at line 1443)?
+INFO:root:Upper-case sublemma (Libyci at line 1447)?
+INFO:root:Upper-case sublemma (Libycos at line 1447)?
+INFO:root:Upper-case sublemma (Licinia at line 1481)?
+INFO:root:Upper-case sublemma (Libya at line 1499)?
+INFO:root:Upper-case sublemma (Lilibeus at line 1603)?
+INFO:root:Lower-case lemma (locauerim) at line 2011?
+INFO:root:Upper-case sublemma (Lubrica at line 2165)?
+INFO:root:Upper-case sublemma (Lucetius at line 2203)?
+INFO:root:Upper-case sublemma (Diana lucifera at line 2231)?
+INFO:root:Upper-case sublemma (Lucinam at line 2241)?
+INFO:root:Lower-case lemma (lucubrauimus) at line 2293?
+INFO:root:Upper-case sublemma (Luna at line 2425)?
+INFO:root:Upper-case sublemma (Lupercalia at line 2473)?
+INFO:root:Upper-case sublemma (Lyaeum at line 2623)?
+
+INFO:root:Adding XML attributes to xml_output/CGLO.12.M.xml
+INFO:root:Upper-case sublemma (Maeandrus at line 125)?
+INFO:root:Upper-case sublemma (Maeandrum at line 125)?
+INFO:root:Upper-case sublemma (Meotides at line 143)?
+INFO:root:Upper-case sublemma (Maiae genitum at line 283)?
+INFO:root:Lower-case lemma (manducas) at line 613?
+INFO:root:Upper-case sublemma (Manualis at line 769)?
+INFO:root:Lower-case lemma (liae) at line 825?
+INFO:root:Upper-case sublemma (Mapponus at line 829)?
+INFO:root:Upper-case sublemma (Marillis at line 903)?
+INFO:root:Upper-case sublemma (Ares at line 957)?
+INFO:root:Upper-case sublemma (Arius at line 957)?
+INFO:root:Upper-case sublemma (Mar\[i\]s at line 957)?
+INFO:root:Upper-case sublemma (Mars Martis at line 957)?
+INFO:root:Upper-case sublemma (Martis at line 957)?
+INFO:root:Upper-case sublemma (Martem at line 957)?
+INFO:root:Upper-case sublemma (Mars<us> at line 975)?
+INFO:root:Upper-case sublemma (Marsi at line 975)?
+INFO:root:Upper-case sublemma (Marsorum at line 975)?
+INFO:root:Upper-case sublemma (Martium at line 989)?
+INFO:root:Upper-case sublemma (Matrinia at line 1119)?
+INFO:root:Lower-case lemma (matla) at line 1139?
+INFO:root:Upper-case sublemma (Mauortia at line 1179)?
+INFO:root:Upper-case sublemma (Maiurohd at line 1201)?
+INFO:root:Upper-case sublemma (Mecastor at line 1221)?
+INFO:root:Lower-case lemma (medicinalium) at line 1275?
+INFO:root:Upper-case sublemma (Castor at line 1377)?
+INFO:root:Upper-case sublemma (Melopeum at line 1465)?
+INFO:root:Upper-case sublemma (Memnonis at line 1503)?
+INFO:root:Upper-case sublemma (Sextilis at line 1589)?
+INFO:root:Upper-case sublemma (Policletes at line 1657)?
+INFO:root:Upper-case sublemma (Mercuride at line 1719)?
+INFO:root:Upper-case sublemma (Mercurii at line 1721)?
+INFO:root:Upper-case sublemma (Mercurium at line 1721)?
+INFO:root:Upper-case sublemma (Mesgus at line 1815)?
+INFO:root:Error: no <form> tag in paragraph at line 1881
+INFO:root:Upper-case sublemma (Micipsae at line 1935)?
+INFO:root:Lower-case lemma (mus) at line 1939?
+INFO:root:Upper-case sublemma (Milissae at line 1971)?
+INFO:root:Upper-case sublemma (Milisiae at line 1971)?
+INFO:root:Upper-case sublemma (Musiae at line 1971)?
+INFO:root:Upper-case sublemma (Minerualia at line 2055)?
+INFO:root:Upper-case sublemma (Minerualicium at line 2057)?
+INFO:root:Lower-case lemma (molit) at line 2529?
+INFO:root:Upper-case sublemma (Molossi at line 2533)?
+INFO:root:Upper-case sublemma (Molosos at line 2533)?
+INFO:root:Upper-case sublemma (Mulciuer at line 2875)?
+INFO:root:Upper-case sublemma (Mulcifer at line 2875)?
+INFO:root:Upper-case sublemma (Musae at line 3199)?
+INFO:root:Upper-case sublemma (Musarum at line 3199)?
+INFO:root:Upper-case sublemma (Mutinense at line 3343)?
+INFO:root:Upper-case sublemma (Mycenas at line 3385)?
+INFO:root:Upper-case sublemma (Metenas at line 3385)?
+INFO:root:Upper-case sublemma (Metentus at line 3385)?
+INFO:root:Upper-case sublemma (Myrum at line 3413)?
+
+INFO:root:Adding XML attributes to xml_output/CGLO.13.N.xml
+INFO:root:Upper-case sublemma (Naiadas at line 31)?
+INFO:root:Upper-case sublemma (Naides at line 33)?
+INFO:root:Lower-case lemma (nardum) at line 97?
+INFO:root:Upper-case sublemma (Naricia at line 105)?
+INFO:root:Upper-case sublemma (Nareus at line 315)?
+INFO:root:Lower-case lemma (nebulonem) at line 331?
+INFO:root:Upper-case sublemma (Necerant at line 359)?
+INFO:root:Upper-case sublemma (Neptunalia at line 577)?
+INFO:root:Upper-case sublemma (Nerais Neraida at line 625)?
+INFO:root:Upper-case sublemma (Nereides at line 625)?
+INFO:root:Upper-case sublemma (Nere at line 625)?
+INFO:root:Upper-case sublemma (Nerea at line 627)?
+INFO:root:Upper-case sublemma (Nerus at line 629)?
+INFO:root:Upper-case sublemma (Nurus at line 629)?
+INFO:root:Upper-case sublemma (Neryntos at line 633)?
+INFO:root:Lower-case lemma (nominate) at line 1023?
+INFO:root:Upper-case sublemma (Borios at line 1253)?
+INFO:root:Error: no <form> tag in paragraph at line 1281
+INFO:root:Lower-case lemma (nebile) at line 1397?
+INFO:root:Upper-case sublemma (Nutrix at line 1657)?
+INFO:root:Error: no <form> tag in paragraph at line 1701
