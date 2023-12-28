@@ -1,11 +1,12 @@
 # Corpus Glossariorum Latinorum Online (CGLO)
 
 This repository contains the data for 
-[Goetz’s Corpus glossariorum Latinorum Online](https://thesaurus.badw.de/goetzs-corpus-glossariorum-latinorum-online-cglo.html).
+[Goetz’s Corpus Glossariorum Latinorum Online](https://publikationen.badw.de/en/cglo/index).
 
 The data consists of G. Goetz et al., *Corpus glossariorum Latinorum* (Leipzig: Teubner, 1888–1923), volumes 6 and 7 (= *Thesaurus glossarum*) in XML and markdown formats. They have been manually corrected from OCR text, in particular the lemmata and Greek words, but many typographic errors remain.
 
-The state of the proofreading and minor textual divergences from the printed volumes are described [here] (???). The XML scheme is described [here] (???).
+The state of the proofreading and minor textual divergences from the printed volumes are described in [CORRIGENDA.md] (https://gitlab.lrz.de/badw-data/CGLO/-/blob/main/README.md?ref_type=heads). 
+The XML scheme is described in [schema-CGLO.xml] (https://gitlab.lrz.de/badw-data/CGLO/-/blob/main/schema-CGLO.xml?ref_type=heads).
 
 ## License
 
@@ -28,6 +29,7 @@ To cite an entry from the *Thesaurus glossarum* we recommend any of the followin
 - *CGLO* s.v. *Abacus* [version 23-12]  # to cite the entry [Abacus] (https://publikationen.badw.de/en/cglo/index#14) explicitly according to *CGLO* data
 - *CGL* s.v. *Abacus*  # to cite the same entry according to the printed *CGL* 
 - *GLOSS.* s.v. *Abacus*  # the same using *TLL*-style conventions
+
 Note that *CGL* capitalizes the lemmata of all main entries (e.g. *Abacus*) to distinguish from sub-lemmata (e.g. *abaci*) that are only capitalized when proper nouns.
 The XML data provides every entry and sub-entry as unique id-tag that can be used for reference as long as the version is explicitly stated. The id-tags will vary from version to version.
 
@@ -37,6 +39,7 @@ Occurrences from individual glossaries, printed in volumes II to V, are typicall
 - *GLOSS.* II 215, 2  # the same using *TLL*-style conventions
 
 A bibtex entry for *CGLO*:
+
 `@misc{CGLO,
 	title 			= "CGLO",
 	author			= "Goetz, Georg and Gitner, Adam, et al."
@@ -56,8 +59,9 @@ The data in this repository is part of the [Thesausurus Linguae Latinae](https:/
 
 ## Acknowledgments
 
-The digitization was generously funded by the [Text+ Initiative] (https://text-plus.org/en/) and supported by the Lexical Resources collection and mirrored in their digital archive.
+The digitization was generously funded by the [Text+ Initiative] (https://text-plus.org/en/) and supported by the Lexical Resources collection. 
 The scanning of *CGL* was financed at the initiative of Dr. Franck Cinato by the Centre national de la recherche scientifique, UMR 7597 [Laboratoire d'Histoire des Théories Linguistiques] (https://htl.cnrs.fr/).
+The XML scheme follows closely the format provided by the [Thesaurus Glossariorum project] (https://htldb.huma-num.fr/exist/apps/htldb/elma/thegloss/home.html).
 Resources and coordination were provided by the Thesaurus Linguae Latinae and the IT Department of the BAdW (esp. Dr. Eckhart Arnold and Stefan Müller).
 For more acknowledgments and research history please read the [website] (https://publikationen.badw.de/en/cglo/index). 
 
