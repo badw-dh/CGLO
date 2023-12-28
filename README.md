@@ -29,16 +29,16 @@ To cite an entry from the *Thesaurus glossarum* we recommend any of the followin
 - *CGL* s.v. *Abacus*  # (to cite the same entry according to the printed *CGL*)
 - *GLOSS.* s.v. *Abacus*  # (the same using *TLL*-style conventions)
 
-> :memo: **NB**: *CGL* capitalizes the lemmata of all main entries (e.g. *Abacus*) to distinguish from sub-lemmata (e.g. *abaci*) that are only capitalized when proper nouns. The XML data provides every entry and sub-entry as unique id-tag that can be used for reference as long as the version is explicitly stated. The id-tags will vary from version to version.
+> :memo: **NB**: *CGL* capitalizes the lemmata of all main entries (e.g. *Abacus*) to distinguish them from sub-lemmata (e.g. *abaci*), which are only capitalized when proper names. In the XML data every <form> tag receives a unique @id element that can be used for reference as long as the version is explicitly stated. The id element may vary from version to version.
 
 Occurrences from individual glossaries, printed in volumes II to V, are typically cited by volume and line number according to the following format:
-- *CGL* II 215, 2  # (the equivalence *abacus* ἄβαξ found in volume II, page 215, line 2)
-- *CGL* II.215.2  # (the same using dots for spaces and commas)
-- *GLOSS.* II 215, 2  # (the same using *TLL*-style conventions)
+- *CGL* II 215, 2  (the equivalence *abacus* ἄβαξ found in volume II, page 215, line 2)
+- *CGL* II.215.2  (the same using dots for spaces and commas)
+- *GLOSS.* II 215, 2  (the same using *TLL*-style conventions)
 
 A bibtex entry for *CGLO*:
 
-`	@misc{CGLO,
+	`@misc{CGLO,
 		title 			= "CGLO",
 		author			= "Goetz, Georg and Gitner, Adam, et al."
 		howpublished	= "\url{https://publikationen.badw.de/en/cglo/index}",
@@ -60,6 +60,6 @@ The data in this repository is part of the [Thesausurus Linguae Latinae](https:/
 The digitization was generously funded by the [Text+ Initiative] (https://text-plus.org/en/) and supported by the Lexical Resources collection. 
 The scanning of *CGL* was financed at the initiative of Dr. Franck Cinato by the Centre national de la recherche scientifique, UMR 7597 [Laboratoire d'Histoire des Théories Linguistiques] (https://htl.cnrs.fr/).
 The XML scheme follows closely the format provided by the [Thesaurus Glossariorum project] (https://htldb.huma-num.fr/exist/apps/htldb/elma/thegloss/home.html).
-Resources and coordination were provided by the Thesaurus Linguae Latinae and the IT Department of the BAdW (esp. Dr. Eckhart Arnold and Stefan Müller).
+Resources and coordination were provided by the Thesaurus Linguae Latinae and the IT Department of the BAdW (esp. Dr. Eckhart Arnold and Dr. Stefan Müller).
 For more acknowledgments and research history please read the [website] (https://publikationen.badw.de/en/cglo/index). 
 
