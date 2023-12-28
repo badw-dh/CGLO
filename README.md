@@ -13,7 +13,7 @@ All data in this repository is licensed under the [Creative Commons CC-BY 4.0 In
 
 ## Version
 
-The current version is 23-12. New releases are numbered in [YEAR]-[MONTH] format.
+The current version is **23-12**. New releases are numbered in [YEAR]-[MONTH] format.
 
 ## Citation
 

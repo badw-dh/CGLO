@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- XML schema for the Corpus Glossariorum Latinorum Online
+Version 23-12
+Last updated: Dec. 28, 2023
+Adapted from the XML schema for the Thesaurus Glossariorum (TheGLoss, TGL):
+https://htldb.huma-num.fr/exist/apps/htldb/elma/thegloss/home.html
+ -->
+
+<TEI>
+  <text>
+    <body>
+      <div type="section" xml:id="B">
+      <!-- Section for letter B, other sections for Graeolatinum, corrigenda, etc. -->
+        <pb n="VI.123" facs="VI.123.jpg"/>
+        <!-- The pb element indexes the page number of the printed volume and the
+        name of the relevant image file. -->
+
+        <head>B</B> <!-- optional header -->
+
+        <entryFree>
+          <form xml:id="B-1" type="lemma" lang="Latinum">Bacapulum</form>
+          <!--  xml:id provides an index letter and number for each lemma to aid in cross-referencing.
+                For each letter of the alphabet the lemmata are simply numbered sequentially without
+                distinguishing cross-references etc.
+              type="lemma" for the first, main lemma within a paragraph.
+              type="sublemma" for sublemmata
+              type="corrigendum", "addendum", "delendum" for corrigenda, addenda, delenda
+              subtype="incertum" for forms marked with initial question marked
+              subtype="hapax" for Greek forms marked with * in index Graeco-Latinorum
+              lang="Latinum", "Graecum", "Anglosaxonicum", "Palaeotheodiscum", "incertum" -->
+          <def n="1">
+          <!-- def tags to distinguish definitions within an entry:
+          not yet implemented  -->
+            <seg>The first ancient gloss or definition <emph>(with some comments
+            in italics)</emph>.
+            <!-- seg tag for an ancient interpretamentum: not yet implemented -->
+            </seg>
+            <!-- Cross-reference to CGL volume, page, line number where the gloss occurs. -->
+            <ref cRef="CGL.IV.24.18">IV 24, 18</ref>;
+            <ref cRef="CGL.IV.27.9">27, 9</ref>.
+          </def>
+          <def n="2">
+            <seg>The second ancient gloss or definition.</seg>
+            <ref cRef="CGL">...</ref>
+          </def>
+        </entryFree>
+      </div>
+
+<!-- A paragraph consisting of a cross-reference to another lemma. -->
+      <entryFree>
+        <form xml:id="B-6" type="lemma" lang="Latinum">Babil</form>
+        <emph>V.</emph> <xr target="B-11">Babylon</xr>
+      </entryFree>
+
+    </body>
+  </text>
+</TEI>
