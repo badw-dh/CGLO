@@ -5,6 +5,12 @@ This repository contains the data for
 
 The data consists of G. Goetz et al., *Corpus glossariorum Latinorum* (Leipzig: Teubner, 1888–1923), volumes 6 and 7 (= *Thesaurus glossarum*) in XML and markdown formats. They have been manually corrected from OCR text, in particular the lemmata and Greek words, but many typographic errors remain.
 
+- "markdown" directory: corrected markdown files by page
+- "markdown-combined" directory: corrected markdown files combined into sections and as complete file ("CGLO.99.combined.mkd")
+- "XML" directory: XML files by section and as complete file ("CGLO.99.combined.xml")
+- "JSON" directory: JSON data used for searchable web interface
+- "scripts" directory: Python scripts used to clean the markdown files and generate XML output 
+
 The state of the proofreading and minor textual divergences from the printed volumes are described in CORRIGENDA.md. The XML scheme is described in schema-CGLO.xml.
 
 ## License
