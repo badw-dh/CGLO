@@ -5,8 +5,7 @@ This repository contains the data for
 
 The data consists of G. Goetz et al., *Corpus glossariorum Latinorum* (Leipzig: Teubner, 1888–1923), volumes 6 and 7 (= *Thesaurus glossarum*) in XML and markdown formats. They have been manually corrected from OCR text, in particular the lemmata and Greek words, but many typographic errors remain.
 
-The state of the proofreading and minor textual divergences from the printed volumes are described in CORRIGENDA.md [here] (https://gitlab.lrz.de/badw-data/CGLO/-/blob/main/README.md). 
-The XML scheme is described in schema-CGLO.xml [here] (https://gitlab.lrz.de/badw-data/CGLO/-/blob/main/schema-CGLO.xml).
+The state of the proofreading and minor textual divergences from the printed volumes are described in CORRIGENDA.md. The XML scheme is described in schema-CGLO.xml.
 
 ## License
 
