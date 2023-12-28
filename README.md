@@ -22,29 +22,28 @@ where "VERSION" should be substituted by the particular version you intend to ci
 
 For the most current version, please, use the link: https://daten.badw.de/CGLO/-/tree/main
 
-Citations of *CGLO* should be checked against the print *CGL* for accuracy (minor corrigenda are listed [here] (???)). Images of the relevant pages are provided in the CGLO interface.
+Citations of *CGLO* should be checked against the print *CGL* for accuracy (minor corrigenda are listed in CORRIGENDA.md). Images of the relevant pages are provided in the *CGLO* interface.
 
 To cite an entry from the *Thesaurus glossarum* we recommend any of the following conventions:
-- *CGLO* s.v. *Abacus* [version 23-12]  # to cite the entry [Abacus] (https://publikationen.badw.de/en/cglo/index#14) explicitly according to *CGLO* data
-- *CGL* s.v. *Abacus*  # to cite the same entry according to the printed *CGL* 
-- *GLOSS.* s.v. *Abacus*  # the same using *TLL*-style conventions
+- *CGLO* s.v. *Abacus* [version 23-12]  (to cite the entry [Abacus] (https://publikationen.badw.de/en/cglo/index#14) explicitly according to *CGLO* data)
+- *CGL* s.v. *Abacus*  # (to cite the same entry according to the printed *CGL*)
+- *GLOSS.* s.v. *Abacus*  # (the same using *TLL*-style conventions)
 
-Note that *CGL* capitalizes the lemmata of all main entries (e.g. *Abacus*) to distinguish from sub-lemmata (e.g. *abaci*) that are only capitalized when proper nouns.
-The XML data provides every entry and sub-entry as unique id-tag that can be used for reference as long as the version is explicitly stated. The id-tags will vary from version to version.
+> :memo: **NB**: *CGL* capitalizes the lemmata of all main entries (e.g. *Abacus*) to distinguish from sub-lemmata (e.g. *abaci*) that are only capitalized when proper nouns. The XML data provides every entry and sub-entry as unique id-tag that can be used for reference as long as the version is explicitly stated. The id-tags will vary from version to version.
 
 Occurrences from individual glossaries, printed in volumes II to V, are typically cited by volume and line number according to the following format:
-- *CGL* II 215, 2  # the equivalence *abacus* ἄβαξ found in volume II, page 215, line 2
-- *CGL* II.215.2  # the same using dots for spaces and commas
-- *GLOSS.* II 215, 2  # the same using *TLL*-style conventions
+- *CGL* II 215, 2  # (the equivalence *abacus* ἄβαξ found in volume II, page 215, line 2)
+- *CGL* II.215.2  # (the same using dots for spaces and commas)
+- *GLOSS.* II 215, 2  # (the same using *TLL*-style conventions)
 
 A bibtex entry for *CGLO*:
 
-`@misc{CGLO,
-	title 			= "CGLO",
-	author			= "Goetz, Georg and Gitner, Adam, et al."
-	howpublished	= "\url{https://publikationen.badw.de/en/cglo/index}",
-	edition			= "24-12"
-	}`
+`	@misc{CGLO,
+		title 			= "CGLO",
+		author			= "Goetz, Georg and Gitner, Adam, et al."
+		howpublished	= "\url{https://publikationen.badw.de/en/cglo/index}",
+		edition			= "24-12"
+		}`
 
 ## Authors and Contributors
 
