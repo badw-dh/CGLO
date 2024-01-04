@@ -1,17 +1,21 @@
 # Corpus Glossariorum Latinorum Online (CGLO)
 
-This repository contains the data for 
+This repository contains the data for
 [Goetz’s Corpus Glossariorum Latinorum Online](https://publikationen.badw.de/en/cglo/index).
 
-The data consists of G. Goetz et al., *Corpus glossariorum Latinorum* (Leipzig: Teubner, 1888–1923), volumes 6 and 7 (= *Thesaurus glossarum*) in XML and markdown formats. They have been manually corrected from OCR text, in particular the lemmata and Greek words, but many typographic errors remain.
+Its core consists of a digitized version of G. Goetz et al., *Corpus glossariorum Latinorum* (Leipzig: Teubner, 1888–1923), volumes VI and VII, in XML and markdown formats. These two volumes contain the *Thesaurus glossarum*, a lemmatized index to the entire corpus, divided into sections by lemma language: Latin (VI 1-VII 433), Greek (VII 441-687), Old English (VII 689-712), and Old High German (VII 712). Three sections of corrigenda and addenda have also been included (VI praef. p. ix-x; VI 753-754; VII 434-438).
 
+OCR texts of the volumes were manually corrected by hand and converted into markdown. The markdown in turn is automatically converted into XML.
+> :warning: **NB**: At this stage of the project, the manual correction has focused on the lemmata, Greek words, and sequences of internal cross-references. Many errors remain and will be corrected in subsequent releases.
+
+The repository is structured as follows:
 - "markdown" directory: corrected markdown files by page
 - "markdown-combined" directory: corrected markdown files combined into sections and as complete file ("CGLO.99.combined.mkd")
 - "XML" directory: XML files by section and as complete file ("CGLO.99.combined.xml")
 - "JSON" directory: JSON data used for searchable web interface
-- "scripts" directory: Python scripts used to clean the markdown files and generate XML output 
+- "scripts" directory: Python scripts used to clean the markdown files and generate XML output
 
-The state of the proofreading and minor textual divergences from the printed volumes are described in CORRIGENDA.md. The XML scheme is described in schema-CGLO.xml.
+Minor divergences from the printed volumes, including manually corrected errata, are described in DIFFERENTIAE.md. The XML scheme is described in schema-CGLO.xml.
 
 ## License
 
@@ -19,16 +23,16 @@ All data in this repository is licensed under the [Creative Commons CC-BY 4.0 In
 
 ## Version
 
-The current version is **23-12**. New releases are numbered in [YEAR]-[MONTH] format.
+The current version is **23-12**, released on December 30, 2023. Releases are numbered in [YEAR]-[MONTH] format.
 
 ## Citation
 
-For any specific version of this data, please use the permanent link: https://daten.badw.de/CGLO/-/tree/VERSION 
+For any specific version of this data, please use the permanent link: https://daten.badw.de/CGLO/-/tree/VERSION
 where "VERSION" should be substituted by the particular version you intend to cite.
 
 For the most current version, please, use the link: https://daten.badw.de/CGLO/-/tree/main
 
-Citations of *CGLO* should be checked against the print *CGL* for accuracy (minor corrigenda are listed in CORRIGENDA.md). Images of the relevant pages are provided in the *CGLO* interface.
+Citations of *CGLO* should be checked against the print *CGL* for accuracy (minor divergences and errata are described in DIFFERENTIAE.md). Images of the relevant pages are provided in the *CGLO* interface.
 
 To cite an entry from the *Thesaurus glossarum* we recommend any of the following conventions:
 - *CGLO* s.v. *Abacus* [version 23-12]  (to cite the entry [Abacus] (https://publikationen.badw.de/en/cglo/index#14) explicitly according to *CGLO* data)
@@ -59,13 +63,12 @@ The corpus was digitized under the direction of Dr. Adam Gitner with the followi
 
 This repository is provided by the Bavarian Academy of Sciences and Humanities. For content or technical issues please contact agitner@thesaurus.badw.de or digitalisierung@badw.de.
 
-The data in this repository is part of the [Thesausurus Linguae Latinae](https://thesaurus.badw.de/), the comprehensive ancient Latin dictionary provided by the [Bavarian Academy of Sciences and Humanities](https://badw.de). 
+The data has been produced for the [Thesaurus Linguae Latinae](https://thesaurus.badw.de/), the comprehensive ancient Latin dictionary hosted by the [Bavarian Academy of Sciences and Humanities](https://badw.de).
 
 ## Acknowledgments
 
-The digitization was generously funded by the [Text+ Initiative] (https://text-plus.org/en/) and supported by the Lexical Resources collection. 
-The scanning of *CGL* was financed at the initiative of Dr. Franck Cinato by the Centre national de la recherche scientifique, UMR 7597 [Laboratoire d'Histoire des Théories Linguistiques] (https://htl.cnrs.fr/).
+The digitization was generously funded by the [Text+ Initiative] (https://text-plus.org/en/) and supported by the Lexical Resources collection.
+The print copies of *CGL* in the TLL library were scanned at the initiative of Dr. Franck Cinato with funding from the Centre national de la recherche scientifique, UMR 7597 [Laboratoire d'Histoire des Théories Linguistiques] (https://htl.cnrs.fr/).
 The XML scheme follows closely the format provided by the [Thesaurus Glossariorum project] (https://htldb.huma-num.fr/exist/apps/htldb/elma/thegloss/home.html).
 Resources and coordination were provided by the Thesaurus Linguae Latinae and the IT Department of the BAdW (esp. Dr. Eckhart Arnold and Dr. Stefan Müller).
-For more acknowledgments and research history please read the [website] (https://publikationen.badw.de/en/cglo/index). 
-
+For more acknowledgments and research history please read the [website] (https://publikationen.badw.de/en/cglo/index).
