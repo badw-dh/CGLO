@@ -39,7 +39,7 @@ To cite an entry from the *Thesaurus glossarum* we recommend any of the followin
 - *CGL* s.v. *Abacus*  # (to cite the same entry according to the printed *CGL*)
 - *GLOSS.* s.v. *Abacus*  # (the same using *TLL*-style conventions)
 
-> :memo: **NB**: *CGL* capitalizes the lemmata of all main entries (e.g. *Abacus*) to distinguish them from sub-lemmata (e.g. *abaci*), which are only capitalized when proper names. In the XML data every <form> tag receives a unique @id element that can be used for reference as long as the version is explicitly stated. The id element may vary from version to version.
+> :memo: **NB**: *CGL* capitalizes the lemmata of all main entries (e.g. *Abacus*) to distinguish them from sub-lemmata (e.g. *abaci*), which are only capitalized when proper names. In the XML data every form tag receives a unique @id element that can be used for reference as long as the version is explicitly stated. The id element may vary from version to version.
 
 Occurrences from individual glossaries, printed in volumes II to V, are typically cited by volume and line number according to the following format:
 - *CGL* II 215, 2  (the equivalence *abacus* ἄβαξ found in volume II, page 215, line 2)
