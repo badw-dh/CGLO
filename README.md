@@ -48,7 +48,7 @@ A bibtex entry for *CGLO*:
 		title 			= "CGLO",
 		author			= "Goetz, Georg and Gitner, Adam, et al."
 		howpublished	= "\url{https://publikationen.badw.de/en/cglo/index}",
-		edition			= "24-12"
+		edition			= "23-12"
 		}`
 
 ## Authors and Contributors
