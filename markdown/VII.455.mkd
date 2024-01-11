@@ -1,9 +1,9 @@
 -τέλλων oriens, -τείλας ortus, μὴ ἀνατέλλον inexortum.
 
-**ἀνατίθημι** *et **-*****τιθῶ** consecro, devoveo, superpono, voveo.
+**ἀνατίθημι** *et* **ἀνατιθῶ** consecro, devoveo, superpono, voveo.
 *Cf.* ἀνάκειμαι.
 
-***\**ἀνατίλλεί** (?) convellit.
+**\*ἀνατίλλεί (?)** convellit.
 
 **ἀνατολή** eous (-a), oriens, ortus, - ἡλίου iubar, solis ortus, -
 κυνός sirius, πρὸς -ήν ad orientem, ἀπὸ -ῶν ab oriente.
@@ -24,7 +24,7 @@
 
 **ἀναυδής (?)** batutus (*v. p.* 435).
 
-**ἀναφαίνω** appareo, expatesco, *-*ομαι, appareo, emergo, exorior,
+**ἀναφαίνω** appareo, expatesco, -ομαι, appareo, emergo, exorior,
 exsto, ἀνέφηνεν ἥλιος ὑπὸ γνόφον appareo (-uit).
 
 **ἀναφάλακρος** reburrus.
@@ -76,9 +76,10 @@ secessus.
 **ἀνδράποδον** mancipium, -α ἄτιμα famosa mancipia. *Cf.* μεταβόλος,
 μεταπράτης.
 
-**ἀνδράφαξ** *et* **-αξις** atriplex. *Cf.* ἀτραφ.
+**ἀνδράφαξ** *et* **ἀνδράφαξις** atriplex. *Cf.* ἀτραφ.
 
-**ἀνδράχνη** *et sim.* andrago, bududomen, portulaca, - ἀγρία portulaca.
+**ἀνδράχνη** *et sim.* andrago, bududomen, portulaca, - ἀγρία
+portulaca.
 
 **ἀνδρεία** fortitudo, robor, vigor, virtus. *Cf.* statura.
 
@@ -91,7 +92,7 @@ secessus.
 
 **ἀνδρεών** medianus (-um). *Cf.* ἀνδρών.
 
-**ἀνδριαντάριον** sigiIlum, statuncula.
+**ἀνδριαντάριον** sigillum, statuncula.
 
 **\*ἀνδριάντιον** (*Eins.*) statuncula.
 
@@ -135,9 +136,10 @@ androphonus.
 
 **ἀνεκδίκητος** indefensus, inultus.
 
-**ἀνεκλάλητος** ineffabilis, inenarrabilis; III 422, 26 *sine interpr.*
+**ἀνεκλάλητος** ineffabilis, inenarrabilis; III 422, 26 *sine
+interpr.*
 
-***\**ἀνεκπλήρωτος** inexplebilis.
+**\*ἀνεκπλήρωτος** inexplebilis.
 
 **ἀνεκτός** tolerabilis. *Cf.* remissus.
 
@@ -165,7 +167,8 @@ ventus secundus. *Cf.* καταφορά, πνεῦμα, πνοή, συστρο�
 
 **ἀνεμώδης** ventosus.
 
-**ἀνεμώνη** alterculum, papaver, rosa, agrestis, saliuncula, vaccinium.
+**ἀνεμώνη** alterculum, papaver, rosa, agrestis, saliuncula,
+vaccinium.
 
 **ἀνεμώνιον** vaccinium.
 

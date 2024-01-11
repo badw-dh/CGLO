@@ -71,7 +71,7 @@ coegit *Plac.* V 14, 39 = V 56, 13. *Cf. W. Heraeus Arch.* VI 276.
 **Cohabito** συνοικῶ II 447, 9.
 
 **Cohaerens** συνηνωμένος II 446, 21. coniunctus IV 320, 5; V 180, 17.
-**co­haerentia** συγκεκολλημένα II 103, 3.
+**cohaerentia** συγκεκολλημένα II 103, 3.
 
 **Cohaereo** συγκεκόλλημαι II 440, 15. **cohaeret** συγκεκόλληται II
 103, 1. coniungitur IV 320, 6. *V.* non cohaeret.

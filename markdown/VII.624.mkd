@@ -142,7 +142,7 @@ occupaturum.
 
 **\*προκατορυγμός** propagatio.
 
-**πρόκειμαι** prodo, -κείμενος proditus, *-*κειμένη proposita, -κείμενον
+**πρόκειμαι** prodo, -κείμενος proditus, -κειμένη proposita, -κείμενον
 propositum.
 
 **προκέφαλος** capito, cilo.

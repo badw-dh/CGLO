@@ -1,12 +1,12 @@
-> \- πηλώδης lama, - στενὸς καὶ ἐπιμήκης ancrae, - σχολάζων area, -
-> ὑγεινός locus salubris, - ὑλώδης saltus, - ὑψηλός collis, tumulus, -
-> χέρσος dumus, glarea, inculta terra, -οι χερσώδεις dumosa loca, - ὁ
-> περὶ τὸ τεῖχος pomerium, - ὁ πρὸ τῆς παρεμβολῆς procastrium, - ὁ πρὸ
-> τῶν πυλῶν anta, - ἔνθα τὸ νόμισμα χαράττεται moneta, - ἐν ᾧ οἱ
-> δεσμῶται (*vel* πεδῆται) ἐργάζονται ergastulum, - ἐν ᾧ ὀλίγον ὕδωρ
-> συνίσταται lacus (laxa), stagnum, - ὅπου ἵπποι γυμνάζονται trigarium,
-> ἀπὸ τόπου inde loci. *Cf.* ἀνώμαλος, ἀπόκρημνος, ἄσκιος, ἔμπειρος,
-> εὐήλιος, μῆκος, πληθύνω, ψιλός.
+\- πηλώδης lama, - στενὸς καὶ ἐπιμήκης ancrae, - σχολάζων area, -
+ὑγεινός locus salubris, - ὑλώδης saltus, - ὑψηλός collis, tumulus, -
+χέρσος dumus, glarea, inculta terra, -οι χερσώδεις dumosa loca, - ὁ
+περὶ τὸ τεῖχος pomerium, - ὁ πρὸ τῆς παρεμβολῆς procastrium, - ὁ πρὸ
+τῶν πυλῶν anta, - ἔνθα τὸ νόμισμα χαράττεται moneta, - ἐν ᾧ οἱ
+δεσμῶται (*vel* πεδῆται) ἐργάζονται ergastulum, - ἐν ᾧ ὀλίγον ὕδωρ
+συνίσταται lacus (laxa), stagnum, - ὅπου ἵπποι γυμνάζονται trigarium,
+ἀπὸ τόπου inde loci. *Cf.* ἀνώμαλος, ἀπόκρημνος, ἄσκιος, ἔμπειρος,
+εὐήλιος, μῆκος, πληθύνω, ψιλός.
 
 **τοποτηρητής** dictator, vicarius.
 
@@ -86,7 +86,7 @@ piscatoriae).
 
 **\*τράμμα** sicinia.
 
-**τρανός** integer, perspicuus, III, 277, 58 *S.* *interpr. Cf.* δίδωμι.
+**τρανός** integer, perspicuus, III, 277, 58 *S. interpr. Cf.* δίδωμι.
 
 **τρανότης** claritas.
 

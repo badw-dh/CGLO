@@ -49,9 +49,7 @@ assuant A) tabuisset *s. v.* tabeo. *Cf.* asundun; afulat ond asuunden.
 
 **araebndae** expendisse *s. v.* expendo.
 
-**araepsid** (E, arepsit A) interceptum s.
-
-*v.* interceptus. *Cf.* refset.
+**araepsid** (E, arepsit A) interceptum *s. v.* interceptus. *Cf.* refset.
 
 **arectae** concesserim *s. v.* concedo.
 
@@ -69,7 +67,7 @@ arecio, *ad Oros.* VI, 22, 11 *referens.*
 
 **aryhid** *cf.* aritrid.
 
-**ascaeltte** (?) dissolverat *s. v.* dissolvo.
+**ascaeltte(?)**  dissolverat *s. v.* dissolvo.
 
 **asclaecadun** (*i. e.* aslaecadum) dimisis *s. v.* dimissus (demissis
 *coni. Goetz*). *Cf.* aslacudae.
@@ -103,11 +101,11 @@ asclaecadun.
 
 **asuand** *v.* ansuand.
 
-**asueus** (?) *v.* ansueop.
+**asueus (?)** *v.* ansueop.
 
 **asundun** (*vel* -um) distabuerunt *s. v.* distabui.
 
-**asuunden** *et* **asuundnan** *v.* afulat ond asuunden.
+**asuunden *et* asuundnan** *v.* afulat ond asuunden.
 
 **atę** vena 2. (= avena), **atae** (E, atte A) lolium.
 
@@ -142,9 +140,8 @@ asclaecadun.
 
 **baar** berrus *s. v.* verris; caper.
 
-**baedendrae** (E, bedaendrae A, *part. fem.*
-
-*dat. gen. sing.*) inpulsore *s. v.* impulsor.
+**baedendrae** (E, bedaendrae A, *part. fem. dat. gen. sing.*) inpulsore
+*s. v.* impulsor.
 
 **baers** lupus.
 
@@ -154,7 +151,7 @@ asclaecadun.
 
 **ban** *v.* elpendes ban.
 
-**barriggae** (?) baruina (?), **barice** (?) braugina *s. v.* baruina.
+**barriggae (?)** baruina (?), **barice (?)** braugina *s. v.* baruina.
 
 **bath** *cf.* hbat.
 
@@ -178,4 +175,4 @@ asclaecadun.
 
 **będd** culcites *s. v.* culcita. *Cf.* bed.
 
-**beel** bustum, **beel** *vel* **aad** rogus.
+**beel** bustum, **beel *vel* **aad** rogus.

@@ -112,7 +112,7 @@ theatrum, pars theatri, pulpita *sim.*).
 
 **προσκλύζω** alluo, aspergo.
 
-**πρόσκλυσις** *et --* ποταμοῦ ὀλίγη alluvio.
+**πρόσκλυσις** *et* - ποταμοῦ ὀλίγη alluvio.
 
 **προσκόλλησις** agglutinatio.
 

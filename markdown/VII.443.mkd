@@ -27,7 +27,7 @@
 **\*ἀγριό**(**ρ**)**ροδον** saliunca, saliuncula.
 
 **ἄγριος** agrestis, efferus, ferox, ferus, immanis, scruposus, - τῇ ἁφῇ
-asper tactu. *Cf*. ἄμπελος, ἀνδράχνη, ἄπιον, ἀσταφίς, γαλέα, γλήχων,
+asper tactu. *Cf.* ἄμπελος, ἀνδράχνη, ἄπιον, ἀσταφίς, γαλέα, γλήχων,
 ζῷον, θήρ, θηρίον, θρῖδαξ, ἵππος, κάλαμος, κρίνον, κρόμμυον, κώδειον,
 μαλάχη, μέλισσα, μήκων, μολόχη, μῦς, μῶρον, ὄνος, ὄρνις, πέπων, πήγανον,
 πίτυς, πράσιον, πρόβατον, σέλινον, σίκυον, σίκυς, σικυωνία, σίον,
@@ -50,7 +50,7 @@ immanitas.
 
 **ἀγροικικός** rurester, ruricola. *Cf.* αὐλός, μῦς, ὑποδεσίδιον.
 
-**ἄγροικος** agrestis, agricola, rullus, rusticanus, rusticus. *Cf*.
+**ἄγροικος** agrestis, agricola, rullus, rusticanus, rusticus. *Cf.*
 κραυγή, μῆς, οἴκημα, ὀλολυγμός, σκηνή, βοῶ, ὀλολύζω.
 
 **ἀγρονόμος** vilicus.
@@ -58,7 +58,7 @@ immanitas.
 **\*ἀγροπόνος** agricola.
 
 **ἀγρός** ager, fundus, rus, villa, - ἐπὶ κολωνίᾳ territorium, - δὶς τοῦ
-ἔτους ἀροτριώμενος restibilis, κατ' ἀγρόν rus (rure). *Cf.* οἰκονομῶ*.*
+ἔτους ἀροτριώμενος restibilis, κατ' ἀγρόν rus (rure). *Cf.* οἰκονομῶ.
 
 **ἀγρότης** rullus, Silvanus.
 
@@ -67,7 +67,7 @@ immanitas.
 **\*ἀγρυπνητής** excubitor, vigil.
 
 **ἀγρυπνία** excubiae, excubitum, excubium, insomnia, lucubratio,
-pervigilium (*cf*. provig.), vigilantia, vigilia. *Cf.* παννυχισμός.
+pervigilium (*cf.* provig.), vigilantia, vigilia. *Cf.* παννυχισμός.
 
 **ἄγρυπνος** pernox, vigil, vigilans.
 
@@ -85,7 +85,7 @@ pervigilium (*cf*. provig.), vigilantia, vigilia. *Cf.* παννυχισμός.
 
 **ἀγύρτης** circulator, gurdus, rullus.
 
-**ἀγυρτία** (= *-*εία) circulatorium.
+**ἀγυρτία** (= -εία) circulatorium.
 
 **ἀγχίαλος** iuxta mare, litoreus locus, prope mare.
 

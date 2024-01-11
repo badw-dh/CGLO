@@ -1,6 +1,6 @@
-**θεσπιωδός** fatidicus.
+**θεσπιῳδός** fatidicus.
 
-**θεσπιωδῶ** respondeo.
+**θεσπιῳδῶ** respondeo.
 
 **Θεσσαλία** Haemonia.
 
@@ -16,95 +16,100 @@
 
 **θέω** curro.
 
-**θεῶμαι** aspicio, θεασάμενος III, 438, 6 s. *interpr.*
+**θεῶμαι** aspicio, θεασάμενος III, 438, 6 *s. interpr.*
 
-***&εώ(τημα*** praeceptum, spectaculum, *cf.* theorema *(expl.*
-spectaculum seu di- vina contemplatio).
+**θεώρημα** praeceptum, spectaculum, *cf.* theorema (*expl.* spectaculum
+seu divina contemplatio).
 
-**θεωρητἡς** spectator.
+**θεωρητής** spectator.
 
-**θεωρητικός** contemplativus, visibilis.
-
-*Cf.* theoretica *(expl.* inspectiva), theo- reticen *(expl.*
-contemplativum).
+**θεωρητικός** contemplativus, visibilis. *Cf.* theoretica (*expl.*
+inspectiva), theoreticen (*expl.* contemplativum).
 
 **θεωρία** aspectio, contemplatio, ludus, spectaculum, spectamen,
-spectatio, *cf.* theoria *(expl.* consideratio vel con- templatio,
+spectatio, *cf.* theoria (*expl.* consideratio vel contemplatio,
 supernus intellectus). *Cf.* praeceptum.
 
-**θεωρικός** contemplativus *(cf.* theorica), -όν lucar. *Cf.* cle hac
+**θεωρικός** contemplativus (*cf.* theorica), -όν lucar. *Cf.* de hac
 theorica.
 
 **θεώριον** ludus, spectaculum.
 
-**\*θεώρισμα (?)** *cf.* theorisma *(expl.* dili- gens verborum
+**\*θεώρισμα (?)** *cf.* theorisma (*expl.* diligens verborum
 conscriptor).
 
-**θεωρῶ** aspecto, aspicio, cerno, com- plector, conspicio, conspicor,
+**θεωρῶ** aspecto, aspicio, cerno, complector, conspicio, conspicor,
 dispicio, respicio, specto.
 
-***Θηβαΐος*** Dircaeus, -αία Aonia.
+**Θηβαῖος** Dircaeus, -αία Aonia.
 
-**θήκη** theca, - πυρέως *vel* πυρός the- milla, - δερματίνη βελῶν
+**θήκη** theca, - πυρέως *vel* πυρός themilla, - δερματίνη βελῶν
 strautum, -ην γραφείων thecam graphiariam.
 
-**θηλάζω** lacto *(et* -eo), sugo, -ων lactans.
+**θηλάζω** lacto (*et* -eo), sugo, -ων lactans.
 
-**\*θηλεογονία** cognatio. *Cf. βνγγένεια, βνγγενής.*
+**\*θηλεογονία** cognatio. *Cf.* συγγένεια, συγγενής.
 
-***&7]λενομαε*** ancillor.
+**θηλεύομαι** ancillor.
 
 **θηλή** mamilla, mamma, papilla, ruma, uber 2.
 
-**θηλυκός:** -ov femininum *(cf.* thelycon), -ῷ γένει feminino genere.
+**θηλυκός:** -ον femininum (*cf.* thelycon), -ῷ γένει feminino genere.
 
 **θηλυμανεῖ** hinnit.
 
 **θῆλυς:** -εια adulta, femina, femininum (-a), gyne, -υ femella. *Cf.*
-ἀλώπηξ, ἠμίονος, ἵππος, ὄνος, χοῖρος.
+ἀλώπηξ, ἡμίονος, ἵππος, ὄνος, χοῖρος.
 
-**θῆμα** prooemium, *cf.* thema. *Cf.* θέμα. **θημών** *et* - ὁ σωρός
-acervus. *Cf.* molis? **θημωνιά** zita.
+**θῆμα** prooemium, *cf.* thema. *Cf.* θέμα.
+
+**θημών** *et* - ὁ σωρός acervus. *Cf.* molis?
+
+**θημωνιά** zita.
 
 **θῆξις** momentum.
 
 **θήρ** belua, bestia fera, ferus (-a), ferox, θῆρες ἄγριαι bestiae
-ferae. *Cf. άπειλή.* aucupium, captatio, venatio.
+ferae. *Cf.* ἀπειλή.
+
+**θήρα** aucupium, captatio, venatio.
 
 **θηρατικός** captator.
 
-**θἡρατρον** rete, -a casses.
+**θήρατρον** rete, -α casses.
 
-**θηράφιον** besticula, fericula. *Cf.* tera- phim? *(expl.* figurae).
+**θηράφιον** besticula, fericula. *Cf.* teraphim? (*expl.* figurae).
 
 **θηρεία** venatio.
 
 **θήρευσις** venatio.
 
-**θηρευτἡς** auceps, bestiarius *(cf. p.* 435), captator, venator. *Cf.
-ν,νων.*
+**θηρευτής** auceps, bestiarius (*cf. p.* 435), captator, venator. *Cf.*
+κύων.
 
-***&ηρενω*** capto, venor.
+**θηρεύω** capto, venor.
 
 **θηρήτωρ** venator.
 
-**θηριακά** *cf.* theriaca *(expl.* medicinae ignitae).
+**θηριακά** *cf.* theriaca (*expl.* medicinae ignitae).
 
-***Θηζϊίκλείθν** o εβτι,* γένος ἀργυρώματος apnades.
+**Θηρίκλειον** ὅ ἐστι, γένος ἀργυρώματος apnades.
 
 **θηριοδείκτης** bestiarius.
 
-**\*θηριοδἡκτης** marsus.
+**\*θηριοδήκτης** marsus.
 
 **\*θηριοδιώκτης** marsus.
 
 **θηριοκτόνον** βοτάνη sandonicum.
 
-**θηριομάχος** bestiarius, noxius, venator, **θηρίον** belua, bestia,
-bestia fera, ferus (-a), *cf.* therion, - ἄγριον bestia fera, -
-θαλάσσιον balaena, θηρίου ὅμοιος beluius, θηρίον ἠρεμεῖ cubat.
+**θηριομάχος** bestiarius, noxius, venator.
 
-**θηριότης (?** *Buech.* \*θηριώτης) bestiarius *(cf. p.* 435).
+**θηρίον** belua, bestia, bestia fera, ferus (-a), *cf.* therion, -
+ἄγριον bestia fera, - θαλάσσιον balaena, θηρίου ὅμοιος beluius, θηρίον
+ἠρεμεῖ cubat.
+
+**θηριότης** (? *Buech.* \*θηριώτης) bestiarius (*cf. p.* 435).
 
 **θηριοφόνον** dracontea.
 
@@ -118,9 +123,9 @@ bestia fera, ferus (-a), *cf.* therion, - ἄγριον bestia fera, -
 
 **θησαυροφυλάκιον** aerarium.
 
-**θησαυροφύλαξ** thensaurarius *et* the- sauri custos.
+**θησαυροφύλαξ** thensaurarius *et* thesauri custos.
 
-**θίασος** *cf.* thiasus *(expl.* chorus Liberi patris, sacrum,
+**θίασος** *cf.* thiasus (*expl.* chorus Liberi patris, sacrum,
 saltationes, choreas, laudes virginum).
 
 **θιγγάνω** attingo, contingo, tango.
@@ -131,36 +136,36 @@ saltationes, choreas, laudes virginum).
 
 **θίξις** contagium, ictus, tactus.
 
-**θλάσμα** contusio, famex, palearium (-a).
+**θλάσμα** contusio, famex, palearium (-a). *V.* ἵππος.
 
-*V. ίτΐπος.*
+**θλασταί** contusae. *Cf.* ἐλαία.
 
-***&λα0ταί*** contusae. *Cf. ελαία.*
+**\*θλησιων (?):** κεφαλαια παρα θλησιονων defoventum.
 
-***\'&2\^(jecav*** (?): κεφαλαια παρα θλησιονων defoventum.
+**θλίβω** afflicto, ango, appremo, conflicto, deprimo, premo, presso,
+tribulo, -όμενα spissata, τεθλιμμένος pressus 2. *Cf.* προσιπῶ.
 
-**θλίβω** afflicto, ango, appremo, con- flicto, deprimo, premo, presso,
-tribulo, -όμενα spissata, τεθλιμμένος pressus 2. *Cf. προβι,πώ.*
-
-***Ό\'λιτρες*** tribulatio, - ἠ σφίγξις pressura, - ἠ φροντίς
-tribulatio.
+**θλῖψις** tribulatio, - ἡ σφίγξις pressura, - ἡ φροντίς tribulatio.
 
 **θλῶ** quasso, tundo.
 
-**θνῆσις** mortalitas. *V. τελεντη.*
+**θνῆσις** mortalitas. *V.* τελευτή.
 
-morior, oppeto, -ων moriens, τεθνηξόμενος moribundus.
+**θνήσκω** morior, oppeto, -ων moriens, τεθνηξόμενος moribundus.
 
 **θνητός** mortalis.
 
-epulatio, epulum, θοῖναι daps (dapes), epulae.
+**θοίνη** epulatio, epulum, θοῖναι daps (dapes), epulae.
 
-**θοινῶ:** θοινᾶται vesco (-itur). **θολερός** turbidus, turbulentus.
+**θοινῶ:** θοινᾶται vesco (-itur).
 
-**θόλος** testudo, *cf.* tholus *(expl.* culmen tecti, fastigium templi
-rotundi *sim.).*
+**θολερός** turbidus, turbulentus.
 
-***&ολώ\<ϊ\'ης*** limosus, turbatus, turbulentus, **θορυβάζω:** -άζεται
-tumultuo (-atur), - ασθείς turbatus.
+**θόλος** testudo, *cf.* tholus (*expl.* culmen tecti, fastigium templi
+rotundi *sim.*).
+
+**θολώδης** limosus, turbatus, turbulentus.
+
+**θορυβάζω:** -άζεται tumultuo (-atur), - ασθείς turbatus.
 
 **θορυβοποιός** bovinator.

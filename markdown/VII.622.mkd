@@ -1,6 +1,6 @@
-> est, εἰς πρᾶγμα in rem, δι' ὃ πρᾶγμα quamobrem, quare, δι' ὁποῖον
-> πρᾶγμα *et* διὰ ποῖον π. quamobrem, ἔξω τοῦ πράγματος ab re, extra
-> rem. *Cf.* ἐπιτροπή, περαίνω, τομή, φύσις.
+est, εἰς πρᾶγμα in rem, δι' ὃ πρᾶγμα quamobrem, quare, δι' ὁποῖον
+πρᾶγμα *et* διὰ ποῖον π. quamobrem, ἔξω τοῦ πράγματος ab re, extra
+rem. *Cf.* ἐπιτροπή, περαίνω, τομή, φύσις.
 
 **πραγματεία** actus 2., negotiatio, negotium, nundinatio, *cf.* merces,
 -ας nundina (-as), ἄνευ -ας sine nundinatione.
@@ -134,7 +134,7 @@ priusquam, τὸ - antea.
 
 **πρίστις** pistrix. *Cf.* πίστριξ.
 
-**πρίω** (*cf*. πρίζω) seco, πρίεται fraxinus (*i. e.* fremit *vel*
+**πρίω** (*cf.* πρίζω) seco, πρίεται fraxinus (*i. e.* fremit *vel*
 frendet).
 
 **πρίων** serra 2.

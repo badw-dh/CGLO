@@ -2629,7 +2629,7 @@ IV 316, 44. cantilena uel musica IV 31, 23. **carminae** litterae IV 28,
 ξαίνει III 5, 62; 441, 25; 468, 4; 477, 10. ingit (iungit: *cf. Arch.*
 IX 408) IV 316, 43. *V.* carpo, pango.
 
-**Carnalis** σάρκινος II 429, 57. **car­nale** σάρξ II 529, 51. *V.*
+**Carnalis** σάρκινος II 429, 57. **carnale** σάρξ II 529, 51. *V.*
 uermis carnalis.
 
 **Carnalium** κρεμάστρα II 355, 3.
@@ -3586,7 +3586,7 @@ tabernarii uel qui uinum uendunt IV 317, 9. stabularii uel tabernarii IV
 
 **Cauponula** taberna V 445, 14. tabern[ac]ula V 355, 15. *Cf.*
 **caponula** tabercula V 626, 43. **componula** taberna IV 321, 7 (*v.*
-cauponarius). **cauponu­lae** taberna V 176, 26.
+cauponarius). **cauponulae** taberna V 176, 26.
 
 **Caupulus** nauis *Scal.* V 594, 71. **caupilus** nauicula breuis V 614,
 13 (cf. *Isid.* XIX 1, 25). scapha, canale, locellum V 176, 25; 204, 34
@@ -6571,7 +6571,7 @@ claudens *sine interpr.: novum interpretamentum*?).
 **Claudicariae** *v.* caudicariae.
 
 **Claudico claudio** χωλεύω II 479, 33. **clodico** χωλαίνω III 80, 60;
-163, 21. **clodicas** χωλαίνεις III 163, 22. **claudi­cat** χωλαίνει,
+163, 21. **clodicas** χωλαίνεις III 163, 22. **claudicat** χωλαίνει,
 ἐμποδίζει II 101, 35. clandit IV 319, 14 (*v.* claudio). χωλαίνει III
 442, 21. **clodicat** χωλαίνει III 7, 16; 163, 23; 402, 52.
 
@@ -7445,7 +7445,7 @@ coegit *Plac.* V 14, 39 = V 56, 13. *Cf. W. Heraeus Arch.* VI 276.
 **Cohabito** συνοικῶ II 447, 9.
 
 **Cohaerens** συνηνωμένος II 446, 21. coniunctus IV 320, 5; V 180, 17.
-**co­haerentia** συγκεκολλημένα II 103, 3.
+**cohaerentia** συγκεκολλημένα II 103, 3.
 
 **Cohaereo** συγκεκόλλημαι II 440, 15. **cohaeret** συγκεκόλληται II
 103, 1. coniungitur IV 320, 6. *V.* non cohaeret.
@@ -7549,7 +7549,7 @@ V 627, 15.
 leucuapes id est **colena** III 540, 28 (*cf. Isid.* XVII 9, 76). *V.*
 origanon *et* cunila.
 
-**Colendus** σεβάσμιος II 430, 18. **co­lenda** σεβάσμιος III 423, 55.
+**Colendus** σεβάσμιος II 430, 18. **colenda** σεβάσμιος III 423, 55.
 
 **Coleus** ὄρχις II 387, 41. **colei** ὄρχεις II 103, 29; III 13, 14;
 86, 22; 176, 64. **culei** ὄρχεις III 351, 49. **cullei** ὄρχεις III
@@ -8178,7 +8178,7 @@ comedam V 638, 74 (*Non.* 83, 23). **comedere** φαγεῖν II 469, 34.
 34; V 181, 16; 627, 23.
 
 **Comedo** uorax, edax V 279, 24. epulator uel tinea V 566, 8. manduco,
-uorax, edax *cod. Voss. fol.* 24. **come­dones** edacis V 639, 67 (*Non.*
+uorax, edax *cod. Voss. fol.* 24. **comedones** edacis V 639, 67 (*Non.*
 93, 15). *Cf. Loewe Prodr.* 326.
 
 **Comedus** *v.* comicus.
@@ -14542,7 +14542,7 @@ III 248, 53. naticas II 576, 3. *V.* anus.
 **Culus** uas, scyphus V 495, 66 (calix? cylix? culleus? uasculus?
 cyathus?).
 
-**Cum** μετά, σύν, ἐπεί, ὅτε III 118, 55. ἐπεί II 306, 25. ἐπειδή II
+**Cum** μετά, σύν, ἐπεί, ὅτε II 118, 55. ἐπεί II 306, 25. ἐπειδή II
 306, 27. ἐπειδάν II 306, 26. ὅτε II 388, 40. ὅταν II 388, 37. ὁπότε II
 385, 57. ὁπόταν II 385, 56. ἡνίκα II 325, 21. ὁπηνίκα II 385, 10, ὡς II
 482, 34. quando aut qui\<a\> IV 501, 31. qui\<a\> V 282, 50. *V.* mecum,

@@ -16,7 +16,7 @@ gisettan *s. v.* gisettae.
 
 **adesa** *cf.* aetsa, etsa.
 
-**adexa** *et* **adexe** (*illud L habet* V, 418, 66, *non* adexe)
+**adexa *et* adexe** (*illud L habet* V, 418, 66, *non* adexe)
 lacerta.
 
 **aduinendanan, afulodan, asuundnan** tabida et putrefacta. *Cf.* afulat
@@ -196,9 +196,7 @@ assuant A) tabuisset *s. v.* tabeo. *Cf.* asundun; afulat ond asuunden.
 
 **araebndae** expendisse *s. v.* expendo.
 
-**araepsid** (E, arepsit A) interceptum s.
-
-*v.* interceptus. *Cf.* refset.
+**araepsid** (E, arepsit A) interceptum *s. v.* interceptus. *Cf.* refset.
 
 **arectae** concesserim *s. v.* concedo.
 
@@ -216,7 +214,7 @@ arecio, *ad Oros.* VI, 22, 11 *referens.*
 
 **aryhid** *cf.* aritrid.
 
-**ascaeltte** (?) dissolverat *s. v.* dissolvo.
+**ascaeltte(?)**  dissolverat *s. v.* dissolvo.
 
 **asclaecadun** (*i. e.* aslaecadum) dimisis *s. v.* dimissus (demissis
 *coni. Goetz*). *Cf.* aslacudae.
@@ -250,11 +248,11 @@ asclaecadun.
 
 **asuand** *v.* ansuand.
 
-**asueus** (?) *v.* ansueop.
+**asueus (?)** *v.* ansueop.
 
 **asundun** (*vel* -um) distabuerunt *s. v.* distabui.
 
-**asuunden** *et* **asuundnan** *v.* afulat ond asuunden.
+**asuunden *et* asuundnan** *v.* afulat ond asuunden.
 
 **atę** vena 2. (= avena), **atae** (E, atte A) lolium.
 
@@ -289,9 +287,8 @@ asclaecadun.
 
 **baar** berrus *s. v.* verris; caper.
 
-**baedendrae** (E, bedaendrae A, *part. fem.*
-
-*dat. gen. sing.*) inpulsore *s. v.* impulsor.
+**baedendrae** (E, bedaendrae A, *part. fem. dat. gen. sing.*) inpulsore
+*s. v.* impulsor.
 
 **baers** lupus.
 
@@ -301,7 +298,7 @@ asclaecadun.
 
 **ban** *v.* elpendes ban.
 
-**barriggae** (?) baruina (?), **barice** (?) braugina *s. v.* baruina.
+**barriggae (?)** baruina (?), **barice (?)** braugina *s. v.* baruina.
 
 **bath** *cf.* hbat.
 
@@ -325,7 +322,7 @@ asclaecadun.
 
 **będd** culcites *s. v.* culcita. *Cf.* bed.
 
-**beel** bustum, **beel** *vel* **aad** rogus.
+**beel** bustum, **beel *vel* **aad** rogus.
 
 <pb n="VII.693" facs="7.693.jpg"></pb>
 **beer** basterna.
@@ -352,7 +349,7 @@ lactantina.
 
 **bergas** colles *s. v.* collis.
 
-**bernit** (?) avehit *s. v.* aveho.
+**bernit(?)**  avehit *s. v.* aveho.
 
 **best** *v.* baest.
 
@@ -426,7 +423,7 @@ buuyrt A) apiastrum.
 
 **blodsaex** phlebotomum.
 
-**bloot** (?) proriginem *s. v.* prurigo.
+**bloot (?)** proriginem *s. v.* prurigo.
 
 **boc** fau *s. v.* fagus. *Cf.* boeccae, beccae.
 
@@ -524,7 +521,7 @@ sceldreda E) **vel faenucae** (A, iferucae E) testudo.
 
 **broord** *v.* brord.
 
-**brora** (brord *Sievers*) **scaefr** (?) farrago.
+**brora** (brord *Sievers*) **scaefr(?)**  farrago.
 
 **brord** (E, broord A) puntus *s. v.* punctum.
 
@@ -699,9 +696,9 @@ vel cliderme.
 <pb n="VII.695" facs="7.695.jpg"></pb>
 **cniolen** *v.* cnioholaen.
 
-**cnop** (?) ballationes.
+**cnop (?)** ballationes.
 
-**cocunung** (?) quadripertitum.
+**cocunung (?)** quadripertitum.
 
 **coecil** tortum *s. v.* tortus 2.
 
@@ -710,7 +707,7 @@ A) perpendiculum.
 
 **cop** efetidem *s. v.* ependyten.
 
-**cordr** (A, cortr E) verberatorium.
+**cordr (A, cortr E)** verberatorium.
 
 **cosp** puncto foramine *etc.*
 
@@ -720,7 +717,7 @@ A) perpendiculum.
 
 **coydic** lapsanus *s. v.* lapsana.
 
-**erae** *et* **crę** cornicula. *Cf. sequ.*
+**erae *et* crę** cornicula. *Cf. sequ.*
 
 **crauua** cornix, **crauuae** cornacula *s. v.* cornicula.
 
@@ -811,7 +808,7 @@ deatlicostan.
 **dobend** decrepitam *s. v.* decrepitus; **dobeudi** (A, dobgendi C =
 dobiendi) decrepita *s. v.* decrepitus.
 
-**dome** (?) dos mui (*explicant* δός μοι).
+**dome (?)** dos mui (*explicant* δός μοι).
 
 **domsedil** tribunal.
 
@@ -826,7 +823,7 @@ gifecilae** (A, þrgifect E = þorch gifect) per duellium (*explicatur*
 per duellum), **dorh** (þorh E) **ludgaet** per pseuclothyrum, **dorh
 obust** (A, þorch obst E) per anticipationem.
 
-**dot** (?) tut\*rus *vel* mansionarius.
+**dot (?)** tut\*rus *vel* mansionarius.
 
 **dredum** lineolis.
 
@@ -883,7 +880,7 @@ v.* valvae.
 
 **eborthrotae** *v.* aebordrotae.
 
-**eburdnung** (**?**) Orion.
+**eburdnung (?)** Orion.
 
 **echtheri** censor.
 
@@ -900,7 +897,7 @@ palingenesian).
 
 **edualla** (A, edwalla E) vertigo, **eduella** (E, eduelli A) toreuma.
 
-**efat reof** (?) incusatio, **efat reub** epiphonema.
+**efat reof (?)** incusatio, **efat reub** epiphonema.
 
 **efdyni** *v. infra* ęsdyni.
 
@@ -1037,9 +1034,8 @@ Anglia* XIV, 291).
 
 **feige** canti *s. v.* canthus.
 
-**felofearth** (E, felufreth A) thorax (*cf.*
-
-*add. p.* 438 *et Schlutter,* Anglia XIV, 287).
+**felofearth** (E, felufreth A) thorax (*cf.* *add. p.* 438 *et Schlutter,
+Anglia* XIV, 287).
 
 **felofor** (E, felusor A) porphyrio.
 
@@ -1066,7 +1062,7 @@ Anglia* XIV, 291).
 **ferred** E *post V,* 378, 19 *expl.* proscribit, *quod addendum est in
 Thes. s. v.* proscribo.
 
-**ferstud** (?) continuus.
+**ferstud(?)**  continuus.
 
 **fert** *v.* ferth; ferd.
 
@@ -1089,7 +1085,7 @@ vel paturum feotur).
 **fex** fucus 2. V, 360, 13 (*saxonicum* fex *putant Zupitza et
 Schlutter contra Goetzium, qui confert* σφήξ).
 
-**fibulae** (?) ansa.
+**fibulae(?)**  ansa.
 
 **flerst** (E, firt A) laquear.
 
@@ -1241,9 +1237,7 @@ remotum.
 
 **fuglū** *v.* stalu to fuglū.
 
-[alneum.
-
-**fulaetrea** (E, falatreu A, = fulaetreu)
+**fulaetrea** (E, falatreu A, = fulaetreu) alneum.
 
 **fulteam** emolumentum.
 
@@ -1302,7 +1296,7 @@ iacessura.
 
 **gebil** *cf.* gaebuli.
 
-**geboronae** (?) exposito *s. v.* expositus.
+**geboronae(?)**  exposito *s. v.* expositus.
 
 **gebrec** *v.* gibrec.
 
@@ -1324,9 +1318,8 @@ iacessura.
 
 **gefegnessi** *v.* gifoegnissae.
 
-**gefetodnae** (E, gefetatnae A) acetum 3.
-
-= accitum (*et habent codd.* accetum, non acetum).
+**gefetodnae** (E, gefetatnae A) acetum 3. = accitum (*et habent codd.*
+accetum, non acetum).
 
 **gegenga** *v.* gegenta.
 
@@ -1590,13 +1583,9 @@ gliowe.
 
 **grima** scina; mascus *s. v.* masca. *Cf.* grina.
 
-**grimrodr** (A, gimrodr C) dracontia *s. v.*
+**grimrodr** (A, gimrodr C) dracontia *s. v.* draconitas.
 
-draconitas.
-
-**grina** scina (*Glogger* scena *in* L *legit*). *Cf.*
-
-grima.
+**grina** scina (*Glogger* scena *in* L *legit*). *Cf.* grima.
 
 **groeni** prassus *s. v.* prasinus.
 
@@ -1670,7 +1659,7 @@ calamaucus.
 
 **haeth** (E, haedth A) thimus *s. v.* thymum.
 
-**haeth =** haett *v.* haetas.
+**haeth** = haett *v.* haetas.
 
 **haeuui** (E, haui A) caerula *s. v.* caeruleus; **hęuui** (E, hauui A)
 **vel grei** glaucum *s. v.* glaucus.
@@ -1694,7 +1683,7 @@ v.* pendulus.
 
 **ham** *v.* haam 1.
 
-**hama** illuvies secundarum *s. v.* ilIuvies (*pertinere puto ad Vulg.
+**hama** illuvies secundarum *s. v.* illuvies (*pertinere puto ad Vulg.
 Deut.* 28, 57).
 
 **haman** cicadae *s. v.* cicada.
@@ -1754,7 +1743,7 @@ healful.
 
 **heolor** *v.* helor.
 
-**herbid** (?) bipertitum *s. v.* bipertitus.
+**herbid(?)**  bipertitum *s. v.* bipertitus.
 
 <pb n="VII.701" facs="7.701.jpg"></pb>
 **herd** (A, herth E) arula, *v.* fyrpannae *vel* herth.
@@ -1811,7 +1800,7 @@ erimio.
 
 **holegn** acrifolus *s. v.* acrifolium.
 
-**holopannae** patena *s. v.* patina. *Cf. Schlutter.* Anglia XIV,
+**holopannae** patena *s. v.* patina. *Cf. Schlutter, Anglia* XIV,
 294.
 
 **holtana** *v.* holthana.
@@ -1940,7 +1929,7 @@ gyrdels.
 
 **Huni** Vulgari (*sed fortasse latinum est* Huni).
 
-**hunsporan** (?) dolones *s. v.* dolo 2.
+**hunsporan(?)**  dolones *s. v.* dolo 2.
 
 **huora** *v.* fnora.
 
@@ -1961,7 +1950,7 @@ gyrdels.
 
 **huuonanhuuoega** *v.* huuananhuuoega.
 
-**hydde** (A, hyđae C) de confugio statione, *quod ad Orosii V,* 2, 1 de
+**hydde** (A, hyđae C) de confugio statione, *quod ad Orosii* V, 2, 1 de
 confugiendi statione *refert Schlutter.*
 
 **hymblicae** (E, huymblicae A) cicuta.
@@ -2017,9 +2006,7 @@ curia.
 
 **laesung** *v.* leasung vel faam.
 
-**landae: an landac** (A, on laste *Gl. Corp.*
-
-*Chr. m.* 1) e vestigio.
+**landae: an landac** (A, on laste *Gl. Corp. Chr. m.* 1) e vestigio.
 
 **lappa** lanna *s. v.* lamina.
 
@@ -2072,7 +2059,7 @@ rodinare *s. v.* rhododaphne.
 
 **lenctinadl** (A, lectinadl E) tertiana *s. v.* tertianus.
 
-**lendibreda** *v.* IenIibreda.
+**lendibreda** *v.* Ienlibreda.
 
 **lęndino** (E, lendino A) rien *s. v.* ren, **lęndnum** (E, laenclum A,
 *dat. pl.*) clunis.
@@ -2135,7 +2122,7 @@ Schlutter*).
 
 **loca** (= locc?) floccus.
 
-**locaer rei sceaba** runcina.
+**locaer vel sceaba** runcina.
 
 **locar** *v.* bruun.
 
@@ -2147,12 +2134,12 @@ Schlutter*).
 
 **logdor** cacomichanus.
 
-**loh *Vel* dal** (utrumgzie *potest esse palaeotheod.*) b aratrum.
+**loh *vel* dal** (*utrumque potest esse palaeotheod.*) baratrum.
 
-**lorg** colus 2, **lorg, couel** colum *s. v.* colus 2., **loergae**
+**lorg** colus 2., **lorg, couel** colum *s. v.* colus 2., **loergae**
 amites.
 
-**lotha** lacerna (*v.* haecilae *vel* lotha *s. v.* haecilae); lodix.
+**lotha** lacerna (*v.* haecilae vel lotha *s. v.* haecilae); lodix.
 **loda** sagulum.
 
 **luad** *v.* lath.
@@ -2174,7 +2161,7 @@ axedo.
 
 **lytisna** concedam *s. v.* concedo.
 
-**lytlae snegias** cocleae *s. v.* cochlea.
+**lytlae sneglas** cocleae *s. v.* cochlea.
 
 **maanful** (E, meinfol A *palaeotheod.*) infandum *s. v.* infandus.
 
@@ -2338,7 +2325,7 @@ Schlutter corrigens* hos).
 
 **mus** sorix *s. v.* sorex (V, 393, 3: *saxonicum putant quidam, non
 latinum*); mus (*ubi in Thes. intercidit interpretatio* mus *ante* V,
-372, 34, *quam item saxomcam alii putant*).
+372, 34, *quam item saxonicam alii putant*).
 
 **muscellas** (E, muscellae A) genisculae *s. v.* geniculum.
 
@@ -2394,7 +2381,7 @@ necthegelae A) noctua (*v.* naechtraebn).
 
 **nefern** (*i. e.* hefern) cancer. *V.* hafaern.
 
-**neisn** (?) **naensood** (?) ilium. *Cf.* naensida.
+**neisn (?) naensood (?)** ilium. *Cf.* naensida.
 
 **nest** epimenia.
 
@@ -2558,7 +2545,7 @@ quiquae E) gramen.
 
 **raa** capreolus.
 
-**radre** (?) bovestra *s. v.* bustuarium.
+**radre(?)**  bovestra *s. v.* bustuarium.
 
 **raebsid** *v.* refset.
 
@@ -2699,7 +2686,7 @@ Goetz*).
 
 **scaedugeardas** (E, sceaclugeardas A) Tempe.
 
-**scaefr** (?): **brora scaefr** farrago.
+**scaefr(?)** : **brora scaefr** farrago.
 
 **scaeptloan** hastilia telorum, **sceptloum** (*dat. pl.*) amentis *s.
 v.* amentum.
@@ -2878,7 +2865,7 @@ labarum; ban *s. v.* bandum. **segnas** aquilae *s. v.* aquila.
 
 **sigil** fibula; sibba (?). **sigil** (AE, sigl C) bulla.
 
-**sigiras** (?) lurcones *vel* avidi *s. v.* lurco.
+**sigiras(?)**  lurcones *vel* avidi *s. v.* lurco.
 
 **sigl** *v.* sigil.
 
@@ -2955,7 +2942,7 @@ Angl.* XIV, 295.
 
 **sochtae** (E, scochtae A) petiisse *s. v.* peto.
 
-**soctha** (?) iota (?).
+**soctha(?)**  iota (?).
 
 **soęrgęndi** *v.* sorgendi.
 
@@ -3222,7 +3209,7 @@ suae haldae.
 
 **taenil** (E, tenil A) fiscella.
 
-**tangi** (E, zangi A, *palaeotheod. ? An latinum est* tangi?) tractata.
+**tangi** (E, zangi A, *palaeotheod.? An latinum est* tangi?) tractata.
 
 **tasul** (A, tasol E) tessera. *Cf.* tesulas.
 
@@ -3237,11 +3224,9 @@ suae haldae.
 **teblith** cottizat.
 
 **tedridtit** (A) defecit *s. v.* deficio. *Huc refero glossam* C V,
-405, 50 desicit **tetridit**, *ubi Goetz* detrudit, *v. Thes.*
+405, 50 desicit **tetridit**, *ubi Goetz* detrudit, *v. Thes. s. v.* dissico.
 
 **tefil** (A, teblae E) alea.
-
-[*s. v. dissico.*
 
 **tefleri** II, 566, 10 *cod. a* alacer *i. e.* aleator, *ut videtur,
 cf.* tebleri (*deest in Thes. et s. v.* alacer *et s. v.* aleator).
@@ -3280,7 +3265,7 @@ tyndrin.
 
 **tindum** rostris *s. v.* rostrum. *V.* foraeuuallū vel tindum.
 
-**tingin** (?) revimentum.
+**tingin(?)**  revimentum.
 
 **tiorade** desisse *s. v.* desino.
 
@@ -3332,7 +3317,7 @@ XIV, 301) laena.
 
 **treuteru** bapis.
 
-**treuleusnis** (E, treulesnis A = treuIeasnis) perfidia.
+**treuleusnis** (E, treulesnis A = treuleasnis) perfidia.
 
 **trifoedur** *v.* đrifedor.
 
@@ -3545,7 +3530,7 @@ oculo.
 
 **uaar** *v.* uar.
 
-**uaeg** (?) conciliatio. *An* uaer?
+**uaeg(?)**  conciliatio. *An* uaer?
 
 **uaeps** cabro *s. v.* crabro, **uuaeps** (A, uuaeffsas E) vespa (A,
 vespas E).
@@ -3558,7 +3543,7 @@ vespas E).
 
 **uaeter** *v.* uuaeterthruch.
 
-**ualdẽ negi, uualdenez** (?) caesius.
+**ualdẽ negi, uualdenez(?)**  caesius.
 
 **ualtae** argata (= ergata).
 
@@ -3740,7 +3725,7 @@ uuydublinclae A) involuco *s. v.* involucus. *Cf.* uuidouuinclae.
 **uulisp** balbus (*ibi in Thes. errore inter­cidit* balbus *post* II,
 458, 16). **wlisp** balbutus *s. v.* balbus. *Cf.* stam.
 
-**uulluc** (?) involucus (involvulus *coni. Goetz, cf. Schlutter,
+**uulluc(?)**  involucus (involvulus *coni. Goetz, cf. Schlutter,
 Anglia* XIV, 303).
 
 **uulohum** villis *s. v.* villus.
@@ -3824,5 +3809,5 @@ Parcae *s. v.* Parca.
 
 **yppe** *v.* uppae.
 
-**zangi** (?) *v.* tangi.
+**zangi(?)**  *v.* tangi.
 </div>

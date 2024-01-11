@@ -1,4 +1,4 @@
-**εὐτελίζω** annihilo, derogo, invilio, vi- Iio, -ει invilitat.
+**εὐτελίζω** annihilo, derogo, invilio, vilio, -ει invilitat.
 
 **εὐτελῶς** vile.
 
@@ -6,22 +6,27 @@
 
 **εὔτολμος** audens.
 
-**εὐτονία** animadversio, suffectio, **εὔτονος** firmus, lentus,
-sufficiens, **εὐτονῶ** sufficio.
+**εὐτονία** animadversio, suffectio.
+
+**εὔτονος** firmus, lentus, sufficiens.
+
+**εὐτονῶ** sufficio.
 
 **εὐτραπελία** iocus, scurrilitas.
 
 **\*εὐτραπελίσαι** ioculare.
 
-**εὐτράπελος** iocosus, toluberna *(ib.* as- secula), scurra scurrus.
+**εὐτράπελος** iocosus, toluberna (*ib.* assecula), scurra scurrus.
 
-**εὐτρεπἡς** paratus, praeparatus.
+**εὐτρεπής** paratus, praeparatus.
 
 **εὐτρεπίζω** apparo, comparo, instruo, paro, -ων parabundus.
 
-**[εὐτρεχἡς** *v.* έντρ.].
+**[εὐτρεχής** *v.* ἐντρ.].
 
-**εὔτροπος** bene moratus, moratus, **εὔτροφος** alebrius, pastus.
+**εὔτροπος** bene moratus, moratus.
+
+**εὔτροφος** alebrius, pastus.
 
 **εὐτυχής** felix, fortunatus.
 
@@ -33,69 +38,87 @@ sufficiens, **εὐτονῶ** sufficio.
 
 **εὐφημία** favor.
 
-**εὔφημος** bene loquax, faustus, III, 519, **48** *sine interpr.*
+**εὔφημος** bene loquax, faustus, III, 519, 48 *sine interpr.*
 
-***εΰφημώ*** faveo.
+**εὐφημῶ** faveo.
 
-***ευφοςμα*** abundantia, fecunditas, ferti- litas, ubertas.
+**εὐφορία** abundantia, fecunditas, fertilitas, ubertas.
 
 **εὔφορος** fecundus, ferax, fertilis, uber. *Cf.* χώρα.
 
 **εὐφραίνω** epulor, indulgeo, laetifico, poto, -ομαι laetor.
 
-**εὐφραντική** genialis, **εὐφραντός** iucundus. ***ευφραβία***
-epulatio, visceratio, **εὐφροσύνη** laetitia.
+**εὐφραντική** genialis.
+
+**εὐφραντός** iucundus.
+
+**εὐφρασία** epulatio, visceratio.
+
+**εὐφροσύνη** laetitia.
 
 **εὐφυής** ingeniosus, ingenuus.
 
-**εὐφυϊα** indoles, ingenium, **εὐφυῶς** facete, ingeniose, **εὐφωνία**
-sonoritas. *Cf.* euphonia. **εὔφωνος** canorus, vocalis. *Cf.* euphonus.
+**εὐφυΐα** indoles, ingenium.
+
+**εὐφυῶς** facete, ingeniose.
+
+**εὐφωνία** sonoritas. *Cf.* euphonia.
+
+**εὔφωνος** canorus, vocalis. *Cf.* euphonus.
+
 **εὔχαλκος** praesens.
 
-**εὐχαράκτηρος** bene figuratus, formosus, **εὔχαρις** bonae gratiae,
-facetus, gra- tiosus, gratus, salsus.
+**εὐχαράκτηρος** bene figuratus, formosus.
+
+**εὔχαρις** bonae gratiae, facetus, gratiosus, gratus, salsus.
 
 **\*εὐχάρισμα** corollarium.
 
-**εὐχαριστία** corollarium, gratia, gratia- rum actio, gratificatio,
+**εὐχαριστία** corollarium, gratia, gratiarum actio, gratificatio,
 gratulatio. *Cf.* eucharistia.
 
-**εὐχάριστος** charitosus, gratificus, gra- tiosus, gratus.
+**εὐχάριστος** charitosus, gratificus, gratiosus, gratus.
 
 **εὐχαριστῶ** gratias ago, gratulor, - οῦμαι ineo gratiam.
 
-**εὐχειρῶ** *cf. χρήμα- **ενχέρεια*** facilitas, facultas, **εὐχερής**
-cohibilis, facilis, **εὐχερῶς** facile, faciliter, oportune. **εὐχἡ**
-devotio, dicatio, oratio *(ubi adde* III, 10, 18/19, *cf. s. v.*
-feriae), votum, - ὅ τάττεταί τις θεῷ votum, κατ' -ήν ex voto. *Cf.*
-έπαγγέλλομαι, έπιτυγ- χάνω.
+**εὐχειρῶ** *cf.* χρῆμα.
 
-***εΰχομαε*** devoveo, opto, precor, voveo. *Cf.* antiquare.
+**εὐχέρεια** facilitas, facultas.
 
-**\*εὐχοχόος** *cf.* euchochous *(expl.* oratio- nem fundens).
+**εὐχερής** cohibilis, facilis.
+
+**εὐχερῶς** facile, faciliter, oportune.
+
+**εὐχή** devotio, dicatio, oratio (*ubi adde* III, 10, 18/19, *cf. s.
+v.* feriae), votum, - ὅ τάττεταί τις θεῷ votum, κατ' -ήν ex voto. *Cf.*
+ἐπαγγέλλομαι, ἐπιτυγχάνω.
+
+***εὔχομαι*** devoveo, opto, precor, voveo. *Cf.* antiquare.
+
+**\*εὐχοχόος** *cf.* euchochous (*expl.* orationem fundens).
 
 **εὐχρηστία** commoditas, utilitas.
 
 **εὔχρηστος** commodus, conducibilis, frugi, usualis, utilis, - γενοῦ
-prosum (pro st).
+prosum (prost).
 
 **εὔχρους** boni coloris, bono colore.
 
-**\*εὔχρωμός** colorarius, pudendus.
+**\*εὔχρωμος** colorarius, pudendus.
 
-**\*εὐχρὠμων** colorarius.
+**\*εὐχρώμων** colorarius.
 
 **εὐψηλάφητος** tractabilis.
 
-***εύ\'ψυχία*** animi aequitas.
+**εὐψυχία** animi aequitas.
 
 **εὔψυχος** aequanimus, animosus, boni animi, quietus.
 
 **εὐψύχως** aequo animo, animo forti.
 
-**εὐώδης** bene olens, boni odoris, odori- ferus, suavis.
+**εὐώδης** bene olens, boni odoris, odoriferus, suavis.
 
-**εὐωδία** dulcedo, flagrantia, odor, sua- vitas.
+**εὐωδία** dulcedo, flagrantia, odor, suavitas.
 
 **εὐώμαλος** aequabilis.
 
@@ -107,14 +130,14 @@ prosum (pro st).
 
 **εὐώνως** vile.
 
-**εὐωχία** *et -ae* daps *(et* dapes), epulae, epulatio, epulum. *Cf.*
-euochias *(expl.* delicias).
+**εὐωχία** *et* **εὐωχίαι** daps (*et* dapes), epulae, epulatio, epulum.
+*Cf.* euochias (*expl.* delicias).
 
-***ενωχονμαι**,* epulor, -εῖται dapet.
+**εὐωχοῦμαι**, epulor, -εῖται dapet.
 
-***εφαγον** v. έΰ\^ίω.*
+**ἔφαγον** *v.* ἐσθίω.
 
-***έφάλλομαε*** insilio.
+**ἐφάλλομαι** insilio.
 
 **ἐφάμαρτος** mendosus.
 
@@ -126,17 +149,17 @@ euochias *(expl.* delicias).
 
 **ἔφεδρον** *cf.* conclavis.
 
-**ἔφεδρος** superstes, tertiarius; *fherba)* marrubium, -a hippuris.
+**ἔφεδρος** superstes, tertiarius; (herba*)* marrubium, -α hippuris.
 
-**\*ἐφεδρών (?)** conclavis, latrina. *Cf. άφεΰρών.*
+**\*ἐφεδρών (?)** conclavis, latrina. *Cf.* ἀφεδρών.
 
-***εφελκίς*** crusta.
+**ἐφελκίς** crusta.
 
 **ἐφέλκομαι** reduco.
 
 **ἐφεξῆς** deinceps, iugiter.
 
-***εφέόεα*** aristolochia rotunda.
+**ἐφέσια** aristolochia rotunda.
 
 **ἔφεσις** appellatio, provocatio.
 
@@ -144,21 +167,21 @@ euochias *(expl.* delicias).
 
 **ἐφεστρίς** lacerna, paenula.
 
-**ἐφέτειος (=** ἐπέτἠ annotinus, annuus *(et* hocannivus), hoc anno
+**ἐφέτειος** (= ἐπέτ.) annotinus, annuus (*et* hocannivus), hoc anno
 (huius anni).
 
-**ἐφευρετἡς** ingeniosus.
+**ἐφευρετής** ingeniosus.
 
-***έφήβαιον*** puberale.
+**ἐφήβαιον** puberale.
 
-**ἐφήβειον** pecten, pubes. *Cf. εφήβι,ον.*
+**ἐφήβειον** pecten, pubes. *Cf.* ἐφήβιον.
 
-***εφηβειον** cf.* ephebion *(expl.* locus con- stuprationis puerorum
+**ἐφηβεῖον** *cf.* ephebion (*expl.* locus constuprationis puerorum
 imberbium).
 
 **ἐφήβιον** puberale, super cunnum.
 
-**ἔφηβος** ephebus, impubes, puber, pu- bertus *(et* -a), pubes.
+**ἔφηβος** ephebus, impubes, puber, pubertus (*et* -a), pubes.
 
 **ἐφηβότης** pubertas.
 

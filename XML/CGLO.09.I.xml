@@ -18,7 +18,7 @@
       <form xml:id="I-6" type="lemma" lang="Latinum">Iaceo</form> κεῖμαι <ref addName="Ps.-Cyr." cRef="CGL.II.347.15">II 347, 15</ref>; <ref addName="hermen. Monac." cRef="CGL.III.150.26">III 150, 26</ref>. βέβλημαι <ref addName="Ps.-Cyr." cRef="CGL.II.257.2">II 257, 2</ref>. 
       <form xml:id="I-7" type="sublemma" lang="Latinum">iaces</form> κεῖσαι <ref addName="hermen. Monac." cRef="CGL.III.150.27">III 150, 27</ref>. 
       <form xml:id="I-8" type="sublemma" lang="Latinum">iacet</form> κεῖται <ref addName="hermen. Monac." cRef="CGL.III.150.28">III 150, 28</ref>. 
-      <form xml:id="I-9" type="sublemma" lang="Latinum">iacit</form> κεῖται <ref addName="Ps.-Phil." cRef="CGL.II.75.13">II 75, 13</ref> + <ref addName="Ps.-Phil." cRef="CGL.II.75.12">12</ref>(<emph>Cic. in Cat.</emph> II 1, 2). <emph>V.</emph> eo (<emph>verb.</emph>).
+      <form xml:id="I-9" type="sublemma" lang="Latinum">iacit</form> κεῖται <ref addName="Ps.-Phil." cRef="CGL.II.75.13">II 75, 13</ref> + <ref addName="Ps.-Phil." cRef="CGL.II.75.12">12</ref>(<emph>Cic. in Cat.</emph> <ref addName="" cRef="CGL.II.1.2">II 1, 2</ref>). <emph>V.</emph> eo (<emph>verb.</emph>).
     </entryFree>
     <entryFree>
       <form xml:id="I-10" type="lemma" lang="Latinum">Iacienda (fac.
@@ -742,7 +742,7 @@
       <form xml:id="I-354" type="lemma" lang="Latinum">Ilico</form> ἐξ αὐτῆς <ref addName="Ps.-Phil." cRef="CGL.II.76.61">II 76, 61</ref>. παραχρῆμα, εὐθέως <ref addName="Ps.-Phil." cRef="CGL.II.77.15">II 77, 15</ref> (ill). παραχρῆμα <ref addName="Ps.-Cyr." cRef="CGL.II.397.20">II 397, 20</ref>. εὐθέως <ref addName="Ps.-Cyr." cRef="CGL.II.317.19">II 317, 19</ref>. αὐτίκα <ref addName="Ps.-Cyr." cRef="CGL.II.251.33">II 251, 33</ref>. confestim, mox <emph>Plac.</emph> <ref addName="Plac. lib. gl." cRef="CGL.V.76.6">V 76, 6</ref>. statim, mox <ref addName="Affat." cRef="CGL.IV.528.28">IV 528, 28</ref> (<emph>cf. Non.</emph> 324, 33). mox, continuo, statim <ref addName="Abba" cRef="CGL.IV.246.23">IV 246, 23</ref>. statim, continuo <ref addName="exc. Vat. reg. 215 / Alieno" cRef="CGL.V.535.31">V 535, 31</ref> (<emph>Ter. Andr.</emph> 514). mox, statim, continuo <ref addName="Abav." cRef="CGL.IV.350.46">IV 350, 46</ref>. mox, statim, confesto, sine mora <ref addName="Abstr. II" cRef="CGL.IV.89.29">IV 89, 29</ref>. statim uel confestim, sine mora <ref addName="Abstr. II" cRef="CGL.IV.86.30">IV 86, 30</ref>. statim aut confestim uel iterato <ref addName="Forsit." cRef="CGL.V.109.8">V 109, 8</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-355" type="lemma" lang="Latinum">Iligna glande</form> ilicis <ref addName="Abstr. II" cRef="CGL.IV.95.19">IV 95, 19</ref> (grande); <ref addName="gl. AA" cRef="CGL.V.460.44">V 460, 44</ref> (<emph>ubi</emph> inlegna <emph>vel</emph> ilegna <emph>codd. cf. Hor. Serm.</emph> II 4, 40).
+      <form xml:id="I-355" type="lemma" lang="Latinum">Iligna glande</form> ilicis <ref addName="Abstr. II" cRef="CGL.IV.95.19">IV 95, 19</ref> (grande); <ref addName="gl. AA" cRef="CGL.V.460.44">V 460, 44</ref> (<emph>ubi</emph> inlegna <emph>vel</emph> ilegna <emph>codd. cf. Hor. Serm.</emph> <ref addName="Ps.-Phil." cRef="CGL.II.4.40">II 4, 40</ref>).
     </entryFree>
     <entryFree>
       <form xml:id="I-356" type="lemma" lang="Latinum">Ilium</form> ciuitas Troiae <ref addName="Ab abs." cRef="CGL.IV.412.44">IV 412, 44</ref>. urbs Asiae <ref addName="Abect." cRef="CGL.IV.445.36">IV 445, 36</ref>.
@@ -1013,7 +1013,7 @@
       <form xml:id="I-482" type="sublemma" lang="Latinum">inluxerit</form> φανερωθείη <ref addName="Ps.-Phil." cRef="CGL.II.83.54">II 83, 54</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-483" type="lemma" lang="Latinum">Illucescente</form> (inl.) διαφανέντος <ref addName="hermen. frg. Par. / coll. Harl." cRef="CGL.III.108.14">III 108, 14</ref> = <ref addName="None" cRef="CGL.III.638.1">638, 1</ref>.
+      <form xml:id="I-483" type="lemma" lang="Latinum">Illucescente</form> (inl.) διαφανέντος <ref addName="hermen. frg. Par. / coll. Harl." cRef="CGL.III.108.14">III 108, 14</ref> = <ref addName="coll. emendata" cRef="CGL.III.638.1">638, 1</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-484" type="lemma" lang="Latinum">Illucesco</form> (inl.) ἐπιφώσκω <ref addName="Ps.-Cyr." cRef="CGL.II.312.53">II 312, 53</ref>.
@@ -1024,7 +1024,7 @@
     <entryFree>
       <form xml:id="I-486" type="lemma" lang="Latinum">Illudis (
         <emph>vel</emph> inl.) me
-      </form> ἐνπαίζεις με <ref addName="coll. Montep." cRef="CGL.III.288.48">III 288, 48</ref> = <ref addName="None" cRef="CGL.III.658.19">658, 19</ref>; <ref addName="Absid. Vat." cRef="CGL.III.516.33">516, 33</ref>.
+      </form> ἐνπαίζεις με <ref addName="coll. Montep." cRef="CGL.III.288.48">III 288, 48</ref> = <ref addName="coll. emendata" cRef="CGL.III.658.19">658, 19</ref>; <ref addName="Absid. Vat." cRef="CGL.III.516.33">516, 33</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-487" type="lemma" lang="Latinum">Illudo</form> (inl.) ἐμπαίζω <ref addName="Ps.-Cyr." cRef="CGL.II.296.17">II 296, 17</ref>. χλευάζω <ref addName="Ps.-Cyr." cRef="CGL.II.477.21">II 477, 21</ref>. 
@@ -1243,7 +1243,7 @@
       <form xml:id="I-589" type="lemma" lang="Latinum">Immaneo</form> (inm.) ἐπιμένω <ref addName="Ps.-Cyr." cRef="CGL.II.309.39">II 309, 39</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-590" type="lemma" lang="Latinum">Imm&lt;an&gt;e (inm.) quantum distat</form> <ref addName="de lat." cRef="CGL.V.662.41">V 662, 41</ref> (<emph>cf. Hor. c.</emph> I 27, 6).
+      <form xml:id="I-590" type="lemma" lang="Latinum">Imm&lt;an&gt;e (inm.) quantum distat</form> <ref addName="de lat." cRef="CGL.V.662.41">V 662, 41</ref> (<emph>cf. Hor. c.</emph> <ref addName="None" cRef="CGL.I.27.6">I 27, 6</ref>).
     </entryFree>
     <entryFree>
       <form xml:id="I-591" type="lemma" lang="Latinum">Immanes (inm.) columnas</form> magnas, ingentes <ref addName="Abect." cRef="CGL.IV.447.12">IV 447, 12</ref> (<emph>Verg.</emph> <emph>Aen.</emph> I 428).
@@ -1438,7 +1438,7 @@
       <form xml:id="I-673" type="lemma" lang="Latinum">Immolo</form> (<emph>vel</emph> inm.) θύω <ref addName="Ps.-Phil." cRef="CGL.II.78.8">II 78, 8</ref> (immulo <emph>codd. corr. e</emph>); <ref addName="Ps.-Cyr." cRef="CGL.II.330.11">330, 11</ref>; <ref addName="hermen. Ampl." cRef="CGL.III.75.34">III 75, 34</ref>. ἐπιθύω <ref addName="Ps.-Cyr." cRef="CGL.II.308.24">II 308, 24</ref>.<pb n="VI.546" facs="6.546.jpg"/>  καλλιερῶ <ref addName="hermen. Einsidl." cRef="CGL.III.239.2">III 239, 2</ref> (<emph>vix vetusta</emph>). βουθυτῶ <ref addName="Ps.-Cyr." cRef="CGL.II.259.7">II 259, 7</ref>. ἐναγίζω ἡ ἐπὶ &lt;ν&gt;εκρῷ θυσία <ref addName="Ps.-Cyr." cRef="CGL.II.297.13">II 297, 13</ref>. uictimo <ref addName="Abba" cRef="CGL.IV.246.44">IV 246, 44</ref> (<emph>cf.</emph> immolita). 
       <form xml:id="I-674" type="sublemma" lang="Latinum">immulas</form> θύεις <ref addName="Ps.-Phil." cRef="CGL.II.78.7">II 78, 7</ref>. 
       <form xml:id="I-675" type="sublemma" lang="Latinum">immolat</form> θύει <ref addName="Ps.-Phil." cRef="CGL.II.78.6">II 78, 6</ref>. mactat <ref addName="Abav." cRef="CGL.IV.350.57">IV 350, 57</ref>. sacrificat <ref addName="Abba" cRef="CGL.IV.247.2">IV 247, 2</ref>; <ref addName="Affat." cRef="CGL.IV.529.27">529, 27</ref>. ad sacrificium occidit <ref addName="Abstr. II" cRef="CGL.IV.89.35">IV 89, 35</ref>; <ref addName="Abstr. II" cRef="CGL.IV.102.17">102, 17</ref>. uictimam fundit aut (<emph>vel</emph> ad) sacrificio deum (<emph>vel</emph> sacrificium deo) honorat <ref addName="Abstr. II" cRef="CGL.IV.89.43">IV 89, 43</ref>; <emph>a c d post</emph> <ref addName="Abstr. II" cRef="CGL.IV.95.30">IV 95, 30</ref>; <emph>Plac.</emph> <ref addName="Plac. lib. gl." cRef="CGL.V.76.9">V 76, 9</ref>; <ref addName="Abstr. II" cRef="CGL.IV.102.25">IV 102, 25</ref> (<emph>cf. Verg. Aen.</emph> X 541). 
-      <form xml:id="I-676" type="sublemma" lang="Latinum">et immolauit</form> καὶ ἔθυσεν <ref addName="coll. Harl." cRef="CGL.III.110.54">III 110, 54</ref> = <ref addName="None" cRef="CGL.III.640.9">640, 9</ref>. 
+      <form xml:id="I-676" type="sublemma" lang="Latinum">et immolauit</form> καὶ ἔθυσεν <ref addName="coll. Harl." cRef="CGL.III.110.54">III 110, 54</ref> = <ref addName="coll. emendata" cRef="CGL.III.640.9">640, 9</ref>. 
       <form xml:id="I-677" type="sublemma" lang="Latinum">immolor</form> delibor uel sacrifico&lt;r?&gt; <ref addName="Abav." cRef="CGL.IV.350.58">IV 350, 58</ref> (<emph>cf.</emph> immemor). 
       <form xml:id="I-678" type="sublemma" lang="Latinum">immulatur</form> θυσιάζει <ref addName="Ps.-Phil." cRef="CGL.II.77.58">II 77, 58</ref>.
     </entryFree>
@@ -1646,7 +1646,7 @@
       <form xml:id="I-776" type="lemma" lang="Latinum">Impensa</form> (inp.) χορηγεῖον <ref addName="Ps.-Phil." cRef="CGL.II.84.56">II 84, 56</ref>. ἀνάλωμα <ref addName="idiom. Harl." cRef="CGL.II.496.74">II 496, 74</ref>; <ref addName="gl. Serv." cRef="CGL.II.522.59">522, 59</ref>. ἀνάλωμα, ἐλαιόγαρον <ref addName="Ps.-Phil." cRef="CGL.II.84.53">II 84, 53</ref>. φύραμα <ref addName="hermen. Steph." cRef="CGL.III.365.5">III 365, 5</ref>. ab inpendendo, quod est erogando, et scribitur per n <emph>Plac.</emph> <ref addName="Plac. lib. rom." cRef="CGL.V.28.14">V 28, 14</ref> = <ref addName="Plac. lib. gl." cRef="CGL.V.77.32">V 77, 32</ref> (cum n). praebenda <ref addName="gl. nom." cRef="CGL.II.582.27">II 582, 27</ref> (<emph>cf. Roensch Coll. phil. p.</emph> 152). oleum gareo frigida cum herbis <ref addName="gl. nom." cRef="CGL.II.582.28">II 582, 28</ref> (<emph>unde</emph> 
       <form xml:id="I-777" type="sublemma" lang="Latinum">inpensa</form> praebenda frigida cum herbis et 
       <form xml:id="I-778" type="sublemma" lang="Latinum">inpensa</form> oleum cum garo <emph>Loewe</emph>). erogatio <ref addName="Ab abs." cRef="CGL.IV.413.54">IV 413, 54</ref>. 
-      <form xml:id="I-779" type="sublemma" lang="Latinum">impensam</form> ἐλαιόγαρον <ref addName="coll. Monac." cRef="CGL.III.218.28">III 218, 28</ref> = <ref addName="None" cRef="CGL.III.653.11">653, 11</ref>. 
+      <form xml:id="I-779" type="sublemma" lang="Latinum">impensam</form> ἐλαιόγαρον <ref addName="coll. Monac." cRef="CGL.III.218.28">III 218, 28</ref> = <ref addName="coll. emendata" cRef="CGL.III.653.11">653, 11</ref>. 
       <form xml:id="I-780" type="sublemma" lang="Latinum">inpensae</form> ἀναλώματα <ref addName="Ps.-Phil." cRef="CGL.II.84.55">II 84, 55</ref>. sumptus <ref addName="Abav." cRef="CGL.IV.354.53">IV 354, 53</ref>. 
       <form xml:id="I-781" type="sublemma" lang="Latinum">inpensas</form> ἀναλώματα <ref addName="Ps.-Phil." cRef="CGL.II.84.57">II 84, 57</ref>. <emph>V.</emph> ordinarias imp., sine impensa.
     </entryFree>
@@ -1686,8 +1686,8 @@
       <form xml:id="I-795" type="sublemma" lang="Latinum">imperator</form> ἄναξ 
       <form xml:id="I-796" type="sublemma" lang="Latinum">imperator</form> <ref addName="hermen. Leid." cRef="CGL.III.28.11">III 28, 11</ref>. induperator uel summus sacerdos <ref addName="Abav." cRef="CGL.IV.351.1">IV 351, 1</ref> (<emph>cf. Serv. in Aen.</emph> III 80). 
       <form xml:id="I-797" type="sublemma" lang="Latinum">imperatores</form> αὐτοκράτορες <ref addName="Ps.-Phil." cRef="CGL.II.78.20">II 78, 20</ref>. 
-      <form xml:id="I-798" type="sublemma" lang="Latinum">imperatorum</form> τῶν αὐτοκρατόρων <ref addName="coll. Harl." cRef="CGL.III.110.57">III 110, 57</ref> = <ref addName="None" cRef="CGL.III.640.9">640, 9</ref>. 
-      <form xml:id="I-799" type="sublemma" lang="Latinum">imperatoribus</form> τῶν αὐτοκρατόρων <ref addName="coll. Harl." cRef="CGL.III.110.50">III 110, 50</ref> = <ref addName="None" cRef="CGL.III.640.9">640, 9</ref>. <emph>V.</emph> dictator.
+      <form xml:id="I-798" type="sublemma" lang="Latinum">imperatorum</form> τῶν αὐτοκρατόρων <ref addName="coll. Harl." cRef="CGL.III.110.57">III 110, 57</ref> = <ref addName="coll. emendata" cRef="CGL.III.640.9">640, 9</ref>. 
+      <form xml:id="I-799" type="sublemma" lang="Latinum">imperatoribus</form> τῶν αὐτοκρατόρων <ref addName="coll. Harl." cRef="CGL.III.110.50">III 110, 50</ref> = <ref addName="coll. emendata" cRef="CGL.III.640.9">640, 9</ref>. <emph>V.</emph> dictator.
     </entryFree>
     <entryFree>
       <form xml:id="I-800" type="lemma" lang="Latinum">Imperatoria</form> αὐτοκρατορική <ref addName="Ps.-Cyr." cRef="CGL.II.251.44">II 251, 44</ref>.
@@ -1729,7 +1729,7 @@
       <form xml:id="I-816" type="sublemma" lang="Latinum">inperitos</form> inprudentes <ref addName="exc. Vat. reg. 215 / Alieno" cRef="CGL.V.535.58">V 535, 58</ref> (<emph>Ter. Andr.</emph> 911).
     </entryFree>
     <entryFree>
-      <form xml:id="I-817" type="lemma" lang="Latinum">Imperium</form> ἡγεμονία, κράτος βασιλικόν <ref addName="Ps.-Phil." cRef="CGL.II.78.24">II 78, 24</ref>. κράτος <ref addName="Ps.-Cyr." cRef="CGL.II.354.51">II 354, 51</ref>; <ref addName="idiom. Harl." cRef="CGL.II.500.32">500, 32</ref>; <ref addName="hermen. Montep." cRef="CGL.III.290.29">III 290, 29</ref>; <ref addName="Absid. Vat." cRef="CGL.III.524.30">524, 30</ref>. κράτος, ἐξουσία <ref addName="gl. Serv. Putean." cRef="CGL.II.536.31">II 536, 31</ref>. κράτησις, ἐπιταγή <ref addName="idiom. nom." cRef="CGL.II.547.43">II 547, 43</ref>. ἀρχή <ref addName="Ps.-Cyr." cRef="CGL.II.246.37">II 246, 37</ref>; <ref addName="idiom. Harl." cRef="CGL.II.503.70">503, 70</ref>; <ref addName="gl. Laud." cRef="CGL.II.554.6">554, 6</ref>. ἐπιταγή <ref addName="hermen. Monac." cRef="CGL.III.137.43">III 137, 43</ref>. βασίλειον <ref addName="Ps.-Cyr." cRef="CGL.II.256.14">II 256, 14</ref>. πρόσταγμα. Terent. Heautontim. (634 <emph>sq.</emph>): si meum imperium exequi uoluisses <ref addName="Ps.-Cyr." cRef="CGL.II.423.1">II 423, 1</ref>. potestas <ref addName="Ab abs." cRef="CGL.IV.412.46">IV 412, 46</ref>. regaIe potestate (!) uel iussione <ref addName="Affat." cRef="CGL.IV.527.10">IV 527, 10</ref> (<emph>= d e f</emph> IV 412, 46). regalis potestas <ref addName="Abba" cRef="CGL.IV.246.35">IV 246, 35</ref>. <emph>V.</emph> paucorum imp., populare imp. bonorum.
+      <form xml:id="I-817" type="lemma" lang="Latinum">Imperium</form> ἡγεμονία, κράτος βασιλικόν <ref addName="Ps.-Phil." cRef="CGL.II.78.24">II 78, 24</ref>. κράτος <ref addName="Ps.-Cyr." cRef="CGL.II.354.51">II 354, 51</ref>; <ref addName="idiom. Harl." cRef="CGL.II.500.32">500, 32</ref>; <ref addName="hermen. Montep." cRef="CGL.III.290.29">III 290, 29</ref>; <ref addName="Absid. Vat." cRef="CGL.III.524.30">524, 30</ref>. κράτος, ἐξουσία <ref addName="gl. Serv. Putean." cRef="CGL.II.536.31">II 536, 31</ref>. κράτησις, ἐπιταγή <ref addName="idiom. nom." cRef="CGL.II.547.43">II 547, 43</ref>. ἀρχή <ref addName="Ps.-Cyr." cRef="CGL.II.246.37">II 246, 37</ref>; <ref addName="idiom. Harl." cRef="CGL.II.503.70">503, 70</ref>; <ref addName="gl. Laud." cRef="CGL.II.554.6">554, 6</ref>. ἐπιταγή <ref addName="hermen. Monac." cRef="CGL.III.137.43">III 137, 43</ref>. βασίλειον <ref addName="Ps.-Cyr." cRef="CGL.II.256.14">II 256, 14</ref>. πρόσταγμα. Terent. Heautontim. (634 <emph>sq.</emph>): si meum imperium exequi uoluisses <ref addName="Ps.-Cyr." cRef="CGL.II.423.1">II 423, 1</ref>. potestas <ref addName="Ab abs." cRef="CGL.IV.412.46">IV 412, 46</ref>. regaIe potestate (!) uel iussione <ref addName="Affat." cRef="CGL.IV.527.10">IV 527, 10</ref> (<emph>= d e f</emph> <ref addName="Ab abs." cRef="CGL.IV.412.46">IV 412, 46</ref>). regalis potestas <ref addName="Abba" cRef="CGL.IV.246.35">IV 246, 35</ref>. <emph>V.</emph> paucorum imp., populare imp. bonorum.
     </entryFree>
     <entryFree>
       <form xml:id="I-818" type="lemma" lang="Latinum">Impero</form> προστάσσω <ref addName="Ps.-Phil." cRef="CGL.II.78.14">II 78, 14</ref>. προστάττω <ref addName="Ps.-Cyr." cRef="CGL.II.423.6">II 423, 6</ref>. ἐπιτάττω <ref addName="Ps.-Cyr." cRef="CGL.II.311.38">II 311, 38</ref>. ἐπιτάσσω <ref addName="hermen. Monac." cRef="CGL.III.137.34">III 137, 34</ref>. παρακελεύομαι <ref addName="Ps.-Cyr." cRef="CGL.II.395.6">II 395, 6</ref>. βασιλεύω <ref addName="Ps.-Cyr." cRef="CGL.II.256.15">II 256, 15</ref> (imperio <emph>cod. corr. a e</emph>). ἄρχω <ref addName="Ps.-Cyr." cRef="CGL.II.247.4">II 247, 4</ref>. 
@@ -1907,7 +1907,7 @@
       <form xml:id="I-900" type="sublemma" lang="Latinum">implet</form> γεμίζει <ref addName="hermen. Monac." cRef="CGL.III.132.33">III 132, 33</ref>. γεμοῖ <ref addName="hermen. Ampl." cRef="CGL.III.74.13">III 74, 13</ref>. 
       <form xml:id="I-901" type="sublemma" lang="Latinum">implent</form> statuunt (<emph>v.</emph> statuo) <ref addName="Abect." cRef="CGL.IV.445.43">IV 445, 43</ref> (<emph>Verg. Aen.</emph> XI 274?). 
       <form xml:id="I-902" type="sublemma" lang="Latinum">imple</form> γέμισον <ref addName="frg. Par." cRef="CGL.II.563.38">II 563, 38</ref>.; <ref addName="hermen. Monac." cRef="CGL.III.132.34">III 132, 34</ref>. <emph>Cf.</emph> 
-      <form xml:id="I-903" type="sublemma" lang="Latinum">et imple aquam</form> καὶ γόμωσον ὕδωρ <ref addName="coll. Montep." cRef="CGL.III.286.11">III 286, 11</ref> = <ref addName="None" cRef="CGL.III.656.12">656, 12</ref>. 
+      <form xml:id="I-903" type="sublemma" lang="Latinum">et imple aquam</form> καὶ γόμωσον ὕδωρ <ref addName="coll. Montep." cRef="CGL.III.286.11">III 286, 11</ref> = <ref addName="coll. emendata" cRef="CGL.III.656.12">656, 12</ref>. 
       <form xml:id="I-904" type="sublemma" lang="Latinum">implebo</form> ἐμπλήσω <ref addName="Ps.-Cyr." cRef="CGL.II.296.36">II 296, 36</ref>. 
       <form xml:id="I-905" type="sublemma" lang="Latinum">impletur</form> περιπλήθεται <ref addName="hermen. Monac." cRef="CGL.III.153.1">III 153, 1</ref>. 
       <form xml:id="I-906" type="sublemma" lang="Latinum">implentur</form> satiantur <ref addName="Affat." cRef="CGL.IV.527.17">IV 527, 17</ref> (<emph>Verg. Aen.</emph> I 215). 
@@ -2046,7 +2046,7 @@
       <form xml:id="I-974" type="sublemma" lang="Latinum">inpossibili</form> ἀδυνάτῳ <ref addName="Ps.-Phil." cRef="CGL.II.85.27">II 85, 27</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-975" type="lemma" lang="Latinum">Impostor</form> (<emph>vel</emph> inp.) ἐπιθέτης <ref addName="Ps.-Cyr." cRef="CGL.II.308.15">II 308, 15</ref>; <ref addName="hermen. Monac." cRef="CGL.III.137.63">III 137, 63</ref>; <ref addName="hermen. Monac." cRef="CGL.III.179.1">179, 1</ref>; <ref addName="hermen. Einsidl." cRef="CGL.III.251.28">251, 28</ref>; <ref addName="hermen. Steph." cRef="CGL.III.373.35">373, 35</ref>. ἐπιθέτα (<emph>vocat.</emph>) <ref addName="coll. Harl." cRef="CGL.III.112.64/65">III 112, 64/65</ref> = <ref addName="None" cRef="CGL.III.642.18">642, 18</ref>; <ref addName="coll. Harl." cRef="CGL.III.112.18">112, 18</ref> = <ref addName="None" cRef="CGL.III.641.16">641, 16</ref>. <emph>Cf.</emph> 
+      <form xml:id="I-975" type="lemma" lang="Latinum">Impostor</form> (<emph>vel</emph> inp.) ἐπιθέτης <ref addName="Ps.-Cyr." cRef="CGL.II.308.15">II 308, 15</ref>; <ref addName="hermen. Monac." cRef="CGL.III.137.63">III 137, 63</ref>; <ref addName="hermen. Monac." cRef="CGL.III.179.1">179, 1</ref>; <ref addName="hermen. Einsidl." cRef="CGL.III.251.28">251, 28</ref>; <ref addName="hermen. Steph." cRef="CGL.III.373.35">373, 35</ref>. ἐπιθέτα (<emph>vocat.</emph>) <ref addName="coll. Harl." cRef="CGL.III.112.64/65">III 112, 64/65</ref> = <ref addName="coll. emendata" cRef="CGL.III.642.18">642, 18</ref>; <ref addName="coll. Harl." cRef="CGL.III.112.18">112, 18</ref> = <ref addName="coll. emendata" cRef="CGL.III.641.16">641, 16</ref>. <emph>Cf.</emph> 
       <form xml:id="I-976" type="sublemma" lang="Latinum">inpostor</form> [
       <form xml:id="I-977" type="sublemma" lang="Latinum">inposita</form> ἐπίθετα] ἐπιθέτης <ref addName="Ps.-Phil." cRef="CGL.II.85.38">II 85, 38</ref>. fallax <ref addName="gl. nom." cRef="CGL.II.584.1">II 584, 1</ref>. strofarius, strofosus <ref addName="Abect." cRef="CGL.IV.445.44">IV 445, 44</ref>. 
       <form xml:id="I-978" type="sublemma" lang="Latinum">inpostorem</form> bisuicend (<emph>vel</emph> bisuiccend, <emph>AS.</emph>) <ref addName="Apod." cRef="CGL.V.367.7">V 367, 7</ref>. 
@@ -2179,7 +2179,7 @@
       <form xml:id="I-1032" type="lemma" lang="Latinum">Improximabilis</form> ἀπροσπέλαστος <ref addName="hermen. Vat." cRef="CGL.III.423.14">III 423, 14</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-1033" type="lemma" lang="Latinum">Imprudens</form> (<emph>vel</emph> inp.) ἄφρων <ref addName="Ps.-Cyr." cRef="CGL.II.254.5">II 254, 5</ref>; <ref addName="hermen. Steph." cRef="CGL.III.373.37">III 373, 37</ref>. ἄπειρος <ref addName="Ps.-Cyr." cRef="CGL.II.234.9">II 234, 9</ref>; <ref addName="hermen. Monac." cRef="CGL.III.125.33">III 125, 33</ref>. ἀσύνετος <ref addName="Ps.-Cyr." cRef="CGL.II.249.6">II 249, 6</ref>. ἄπειρος, ἄφρων <ref addName="hermen. Montep." cRef="CGL.III.333.58">III 333, 58</ref>. ἄνευ προνοίας <ref addName="gl. Steph." cRef="CGL.III.451.11">III 451, 11</ref> (<emph>Cf.</emph> III 482, 49: <emph>ubi</emph> 
+      <form xml:id="I-1033" type="lemma" lang="Latinum">Imprudens</form> (<emph>vel</emph> inp.) ἄφρων <ref addName="Ps.-Cyr." cRef="CGL.II.254.5">II 254, 5</ref>; <ref addName="hermen. Steph." cRef="CGL.III.373.37">III 373, 37</ref>. ἄπειρος <ref addName="Ps.-Cyr." cRef="CGL.II.234.9">II 234, 9</ref>; <ref addName="hermen. Monac." cRef="CGL.III.125.33">III 125, 33</ref>. ἀσύνετος <ref addName="Ps.-Cyr." cRef="CGL.II.249.6">II 249, 6</ref>. ἄπειρος, ἄφρων <ref addName="hermen. Montep." cRef="CGL.III.333.58">III 333, 58</ref>. ἄνευ προνοίας <ref addName="gl. Steph." cRef="CGL.III.451.11">III 451, 11</ref> (<emph>Cf.</emph> <ref addName="gl. Lois." cRef="CGL.III.482.49">III 482, 49</ref>: <emph>ubi</emph> 
       <form xml:id="I-1034" type="sublemma" lang="Latinum">imprudens</form> ἄνευ προνοίας <emph>corrige, cf. marg.</emph>). inhonestus, inuerecundus <ref addName="Abstr. II" cRef="CGL.IV.97.18">IV 97, 18</ref> (impudens?). 
       <form xml:id="I-1035" type="sublemma" lang="Latinum">inprodens</form> sciens me tantum <ref addName="exc. Vat. reg. 215 / Alieno" cRef="CGL.V.535.40">V 535, 40</ref> (<emph>Ter. Andr.</emph> 642). <emph>V.</emph> impudicus.
     </entryFree>
@@ -2347,7 +2347,7 @@
       <form xml:id="I-1115" type="lemma" lang="Latinum">Inaccusabilis</form> ἀκατηγόρητος <ref addName="Ps.-Cyr." cRef="CGL.II.222.34">II 222, 34</ref>. ἀνέγκλητος <ref addName="Ps.-Cyr." cRef="CGL.II.225.27">II 225, 27</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-1116" type="lemma" lang="Latinum">In acetabulo</form> εἰς τὸ ὀξύβαφον <ref addName="coll. Montep." cRef="CGL.III.288.15">III 288, 15</ref> (acit.) = <ref addName="None" cRef="CGL.III.658.18">658, 18</ref>.
+      <form xml:id="I-1116" type="lemma" lang="Latinum">In acetabulo</form> εἰς τὸ ὀξύβαφον <ref addName="coll. Montep." cRef="CGL.III.288.15">III 288, 15</ref> (acit.) = <ref addName="coll. emendata" cRef="CGL.III.658.18">658, 18</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-1117" type="lemma" lang="Latinum">Inachides</form> id est Epaphus, filius Ius, quae filia fuit Inachi patris (pater <emph>codd.</emph>) <ref addName="gl. AA" cRef="CGL.V.460.3">V 460, 3</ref>. <emph>Cf. GR. L.</emph> II 64, 8.
@@ -2766,7 +2766,7 @@
       <form xml:id="I-1280" type="lemma" lang="Latinum">Incessabilis</form> ἄπαυστος <ref addName="hermen. Vat." cRef="CGL.III.423.46">III 423, 46</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-1281" type="lemma" lang="Latinum">Incessanter</form> σπουδαιότερον <ref addName="coll. Monac." cRef="CGL.III.212.20">III 212, 20</ref> = <ref addName="None" cRef="CGL.III.648.4">648, 4</ref>.
+      <form xml:id="I-1281" type="lemma" lang="Latinum">Incessanter</form> σπουδαιότερον <ref addName="coll. Monac." cRef="CGL.III.212.20">III 212, 20</ref> = <ref addName="coll. emendata" cRef="CGL.III.648.4">648, 4</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-1282" type="lemma" lang="Latinum">Incessunt</form> accusant <emph>Plac.</emph> <ref addName="Plac. lib. rom." cRef="CGL.V.27.4">V 27, 4</ref> (incensant recusant) = <ref addName="Plac. lib. gl." cRef="CGL.V.76.13">V 76, 13</ref> (in­cessant <emph>vel</emph> incensant). <emph>Cf. tamen Deuer­ling 'Bl. f. b. G.'</emph> XIV <emph>p.</emph> 311 <emph>de</emph> incesso, incessas <emph>cogitans.</emph> 
@@ -2855,7 +2855,7 @@
     <entryFree>
       <form xml:id="I-1329" type="lemma" lang="Latinum">Incipio</form> ἄρχομαι <ref addName="Ps.-Cyr." cRef="CGL.II.247.2">II 247, 2</ref>; <ref addName="hermen. Ampl." cRef="CGL.III.72.3">III 72, 3</ref>; <ref addName="hermen. Monac." cRef="CGL.III.122.64">122, 64</ref>; <ref addName="hermen. Montep." cRef="CGL.III.337.13">337, 13</ref>; <ref addName="hermen. frg. Leid." cRef="CGL.III.407.56">407, 56</ref>; <ref addName="gl. Steph." cRef="CGL.III.451.24">451, 24</ref>; <ref addName="Absid. Vat." cRef="CGL.III.508.74">508, 74</ref>. 
       <form xml:id="I-1330" type="sublemma" lang="Latinum">incipit</form> ἄρχεται <ref addName="hermen. Ampl." cRef="CGL.III.72.5">III 72, 5</ref>; <ref addName="hermen. Monac." cRef="CGL.III.123.2">123, 2</ref>; <ref addName="hermen. Montep." cRef="CGL.III.337.17">337, 17</ref>; <ref addName="hermen. frg. Leid." cRef="CGL.III.407.59">407, 59</ref>; <ref addName="hermen. frg. Leid." cRef="CGL.III.408.44">408, 44</ref>. μέλλει <ref addName="hermen. frg. Leid." cRef="CGL.III.408.69">III 408, 69</ref> (<emph>cf.</emph> μέλλεις 
-      <form xml:id="I-1331" type="sublemma" lang="Latinum">incipet</form> futurum III 5, 37). orditur, occipit uel prouocat <ref addName="Abav." cRef="CGL.IV.351.46">IV 351, 46</ref>. 
+      <form xml:id="I-1331" type="sublemma" lang="Latinum">incipet</form> futurum <ref addName="hermen. Leid." cRef="CGL.III.5.37">III 5, 37</ref>). orditur, occipit uel prouocat <ref addName="Abav." cRef="CGL.IV.351.46">IV 351, 46</ref>. 
       <form xml:id="I-1332" type="sublemma" lang="Latinum">incipimus</form> ἀρχόμεθα <ref addName="hermen. Monac." cRef="CGL.III.123.3">III 123, 3</ref>; <ref addName="hermen. Montep." cRef="CGL.III.337.19">337, 19</ref>; <ref addName="hermen. frg. Leid." cRef="CGL.III.407.58">407, 58</ref>. 
       <form xml:id="I-1333" type="sublemma" lang="Latinum">incipiunt</form> ἄρχονται <ref addName="hermen. Ampl." cRef="CGL.III.72.6">III 72, 6</ref>; <ref addName="hermen. Monac." cRef="CGL.III.123.4">123, 4</ref>; <ref addName="hermen. Montep." cRef="CGL.III.337.21">337, 21</ref>; <ref addName="hermen. frg. Leid." cRef="CGL.III.407.61">407, 61</ref>. 
       <form xml:id="I-1334" type="sublemma" lang="Latinum">incipiam</form> ἄρχωμαι <ref addName="hermen. Monac." cRef="CGL.III.123.5">III 123, 5</ref>; <ref addName="hermen. Montep." cRef="CGL.III.337.23">337, 23</ref>; <ref addName="Absid. Vat." cRef="CGL.III.508.56">508, 56</ref> (ἄρξομαι?). 
@@ -2867,7 +2867,7 @@
       <form xml:id="I-1340" type="sublemma" lang="Latinum">inceptum est</form> erche estin (ἀρχή ἐστιν?) <ref addName="hermen. frg. Leid." cRef="CGL.III.407.62">III 407, 62</ref>. <emph>V.</emph> ineo, infio.
     </entryFree>
     <entryFree>
-      <form xml:id="I-1341" type="lemma" lang="Latinum">Incippat</form> inludit (includit <emph>de la Cerda, Arevalus, iam d e</emph> IV 351, 47) <ref addName="Abav." cRef="CGL.IV.351.47">IV 351, 47</ref>; <ref addName="gl. Scal." cRef="CGL.V.601.40">V 601, 40</ref>; <ref addName="gl. Scal." cRef="CGL.V.602.24">602, 24</ref> (καταστηλιτεύει <emph>adn. Vulc.</emph>). <emph>V.</emph> illudentes.
+      <form xml:id="I-1341" type="lemma" lang="Latinum">Incippat</form> inludit (includit <emph>de la Cerda, Arevalus, iam d e</emph> <ref addName="Abav." cRef="CGL.IV.351.47">IV 351, 47</ref>) <ref addName="Abav." cRef="CGL.IV.351.47">IV 351, 47</ref>; <ref addName="gl. Scal." cRef="CGL.V.601.40">V 601, 40</ref>; <ref addName="gl. Scal." cRef="CGL.V.602.24">602, 24</ref> (καταστηλιτεύει <emph>adn. Vulc.</emph>). <emph>V.</emph> illudentes.
     </entryFree>
     <entryFree>
       <form xml:id="I-1342" type="lemma" lang="Latinum">Incircumscriptibilis</form> ἀπερίγραπτος <ref addName="hermen. Vat." cRef="CGL.III.423.42">III 423, 42</ref>.
@@ -3448,7 +3448,7 @@
     </entryFree>
     <entryFree>
       <form xml:id="I-1586" type="lemma" lang="Latinum">Incurro</form> ἐπιτρέχω <ref addName="Ps.-Cyr." cRef="CGL.II.312.22">II 312, 22</ref>. 
-      <form xml:id="I-1587" type="sublemma" lang="Latinum">incurrit</form> ἐνέπεσεν <ref addName="coll. Monac." cRef="CGL.III.213.38">III 213, 38</ref> (ἀν.) = <ref addName="coll. Einsidl." cRef="CGL.III.229.27">229, 27</ref> (incidit) = <ref addName="None" cRef="CGL.III.649.6">649, 6</ref>.
+      <form xml:id="I-1587" type="sublemma" lang="Latinum">incurrit</form> ἐνέπεσεν <ref addName="coll. Monac." cRef="CGL.III.213.38">III 213, 38</ref> (ἀν.) = <ref addName="coll. Einsidl." cRef="CGL.III.229.27">229, 27</ref> (incidit) = <ref addName="coll. emendata" cRef="CGL.III.649.6">649, 6</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-1588" type="lemma" lang="Latinum">Incursa</form> infesta <ref addName="Ab abs." cRef="CGL.IV.413.8">IV 413, 8</ref>. uniuersa (infesta? inuasa?) <ref addName="Abav." cRef="CGL.IV.352.34">IV 352, 34</ref>; <ref addName="Abal" cRef="CGL.V.503.63">V 503, 63</ref>; <ref addName="exc. Vat. reg. 215 / Ambag. / interpr. serm. scol." cRef="CGL.V.541.16">541, 16</ref>.
@@ -3763,7 +3763,7 @@
       <form xml:id="I-1728" type="lemma" lang="Latinum">Indidem</form> αὐτόθεν <ref addName="Ps.-Cyr." cRef="CGL.II.251.38">II 251, 38</ref>. ἐκ τοῦ αὐτοῦ <ref addName="Ps.-Cyr." cRef="CGL.II.293.18">II 293, 18</ref>. ἐντεῦθεν <ref addName="Ps.-Phil." cRef="CGL.II.80.35">II 80, 35</ref>. exinde, inde <ref addName="Ab abs." cRef="CGL.IV.413.23">IV 413, 23</ref>; <ref addName="Abav." cRef="CGL.IV.352.50">352, 50</ref>. inde, de ipso loco <ref addName="Conscr. gl." cRef="CGL.V.304.44">V 304, 44</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-1729" type="lemma" lang="Latinum">In diem pridianam</form> (pridem in am <emph>cod.</emph>) πρὸ μιᾶς (<emph>cf.</emph> II 419, 13) <ref addName="gl. Lois." cRef="CGL.III.482.49">III 482, 49</ref> (imprudens ἀνευ προνοιας <emph>mrg.</emph>).
+      <form xml:id="I-1729" type="lemma" lang="Latinum">In diem pridianam</form> (pridem in am <emph>cod.</emph>) πρὸ μιᾶς (<emph>cf.</emph> <ref addName="Ps.-Cyr." cRef="CGL.II.419.13">II 419, 13</ref>) <ref addName="gl. Lois." cRef="CGL.III.482.49">III 482, 49</ref> (imprudens ἀνευ προνοιας <emph>mrg.</emph>).
     </entryFree>
     <entryFree>
       <form xml:id="I-1730" type="lemma" lang="Latinum">In dies</form> δι' ἡμέρας <ref addName="hermen. Monac." cRef="CGL.III.135.19">III 135, 19</ref> (inter dies <emph>a</emph>).
@@ -3838,7 +3838,7 @@
       <form xml:id="I-1765" type="sublemma" lang="Latinum">indignantes</form> furentes <ref addName="Abect." cRef="CGL.IV.446.23">IV 446, 23</ref> (<emph>Verg. Aen.</emph> I 55).
     </entryFree>
     <entryFree>
-      <form xml:id="I-1766" type="lemma" lang="Latinum">Indignatio</form> θυμὸς ἐπὶ ὀργῆς <ref addName="Ps.-Cyr." cRef="CGL.II.329.58">II 329, 58</ref> (<emph>cf.</emph> III 279, 23). ἀγανάκτησις <ref addName="Ps.-Cyr." cRef="CGL.II.215.43">II 215, 43</ref>. ira <ref addName="Abav." cRef="CGL.IV.352.52">IV 352, 52</ref>.
+      <form xml:id="I-1766" type="lemma" lang="Latinum">Indignatio</form> θυμὸς ἐπὶ ὀργῆς <ref addName="Ps.-Cyr." cRef="CGL.II.329.58">II 329, 58</ref> (<emph>cf.</emph> <ref addName="hermen. Einsidl." cRef="CGL.III.279.23">III 279, 23</ref>). ἀγανάκτησις <ref addName="Ps.-Cyr." cRef="CGL.II.215.43">II 215, 43</ref>. ira <ref addName="Abav." cRef="CGL.IV.352.52">IV 352, 52</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-1767" type="lemma" lang="Latinum">Indignor</form> ἀγανακτῶ <ref addName="Ps.-Cyr." cRef="CGL.II.215.44">II 215, 44</ref>. 
@@ -4035,7 +4035,7 @@
       <form xml:id="I-1857" type="sublemma" lang="Latinum">induc</form> scarapha (<emph>v.</emph> scarifo) <ref addName="Asaru" cRef="CGL.III.566.16">III 566, 16</ref>. 
       <form xml:id="I-1858" type="sublemma" lang="Latinum">induce</form> χάραξον <ref addName="Ps.-Cyr." cRef="CGL.II.475.32">II 475, 32</ref>. 
       <form xml:id="I-1859" type="sublemma" lang="Latinum">inducere</form> χαράξαι <ref addName="hermen. Monac." cRef="CGL.III.199.17">III 199, 17</ref>. 
-      <form xml:id="I-1860" type="sublemma" lang="Latinum">induxit</form> ἐχάραξεν <ref addName="coll. Monac." cRef="CGL.III.121.38">III 121, 38</ref> = <ref addName="coll. Einsidl." cRef="CGL.III.225.35">225, 35</ref>; <ref addName="None" cRef="CGL.III.646.2">646, 2</ref>.
+      <form xml:id="I-1860" type="sublemma" lang="Latinum">induxit</form> ἐχάραξεν <ref addName="coll. Monac." cRef="CGL.III.121.38">III 121, 38</ref> = <ref addName="coll. Einsidl." cRef="CGL.III.225.35">225, 35</ref>; <ref addName="coll. emendata" cRef="CGL.III.646.2">646, 2</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-1861" type="lemma" lang="Latinum">Inducticius</form> ἐπείσακτος <ref addName="Ps.-Cyr." cRef="CGL.II.310.42">II 310, 42</ref>.
@@ -4119,7 +4119,7 @@
     <entryFree>
       <form xml:id="I-1897" type="lemma" lang="Latinum">Industria</form> φιλοπονία <ref addName="Ps.-Cyr." cRef="CGL.II.471.52">II 471, 52</ref>; <ref addName="hermen. Monac." cRef="CGL.III.198.52">III 198, 52</ref>; <ref addName="hermen. Steph." cRef="CGL.III.352.16">352, 16</ref>. σπουδή <ref addName="hermen. Vat." cRef="CGL.III.424.23">III 424, 23</ref>. ἀρετή <ref addName="Ps.-Cyr." cRef="CGL.II.244.25">II 244, 25</ref>. σπουδή, ἀρετή, φιλοπονία <ref addName="Ps.-Phil." cRef="CGL.II.81.18">II 81, 18</ref>. ἄσκησις <ref addName="Ps.-Cyr." cRef="CGL.II.247.49">II 247, 49</ref>, studium, uigilantia uel doctrina <ref addName="Abstr. II" cRef="CGL.IV.91.39">IV 91, 39</ref>. doctrina, studium <ref addName="Abba" cRef="CGL.IV.248.33">IV 248, 33</ref>. ingenium <ref addName="Abav." cRef="CGL.IV.353.3">IV 353, 3</ref>. instantia, utilitas, solertia <ref addName="Affat." cRef="CGL.IV.530.16">IV 530, 16</ref>. gyrnissae (<emph>vel</emph> ge[e]ornnissae, <emph>AS.</emph>) <ref addName="Apod." cRef="CGL.V.366.36">V 366, 36</ref>. 
       <form xml:id="I-1898" type="sublemma" lang="Latinum">industriam</form> τὴν σπουδήν <ref addName="Ps.-Phil." cRef="CGL.II.81.21">II 81, 21</ref>. 
-      <form xml:id="I-1899" type="sublemma" lang="Latinum">industria</form> φιλοπονίᾳ <ref addName="coll. Monac." cRef="CGL.III.119.21">III 119, 21</ref> = <ref addName="coll. Einsidl." cRef="CGL.III.223.13">223, 13</ref> = <ref addName="None" cRef="CGL.III.644.1">644, 1</ref>. ingenio, studio <ref addName="Affat." cRef="CGL.IV.528.15">IV 528, 15</ref>. cum labore, opera <ref addName="exc. Vat. reg. 215 / Alieno" cRef="CGL.V.535.63">V 535, 63</ref> (<emph>cf. Ter. Ad. prol.</emph> 25). <emph>V.</emph> de industria, ex ind.
+      <form xml:id="I-1899" type="sublemma" lang="Latinum">industria</form> φιλοπονίᾳ <ref addName="coll. Monac." cRef="CGL.III.119.21">III 119, 21</ref> = <ref addName="coll. Einsidl." cRef="CGL.III.223.13">223, 13</ref> = <ref addName="coll. emendata" cRef="CGL.III.644.1">644, 1</ref>. ingenio, studio <ref addName="Affat." cRef="CGL.IV.528.15">IV 528, 15</ref>. cum labore, opera <ref addName="exc. Vat. reg. 215 / Alieno" cRef="CGL.V.535.63">V 535, 63</ref> (<emph>cf. Ter. Ad. prol.</emph> 25). <emph>V.</emph> de industria, ex ind.
     </entryFree>
     <entryFree>
       <form xml:id="I-1900" type="lemma" lang="Latinum">Industriare</form> docere <ref addName="lib. gl." cRef="CGL.V.210.45">V 210, 45</ref>. decere <emph>Scal.</emph> <ref addName="gl. Scal." cRef="CGL.V.601.55">V 601, 55</ref> (industriari? <emph>V. Iul. Val.</emph> 17; <emph>W. Heraeus 'Spr. des Petr.'</emph> 40).
@@ -4396,7 +4396,7 @@
       <form xml:id="I-2024" type="lemma" lang="Latinum">Inextricabilis</form> ἀκατάτριπτος <ref addName="Ps.-Phil." cRef="CGL.II.81.51">II 81, 51</ref>. ἀνευλύτωτος <ref addName="Ps.-Cyr." cRef="CGL.II.226.31">II 226, 31</ref>. ἀνεξερεύνητος <ref addName="Ps.-Cyr." cRef="CGL.II.225.57">II 225, 57</ref>. δυσέκπλοκος <ref addName="Ps.-Cyr." cRef="CGL.II.281.43">II 281, 43</ref>. insolubilis <ref addName="Apod." cRef="CGL.V.365.28">V 365, 28</ref>. insolubilis, inreuersibilis <ref addName="Abnuo" cRef="CGL.V.553.4">V 553, 4</ref> (<emph>Serv. in Aen.</emph> VI 27). 
       <form xml:id="I-2025" type="sublemma" lang="Latinum">inextricabile</form> ἀκαταπάλαιστον, ἀκαταφρόνητον <ref addName="Ps.-Phil." cRef="CGL.II.81.40">II 81, 40</ref>. inresolubile, quod numquam finitur, facit aduerbium 'inextricabiliter' <emph>Plac.</emph> <ref addName="Plac. lib. rom." cRef="CGL.V.28.3">V 28, 3</ref> = <ref addName="Plac. lib. gl." cRef="CGL.V.77.2">V 77, 2</ref>. inexplicabile <ref addName="Abstr. II" cRef="CGL.IV.100.55">IV 100, 55</ref>. 
       <form xml:id="I-2026" type="sublemma" lang="Latinum">inextricabi­lem</form> inexplicabilem <ref addName="lib. gl." cRef="CGL.V.211.5">V 211, 5</ref>. 
-      <form xml:id="I-2027" type="sublemma" lang="Latinum">inextricabiles</form> inexterminabiles <ref addName="Aleat." cRef="CGL.V.418.54">V 418, 54</ref> (<emph>Euseb. eccl. hist.</emph> VIII 15) = <ref addName="gl. Ambr. M79s." cRef="CGL.V.427.22">427, 22</ref>. anatreten (<emph>corrige ex AHD. GL.</emph> II 434, 28; 258, 40; <emph>AS.</emph>) <ref addName="Aleat." cRef="CGL.V.424.39">V 424, 39</ref> (<emph>Cassian. instr.</emph> III 3, 6).
+      <form xml:id="I-2027" type="sublemma" lang="Latinum">inextricabiles</form> inexterminabiles <ref addName="Aleat." cRef="CGL.V.418.54">V 418, 54</ref> (<emph>Euseb. eccl. hist.</emph> VIII 15) = <ref addName="gl. Ambr. M79s." cRef="CGL.V.427.22">427, 22</ref>. anatreten (<emph>corrige ex AHD. GL.</emph> II 434, 28; 258, 40; <emph>AS.</emph>) <ref addName="Aleat." cRef="CGL.V.424.39">V 424, 39</ref> (<emph>Cassian. instr.</emph> <ref addName="hermen. Leid." cRef="CGL.III.3.6">III 3, 6</ref>).
     </entryFree>
     <entryFree>
       <form xml:id="I-2028" type="lemma" lang="Latinum">Inextricabilis error</form> labyrinthus [autem] <ref addName="Abect." cRef="CGL.IV.446.30">IV 446, 30</ref> (<emph>Verg.</emph> <emph>Aen.</emph> VI 27); <ref addName="de lat." cRef="CGL.V.662.28">V 662, 28</ref> (<emph>sine interpretamento</emph>).
@@ -4666,7 +4666,7 @@
     <entryFree>
       <form xml:id="I-2149" type="lemma" lang="Latinum">Infertor</form> παραθέτης <ref addName="Ps.-Phil." cRef="CGL.II.82.17">II 82, 17</ref>; <ref addName="Ps.-Cyr." cRef="CGL.II.394.43">394, 43</ref>. 
       <form xml:id="I-2150" type="sublemma" lang="Latinum">infertores</form> παραθέται <ref addName="Ps.-Phil." cRef="CGL.II.82.18">II 82, 18</ref>. <emph>Cf.</emph> 
-      <form xml:id="I-2151" type="sublemma" lang="Latinum">de infertoribus</form> παρὰ τῶν προαγοραστῶν <ref addName="coll. Montep." cRef="CGL.III.286.30">III 286, 30</ref> = <ref addName="None" cRef="CGL.III.657.13">657, 13</ref> (<emph>cf. Haupt. Op.</emph> II <emph>p.</emph> 446).
+      <form xml:id="I-2151" type="sublemma" lang="Latinum">de infertoribus</form> παρὰ τῶν προαγοραστῶν <ref addName="coll. Montep." cRef="CGL.III.286.30">III 286, 30</ref> = <ref addName="coll. emendata" cRef="CGL.III.657.13">657, 13</ref> (<emph>cf. Haupt. Op.</emph> II <emph>p.</emph> 446).
     </entryFree>
     <entryFree>
       <form xml:id="I-2152" type="lemma" lang="Latinum">Inferus</form> Ἅιδης <ref addName="Ps.-Phil." cRef="CGL.II.82.16">II 82, 16</ref>; <ref addName="hermen. Monac." cRef="CGL.III.168.1">III 168, 1</ref> (inferi). 
@@ -4965,7 +4965,7 @@
       <form xml:id="I-2299" type="lemma" lang="Latinum">Infou</form> ἄτρητος (<emph>simul cum</emph> inextricatus, inextricata) <ref addName="Ps.-Cyr." cRef="CGL.II.250.27">II 250, 27</ref>. <emph>V.</emph> infossus.
     </entryFree>
     <entryFree>
-      <form xml:id="I-2300" type="lemma" lang="Latinum">Infra</form> ἐντός <ref addName="Ps.-Cyr." cRef="CGL.II.300.45">II 300, 45</ref> (intra? <emph>quod ipsum sequitur, ut</emph> II 287, 61). εἴσω <ref addName="Ps.-Cyr." cRef="CGL.II.287.61">II 287, 61</ref>. κάτω <ref addName="Ps.-Cyr." cRef="CGL.II.346.43">II 346, 43</ref>. ὑποκάτω <ref addName="Ps.-Cyr." cRef="CGL.II.466.30">II 466, 30</ref>. subtus <ref addName="Abstr. II" cRef="CGL.IV.90.13">IV 90, 13</ref>. <emph>V.</emph> ad infra, infra se, infra nares.
+      <form xml:id="I-2300" type="lemma" lang="Latinum">Infra</form> ἐντός <ref addName="Ps.-Cyr." cRef="CGL.II.300.45">II 300, 45</ref> (intra? <emph>quod ipsum sequitur, ut</emph> <ref addName="Ps.-Cyr." cRef="CGL.II.287.61">II 287, 61</ref>). εἴσω <ref addName="Ps.-Cyr." cRef="CGL.II.287.61">II 287, 61</ref>. κάτω <ref addName="Ps.-Cyr." cRef="CGL.II.346.43">II 346, 43</ref>. ὑποκάτω <ref addName="Ps.-Cyr." cRef="CGL.II.466.30">II 466, 30</ref>. subtus <ref addName="Abstr. II" cRef="CGL.IV.90.13">IV 90, 13</ref>. <emph>V.</emph> ad infra, infra se, infra nares.
     </entryFree>
     <entryFree>
       <form xml:id="I-2301" type="lemma" lang="Latinum">Infractio</form> ἐπίκλασμα <ref addName="Ps.-Cyr." cRef="CGL.II.308.40">II 308, 40</ref>. 
@@ -5055,7 +5055,7 @@
     </entryFree>
     <entryFree>
       <pb n="VI.575" facs="6.575.jpg"/> 
-      <form xml:id="I-2341" type="lemma" lang="Latinum">Infula</form> (<emph>vel</emph> infola <emph>vel</emph> imf.) στέμμα <ref addName="Ps.-Cyr." cRef="CGL.II.437.4">II 437, 4</ref>; <ref addName="gl. Serv." cRef="CGL.II.522.58">522, 58</ref>. sacerdotalis uitta et administratio iudicialis <ref addName="Affat." cRef="CGL.IV.529.53">IV 529, 53</ref>; <ref addName="gl. Scal." cRef="CGL.V.602.18">V 602, 18</ref>. uitta quaedam dignitatis quo (!) utuntur monachi (manichei <emph>vel</emph> manachei <emph>codd.</emph>) <ref addName="Apod." cRef="CGL.V.365.45">V 365, 45</ref>. uitta est quaedam dignitatis, quo (!) utuntur magni (<emph>vel</emph> magni et: <emph>semel</emph> magi et: <emph>an</emph> magistratus et?) sacerdotes <ref addName="Conscr. gl." cRef="CGL.V.303.28">V 303, 28</ref> (<emph>cf.</emph> qua utuntur magni sacerdotes IV 93, 15; 350, 54). uitta sacerdotis <ref addName="Abav." cRef="CGL.IV.350.55">IV 350, 55</ref>. uitta sacerdotalis <ref addName="Abstr. II" cRef="CGL.IV.92.10">IV 92, 10</ref>. uitta sacra aut uitta sacrorum <ref addName="Ab abs." cRef="CGL.IV.413.31">IV 413, 31</ref>. sacra uitta uel uestes sacerdotum <ref addName="Abect." cRef="CGL.IV.446.44">IV 446, 44</ref>. facultas (!) uel uittae magistratus <ref addName="Abect." cRef="CGL.IV.446.45">IV 446, 45</ref> (<emph>cf. Verg. Aen.</emph> II 430; X 538). 
+      <form xml:id="I-2341" type="lemma" lang="Latinum">Infula</form> (<emph>vel</emph> infola <emph>vel</emph> imf.) στέμμα <ref addName="Ps.-Cyr." cRef="CGL.II.437.4">II 437, 4</ref>; <ref addName="gl. Serv." cRef="CGL.II.522.58">522, 58</ref>. sacerdotalis uitta et administratio iudicialis <ref addName="Affat." cRef="CGL.IV.529.53">IV 529, 53</ref>; <ref addName="gl. Scal." cRef="CGL.V.602.18">V 602, 18</ref>. uitta quaedam dignitatis quo (!) utuntur monachi (manichei <emph>vel</emph> manachei <emph>codd.</emph>) <ref addName="Apod." cRef="CGL.V.365.45">V 365, 45</ref>. uitta est quaedam dignitatis, quo (!) utuntur magni (<emph>vel</emph> magni et: <emph>semel</emph> magi et: <emph>an</emph> magistratus et?) sacerdotes <ref addName="Conscr. gl." cRef="CGL.V.303.28">V 303, 28</ref> (<emph>cf.</emph> qua utuntur magni sacerdotes <ref addName="Abstr. II" cRef="CGL.IV.93.15">IV 93, 15</ref>; <ref addName="Abav." cRef="CGL.IV.350.54">350, 54</ref>). uitta sacerdotis <ref addName="Abav." cRef="CGL.IV.350.55">IV 350, 55</ref>. uitta sacerdotalis <ref addName="Abstr. II" cRef="CGL.IV.92.10">IV 92, 10</ref>. uitta sacra aut uitta sacrorum <ref addName="Ab abs." cRef="CGL.IV.413.31">IV 413, 31</ref>. sacra uitta uel uestes sacerdotum <ref addName="Abect." cRef="CGL.IV.446.44">IV 446, 44</ref>. facultas (!) uel uittae magistratus <ref addName="Abect." cRef="CGL.IV.446.45">IV 446, 45</ref> (<emph>cf. Verg. Aen.</emph> II 430; X 538). 
       <form xml:id="I-2342" type="sublemma" lang="Latinum">infulae</form> ἱκετήρια ἱερ&lt;έ&gt;ων <ref addName="hermen. Montep." cRef="CGL.III.301.58">III 301, 58</ref>. στέμματα <ref addName="Ps.-Phil." cRef="CGL.II.82.60">II 82, 60</ref>. sunt ornamenta omnium honorum [rerum] et (honorum omnium rerum et <emph>G</emph>) dignitatum, et equorum ephippia siue freni <emph>Plac.</emph> <ref addName="Plac. lib. rom." cRef="CGL.V.27.15">V 27, 15</ref> = <ref addName="Plac. lib. gl." cRef="CGL.V.77.14">V 77, 14</ref>. uelamenta de lana in modum uittarum facta <ref addName="Affat." cRef="CGL.IV.529.51">IV 529, 51</ref>. uittae sacerdotum <ref addName="Abstr. II" cRef="CGL.IV.91.8">IV 91, 8</ref>; <ref addName="Affat." cRef="CGL.IV.529.52">529, 52</ref>; <ref addName="Conscr. gl." cRef="CGL.V.302.64">V 302, 64</ref>. uittae sacerdotales <ref addName="Abba" cRef="CGL.IV.249.8">IV 249, 8</ref>. uittae, dignitas, graece diadema <ref addName="Conscr. gl." cRef="CGL.V.304.41">V 304, 41</ref>. 
       <form xml:id="I-2343" type="sublemma" lang="Latinum">infulas</form> uictimas <ref addName="Abstr. II" cRef="CGL.IV.101.32">IV 101, 32</ref> (<emph>cf. Festus Pauli p.</emph> 113, 1. uittas? inmolas <emph>H.</emph>). dignitates <ref addName="Aleat." cRef="CGL.V.424.26">V 424, 26</ref> (<emph>de dialog.</emph>). munera sacerdotalium &lt;dignitatum <emph>add. f</emph>&gt; <ref addName="Ab abs." cRef="CGL.IV.413.33">IV 413, 33</ref>. 
       <form xml:id="I-2344" type="sublemma" lang="Latinum">infulis</form> dignitatibus <ref addName="Abba" cRef="CGL.IV.249.7">IV 249, 7</ref>.
@@ -5106,7 +5106,7 @@
       <form xml:id="I-2365" type="lemma" lang="Latinum">Infuscatus</form> σπιλωθείς, συνσκιασθείς (συνσκευασθ. <emph>cod. corr. c</emph>) <ref addName="Ps.-Phil." cRef="CGL.II.83.4">II 83, 4</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-2366" type="lemma" lang="Latinum">Infuscauit pudorem eius</form> <ref addName="de lat." cRef="CGL.V.662.25">V 662, 25</ref> (<emph>quo spectant haec:</emph> Pulsauit pudorem eius V 663, 76; Moratus cum muliere grauidam eam reddidit V 663, 8).
+      <form xml:id="I-2366" type="lemma" lang="Latinum">Infuscauit pudorem eius</form> <ref addName="de lat." cRef="CGL.V.662.25">V 662, 25</ref> (<emph>quo spectant haec:</emph> Pulsauit pudorem eius <ref addName="de lat." cRef="CGL.V.663.76">V 663, 76</ref>; Moratus cum muliere grauidam eam reddidit <ref addName="de lat." cRef="CGL.V.663.8">V 663, 8</ref>).
     </entryFree>
     <entryFree>
       <form xml:id="I-2367" type="lemma" lang="Latinum">Infusco</form> μελα\*\*νω (μελαίνω?) <ref addName="Ps.-Cyr." cRef="CGL.II.366.43">II 366, 43</ref>. 
@@ -5196,7 +5196,7 @@
     </entryFree>
     <entryFree>
       <form xml:id="I-2404" type="lemma" lang="Latinum">Ingenuitas</form> εὐγένεια <ref addName="Ps.-Phil." cRef="CGL.II.79.42">II 79, 42</ref>. ἐλευθερία <ref addName="Ps.-Phil." cRef="CGL.II.79.55">II 79, 55</ref>; <ref addName="hermen. Monac." cRef="CGL.III.168.18">III 168, 18</ref>. nobilitas <ref addName="gl. nom." cRef="CGL.II.583.46">II 583, 46</ref>. 
-      <form xml:id="I-2405" type="sublemma" lang="Latinum">ingenuitatem tuam</form> τῇ εὐγενείᾳ σου <ref addName="coll. Harl." cRef="CGL.III.109.40/42">III 109, 40/42</ref> = <ref addName="None" cRef="CGL.III.639.4">639, 4</ref>.
+      <form xml:id="I-2405" type="sublemma" lang="Latinum">ingenuitatem tuam</form> τῇ εὐγενείᾳ σου <ref addName="coll. Harl." cRef="CGL.III.109.40/42">III 109, 40/42</ref> = <ref addName="coll. emendata" cRef="CGL.III.639.4">639, 4</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-2406" type="lemma" lang="Latinum">Ingenuo</form> γονυπετῶ <ref addName="hermen. Monac." cRef="CGL.III.131.64">III 131, 64</ref> (<emph>cf.</emph> pergenuat. in genu cado <emph>a. usitatum</emph> ingenuclo).
@@ -5612,7 +5612,7 @@
     </entryFree>
     <entryFree>
       <form xml:id="I-2593" type="lemma" lang="Latinum">Iniungo</form> ἐγχειρίζω <ref addName="Ps.-Cyr." cRef="CGL.II.284.21">II 284, 21</ref>. ἐπιζευγνύω <ref addName="Ps.-Cyr." cRef="CGL.II.308.5">II 308, 5</ref>. ἐπισυνάπτω <ref addName="Ps.-Cyr." cRef="CGL.II.311.26">II 311, 26</ref>. 
-      <form xml:id="I-2594" type="sublemma" lang="Latinum">iniungere</form> ἐγχειρῆσαι <ref addName="coll. Harl." cRef="CGL.III.111.32">III 111, 32</ref> = <ref addName="None" cRef="CGL.III.641.12">641, 12</ref>. 
+      <form xml:id="I-2594" type="sublemma" lang="Latinum">iniungere</form> ἐγχειρῆσαι <ref addName="coll. Harl." cRef="CGL.III.111.32">III 111, 32</ref> = <ref addName="coll. emendata" cRef="CGL.III.641.12">641, 12</ref>. 
       <form xml:id="I-2595" type="sublemma" lang="Latinum">iniungam</form> iungam, coniungam <ref addName="Abect." cRef="CGL.IV.447.4">IV 447, 4</ref> (<emph>gl. Verg. Aen.</emph> I 73?). 
       <form xml:id="I-2596" type="sublemma" lang="Latinum">iniunxit</form> ἐνεχείρησεν (-ισεν <emph>e</emph>) <ref addName="Ps.-Phil." cRef="CGL.II.83.17">II 83, 17</ref>.
     </entryFree>
@@ -5928,7 +5928,7 @@
       <form xml:id="I-2725" type="lemma" lang="Latinum">Inobtemperans</form> ἀπειθὴς ὁ αὐθάδης <ref addName="Ps.-Cyr." cRef="CGL.II.233.48">II 233, 48</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-2726" type="lemma" lang="Latinum">In occasu</form> in interitu <ref addName="Abstr. II" cRef="CGL.IV.101.14">IV 101, 14</ref>; <ref addName="Abect." cRef="CGL.IV.447.23">447, 23</ref> (<emph>Verg. Aen.</emph> II 432). in fine[m] <ref addName="Affat." cRef="CGL.IV.529.45">IV 529, 45</ref> (<emph>cf. d e f</emph> IV 447, 23).
+      <form xml:id="I-2726" type="lemma" lang="Latinum">In occasu</form> in interitu <ref addName="Abstr. II" cRef="CGL.IV.101.14">IV 101, 14</ref>; <ref addName="Abect." cRef="CGL.IV.447.23">447, 23</ref> (<emph>Verg. Aen.</emph> II 432). in fine[m] <ref addName="Affat." cRef="CGL.IV.529.45">IV 529, 45</ref> (<emph>cf. d e f</emph> <ref addName="Abect." cRef="CGL.IV.447.23">IV 447, 23</ref>).
     </entryFree>
     <entryFree>
       <form xml:id="I-2727" type="lemma" lang="Latinum">In occulto</form> ἐν τῷ κρυπτῷ <ref addName="hermen. frg. Leid." cRef="CGL.III.408.72">III 408, 72</ref>.
@@ -6146,7 +6146,7 @@
       <form xml:id="I-2808" type="sublemma" lang="Latinum">inquisti</form> dixisti <ref addName="Abstr. II" cRef="CGL.IV.97.30">IV 97, 30</ref>. 
       <form xml:id="I-2809" type="sublemma" lang="Latinum">inquit</form> φησί <ref addName="Ps.-Phil." cRef="CGL.II.83.32">II 83, 32</ref>. φησίν <ref addName="Ps.-Cyr." cRef="CGL.II.470.45">II 470, 45</ref> (<emph>cf.</emph> fisin 
       <form xml:id="I-2810" type="sublemma" lang="Latinum">inquo =</form> φησίν 
-      <form xml:id="I-2811" type="sublemma" lang="Latinum">inquit</form> III 162, 55). dicit, dixit <ref addName="Abstr. II" cRef="CGL.IV.97.24">IV 97, 24</ref>. dixit <ref addName="Abav." cRef="CGL.IV.355.37">IV 355, 37</ref>; <ref addName="Affat." cRef="CGL.IV.530.36">530, 36</ref>. 
+      <form xml:id="I-2811" type="sublemma" lang="Latinum">inquit</form> <ref addName="hermen. Monac." cRef="CGL.III.162.55">III 162, 55</ref>). dicit, dixit <ref addName="Abstr. II" cRef="CGL.IV.97.24">IV 97, 24</ref>. dixit <ref addName="Abav." cRef="CGL.IV.355.37">IV 355, 37</ref>; <ref addName="Affat." cRef="CGL.IV.530.36">530, 36</ref>. 
       <form xml:id="I-2812" type="sublemma" lang="Latinum">inquimus</form> dicimus <ref addName="Abstr. II" cRef="CGL.IV.97.29">IV 97, 29</ref>; <ref addName="lib. gl." cRef="CGL.V.212.22">V 212, 22</ref>. 
       <form xml:id="I-2813" type="sublemma" lang="Latinum">inquitis</form> dicitis <ref addName="Affat." cRef="CGL.IV.530.35">IV 530, 35</ref>; <ref addName="Conscr. gl." cRef="CGL.V.302.22">V 302, 22</ref>. 
       <form xml:id="I-2814" type="sublemma" lang="Latinum">inquiunt</form> dicunt <ref addName="Abstr. II" cRef="CGL.IV.97.25">IV 97, 25</ref>; <ref addName="Abav." cRef="CGL.IV.355.38">355, 38</ref>; <ref addName="lib. gl." cRef="CGL.V.212.25">V 212, 25</ref>. dicunt, aiunt <ref addName="Abav. mai." cRef="CGL.V.629.36">V 629, 36</ref>. 
@@ -6578,7 +6578,7 @@
       <form xml:id="I-3001" type="sublemma" lang="Latinum">insigniri</form> insignem fieri <ref addName="Abba" cRef="CGL.IV.250.53">IV 250, 53</ref>; <ref addName="gl. AA" cRef="CGL.V.461.16">V 461, 16</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-3002" type="lemma" lang="Latinum">Insignis</form> ἐπίσημος, ἔξοχος <ref addName="Ps.-Phil." cRef="CGL.II.87.14">II 87, 14</ref>. ἐπίσημος <ref addName="Ps.-Phil." cRef="CGL.II.87.4">II 87, 4</ref>; <ref addName="Ps.-Cyr." cRef="CGL.II.310.48">310, 48</ref>; <ref addName="hermen. Einsidl." cRef="CGL.III.250.26">III 250, 26</ref>. ἐπιφανής <ref addName="hermen. Einsidl." cRef="CGL.III.252.33">III 252, 33</ref>. nobilis uel magnus seu ornatus <ref addName="Ps.-Phil." cRef="CGL.II.87.18">II 87, 18</ref> (<emph>cf. Hor. sat.</emph> II 1, 46; <emph>epi.</emph> II 3, 401). altus, nobilis, clarus, decorosus <ref addName="Abav." cRef="CGL.IV.356.1">IV 356, 1</ref>. clarus, altus, nobilis, decorus <ref addName="Abstr. II" cRef="CGL.IV.97.38">IV 97, 38</ref>. nobilis, magnus <ref addName="Conscr. gl." cRef="CGL.V.302.73">V 302, 73</ref>. nobilis, magnus, ornatus <ref addName="Abba" cRef="CGL.IV.250.30">IV 250, 30</ref>. 
+      <form xml:id="I-3002" type="lemma" lang="Latinum">Insignis</form> ἐπίσημος, ἔξοχος <ref addName="Ps.-Phil." cRef="CGL.II.87.14">II 87, 14</ref>. ἐπίσημος <ref addName="Ps.-Phil." cRef="CGL.II.87.4">II 87, 4</ref>; <ref addName="Ps.-Cyr." cRef="CGL.II.310.48">310, 48</ref>; <ref addName="hermen. Einsidl." cRef="CGL.III.250.26">III 250, 26</ref>. ἐπιφανής <ref addName="hermen. Einsidl." cRef="CGL.III.252.33">III 252, 33</ref>. nobilis uel magnus seu ornatus <ref addName="Ps.-Phil." cRef="CGL.II.87.18">II 87, 18</ref> (<emph>cf. Hor. sat.</emph> II 1, 46; <emph>epi.</emph> <ref addName="Ps.-Phil." cRef="CGL.II.3.401">II 3, 401</ref>). altus, nobilis, clarus, decorosus <ref addName="Abav." cRef="CGL.IV.356.1">IV 356, 1</ref>. clarus, altus, nobilis, decorus <ref addName="Abstr. II" cRef="CGL.IV.97.38">IV 97, 38</ref>. nobilis, magnus <ref addName="Conscr. gl." cRef="CGL.V.302.73">V 302, 73</ref>. nobilis, magnus, ornatus <ref addName="Abba" cRef="CGL.IV.250.30">IV 250, 30</ref>. 
       <form xml:id="I-3003" type="sublemma" lang="Latinum">insigne</form> nobile <ref addName="Abav." cRef="CGL.IV.355.55">IV 355, 55</ref>. nobile, clare (?) <ref addName="Aleat." cRef="CGL.V.411.7">V 411, 7</ref> (<emph>de canon.</emph>). 
       <form xml:id="I-3004" type="sublemma" lang="Latinum">insignem</form> ἐπίσημον <ref addName="Ps.-Phil." cRef="CGL.II.87.15">II 87, 15</ref>. nominatissimum <ref addName="Affat." cRef="CGL.IV.527.39">IV 527, 39</ref>. 
       <form xml:id="I-3005" type="sublemma" lang="Latinum">insignes</form> <pb n="VI.586" facs="6.586.jpg"/> ἐπίσημοι <ref addName="Ps.-Phil." cRef="CGL.II.87.5">II 87, 5</ref>. 
@@ -6917,7 +6917,7 @@
     </entryFree>
     <entryFree>
       <form xml:id="I-3174" type="lemma" lang="Latinum">Institutor</form> εἰσαγωγεύς <ref addName="Ps.-Cyr." cRef="CGL.II.286.44">II 286, 44</ref>. 
-      <form xml:id="I-3175" type="sublemma" lang="Latinum">institutor puerorum</form> παιδαγωγός ΙΙ <emph>p.</emph> XIII.
+      <form xml:id="I-3175" type="sublemma" lang="Latinum">institutor puerorum</form> παιδαγωγός II <emph>p.</emph> XIII.
     </entryFree>
     <entryFree>
       <pb n="VI.589" facs="6.589.jpg"/> 
@@ -6965,7 +6965,7 @@
     <entryFree>
       <form xml:id="I-3196" type="lemma" lang="Latinum">Instrumentum</form> παρασκευή <ref addName="Ps.-Cyr." cRef="CGL.II.396.19">II 396, 19</ref>. ἐξάρτισις <ref addName="idiom. Harl." cRef="CGL.II.504.8">II 504, 8</ref>. ἐξάρτησις (ἐξάρτισις <emph>i</emph>) γραμματίου, παντος πράγματος ἐφοδιασμός <ref addName="Ps.-Phil." cRef="CGL.II.88.28">II 88, 28</ref>. ἐξαρτία παντὸς πράγματος <ref addName="Ps.-Cyr." cRef="CGL.II.302.14">II 302, 14</ref>. γραμματεῖον <ref addName="Ps.-Cyr." cRef="CGL.II.264.50">II 264, 50</ref>; <ref addName="gl. Steph." cRef="CGL.III.452.43">III 452, 43</ref>. ὄργανον <ref addName="gl. Steph." cRef="CGL.III.452.44">III 452, 44</ref>; <ref addName="Absid. Bern." cRef="CGL.III.501.49">501, 49</ref>. διδαχή, παρασκευή <ref addName="gl. Serv." cRef="CGL.II.530.45">II 530, 45</ref>. συμβόλαιον <ref addName="Ps.-Cyr." cRef="CGL.II.442.1">II 442, 1</ref>. quod instruat <ref addName="Abstr. II" cRef="CGL.IV.98.24">IV 98, 24</ref>; <ref addName="Abav." cRef="CGL.IV.356.19">356, 19</ref>. 
       <form xml:id="I-3197" type="sublemma" lang="Latinum">instrumento</form> ornamento <ref addName="Affat." cRef="CGL.IV.530.23">IV 530, 23</ref>. 
-      <form xml:id="I-3198" type="sublemma" lang="Latinum">instrumenta</form> γραμμάτια (-ματεῖα?) <ref addName="gl. Lois." cRef="CGL.III.483.4">III 483, 4</ref>. γραμματεῖα, ἀσφαλίσματα, δικαιώματα, ἐργαλεῖα, ὠναί <ref addName="Ps.-Phil." cRef="CGL.II.88.27">II 88, 27</ref>. χρηστήρια, ὄργανα, ἐργαλεῖα <ref addName="Ps.-Phil." cRef="CGL.II.88.25">II 88, 25</ref>. ἀσφαλίσματα <ref addName="coll. Monac." cRef="CGL.III.212.30">III 212, 30</ref> = <ref addName="coll. Einsidl." cRef="CGL.III.228.29">228, 29</ref> = <ref addName="None" cRef="CGL.III.648.4">648, 4</ref>; <ref addName="hermen. Monac." cRef="CGL.III.199.6">199, 6</ref>; <ref addName="hermen. Einsidl." cRef="CGL.III.277.3">277, 3</ref>. peritiae utensilia uel materiae <ref addName="Aleat." cRef="CGL.V.413.48">V 413, 48</ref> (<emph>reg. Bened.</emph> 4, 1. 50; 73, 15). 
+      <form xml:id="I-3198" type="sublemma" lang="Latinum">instrumenta</form> γραμμάτια (-ματεῖα?) <ref addName="gl. Lois." cRef="CGL.III.483.4">III 483, 4</ref>. γραμματεῖα, ἀσφαλίσματα, δικαιώματα, ἐργαλεῖα, ὠναί <ref addName="Ps.-Phil." cRef="CGL.II.88.27">II 88, 27</ref>. χρηστήρια, ὄργανα, ἐργαλεῖα <ref addName="Ps.-Phil." cRef="CGL.II.88.25">II 88, 25</ref>. ἀσφαλίσματα <ref addName="coll. Monac." cRef="CGL.III.212.30">III 212, 30</ref> = <ref addName="coll. Einsidl." cRef="CGL.III.228.29">228, 29</ref> = <ref addName="coll. emendata" cRef="CGL.III.648.4">648, 4</ref>; <ref addName="hermen. Monac." cRef="CGL.III.199.6">199, 6</ref>; <ref addName="hermen. Einsidl." cRef="CGL.III.277.3">277, 3</ref>. peritiae utensilia uel materiae <ref addName="Aleat." cRef="CGL.V.413.48">V 413, 48</ref> (<emph>reg. Bened.</emph> 4, 1. 50; 73, 15). 
       <form xml:id="I-3199" type="sublemma" lang="Latinum">instrumentis uirilibus</form> armis <ref addName="Abav." cRef="CGL.IV.356.18">IV 356, 18</ref>. <emph>V.</emph> dotale strumentum.
     </entryFree>
     <entryFree>
@@ -7190,7 +7190,7 @@
     </entryFree>
     <entryFree>
       <form xml:id="I-3302" type="lemma" lang="Latinum">Intellegens</form> νοῶν <ref addName="Ps.-Phil." cRef="CGL.II.88.47">II 88, 47</ref>. συνετός <ref addName="Ps.-Cyr." cRef="CGL.II.445.43">II 445, 43</ref> (intellectus <emph>cod.</emph>); <ref addName="hermen. Montep." cRef="CGL.III.332.59">III 332, 59</ref>. νοερός <ref addName="Ps.-Cyr." cRef="CGL.II.376.43">II 376, 43</ref>. νοήμων <ref addName="Ps.-Cyr." cRef="CGL.II.376.44">II 376, 44</ref>. νουνεχής <ref addName="Ps.-Cyr." cRef="CGL.II.377.18">II 377, 18</ref>. <emph>Cf.</emph> καὶ νουνεχής et 
-      <form xml:id="I-3303" type="sublemma" lang="Latinum">intellegens</form> (-gas <emph>cod.</emph>) <ref addName="coll. Harl." cRef="CGL.III.109.8">III 109, 8</ref> = <ref addName="None" cRef="CGL.III.639.2">639, 2</ref>.
+      <form xml:id="I-3303" type="sublemma" lang="Latinum">intellegens</form> (-gas <emph>cod.</emph>) <ref addName="coll. Harl." cRef="CGL.III.109.8">III 109, 8</ref> = <ref addName="coll. emendata" cRef="CGL.III.639.2">639, 2</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-3304" type="lemma" lang="Latinum">Intellegentia</form> ἐπίνοια <ref addName="hermen. Einsidl." cRef="CGL.III.279.31">III 279, 31</ref> (-ig-).
@@ -7450,7 +7450,7 @@
     </entryFree>
     <entryFree>
       <form xml:id="I-3433" type="lemma" lang="Latinum">Interdictum</form> παραγγελία, ἀντικρουσμός <ref addName="Ps.-Phil." cRef="CGL.II.89.33">II 89, 33</ref>. διαστολή, παραγγελία <ref addName="idiom. Harl." cRef="CGL.II.504.10">II 504, 10</ref>. παραγγελία <ref addName="Ps.-Cyr." cRef="CGL.II.394.15">II 394, 15</ref>. δια­στολή <ref addName="idiom. nom." cRef="CGL.II.547.54">II 547, 54</ref>; <ref addName="gl. Steph." cRef="CGL.III.452.57">III 452, 57</ref>; <ref addName="gl. Lois." cRef="CGL.III.475.55">475, 55</ref>. διαστολὴ ἡ παῦσις <ref addName="Ps.-Phil." cRef="CGL.II.89.46">II 89, 46</ref>. κώλυσις <ref addName="gl. Serv." cRef="CGL.II.530.49">II 530, 49</ref>. κώλυμα <ref addName="Ps.-Cyr." cRef="CGL.II.357.30">II 357, 30</ref>. ἀπαγόρευσις <ref addName="Ps.-Cyr." cRef="CGL.II.232.27">II 232, 27</ref>. ἀπηγορευμένον <ref addName="Ps.-Phil." cRef="CGL.II.89.35">II 89, 35</ref>; <ref addName="Ps.-Phil." cRef="CGL.II.89.45">45</ref>. 
-      <form xml:id="I-3434" type="sublemma" lang="Latinum">interdicta</form> prohibita <ref addName="Ps.-Phil." cRef="CGL.II.89.43">II 89, 43</ref> (<emph>cf. Hor. sat.</emph> I 2, 96; <emph>epi.</emph> I 6, 64).
+      <form xml:id="I-3434" type="sublemma" lang="Latinum">interdicta</form> prohibita <ref addName="Ps.-Phil." cRef="CGL.II.89.43">II 89, 43</ref> (<emph>cf. Hor. sat.</emph> I 2, 96; <emph>epi.</emph> <ref addName="None" cRef="CGL.I.6.64">I 6, 64</ref>).
     </entryFree>
     <entryFree>
       <form xml:id="I-3435" type="lemma" lang="Latinum">Interdie</form> μέσον ἡμέρας <ref addName="Ps.-Phil." cRef="CGL.II.89.39">II 89, 39</ref>. ἡμέρας <ref addName="Ps.-Phil." cRef="CGL.II.89.41">II 89, 41</ref> (μεθ' ἡμ. <emph>ut vid. c</emph>). <emph>V.</emph> interdiu.
@@ -7730,7 +7730,7 @@
     <entryFree>
       <form xml:id="I-3563" type="lemma" lang="Latinum">Interpello</form> προσέρχομαι <ref addName="Ps.-Cyr." cRef="CGL.II.421.10">II 421, 10</ref>. προσπίπτω <ref addName="Ps.-Cyr." cRef="CGL.II.422.47">II 422, 47</ref>. προσαγγέλλω <ref addName="Ps.-Cyr." cRef="CGL.II.420.17">II 420, 17</ref>. ἐντυγχάνω <ref addName="Ps.-Cyr." cRef="CGL.II.300.53">II 300, 53</ref>. 
       <form xml:id="I-3564" type="sublemma" lang="Latinum">interpellat</form> ἐντυγχάνει <ref addName="Ps.-Phil." cRef="CGL.II.90.27">II 90, 27</ref>. προσεύχεται (προσέρχ. <emph>c</emph>), κατηγορεῖ <ref addName="Ps.-Phil." cRef="CGL.II.90.17">II 90, 17</ref>. adiit <ref addName="Abav." cRef="CGL.IV.357.5">IV 357, 5</ref> (<emph>cf.</emph> <emph>Non.</emph> 330, 31). 
-      <form xml:id="I-3565" type="sublemma" lang="Latinum">interpellare</form> ἐντυχεῖν <ref addName="coll. Monac." cRef="CGL.III.212.38">III 212, 38</ref> = <ref addName="coll. Einsidl." cRef="CGL.III.228.37">228, 37</ref> = <ref addName="None" cRef="CGL.III.648.4">648, 4</ref>. 
+      <form xml:id="I-3565" type="sublemma" lang="Latinum">interpellare</form> ἐντυχεῖν <ref addName="coll. Monac." cRef="CGL.III.212.38">III 212, 38</ref> = <ref addName="coll. Einsidl." cRef="CGL.III.228.37">228, 37</ref> = <ref addName="coll. emendata" cRef="CGL.III.648.4">648, 4</ref>. 
       <form xml:id="I-3566" type="sublemma" lang="Latinum">interpellauit</form> (<emph>vel</emph> interpolauit) ἐνέτυχεν <ref addName="hermen. Leid." cRef="CGL.III.36.16">III 36, 16</ref>. interrupit <ref addName="Abav." cRef="CGL.IV.357.6">IV 357, 6</ref>; <ref addName="Conscr. gl." cRef="CGL.V.304.23">V 304, 23</ref>; <ref addName="Abba" cRef="CGL.IV.251.22">IV 251, 22</ref> (interpulauit <emph>vel</emph> interpolauit). 
       <form xml:id="I-3567" type="sublemma" lang="Latinum">interpellari</form> refset (<emph>vel</emph> raefsed, <emph>AS.</emph>) <ref addName="Apod." cRef="CGL.V.366.35">V 366, 35</ref>. <emph>V.</emph> interdico.
     </entryFree>
@@ -7743,8 +7743,8 @@
     </entryFree>
     <entryFree>
       <form xml:id="I-3571" type="lemma" lang="Latinum">Interpolatus</form> infoedatus uarieque maculatus siue per interualla fuscatus <ref addName="Abstr. II" cRef="CGL.IV.99.18">IV 99, 18</ref> (<emph>cf.</emph> 
-      <form xml:id="I-3572" type="sublemma" lang="Latinum">interlectus</form> interfoedatus, uarie per interualla fuscatus <emph>Scal.</emph> V 602, 3: <emph>ubi</emph> interlitus <emph>Vulc., non recte.</emph> 
-      <form xml:id="I-3573" type="sublemma" lang="Latinum">interlictus</form> uarieque maculatus V 213, 4). corruptus uarieque maculatus uel fuscatus <ref addName="Abba" cRef="CGL.IV.251.36">IV 251, 36</ref>. 
+      <form xml:id="I-3572" type="sublemma" lang="Latinum">interlectus</form> interfoedatus, uarie per interualla fuscatus <emph>Scal.</emph> <ref addName="gl. Scal." cRef="CGL.V.602.3">V 602, 3</ref>: <emph>ubi</emph> interlitus <emph>Vulc., non recte.</emph> 
+      <form xml:id="I-3573" type="sublemma" lang="Latinum">interlictus</form> uarieque maculatus <ref addName="lib. gl." cRef="CGL.V.213.4">V 213, 4</ref>). corruptus uarieque maculatus uel fuscatus <ref addName="Abba" cRef="CGL.IV.251.36">IV 251, 36</ref>. 
       <form xml:id="I-3574" type="sublemma" lang="Latinum">interpolata</form> interiecta, interuulsa, infuscata uarieque maculata <ref addName="Aevit." cRef="CGL.V.658.5">V 658, 5</ref>. <emph>V.</emph> interpolum.
     </entryFree>
     <entryFree>
@@ -7790,11 +7790,11 @@
     </entryFree>
     <entryFree>
       <form xml:id="I-3596" type="lemma" lang="Latinum">Interpretatio</form> ἑρμήνευμα <ref addName="Asp. / Arsic." cRef="CGL.III.542.1">III 542, 1</ref>; <ref addName="hermen. med. Par. 11218" cRef="CGL.III.631.1">631, 1</ref>. ἑρμηνεία <ref addName="Ps.-Phil." cRef="CGL.II.90.22">II 90, 22</ref>; <ref addName="Ps.-Cyr." cRef="CGL.II.314.37">314, 37</ref>; <ref addName="hermen. Monac." cRef="CGL.III.136.32">III 136, 32</ref>. <emph>Cf.</emph> ταύτης τῆς διαλέκτου 
-      <form xml:id="I-3597" type="sublemma" lang="Latinum">eius interpretationis</form> <ref addName="coll. Montep." cRef="CGL.III.283.40">III 283, 40</ref> = <ref addName="None" cRef="CGL.III.654.2">654, 2</ref>. 
+      <form xml:id="I-3597" type="sublemma" lang="Latinum">eius interpretationis</form> <ref addName="coll. Montep." cRef="CGL.III.283.40">III 283, 40</ref> = <ref addName="coll. emendata" cRef="CGL.III.654.2">654, 2</ref>. 
       <form xml:id="I-3598" type="sublemma" lang="Latinum">interpretationes</form> hermineomata <ref addName="hermen. frg. Brux. / hermen. frg. Leid." cRef="CGL.III.398.1">III 398, 1</ref>. <emph>V.</emph> hermeneuma.
     </entryFree>
     <entryFree>
-      <form xml:id="I-3599" type="lemma" lang="Latinum">Interpretatoriis</form> ἑρμηνευματικοῖς <ref addName="coll. Montep." cRef="CGL.III.283.16">III 283, 16</ref> = <ref addName="None" cRef="CGL.III.654.1">654, 1</ref>; <ref addName="hermen. frg. Leid." cRef="CGL.III.407.52">407, 52</ref> (interpretamentarus <emph>cod.</emph>). <emph>Cf.</emph> <ref addName="Absid. Vat." cRef="CGL.III.515.49">III 515, 49</ref>.
+      <form xml:id="I-3599" type="lemma" lang="Latinum">Interpretatoriis</form> ἑρμηνευματικοῖς <ref addName="coll. Montep." cRef="CGL.III.283.16">III 283, 16</ref> = <ref addName="coll. emendata" cRef="CGL.III.654.1">654, 1</ref>; <ref addName="hermen. frg. Leid." cRef="CGL.III.407.52">407, 52</ref> (interpretamentarus <emph>cod.</emph>). <emph>Cf.</emph> <ref addName="Absid. Vat." cRef="CGL.III.515.49">III 515, 49</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-3600" type="lemma" lang="Latinum">Interpretatum</form> διερμηνευμένον <ref addName="hermen. Leid." cRef="CGL.III.30.20">III 30, 20</ref>. 
@@ -7809,7 +7809,7 @@
       <form xml:id="I-3605" type="sublemma" lang="Latinum">interpretor</form> ἑρμηνεύω <ref addName="Ps.-Cyr." cRef="CGL.II.314.39">II 314, 39</ref>. 
       <form xml:id="I-3606" type="sublemma" lang="Latinum">interpretas</form> ἑρμηνεύεις <ref addName="hermen. Monac." cRef="CGL.III.136.30">III 136, 30</ref>. 
       <form xml:id="I-3607" type="sublemma" lang="Latinum">interpretat</form> ἑρμηνεύει <ref addName="hermen. Monac." cRef="CGL.III.136.31">III 136, 31</ref>. 
-      <form xml:id="I-3608" type="sublemma" lang="Latinum">interpretasse</form> ἑρμηνεῦσαι <ref addName="coll. Monac." cRef="CGL.III.120.3">III 120, 3</ref> = <ref addName="coll. Einsidl." cRef="CGL.III.223.41">223, 41</ref> = <ref addName="None" cRef="CGL.III.645.1">645, 1</ref>.
+      <form xml:id="I-3608" type="sublemma" lang="Latinum">interpretasse</form> ἑρμηνεῦσαι <ref addName="coll. Monac." cRef="CGL.III.120.3">III 120, 3</ref> = <ref addName="coll. Einsidl." cRef="CGL.III.223.41">223, 41</ref> = <ref addName="coll. emendata" cRef="CGL.III.645.1">645, 1</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-3609" type="lemma" lang="Latinum">Inter primores</form> bituichn (<emph>vel</emph> bituicn) aeldrum (<emph>AS.</emph>) <ref addName="Apod." cRef="CGL.V.367.8">V 367, 8</ref> (<emph>cf. Oros.</emph> IV 10, 5).
@@ -8056,7 +8056,7 @@
     <entryFree>
       <form xml:id="I-3718" type="lemma" lang="Latinum">Intinguo</form> ἐμβαπτίζω <ref addName="Ps.-Cyr." cRef="CGL.II.295.47">II 295, 47</ref>. 
       <form xml:id="I-3719" type="sublemma" lang="Latinum">intinguit</form> ἐμβάπτει <ref addName="Ps.-Phil." cRef="CGL.II.90.48">II 90, 48</ref>. 
-      <form xml:id="I-3720" type="sublemma" lang="Latinum">intinge</form> ἐπίβαπτε <ref addName="coll. Monac." cRef="CGL.III.218.34">III 218, 34</ref> = <ref addName="None" cRef="CGL.III.653.11">653, 11</ref>.
+      <form xml:id="I-3720" type="sublemma" lang="Latinum">intinge</form> ἐπίβαπτε <ref addName="coll. Monac." cRef="CGL.III.218.34">III 218, 34</ref> = <ref addName="coll. emendata" cRef="CGL.III.653.11">653, 11</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-3721" type="lemma" lang="Latinum">Intit</form> <emph>v.</emph> infio.
@@ -8457,7 +8457,7 @@
       <form xml:id="I-3914" type="lemma" lang="Latinum">Inuentaque flumina monstrat</form> allatam aquam breuiter ostendit <ref addName="Abect." cRef="CGL.IV.448.23">IV 448, 23</ref> (<emph>Verg. Aen.</emph> VI 8).
     </entryFree>
     <entryFree>
-      <form xml:id="I-3915" type="lemma" lang="Latinum">Inuentaria</form> facilis ad inueniendum res <emph>Scal.</emph> <ref addName="gl. Scal." cRef="CGL.V.602.5">V 602, 5</ref>; <ref addName="Abstr. II" cRef="CGL.IV.100.17">IV 100, 17</ref> (facilis aut inuenienda); <ref addName="gl. AA" cRef="CGL.V.461.53">V 461, 53</ref> (facilis adinuenienda <emph>cf. a</emph> IV 100, 17). 
+      <form xml:id="I-3915" type="lemma" lang="Latinum">Inuentaria</form> facilis ad inueniendum res <emph>Scal.</emph> <ref addName="gl. Scal." cRef="CGL.V.602.5">V 602, 5</ref>; <ref addName="Abstr. II" cRef="CGL.IV.100.17">IV 100, 17</ref> (facilis aut inuenienda); <ref addName="gl. AA" cRef="CGL.V.461.53">V 461, 53</ref> (facilis adinuenienda <emph>cf. a</emph> <ref addName="Abstr. II" cRef="CGL.IV.100.17">IV 100, 17</ref>). 
       <form xml:id="I-3916" type="sublemma" lang="Latinum">inuentarium</form> ἀναγραφή <ref addName="gl. Serv." cRef="CGL.II.530.43">II 530, 43</ref>. 
       <form xml:id="I-3917" type="sublemma" lang="Latinum">inuentarii</form> inuiare (?) <ref addName="Abstans" cRef="CGL.V.571.20">V 571, 20</ref>. <emph>Cf.</emph> inueho.
     </entryFree>
@@ -8507,7 +8507,7 @@
     </entryFree>
     <entryFree>
       <form xml:id="I-3934" type="lemma" lang="Latinum">Inuestis</form> ἄφθορος <ref addName="Ps.-Phil." cRef="CGL.II.91.47">II 91, 47</ref>; <ref addName="hermen. Einsidl." cRef="CGL.III.249.28">III 249, 28</ref>; <ref addName="hermen. Montep." cRef="CGL.III.328.58">328, 58</ref> (<emph>cf.</emph> inpubes 
-      <form xml:id="I-3935" type="sublemma" lang="Latinum">inpestis</form> ἄφθορος II 253, 14). ἀνένδυτος <ref addName="Ps.-Cyr." cRef="CGL.II.225.53">II 225, 53</ref>. sine barbam <ref addName="Abstr. II" cRef="CGL.IV.90.5">IV 90, 5</ref>. sine barba uel uirgo <ref addName="gl. AA" cRef="CGL.V.461.51">V 461, 51</ref>. sine barbis <ref addName="Abba" cRef="CGL.IV.252.12">IV 252, 12</ref>. 
+      <form xml:id="I-3935" type="sublemma" lang="Latinum">inpestis</form> ἄφθορος <ref addName="Ps.-Cyr." cRef="CGL.II.253.14">II 253, 14</ref>). ἀνένδυτος <ref addName="Ps.-Cyr." cRef="CGL.II.225.53">II 225, 53</ref>. sine barbam <ref addName="Abstr. II" cRef="CGL.IV.90.5">IV 90, 5</ref>. sine barba uel uirgo <ref addName="gl. AA" cRef="CGL.V.461.51">V 461, 51</ref>. sine barbis <ref addName="Abba" cRef="CGL.IV.252.12">IV 252, 12</ref>. 
       <form xml:id="I-3936" type="sublemma" lang="Latinum">inuestem</form> impubem, sine barba <emph>Plac.</emph> <ref addName="Plac. lib. rom." cRef="CGL.V.28.29">V 28, 29</ref> + <ref addName="Plac. lib. rom." cRef="CGL.V.28.30">30</ref>= <ref addName="Plac. lib. gl." cRef="CGL.V.78.31">V 78, 31</ref> (inpuberem). <emph>Cf. Festus Pauli p.</emph> 368, 9. inberbem <ref addName="Abstr. II" cRef="CGL.IV.100.18">IV 100, 18</ref>; <ref addName="gl. AA" cRef="CGL.V.461.54">V 461, 54</ref> (<emph>cf. Serv. in Aen.</emph> VI 645; VIII 659). 
       <form xml:id="I-3937" type="sublemma" lang="Latinum">infestes</form> sine barba (<emph>Euseb. eccl. hist.</emph> VII 9) <ref addName="Aleat." cRef="CGL.V.420.62">V 420, 62</ref> = <ref addName="gl. Ambr. M79s." cRef="CGL.V.429.42">429, 42</ref>.
     </entryFree>
@@ -8897,8 +8897,8 @@
       <form xml:id="I-4109" type="sublemma" lang="Latinum">ips[i]us</form> ipse, dominus, 
       <form xml:id="I-4110" type="sublemma" lang="Latinum">ipsa</form> domina <ref addName="exc. Vat. reg. 215 / Alieno" cRef="CGL.V.535.19">V 535, 19</ref>; <ref addName="exc. Vat. reg. 215 / Alieno" cRef="CGL.V.535.20">20</ref>(<emph>Ter.</emph> <emph>Andr.</emph> 378). 
       <form xml:id="I-4111" type="sublemma" lang="Latinum">ipsa</form> αὐτή <ref addName="Ps.-Phil." cRef="CGL.II.91.56">II 91, 56</ref> (
-      <form xml:id="I-4112" type="sublemma" lang="Latinum">ea ipsa</form> ἐκείνη αὐτή και αὐτά II 57, 36); <ref addName="Ps.-Cyr." cRef="CGL.II.251.31">251, 31</ref>; <ref addName="hermen. Steph." cRef="CGL.III.375.33">III 375, 33</ref> (<emph>cf.</emph> αὐτῇ ταύτῃ &lt;?&gt; 
-      <form xml:id="I-4113" type="sublemma" lang="Latinum">ea ipsa</form> II 251, 32). 
+      <form xml:id="I-4112" type="sublemma" lang="Latinum">ea ipsa</form> ἐκείνη αὐτή και αὐτά <ref addName="Ps.-Phil." cRef="CGL.II.57.36">II 57, 36</ref>); <ref addName="Ps.-Cyr." cRef="CGL.II.251.31">251, 31</ref>; <ref addName="hermen. Steph." cRef="CGL.III.375.33">III 375, 33</ref> (<emph>cf.</emph> αὐτῇ ταύτῃ &lt;?&gt; 
+      <form xml:id="I-4113" type="sublemma" lang="Latinum">ea ipsa</form> <ref addName="Ps.-Cyr." cRef="CGL.II.251.32">II 251, 32</ref>). 
       <form xml:id="I-4114" type="sublemma" lang="Latinum">ipsud ipsum</form> αὐτό <ref addName="Ps.-Cyr." cRef="CGL.II.251.35">II 251, 35</ref>. 
       <form xml:id="I-4115" type="sublemma" lang="Latinum">ipsius</form> αὐτοῦ, αὐτῆς <ref addName="Ps.-Phil." cRef="CGL.II.91.60">II 91, 60</ref>. αὐτοῦ <ref addName="Ps.-Cyr." cRef="CGL.II.251.55">II 251, 55</ref>. 
       <form xml:id="I-4116" type="sublemma" lang="Latinum">ipsi</form> αὐτῷ, αὐτῇ <ref addName="Ps.-Phil." cRef="CGL.II.91.61">II 91, 61</ref>. αὐτοί, αὐτῷ <ref addName="Ps.-Phil." cRef="CGL.II.91.55">II 91, 55</ref>. 
@@ -9105,7 +9105,7 @@
     <entryFree>
       <form xml:id="I-4215" type="lemma" lang="Latinum">Irriguus</form> (inr.) κατάρδευτος <ref addName="Ps.-Cyr." cRef="CGL.II.343.26">II 343, 26</ref>. κατάρυτος <ref addName="Ps.-Cyr." cRef="CGL.II.343.32">II 343, 32</ref>. qui non inrigatur <ref addName="gl. nom." cRef="CGL.II.583.4">II 583, 4</ref>. 
       <form xml:id="I-4216" type="sublemma" lang="Latinum">irriguum</form> (<emph>scil.</emph> fontem) qui irrigat et irrigatur <ref addName="Abnuo" cRef="CGL.V.553.30">V 553, 30</ref> (<emph>Serv. in Georg.</emph> IV 32). 
-      <form xml:id="I-4217" type="sublemma" lang="Latinum">inrigilo</form> ἐναρδευθέντες (<emph>ubi</emph> inrigui <emph>Vulc.</emph>) <ref addName="Ps.-Phil." cRef="CGL.II.86.21">II 86, 21</ref> (ἐναρδευθέντος σκεῦος <emph>h. cf. Hor. sal.</emph> II 4, 16). <emph>V.</emph> irrigato, endorig.
+      <form xml:id="I-4217" type="sublemma" lang="Latinum">inrigilo</form> ἐναρδευθέντες (<emph>ubi</emph> inrigui <emph>Vulc.</emph>) <ref addName="Ps.-Phil." cRef="CGL.II.86.21">II 86, 21</ref> (ἐναρδευθέντος σκεῦος <emph>h. cf. Hor. sal.</emph> <ref addName="Ps.-Phil." cRef="CGL.II.4.16">II 4, 16</ref>). <emph>V.</emph> irrigato, endorig.
     </entryFree>
     <entryFree>
       <form xml:id="I-4218" type="lemma" lang="Latinum">Irrisibilis</form> (inr.) ἀγέλαστος <ref addName="Ps.-Cyr." cRef="CGL.II.216.11">II 216, 11</ref>.
@@ -9118,7 +9118,7 @@
       <form xml:id="I-4221" type="sublemma" lang="Latinum">inrisam</form> delusam <ref addName="Affat." cRef="CGL.IV.528.47">IV 528, 47</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-4222" type="lemma" lang="Latinum">Irritabile</form> (inr.) litigiosum, iracundum, ὀξύχολον <ref addName="Ps.-Phil." cRef="CGL.II.86.31">II 86, 31</ref> (<emph>cf.</emph> <emph>Hor. epi.</emph> II 2, 102).
+      <form xml:id="I-4222" type="lemma" lang="Latinum">Irritabile</form> (inr.) litigiosum, iracundum, ὀξύχολον <ref addName="Ps.-Phil." cRef="CGL.II.86.31">II 86, 31</ref> (<emph>cf.</emph> <emph>Hor. epi.</emph> <ref addName="" cRef="CGL.II.2.102">II 2, 102</ref>).
     </entryFree>
     <entryFree>
       <form xml:id="I-4223" type="lemma" lang="Latinum">Irritamentum</form> (inr.) προκάλεσμα <ref addName="Ps.-Phil." cRef="CGL.II.86.39">II 86, 39</ref>. ἐρέθι&lt;σμα&gt; <ref addName="Ps.-Cyr." cRef="CGL.II.314.4">II 314, 4</ref> (ἐρέθιον <emph>e</emph>).
@@ -9365,7 +9365,7 @@
     </entryFree>
     <entryFree>
       <form xml:id="I-4337" type="lemma" lang="Latinum">Item</form> ὁμοίως <ref addName="Ps.-Phil." cRef="CGL.II.92.24">II 92, 24</ref>; <ref addName="Ps.-Phil." cRef="CGL.II.92.61">61</ref>; (<emph>cf.</emph> 
-      <form xml:id="I-4338" type="sublemma" lang="Latinum">idem</form> ὁμοίως II 76, 15); <ref addName="Ps.-Cyr." cRef="CGL.II.383.22">383, 22</ref>; <ref addName="idiom. Harl." cRef="CGL.II.490.54">490, 54</ref>; <ref addName="idiom. Harl." cRef="CGL.II.492.25">492, 25</ref>; <ref addName="gl. Steph." cRef="CGL.III.453.15">III 453, 15</ref>. πάλιν, ὁμοίως <ref addName="Ps.-Phil." cRef="CGL.II.91.11">II 91, 11</ref>. πάλιν <ref addName="gl. Steph." cRef="CGL.III.453.16">III 453, 16</ref>. αὖ πάλιν <ref addName="hermen. Vat." cRef="CGL.III.425.40">III 425, 40</ref>. iterum <ref addName="Abstr. II" cRef="CGL.IV.102.7">IV 102, 7</ref>. aduerbium est temporis quasi iterum (<emph>v.</emph> itidem) <ref addName="Abav." cRef="CGL.IV.350.22">IV 350, 22</ref> (idem). iterum atque iterum <ref addName="Abba" cRef="CGL.IV.246.5">IV 246, 5</ref> (idem: <emph>nisi</emph> identidem <emph>subest</emph>). similiter <ref addName="exc. Vat. reg. 215 / Alieno" cRef="CGL.V.535.66">V 535, 66</ref> (<emph>Ter.</emph> <emph>Ad.</emph> 50). iterum itemque <ref addName="Affat." cRef="CGL.IV.526.52">IV 526, 52</ref>.
+      <form xml:id="I-4338" type="sublemma" lang="Latinum">idem</form> ὁμοίως <ref addName="Ps.-Phil." cRef="CGL.II.76.15">II 76, 15</ref>); <ref addName="Ps.-Cyr." cRef="CGL.II.383.22">383, 22</ref>; <ref addName="idiom. Harl." cRef="CGL.II.490.54">490, 54</ref>; <ref addName="idiom. Harl." cRef="CGL.II.492.25">492, 25</ref>; <ref addName="gl. Steph." cRef="CGL.III.453.15">III 453, 15</ref>. πάλιν, ὁμοίως <ref addName="Ps.-Phil." cRef="CGL.II.91.11">II 91, 11</ref>. πάλιν <ref addName="gl. Steph." cRef="CGL.III.453.16">III 453, 16</ref>. αὖ πάλιν <ref addName="hermen. Vat." cRef="CGL.III.425.40">III 425, 40</ref>. iterum <ref addName="Abstr. II" cRef="CGL.IV.102.7">IV 102, 7</ref>. aduerbium est temporis quasi iterum (<emph>v.</emph> itidem) <ref addName="Abav." cRef="CGL.IV.350.22">IV 350, 22</ref> (idem). iterum atque iterum <ref addName="Abba" cRef="CGL.IV.246.5">IV 246, 5</ref> (idem: <emph>nisi</emph> identidem <emph>subest</emph>). similiter <ref addName="exc. Vat. reg. 215 / Alieno" cRef="CGL.V.535.66">V 535, 66</ref> (<emph>Ter.</emph> <emph>Ad.</emph> 50). iterum itemque <ref addName="Affat." cRef="CGL.IV.526.52">IV 526, 52</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-4339" type="lemma" lang="Latinum">Item quae</form> ὁμοίως ἅτινα <ref addName="idiom. Harl." cRef="CGL.II.496.13">II 496, 13</ref>; <ref addName="idiom. Harl." cRef="CGL.II.499.35">499, 35</ref>; <ref addName="idiom. Harl." cRef="CGL.II.502.24">502, 24</ref>.
@@ -9564,7 +9564,7 @@
     </entryFree>
     <entryFree>
       <form xml:id="I-4426" type="lemma" lang="Latinum">Iudic&lt;i&gt;arins</form> δικαστικός <ref addName="Ps.-Cyr." cRef="CGL.II.277.30">II 277, 30</ref> (<emph>cf.</emph> 
-      <form xml:id="I-4427" type="sublemma" lang="Latinum">iudiciarius</form> δικαστικούς II 93, 24). 
+      <form xml:id="I-4427" type="sublemma" lang="Latinum">iudiciarius</form> δικαστικούς <ref addName="Ps.-Phil." cRef="CGL.II.93.24">II 93, 24</ref>). 
       <form xml:id="I-4428" type="sublemma" lang="Latinum">iudiciarii</form> δικαστικοί <ref addName="Ps.-Phil." cRef="CGL.II.93.18">II 93, 18</ref>. 
       <form xml:id="I-4429" type="sublemma" lang="Latinum">iudiciaria</form> δικαστικά <ref addName="Ps.-Phil." cRef="CGL.II.93.19">II 93, 19</ref>.
     </entryFree>
@@ -9660,14 +9660,14 @@
       <form xml:id="I-4480" type="sublemma" lang="Latinum">iuget (?)</form> ἐν πρώτοις ζευχθὲν κτῆνος <ref addName="Ps.-Phil." cRef="CGL.II.93.45">II 93, 45</ref>. <emph>Cf. Festus Pauli p.</emph> 104, 1 <emph>et Muelleri adn., Serv. Dan. in Verg. Aen.</emph> III 537, <emph>Nettleship. 'Contr.' p.</emph> 496.
     </entryFree>
     <entryFree>
-      <form xml:id="I-4481" type="lemma" lang="Latinum">Iuglandes</form> quasi &lt;I&gt;ouis (<emph>cf. Varr. d. l. l.</emph> V 102; <emph>Macr.</emph> III 18, 2; <emph>Isid.</emph> XVII 7, 21) glandes <ref addName="Apod." cRef="CGL.V.366.4">V 366, 4</ref> (<emph>cf. GR. L. suppl.</emph> 180, 4: 
+      <form xml:id="I-4481" type="lemma" lang="Latinum">Iuglandes</form> quasi &lt;I&gt;ouis (<emph>cf. Varr. d. l. l.</emph> V 102; <emph>Macr.</emph> <ref addName="hermen. Leid." cRef="CGL.III.18.2">III 18, 2</ref>; <emph>Isid.</emph> XVII 7, 21) glandes <ref addName="Apod." cRef="CGL.V.366.4">V 366, 4</ref> (<emph>cf. GR. L. suppl.</emph> 180, 4: 
       <form xml:id="I-4482" type="sublemma" lang="Latinum">iuglandis</form> pro ioglandis, id est iocus &lt;= Iouis?&gt; glandis). nuces maiores <ref addName="Abba" cRef="CGL.IV.245.51">IV 245, 51</ref>. nuci&lt;n&gt;as, glandes <ref addName="gl. Non. I" cRef="CGL.V.642.50">V 642, 50</ref> (<emph>Non.</emph> 122, 30).
     </entryFree>
     <entryFree>
       <form xml:id="I-4483" type="lemma" lang="Latinum">Iugment-</form> <emph>v.</emph> iument-.
     </entryFree>
     <entryFree>
-      <form xml:id="I-4484" type="lemma" lang="Latinum">Iugula</form> ἄστρον Ὠρίωνος, Ὁράτιος ὥς φησι <ref addName="Ps.-Phil." cRef="CGL.II.93.34">II 93, 34</ref> (<emph>velut Carni.</emph> I 28, 21: <emph>cf. Klein Mus. Rhen.</emph> XXIV <emph>p.</emph> 291: ὁ Ἄττιος ὥς φησι <emph>Scal. cf. trag. lat. ed. min. Ribb. p.</emph> 261; ὡς Ἄττιος, ὥς φησι Βάρρων <emph>d</emph>). Ὠρίων <ref addName="hermen. Montep." cRef="CGL.III.293.20">III 293, 20</ref>. sidus Orionis <ref addName="Abstr. II" cRef="CGL.IV.102.46">IV 102, 46</ref>; <ref addName="gl. AA" cRef="CGL.V.462.7">V 462, 7</ref>. stella quae graece dicitur Ὠρίων <ref addName="gl. AA" cRef="CGL.V.462.10">V 462, 10</ref>. <emph>Cf.</emph> 
+      <form xml:id="I-4484" type="lemma" lang="Latinum">Iugula</form> ἄστρον Ὠρίωνος, Ὁράτιος ὥς φησι <ref addName="Ps.-Phil." cRef="CGL.II.93.34">II 93, 34</ref> (<emph>velut Carni.</emph> <ref addName="None" cRef="CGL.I.28.21">I 28, 21</ref>: <emph>cf. Klein Mus. Rhen.</emph> XXIV <emph>p.</emph> 291: ὁ Ἄττιος ὥς φησι <emph>Scal. cf. trag. lat. ed. min. Ribb. p.</emph> 261; ὡς Ἄττιος, ὥς φησι Βάρρων <emph>d</emph>). Ὠρίων <ref addName="hermen. Montep." cRef="CGL.III.293.20">III 293, 20</ref>. sidus Orionis <ref addName="Abstr. II" cRef="CGL.IV.102.46">IV 102, 46</ref>; <ref addName="gl. AA" cRef="CGL.V.462.7">V 462, 7</ref>. stella quae graece dicitur Ὠρίων <ref addName="gl. AA" cRef="CGL.V.462.10">V 462, 10</ref>. <emph>Cf.</emph> 
       <form xml:id="I-4485" type="sublemma" lang="Latinum">iugulae</form> ζευγηλάται <ref addName="hermen. Monac." cRef="CGL.III.200.35">III 200, 35</ref>. <emph>Cf. Festus Pauli p.</emph> 104, 4.
     </entryFree>
     <entryFree>
@@ -9702,13 +9702,13 @@
       <form xml:id="I-4506" type="sublemma" lang="Latinum">iugulus</form> hoc 
       <form xml:id="I-4507" type="sublemma" lang="Latinum">iugulum</form> σφαγή <ref addName="Ps.-Cyr." cRef="CGL.II.449.8">II 449, 8</ref>. 
       <form xml:id="I-4508" type="sublemma" lang="Latinum">iugulus</form> κατακλείς <ref addName="idiom. Harl." cRef="CGL.II.488.57">II 488, 57</ref>; <ref addName="gl. Serv." cRef="CGL.II.511.43">511, 43</ref>. occidens <ref addName="gl. nom." cRef="CGL.II.584.60">II 584, 60</ref> (<emph>male ex graeco versum</emph>). 
-      <form xml:id="I-4509" type="sublemma" lang="Latinum">iugulum</form> κατακλείς <ref addName="gl. Serv." cRef="CGL.II.530.54">II 530, 54</ref>; <ref addName="idiom. nom." cRef="CGL.II.547.49">547, 49</ref>; <ref addName="hermen. Leid." cRef="CGL.III.12.36">III 12, 36</ref>; <ref addName="hermen. Ampl." cRef="CGL.III.85.64">85, 64</ref> (iugum); <ref addName="hermen. Monac." cRef="CGL.III.175.44">175, 44</ref>; <ref addName="hermen. Montep." cRef="CGL.III.310.68">310, 68</ref>; <ref addName="hermen. Steph." cRef="CGL.III.349.47">349, 47</ref>; <ref addName="hermen. Steph." cRef="CGL.III.350.78">350, 78</ref> (<emph>cf.</emph> κατακλείς humerus III 394, 52 <emph>quae gl. contaminata est</emph>); <ref addName="Absid. Vat." cRef="CGL.III.525.63">525, 63</ref>; <ref addName="Asaru" cRef="CGL.III.556.3">556, 3</ref> (iugula); <ref addName="hermen. med. Vat. 4417" cRef="CGL.III.620.71">620, 71</ref> (iugulo). σφαγή <ref addName="idiom. Harl." cRef="CGL.II.504.13">II 504, 13</ref>; <ref addName="hermen. Einsidl." cRef="CGL.III.247.68">III 247, 68</ref>; <ref addName="hermen. frg. Leid." cRef="CGL.III.408.54">408, 54</ref>. 
+      <form xml:id="I-4509" type="sublemma" lang="Latinum">iugulum</form> κατακλείς <ref addName="gl. Serv." cRef="CGL.II.530.54">II 530, 54</ref>; <ref addName="idiom. nom." cRef="CGL.II.547.49">547, 49</ref>; <ref addName="hermen. Leid." cRef="CGL.III.12.36">III 12, 36</ref>; <ref addName="hermen. Ampl." cRef="CGL.III.85.64">85, 64</ref> (iugum); <ref addName="hermen. Monac." cRef="CGL.III.175.44">175, 44</ref>; <ref addName="hermen. Montep." cRef="CGL.III.310.68">310, 68</ref>; <ref addName="hermen. Steph." cRef="CGL.III.349.47">349, 47</ref>; <ref addName="hermen. Steph." cRef="CGL.III.350.78">350, 78</ref> (<emph>cf.</emph> κατακλείς humerus <ref addName="hermen. frg. Brux." cRef="CGL.III.394.52">III 394, 52</ref> <emph>quae gl. contaminata est</emph>); <ref addName="Absid. Vat." cRef="CGL.III.525.63">525, 63</ref>; <ref addName="Asaru" cRef="CGL.III.556.3">556, 3</ref> (iugula); <ref addName="hermen. med. Vat. 4417" cRef="CGL.III.620.71">620, 71</ref> (iugulo). σφαγή <ref addName="idiom. Harl." cRef="CGL.II.504.13">II 504, 13</ref>; <ref addName="hermen. Einsidl." cRef="CGL.III.247.68">III 247, 68</ref>; <ref addName="hermen. frg. Leid." cRef="CGL.III.408.54">408, 54</ref>. 
       <form xml:id="I-4510" type="sublemma" lang="Latinum">iugulus</form> (?) χώνα (= χώνη, <emph>Trichier</emph>) <ref addName="gl. Steph." cRef="CGL.III.453.30">III 453, 30</ref>. <emph>V.</emph> ab iugulis.
     </entryFree>
     <entryFree>
       <form xml:id="I-4511" type="lemma" lang="Latinum">Iugum</form> ζυγός <ref addName="Ps.-Phil." cRef="CGL.II.93.48">II 93, 48</ref>; <ref addName="idiom. Harl." cRef="CGL.II.500.39">500, 39</ref>; <ref addName="gl. Serv." cRef="CGL.II.526.39">526, 39</ref>; <ref addName="idiom. nom." cRef="CGL.II.544.7">544, 7</ref>; <ref addName="hermen. Monac." cRef="CGL.III.173.61">III 173, 61</ref> (iugius); <ref addName="hermen. Einsidl." cRef="CGL.III.262.48">262, 48</ref>; <ref addName="hermen. frg. Leid." cRef="CGL.III.407.73">407, 73</ref> (iugus). ζυγός, ζυγοκέφαλον <ref addName="Ps.-Phil." cRef="CGL.II.93.49">II 93, 49</ref>. ζυγὸν τὸ ξύλον τὸ ζευγνύον τὰ ζῶα <ref addName="Ps.-Cyr." cRef="CGL.II.322.37">II 322, 37</ref>. ζυγόν <ref addName="hermen. Leid." cRef="CGL.III.4.34">III 4, 34</ref>; <ref addName="hermen. Monac." cRef="CGL.III.143.2">143, 2</ref>; <ref addName="hermen. Monac." cRef="CGL.III.195.45">195, 45</ref>; <ref addName="hermen. Montep." cRef="CGL.III.338.26">338, 26</ref>; <ref addName="hermen. Steph." cRef="CGL.III.357.36">357, 36</ref>; <ref addName="hermen. Steph." cRef="CGL.III.366.19">366, 19</ref>; <ref addName="gl. Steph." cRef="CGL.III.453.31">453, 31</ref>. ζύγωμα πλοίου <ref addName="Ps.-Cyr." cRef="CGL.II.322.43">II 322, 43</ref> (<emph>cf. Serv. in Aen.</emph> V 136; VI 411). σέλμα τὸ ζυγὸν τὸ ἐν τῷ πλοίῳ <ref addName="Ps.-Cyr." cRef="CGL.II.430.34">II 430, 34</ref>. collum <emph>a post</emph> <ref addName="Abstr. II" cRef="CGL.IV.100.46">IV 100, 46</ref>. 
-      <form xml:id="I-4512" type="sublemma" lang="Latinum">iuga</form> ζυγά, ἀκρώρειαι <ref addName="Ps.-Phil." cRef="CGL.II.93.46">II 93, 46</ref>. ἀκρώρειαι <ref addName="Ps.-Phil." cRef="CGL.II.93.50">II 93, 50</ref> (iugol). capita montium <ref addName="Abstr. II" cRef="CGL.IV.102.39">IV 102, 39</ref>; <ref addName="Affat." cRef="CGL.IV.530.10">530, 10</ref>. fines montium <ref addName="gl. nom." cRef="CGL.II.584.49">II 584, 49</ref>. et bonum dicuntur <ref addName="gl. nom." cRef="CGL.II.584.50">II 584, 50</ref>. capita et summitates montium <ref addName="Abba" cRef="CGL.IV.245.46">IV 245, 46</ref> (<emph>cf.</emph> III 427, 16 iuga collium <emph>et</emph> ἀκρώρεια ὄρους 
-      <form xml:id="I-4513" type="sublemma" lang="Latinum">collis iugum</form> II 224, 12). summae latorum (alt.?) montium partes uel capita montium <ref addName="Conscr. gl." cRef="CGL.V.305.32">V 305, 32</ref>. 
+      <form xml:id="I-4512" type="sublemma" lang="Latinum">iuga</form> ζυγά, ἀκρώρειαι <ref addName="Ps.-Phil." cRef="CGL.II.93.46">II 93, 46</ref>. ἀκρώρειαι <ref addName="Ps.-Phil." cRef="CGL.II.93.50">II 93, 50</ref> (iugol). capita montium <ref addName="Abstr. II" cRef="CGL.IV.102.39">IV 102, 39</ref>; <ref addName="Affat." cRef="CGL.IV.530.10">530, 10</ref>. fines montium <ref addName="gl. nom." cRef="CGL.II.584.49">II 584, 49</ref>. et bonum dicuntur <ref addName="gl. nom." cRef="CGL.II.584.50">II 584, 50</ref>. capita et summitates montium <ref addName="Abba" cRef="CGL.IV.245.46">IV 245, 46</ref> (<emph>cf.</emph> <ref addName="hermen. Vat." cRef="CGL.III.427.16">III 427, 16</ref> iuga collium <emph>et</emph> ἀκρώρεια ὄρους 
+      <form xml:id="I-4513" type="sublemma" lang="Latinum">collis iugum</form> <ref addName="Ps.-Cyr." cRef="CGL.II.224.12">II 224, 12</ref>). summae latorum (alt.?) montium partes uel capita montium <ref addName="Conscr. gl." cRef="CGL.V.305.32">V 305, 32</ref>. 
       <form xml:id="I-4514" type="sublemma" lang="Latinum">iugis</form> ἀκρωρείαις <ref addName="Ps.-Phil." cRef="CGL.II.93.47">II 93, 47</ref>. summis montibus <ref addName="Affat." cRef="CGL.IV.530.13">IV 530, 13</ref>. montium summitas (?) <ref addName="Abect." cRef="CGL.IV.448.43">IV 448, 43</ref> (<emph>Verg. Aen.</emph> II 631). <emph>V.</emph> sine iugo.
     </entryFree>
     <entryFree>
@@ -9787,7 +9787,7 @@
       <form xml:id="I-4552" type="lemma" lang="Latinum">Iuncus quadratus</form> σπάρτος <ref addName="hermen. Einsidl." cRef="CGL.III.263.72">III 263, 72</ref> (<emph>unde</emph>?).
     </entryFree>
     <entryFree>
-      <form xml:id="I-4553" type="lemma" lang="Latinum">Iunge mulas</form> ζεῦξον τὰς ὁλκάδας <ref addName="Absid. Vat." cRef="CGL.III.520.38">III 520, 38</ref>; <ref addName="coll. Montep." cRef="CGL.III.285.28">285, 28</ref> = <ref addName="None" cRef="CGL.III.656.8">656, 8</ref>.
+      <form xml:id="I-4553" type="lemma" lang="Latinum">Iunge mulas</form> ζεῦξον τὰς ὁλκάδας <ref addName="Absid. Vat." cRef="CGL.III.520.38">III 520, 38</ref>; <ref addName="coll. Montep." cRef="CGL.III.285.28">285, 28</ref> = <ref addName="coll. emendata" cRef="CGL.III.656.8">656, 8</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-4554" type="lemma" lang="Latinum">Iungit matrimonium</form> copulat <ref addName="Ab abs." cRef="CGL.IV.414.25">IV 414, 25</ref>.
@@ -9945,7 +9945,7 @@
       <form xml:id="I-4633" type="lemma" lang="Latinum">Iuris consultum</form> δικαιοδοσία <ref addName="hermen. Montep." cRef="CGL.III.336.37">III 336, 37</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-4634" type="lemma" lang="Latinum">Iuris consultus</form> νομικος <ref addName="coll. Montep." cRef="CGL.III.285.9">III 285, 9</ref> = <ref addName="None" cRef="CGL.III.656.5">656, 5</ref>; <ref addName="gl. Steph." cRef="CGL.III.453.41">453, 41</ref>; <ref addName="Absid. Vat." cRef="CGL.III.531.2">531, 2</ref>. legis doctor <ref addName="gl. nom." cRef="CGL.II.584.56">II 584, 56</ref>. iuris peritus <ref addName="Abstr. II" cRef="CGL.IV.102.33">IV 102, 33</ref>; <ref addName="Abav." cRef="CGL.IV.358.13">358, 13</ref>. ut uitulus qui arare iam potest, dictus a iuuando <ref addName="Conscr. gl." cRef="CGL.V.305.36">V 305, 36</ref> (<emph>v.</emph> iuuencus, <emph>quacum glossa haec est contaminata: cf. GaIlec</emph> 351, <emph>ubi forma non contam. ex­hibetur</emph>).
+      <form xml:id="I-4634" type="lemma" lang="Latinum">Iuris consultus</form> νομικος <ref addName="coll. Montep." cRef="CGL.III.285.9">III 285, 9</ref> = <ref addName="coll. emendata" cRef="CGL.III.656.5">656, 5</ref>; <ref addName="gl. Steph." cRef="CGL.III.453.41">453, 41</ref>; <ref addName="Absid. Vat." cRef="CGL.III.531.2">531, 2</ref>. legis doctor <ref addName="gl. nom." cRef="CGL.II.584.56">II 584, 56</ref>. iuris peritus <ref addName="Abstr. II" cRef="CGL.IV.102.33">IV 102, 33</ref>; <ref addName="Abav." cRef="CGL.IV.358.13">358, 13</ref>. ut uitulus qui arare iam potest, dictus a iuuando <ref addName="Conscr. gl." cRef="CGL.V.305.36">V 305, 36</ref> (<emph>v.</emph> iuuencus, <emph>quacum glossa haec est contaminata: cf. GaIlec</emph> 351, <emph>ubi forma non contam. ex­hibetur</emph>).
     </entryFree>
     <entryFree>
       <form xml:id="I-4635" type="lemma" lang="Latinum">Iurisdictio</form> νομοθεσία <ref addName="Ps.-Cyr." cRef="CGL.II.376.64">II 376, 64</ref>. δικαιοδοσία <ref addName="Ps.-Cyr." cRef="CGL.II.277.17">II 277, 17</ref>; <ref addName="hermen. Einsidl." cRef="CGL.III.276.46">III 276, 46</ref>; <ref addName="gl. Steph." cRef="CGL.III.453.42">453, 42</ref>; <ref addName="gl. Lois." cRef="CGL.III.483.58">483, 58</ref>. δικαιολογία <ref addName="hermen. Montep." cRef="CGL.III.336.36">III 336, 36</ref>.
@@ -9954,19 +9954,19 @@
       <form xml:id="I-4636" type="lemma" lang="Latinum">Iuris doctores</form> αὐθένται τῶν νόμων <ref addName="Ps.-Phil." cRef="CGL.II.94.53/54">II 94, 53/54</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-4637" type="lemma" lang="Latinum">Iuris peritus</form> νομικώτατος, νομομαθής <ref addName="Ps.-Phil." cRef="CGL.II.94.50">II 94, 50</ref>. νόμων ἔμπειρος <ref addName="Ps.-Cyr." cRef="CGL.II.376.69">II 376, 69</ref>. νομικὸς ὁ νόμους εἰδώς <ref addName="Ps.-Cyr." cRef="CGL.II.376.56">II 376, 56</ref>. νόμων ἔμπειρος, νομικός <ref addName="hermen. Einsidl." cRef="CGL.III.276.32">III 276, 32</ref>. νομικός <ref addName="hermen. Monac." cRef="CGL.III.199.7">III 199, 7</ref>; <ref addName="coll. Montep." cRef="CGL.III.285.8">285, 8</ref> = <ref addName="None" cRef="CGL.III.656.5">656, 5</ref>; <ref addName="gl. Steph." cRef="CGL.III.453.43">453, 43</ref>; <ref addName="gl. Lois." cRef="CGL.III.482.13">482, 13</ref>; <ref addName="Absid. Bern." cRef="CGL.III.501.7">501, 7</ref>; <ref addName="Absid. Vat." cRef="CGL.III.531.1">531, 1</ref>. νόμος (νομικός?), πολιτευόμενος <ref addName="gl. Lois." cRef="CGL.III.475.63">III 475, 63</ref>. lege doctor (<emph>ubi</emph> legis <emph>Loewe,</emph> doctus <emph>cod. Werth. Gallée</emph> 361) <ref addName="gl. nom." cRef="CGL.II.584.57">II 584, 57</ref>. legis doctor <ref addName="Abba" cRef="CGL.IV.245.47">IV 245, 47</ref>. 
+      <form xml:id="I-4637" type="lemma" lang="Latinum">Iuris peritus</form> νομικώτατος, νομομαθής <ref addName="Ps.-Phil." cRef="CGL.II.94.50">II 94, 50</ref>. νόμων ἔμπειρος <ref addName="Ps.-Cyr." cRef="CGL.II.376.69">II 376, 69</ref>. νομικὸς ὁ νόμους εἰδώς <ref addName="Ps.-Cyr." cRef="CGL.II.376.56">II 376, 56</ref>. νόμων ἔμπειρος, νομικός <ref addName="hermen. Einsidl." cRef="CGL.III.276.32">III 276, 32</ref>. νομικός <ref addName="hermen. Monac." cRef="CGL.III.199.7">III 199, 7</ref>; <ref addName="coll. Montep." cRef="CGL.III.285.8">285, 8</ref> = <ref addName="coll. emendata" cRef="CGL.III.656.5">656, 5</ref>; <ref addName="gl. Steph." cRef="CGL.III.453.43">453, 43</ref>; <ref addName="gl. Lois." cRef="CGL.III.482.13">482, 13</ref>; <ref addName="Absid. Bern." cRef="CGL.III.501.7">501, 7</ref>; <ref addName="Absid. Vat." cRef="CGL.III.531.1">531, 1</ref>. νόμος (νομικός?), πολιτευόμενος <ref addName="gl. Lois." cRef="CGL.III.475.63">III 475, 63</ref>. lege doctor (<emph>ubi</emph> legis <emph>Loewe,</emph> doctus <emph>cod. Werth. Gallée</emph> 361) <ref addName="gl. nom." cRef="CGL.II.584.57">II 584, 57</ref>. legis doctor <ref addName="Abba" cRef="CGL.IV.245.47">IV 245, 47</ref>. 
       <form xml:id="I-4638" type="sublemma" lang="Latinum">iure peritus</form> qui ius tractat <ref addName="Ab abs." cRef="CGL.IV.414.26">IV 414, 26</ref>. καὶ τῶ νομικῶ et 
-      <form xml:id="I-4639" type="sublemma" lang="Latinum">iuris perito</form> <ref addName="coll. Monac." cRef="CGL.III.212.19">III 212, 19</ref> = <ref addName="coll. Einsidl." cRef="CGL.III.228.17">228, 17</ref> = <ref addName="None" cRef="CGL.III.648.4">648, 4</ref> (νομικοῖς . . peritis). 
+      <form xml:id="I-4639" type="sublemma" lang="Latinum">iuris perito</form> <ref addName="coll. Monac." cRef="CGL.III.212.19">III 212, 19</ref> = <ref addName="coll. Einsidl." cRef="CGL.III.228.17">228, 17</ref> = <ref addName="coll. emendata" cRef="CGL.III.648.4">648, 4</ref> (νομικοῖς . . peritis). 
       <form xml:id="I-4640" type="sublemma" lang="Latinum">iuris periti</form> redboran (<emph>AS.</emph>) <ref addName="Apod." cRef="CGL.V.367.19">V 367, 19</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-4641" type="lemma" lang="Latinum">Iuris praefectus</form> lege sublimatus <ref addName="Abal" cRef="CGL.V.504.65">V 504, 65</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-4642" type="lemma" lang="Latinum">Iuris prudens</form> νομικός <ref addName="coll. Montep." cRef="CGL.III.285.10">III 285, 10</ref> = <ref addName="None" cRef="CGL.III.656.5">656, 5</ref>; <ref addName="Absid. Vat." cRef="CGL.III.531.3">531, 3</ref>.
+      <form xml:id="I-4642" type="lemma" lang="Latinum">Iuris prudens</form> νομικός <ref addName="coll. Montep." cRef="CGL.III.285.10">III 285, 10</ref> = <ref addName="coll. emendata" cRef="CGL.III.656.5">656, 5</ref>; <ref addName="Absid. Vat." cRef="CGL.III.531.3">531, 3</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-4643" type="lemma" lang="Latinum">Iuris studiosus</form> νομικός <ref addName="coll. Montep." cRef="CGL.III.285.7">III 285, 7</ref> = <ref addName="None" cRef="CGL.III.656.5">656, 5</ref>; <ref addName="Absid. Vat." cRef="CGL.III.530.77">530, 77</ref>.
+      <form xml:id="I-4643" type="lemma" lang="Latinum">Iuris studiosus</form> νομικός <ref addName="coll. Montep." cRef="CGL.III.285.7">III 285, 7</ref> = <ref addName="coll. emendata" cRef="CGL.III.656.5">656, 5</ref>; <ref addName="Absid. Vat." cRef="CGL.III.530.77">530, 77</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-4644" type="lemma" lang="Latinum">Iuro</form> ὄμνυμι <ref addName="Ps.-Cyr." cRef="CGL.II.383.9">II 383, 9</ref>. ὀμνύω <ref addName="Ps.-Phil." cRef="CGL.II.94.34">II 94, 34</ref>; <ref addName="hermen. Ampl." cRef="CGL.III.78.25">III 78, 25</ref>; <ref addName="hermen. frg. Leid." cRef="CGL.III.408.29">408, 29</ref>; <ref addName="gl. Steph." cRef="CGL.III.453.44">453, 44</ref>; <ref addName="Absid. Bern." cRef="CGL.III.501.24">501, 24</ref>. ὁρκῶ <ref addName="hermen. Einsidl." cRef="CGL.III.277.5">III 277, 5</ref>. 
@@ -10003,11 +10003,11 @@
       <form xml:id="I-4666" type="lemma" lang="Latinum">Iuscellarius</form> ζωμοποιός <ref addName="gl. Steph." cRef="CGL.III.470.24">III 470, 24</ref>. ζωμε&lt;υ&gt;τής (<emph>ubi</emph> ζωμίτης <emph>vel</emph> ζωμεψέτης <emph>Vulc.</emph>) <ref addName="Ps.-Phil." cRef="CGL.II.95.3">II 95, 3</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="I-4667" type="lemma" lang="Latinum">Iuscellatas</form> διὰ ζωμοῦ <ref addName="coll. Monac." cRef="CGL.III.219.2">III 219, 2</ref> (<emph>h. e.</emph> ofellas) = <ref addName="coll. Einsidl." cRef="CGL.III.233.55">233, 55</ref> = <ref addName="None" cRef="CGL.III.653.11">653, 11</ref> (<emph>cf. Krumbacher Comm. in hon. Christii p.</emph> 362).
+      <form xml:id="I-4667" type="lemma" lang="Latinum">Iuscellatas</form> διὰ ζωμοῦ <ref addName="coll. Monac." cRef="CGL.III.219.2">III 219, 2</ref> (<emph>h. e.</emph> ofellas) = <ref addName="coll. Einsidl." cRef="CGL.III.233.55">233, 55</ref> = <ref addName="coll. emendata" cRef="CGL.III.653.11">653, 11</ref> (<emph>cf. Krumbacher Comm. in hon. Christii p.</emph> 362).
     </entryFree>
     <entryFree>
       <form xml:id="I-4668" type="lemma" lang="Latinum">Ius ciuile</form> νόμιμον πολιτικον <ref addName="Ps.-Cyr." cRef="CGL.II.376.59">II 376, 59</ref>. νόμιμον <ref addName="hermen. Einsidl." cRef="CGL.III.276.34">III 276, 34</ref>; <ref addName="gl. Steph." cRef="CGL.III.453.47">453, 47</ref>; <ref addName="gl. Lois." cRef="CGL.III.482.44">482, 44</ref>. δίκαιον πολιτικόν <ref addName="Ps.-Phil." cRef="CGL.II.94.57">II 94, 57</ref> (<emph>cf.</emph> δίκαιον πολιτικόν 
-      <form xml:id="I-4669" type="sublemma" lang="Latinum">iustum ciuile</form> III 336, 43). est quod quisque populus uel ciuitas sibi proprie constituit <ref addName="Adfect. / Abnuo" cRef="CGL.V.548.20">V 548, 20</ref>.
+      <form xml:id="I-4669" type="sublemma" lang="Latinum">iustum ciuile</form> <ref addName="hermen. Montep." cRef="CGL.III.336.43">III 336, 43</ref>). est quod quisque populus uel ciuitas sibi proprie constituit <ref addName="Adfect. / Abnuo" cRef="CGL.V.548.20">V 548, 20</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="I-4670" type="lemma" lang="Latinum">Ius dico</form> δικαιολογῶ <ref addName="gl. Steph." cRef="CGL.III.453.46">III 453, 46</ref>; <ref addName="gl. Lois." cRef="CGL.III.483.29">483, 29</ref>.

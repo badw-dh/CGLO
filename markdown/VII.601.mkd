@@ -1,9 +1,9 @@
-> διὰ ταῦτα propterea, ἐπὶ τούτοις adeo, insuper, praeterea, super haec,
-> ultra (-o), καὶ ἐπὶ τούτοις insuper etiam, μετὰ ταῦτα deinde, demum,
-> denuo, post, postea, posthac, μέχρι τούτου dumtaxat, usque eo, μέχρι
-> τούτου ὅμως adhuc, πρὸ τούτου antea, antehac, antioper, πρὸς τοῦτο ad
-> hoc, πρὸς τούτοις adeo, ad haec, insuper, praeterea, ultra (-o). *Cf.*
-> τρόπος.
+διὰ ταῦτα propterea, ἐπὶ τούτοις adeo, insuper, praeterea, super haec,
+ultra (-o), καὶ ἐπὶ τούτοις insuper etiam, μετὰ ταῦτα deinde, demum,
+denuo, post, postea, posthac, μέχρι τούτου dumtaxat, usque eo, μέχρι
+τούτου ὅμως adhuc, πρὸ τούτου antea, antehac, antioper, πρὸς τοῦτο ad
+hoc, πρὸς τούτοις adeo, ad haec, insuper, praeterea, ultra (-o). *Cf.*
+τρόπος.
 
 **οὑτοσί:** τουτοΐ *sim.* hic (hocce *sim.*), istic (istuc), τουτονὶ ἆρα
 hicine (huncine).
@@ -160,7 +160,7 @@ aspectus, species.
 
 **ὀψωνάτωρ** stipendiarius.
 
-**ὀψώνιον** diarium, obsonium, salarium, *- et -* στρατιωτικόν
+**ὀψώνιον** diarium, obsonium, salarium, - *et* - στρατιωτικόν
 stipendium.
 
 **\*ὀψωνιοπώλης** macellarius.

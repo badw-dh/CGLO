@@ -386,7 +386,7 @@ Rhen.* XXIV *p.* 298.
 
 **Palin** iteratum V 381, 13.
 
-**Palingeneseon** edscaept (*ΑS.*) V 381, 12.
+**Palingeneseon** edscaept (*AS.*) V 381, 12.
 
 **Pali\<n\>urus** gubernator nauis Aeneae IV 456, 44 (*cf. Serv. in
 Aen.* III 202).
@@ -2321,7 +2321,7 @@ genus curtis (= *Hof*) V 622, 43. genus operimenti *Papias. V.* pabo.
 silentium IV 457, 28 (*gl. Verg.?*). foedus, pactum, amicitiam uel
 aduerbium qui (!) significat tantummodo V 509, 38. deus (foedus
 *Hildebrand.* Pan deus *H.*) IV 374, 43; 546, 56. **paces** plurali
-numero V 645, 21 (*Non.* 149, 10); *cf. GR. L. V* 42, 25. pluraliter
+numero V 645, 21 (*Non.* 149, 10); *cf. GR. L.* V 42, 25. pluraliter
 dicere debemus sicut panes V 229, 41.
 
 **Pax** aduerbium est, significat tantummodo V 574, 53. *Cf. GR. L.* III
@@ -2443,7 +2443,7 @@ pecunia publica praerogat V 542, 51.
 
 **Peculatus** κλοπὴ πολιτικῶν χρημάτων II 351, 2. σφετερισμὸς πολιτικῶν
 ἢ δημοσίων χρημάτων II 449, 29. furtum publicum V 320, 16. furtum
-puplicum uel fotmelum (*ΑS. om. cod. Ep. pertinet ad* pedetemptim) V
+puplicum uel fotmelum (*AS. om. cod. Ep. pertinet ad* pedetemptim) V
 384, 52. furatus de peculio puplico V 380, 4. furatus de peculio IV 138,
 35; V 130, 23. furtum factum de re publica V 541, 27. **pecula (?)**
 rerum publicarum IV 138, 36; 549, 20. *Cf. Festus p.* 237, 13. *V.*
@@ -4970,7 +4970,7 @@ II 150, 16. προπετής II 419, 50. ἄτακτος II 249, 33. αὐθά
 39. παράβολος III 335, 37. adsidue postulans uel inportunus IV 419, 15.
 temerarius, inpurus, spurcidus IV 377, 5. lasciuus a petendo IV 142, 16;
 551, 5; V 320, 20. \<in\>uerecundus uel inportunus IV 142, 27. inpurus,
-spurcus V 319, 70. uel spurcus, uuraeni (*uel* ureni, *ΑS.*) V 384, 54. quod
+spurcus V 319, 70. uel spurcus, uuraeni (*uel* ureni, *AS.*) V 384, 54. quod
 prior petat V 646, 30 (*Non.* 162, 8). proteruus, inuidiosus V 132, 29.
 est ex animo, ex moribus, ex corpore inpudicus V 657, 37 (*schol.
 Gronov. Catil.* II 25). **petulantes** mobiles V 319, 14.
@@ -9156,7 +9156,7 @@ praeproperae?) IV 552, 9. ante tempus festinanti (?) IV 552, 33. *Cf.*
 **Praeproperum** antea factum quod erat postea faciendum IV 154, 30;
 269, 33; 552, 11 (praeproperim *cod.*, *quod*
 <pb n="VII.121" facs="7.121.jpg"></pb>
-*tutatur Funck Arch.* VII 492). **praepropera** fraehraedae (*ΑS.* =
+*tutatur Funck Arch.* VII 492). **praepropera** fraehraedae (*AS.* =
 praepropere) V 378, 12 (*cf. Oros.* V 5, 7).
 
 **Praepulchre** εὐμόρφως III 437, 54.
@@ -9476,7 +9476,7 @@ ludificarentur IV 156, 13; V 475, 26; 510, 60; 235, 19 (praestigiarent).
 
 **Praestitum** παρεσχηματισμένον II 157, 40.
 
-**Praesto** χορηγῶ II 477, 63; III 163, 47. παραχορηγῶ ΙΙ 157, 28.
+**Praesto** χορηγῶ II 477, 63; III 163, 47. παραχορηγῶ II 157, 28.
 παρέχω II 398, 23. διαφέρω II 275, 31. κρείττων εἰμί II 354, 62.
 προ\<σ\>καρτερῶ (*corr. e*), παρέχομαι, παρεδρεύω (*v.* praesto sum) II
 157, 55. melior sum V 556, 14. **praestas** χορηγεῖς III 163, 48.
@@ -9726,7 +9726,7 @@ praetorii.
 quaestoric\<i\>us, aedilicius, quae haec omnia significant V 323, 7. qui
 praeest in praetorio V 556, 21.
 
-**Praetorsorum** (*uel* praetersorim) paad (*ΑS.*) V 381, 7
+**Praetorsorum** (*uel* praetersorim) paad (*AS.*) V 381, 7
 (pertunsorium *Loewe Prodr.* 411. praetersorium *Sievers 'Engl. St.'*
 VIII 156).
 
@@ -9950,7 +9950,7 @@ III 192, 49. *V.* presitiuum.
 II 328, 45. σφίγγω II 449, 33. **pressant** premunt uel exprimunt IV
 155, 35; 552, 15. *V.* prensant.
 
-**Pressorium** πιεστήριον, πιαστήριον II 159, 5. πιεστήριον ΙΙ 407, 45.
+**Pressorium** πιεστήριον, πιαστήριον II 159, 5. πιεστήριον II 407, 45.
 πιαστήριον III 197, 66; 263, 20. **prensu rium** ἶπος III 460, 75; 472,
 9; 476, 60. **pressorium** praelium (*h. e.* prellum) II 590, 6.
 **presorium** prellum *gloss. Werth.* *Gallée* 363 (*v. suppl.*). *Cf. Isid.* XX 14, 12.
@@ -10181,7 +10181,7 @@ liber). **prima** πρώτη III 426, 19. **primum** πρῶτον ὄνομα 
 **Princeps maximus** ἀρχομέγιστος III 489, 31.
 
 **Principalis** πρωτότυπος II 425, 17. πρωτεύων II 424, 59. ἀρχικός II
-246, 53. pristilla πολιτευόμενος III 182, 44. βασιλικός ΙΙ 256, 22.
+246, 53. pristilla πολιτευόμενος III 182, 44. βασιλικός II 256, 22.
 πρωτοπολίτης III 208, 15. **principale** ἀρκτικόν, πρωτότυπον,
 ἡγεμονικόν, ἀρχέτυπον II 159, 17. principatum tenens IV 152, 11.
 **principalem** βασιλικόν II 256, 23.
@@ -10420,7 +10420,7 @@ uel inhonesta IV 380, 13. conuicia IV 150, 25; V 137, 9. dedecora V 325,
 **Probruunt** (proruunt?) claustris V 475, 51.
 
 **Probus** αἰδήμων, δόκιμος, καθήκων, ἐλεύθερος, εὐδόκιμος II 159, 40.
-δόκιμος II 279, 52; III 136, 20; 374, 43. εὐδόκιμος ΙΙ 316, 48. bonus IV
+δόκιμος II 279, 52; III 136, 20; 374, 43. εὐδόκιμος II 316, 48. bonus IV
 149, 10 (pronus); 555, 20; V 137, 11. bonus, optimus uel iustus IV 147,
 20. bonos mores habens V 324, 41. iustus, optimus V 137, 7. ferth (*uel*
 fert: immo ferht, *AS.*) V 378, 30. **probum reddas** δοκίμως ἀπόδος III
@@ -12428,7 +12428,7 @@ est IV 148, 19. **protoplasto** primo plasmato IV 557, 33.
 
 **Prouectus** προαχθείς, προκόψας, προβεβηκώς II 163, 42. grandaeuus IV
 420, 28. aetate senior IV 148, 11. auctus uel cumulatus IV 149, 47; 557,
-15. ante positus uel proficiens IV 382, 8. **prouecta** gifremid (*ΑS.*)
+15. ante positus uel proficiens IV 382, 8. **prouecta** gifremid (*AS.*)
 V 378, 47. **prouectae** frodrae (*AS.*) V 378, 44. **prouecti** porro
 portati IV 150, 51. introrsum portati IV 460, 19 (*Verg. Aen.* II 24).
 
@@ -12437,7 +12437,7 @@ portati IV 150, 51. introrsum portati IV 460, 19 (*Verg. Aen.* II 24).
 **Prouectus honore** honoratio\<r\> *a post* IV 148, 11; 151, 34.
 
 **Proueho** προβιβάζω II 416, 29. **prouehit** προβιβάζει II 163, 43.
-gifraemith (*uel* gifremit, *ΑS.*) V 378, 1. promonet seu profert V 477,
+gifraemith (*uel* gifremit, *AS.*) V 378, 1. promonet seu profert V 477,
 8. **prouexit** in maius leuauit IV 276, 5. promouit IV 149, 46; 557,
 14. promouit siue portauit V 324, 45. **prouehor** transportor IV 275,
 53. honore donor IV 150, 1; 557, 16; V 477, 11. **prouehimur** portamur
@@ -12553,7 +12553,7 @@ XIII 242) **proxenetae** V 598, 50. *Cf. Landgraf Arch.* IX *p.* 356.
 **Proximus urbis** ἀστυγείτων II 248, 53 (*v.* confinis).
 
 **Prudens** σοφός II 435, 5; III 472, 13. φρόνιμος II 473, 17; III 250,
-29. συνετός ΙΙ 445, 43. προνοητικός II 419, 24 (prouidens *e*). φρονῶν
+29. συνετός II 445, 43. προνοητικός II 419, 24 (prouidens *e*). φρονῶν
 II 473, 22. ἔμπειρος III 493, 53. ἔμπειρος, φρόνιμος III 331, 41; 519,
 29. prouidens IV 276, 6. prouidens uel porro uidens (*v.* puerpera) IV
 382, 16 (*Isid.* X 201). **prudenti** φρονίμῳ III 414, 20.
@@ -12613,7 +12613,7 @@ Buech.*).
 **Prunum praec\<oqu\>um** κοκκύμηλον (*suppl. Keil*) II 548, 6.
 
 **Prunus** δαμασκηνόν II 266, 21. arbor IV 152, 19; 558, 33. plumae
-(*ΑS.*) V 382, 45. lignum, **prunum** fructus id est plun (*ΑS.*) *gloss.
+(*AS.*) V 382, 45. lignum, **prunum** fructus id est plun (*AS.*) *gloss.
 Werth. Gallée* 343 (*GR. L. suppl.* 238, 23; *v. suppl.*).
 
 **Prurientes** detrahentes V 512, 3; 577, 14. scalpientes (!) V 607, 25;

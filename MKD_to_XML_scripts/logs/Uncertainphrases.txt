@@ -1,0 +1,14 @@
+Search string: \*\* \(.+\) \*\*
+
+
+VI.20 **Acutor** (auctor *codd.*) **auctor** ἀκονητής III 307, 17; 487, 20;
+506, 31.
+
+italics within parenthesis:
+VI.52 **Allius (*vel* alius) agrestis**
+**Ap se (apere *cod.*) abigere**
+  solution: filter parenthesis out of website lemma?
+
+Very long phrase:
+**Auxiliare \<tuo\> rerum pater optimo (-me?) se\<ruo\>, ut parere
+queam principi\<s\> imperii\<s\>** V 546, 1.

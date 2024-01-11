@@ -10,9 +10,7 @@
 
 **fuglū** *v.* stalu to fuglū.
 
-[alneum.
-
-**fulaetrea** (E, falatreu A, = fulaetreu)
+**fulaetrea** (E, falatreu A, = fulaetreu) alneum.
 
 **fulteam** emolumentum.
 
@@ -71,7 +69,7 @@ iacessura.
 
 **gebil** *cf.* gaebuli.
 
-**geboronae** (?) exposito *s. v.* expositus.
+**geboronae(?)**  exposito *s. v.* expositus.
 
 **gebrec** *v.* gibrec.
 
@@ -93,9 +91,8 @@ iacessura.
 
 **gefegnessi** *v.* gifoegnissae.
 
-**gefetodnae** (E, gefetatnae A) acetum 3.
-
-= accitum (*et habent codd.* accetum, non acetum).
+**gefetodnae** (E, gefetatnae A) acetum 3. = accitum (*et habent codd.*
+accetum, non acetum).
 
 **gegenga** *v.* gegenta.
 
@@ -171,4 +168,4 @@ giscaduuyrt.
 **gespon** *v.* gespan.
 
 **gesuedradum** exoleverunt *s. v.* exolesco, **gesuidradrae** (E,
-gisuderadae A. = gi-
+gisuderadae A. = gisuidradae)

@@ -1,12 +1,12 @@
-> idcirco minus, οὐκ εἰς μακράν propediem, οὐ νόμιμον incivile, οὐκ
-> ὀλίγοι nonnullus (-i), οὐ σώφρων insaniens, οὐχ ὑγιής malesanus, οὐχ
-> αἱροῦμαι nolo, οὐ βλάπτω non laedo, οὐ βούλομαι nolo, οὐ διαλείπει non
-> cessat (*et* non deest), οὐ δύναμαι nequeo, non possum, οὐκ ἐθέλω
-> nolo, οὐκ ἐλλείπει non deest, οὐκ ἐπίσταμαι nescio, οὐκ έπιστρέφομαι
-> non revertor, οὐκ ἔξεστι non licet, οὐκ οἶδα nescio, οὐκ ὀξυδορκῶ *v.*
-> ὀξυδ., οὐ πείθομαι inoboedio, non credo, οὐ πέποιθα diffido, οὐ
-> προσδοκῶ non opinor, οὐ συμφωνῶ discrepo, μὴ οὐχί *v.* μή, ἡ οὐ *v.*
-> ἤ, οὐδὲ οὐ *v.* οὐδέ. *Cf.* οὐκέτι, οὐκοῦν, οὔπω, οὔτε *sim.*
+idcirco minus, οὐκ εἰς μακράν propediem, οὐ νόμιμον incivile, οὐκ
+ὀλίγοι nonnullus (-i), οὐ σώφρων insaniens, οὐχ ὑγιής malesanus, οὐχ
+αἱροῦμαι nolo, οὐ βλάπτω non laedo, οὐ βούλομαι nolo, οὐ διαλείπει non
+cessat (*et* non deest), οὐ δύναμαι nequeo, non possum, οὐκ ἐθέλω
+nolo, οὐκ ἐλλείπει non deest, οὐκ ἐπίσταμαι nescio, οὐκ έπιστρέφομαι
+non revertor, οὐκ ἔξεστι non licet, οὐκ οἶδα nescio, οὐκ ὀξυδορκῶ *v.*
+ὀξυδ., οὐ πείθομαι inoboedio, non credo, οὐ πέποιθα diffido, οὐ
+προσδοκῶ non opinor, οὐ συμφωνῶ discrepo, μὴ οὐχί *v.* μή, ἡ οὐ *v.*
+ἤ, οὐδὲ οὐ *v.* οὐδέ. *Cf.* οὐκέτι, οὐκοῦν, οὔπω, οὔτε *sim.*
 
 **οὐά** *et* **\*οὖ (?)** vaha (va).
 
@@ -26,7 +26,7 @@ subst.*!), nugas, nugator, nugatorius, nullus.
 
 **οὐδέ** nec, *cf.* ve, - εἷς nullus, - ἕν nihil, nullus (-um), - ὅλως
 nequiquam, prorsus nequaquam, - ὄντως *cf.* prorsus nequaquam, -
-ὁπότερος neuter, - ὁποτέρωθι *et -* ὁποτέρως neutrubi, - οὐ nec non.
+ὁπότερος neuter, - ὁποτέρωθι *et* - ὁποτέρως neutrubi, - οὐ nec non.
 
 **οὐδείς** nemo, nihilum (-o *subst.*!), nullus, οὐδενός nihilum (-o
 *abl.*), οὐδέν nihil, οὐδὲν ἄλλο nihil aliud, οὐδὲν ἕτερον nihil aliud,
@@ -135,6 +135,6 @@ neque enim aliquando, - ὅμως neque tamen.
 
 **οὗτος** hic, is (*cf. etiam* is, ea *sim. s. v.* eo 2.), iste, τίς
 οὗτος ἄρα quis ille, τοῦτο id ipsum, tantundem, τοῦτο ἆρα idne, τοῦτο
-αὐτό id ipsum, ταύτῃ κἀκεῖσε hac illac, τούτων οὕτως ἐχόντων *v.* ἔχω*,*
+αὐτό id ipsum, ταύτῃ κἀκεῖσε hac illac, τούτων οὕτως ἐχόντων *v.* ἔχω,
 αὐτῇ ταύτῃ *sim.* ipse (ea ipsa *sim.*), διὰ τοῦτο idcirco, ideo, διὰ
 τοῦτο γὰρ quia igitur, οὐ διὰ τοῦτο non per hoc, καὶ διὰ τοῦτο ideoque,

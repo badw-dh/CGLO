@@ -1,94 +1,94 @@
-> **\*γαυνάπης** *v.* γαυσάπης.
->
-> **γαυρίαμα** exsultatio.
->
-> **γαυριῶ** exsulto, gestio, -ᾷ babit, burdit, πρὸς τὸ -ᾶν ad
-> exsultandum, γαυριῶν exsultans.
->
-> **γαῦρος** alacer, gaudens, laetus.
->
-> **γαυρότης** alacritas.
->
-> **γαύρως** alacriter.
->
-> **γαυσάπης** (γαυνάπης *cod.*) gausapa.
->
-> **γέ** verum. *Cf.* ἄρα, ἆρα, ἐγώ, εἰ, ἔτι, εὖ, καίτοι, μέν.
->
-> **γεέννα** (*Eins.*) geenna.
->
-> **γεηπονία** cultura. *Cf.* γεωπ.
->
-> **γεηπόνος** agricola, cultor, γηπ. *cf* geoponus.
->
-> **γεισίον** *cf.* gissus (-ium) (*expl.* labium, terminus, finitio).
->
-> **γεῖσσος** terminus (*ubi adde* III, 495, 51 gisus: terminus). *Cf.*
-> gissus (*expl.* definitio).
->
-> **γεισῶ:** γεγεισωμένα crustata.
->
-> **γείσωμα** *cf.* anulus, gisma (*expl.* angulus), terminus.
->
-> **γειτνίασις** vicinia, vicinitas.
->
-> **γειτονεύων** vicinus.
->
-> **γειτονία** vicinia.
->
-> **γειτοσύνη** vicinia.
->
-> **γείτων** vicinus.
->
-> **γελαστής** ridiculosus.
->
-> **γελοιάζω** iocor.
->
-> **γελοιαστής** ridiculus.
->
-> **γελοῖος** delirus, iocularis, ridiculosus, ridiculus, -ον iocus.
->
-> **γελοιώδης** iocosus, iocularis, ridiculosus.
->
-> **γελῶ** rideo.
->
-> **γέλως** risus.
->
-> **γελωτοποιός** scurra.
->
-> **γεμίζω** compleo, impleo, γεγεμισμένος cumulatus.
->
-> **γέμω** plenus sum, -ων cumulatus, impletus, plenus.
->
-> **γεμῶ** impleo.
->
-> **γενάρχης** generator, genitor. *Cf.* γενεάρχης.
->
-> **γενεά** generatio, natio (*cf. etiam* navitio), nativitas,
-> procreatio, progenies, proles, propagatio, saeculum, suboles, -
-> διακρίνουσα γένη sexus, -ᾶς μεγάλης generosus.
->
-> **γενεαλογία** genealogia, nativitas.
->
-> **γενεάρχης** *cf.* genearcha (*expl.* generis princeps). *Cf.*
-> γενάρχης.
->
-> **γενεαρχία** *cf.* genearchia (*expl.* generis initium).
->
-> **γενεθλιακός** natalicius. *Cf.* genethliacus (*expl.* laus natalis,
-> gentilis *sim.*).
->
-> **γενέθλιος** genealis, natalicius, natalis.
->
-> **γενειάζω** *et* **γενεάσκω** barbesco.
->
-> **γενειήτης** barbatus.
->
-> **γένειον** barba, mentum. *Cf.* ἴουλος, χνοῦς, καθίημι.
->
-> **γενεσιολόγος** II, 262, 21 *sine interpr.*
->
-> **γένεσις** genesis, genitura, nativitas, procreatio.
+**\*γαυνάπης** *v.* γαυσάπης.
+
+**γαυρίαμα** exsultatio.
+
+**γαυριῶ** exsulto, gestio, -ᾷ babit, burdit, πρὸς τὸ -ᾶν ad
+exsultandum, γαυριῶν exsultans.
+
+**γαῦρος** alacer, gaudens, laetus.
+
+**γαυρότης** alacritas.
+
+**γαύρως** alacriter.
+
+**γαυσάπης** (γαυνάπης *cod.*) gausapa.
+
+**γέ** verum. *Cf.* ἄρα, ἆρα, ἐγώ, εἰ, ἔτι, εὖ, καίτοι, μέν.
+
+**γεέννα** (*Eins.*) geenna.
+
+**γεηπονία** cultura. *Cf.* γεωπ.
+
+**γεηπόνος** agricola, cultor, γηπ. *cf* geoponus.
+
+**γεισίον** *cf.* gissus (-ium) (*expl.* labium, terminus, finitio).
+
+**γεῖσσος** terminus (*ubi adde* III, 495, 51 gisus: terminus). *Cf.*
+gissus (*expl.* definitio).
+
+**γεισῶ:** γεγεισωμένα crustata.
+
+**γείσωμα** *cf.* anulus, gisma (*expl.* angulus), terminus.
+
+**γειτνίασις** vicinia, vicinitas.
+
+**γειτονεύων** vicinus.
+
+**γειτονία** vicinia.
+
+**γειτοσύνη** vicinia.
+
+**γείτων** vicinus.
+
+**γελαστής** ridiculosus.
+
+**γελοιάζω** iocor.
+
+**γελοιαστής** ridiculus.
+
+**γελοῖος** delirus, iocularis, ridiculosus, ridiculus, -ον iocus.
+
+**γελοιώδης** iocosus, iocularis, ridiculosus.
+
+**γελῶ** rideo.
+
+**γέλως** risus.
+
+**γελωτοποιός** scurra.
+
+**γεμίζω** compleo, impleo, γεγεμισμένος cumulatus.
+
+**γέμω** plenus sum, -ων cumulatus, impletus, plenus.
+
+**γεμῶ** impleo.
+
+**γενάρχης** generator, genitor. *Cf.* γενεάρχης.
+
+**γενεά** generatio, natio (*cf. etiam* navitio), nativitas,
+procreatio, progenies, proles, propagatio, saeculum, suboles, -
+διακρίνουσα γένη sexus, -ᾶς μεγάλης generosus.
+
+**γενεαλογία** genealogia, nativitas.
+
+**γενεάρχης** *cf.* genearcha (*expl.* generis princeps). *Cf.*
+γενάρχης.
+
+**γενεαρχία** *cf.* genearchia (*expl.* generis initium).
+
+**γενεθλιακός** natalicius. *Cf.* genethliacus (*expl.* laus natalis,
+gentilis *sim.*).
+
+**γενέθλιος** genealis, natalicius, natalis.
+
+**γενειάζω** *et* **γενεάσκω** barbesco.
+
+**γενειήτης** barbatus.
+
+**γένειον** barba, mentum. *Cf.* ἴουλος, χνοῦς, καθίημι.
+
+**γενεσιολόγος** II, 262, 21 *sine interpr.*
+
+**γένεσις** genesis, genitura, nativitas, procreatio.
 
 **γενέτειρα** genetrix.
 

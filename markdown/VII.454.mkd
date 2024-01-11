@@ -1,7 +1,7 @@
 **ἀναλλοίωτος** immutabilis.
 
-**ἀναλογεῖον** *et* **-γιον** lectorium, manuale, pulpitum, III 277, 41
-*sine interpr. Cf.* ambone, analogium.
+**ἀναλογεῖον** *et* **ἀναλόγιον** lectorium, manuale, pulpitum, III 277,
+41 *sine interpr. Cf.* ambone, analogium.
 
 **\*ἀναλογή** respectus.
 
@@ -35,7 +35,7 @@ impensa, sumptus, - στρατιωτικόν commeatus. *Cf.* λόγος.
 
 **ἀναμετρῶ** metior.
 
-**ἀναμιμνήσκω** recordor (-o), *-*ομαι, recogito, recordor, reminisco
+**ἀναμιμνήσκω** recordor (-o), -ομαι, recogito, recordor, reminisco
 (-or), -μνησθείς recordatus, rementus.
 
 **ἀναμίξ** promiscue.
@@ -77,13 +77,13 @@ instaurans, -ωθέντες instaurati.
 
 **ἀνάπαλιν** rursus.
 
-**ἀναπάλλω** *et* **-ομαι** resulto.
+**ἀναπάλλω** *et* **ἀναπάλλομαι** resulto.
 
 **ἀναπάρτιστον** imperfectum.
 
 **ἀνάπαυσις** requies.
 
-**ἀναπαύω** *et* **-ομαι** pauso.
+**ἀναπαύω** *et* **ἀναπαύομαι** pauso.
 
 **ἀναπείθω** persuadeo, sollicito.
 
@@ -113,7 +113,7 @@ instaurans, -ωθέντες instaurati.
 
 **\*ἀνάπορον** *v.* ἀνάφορον.
 
-***\**ἀναπόφαντος** *v.* ἡμέρα.
+**\*ἀναπόφαντος** *v.* ἡμέρα.
 
 **ἀναπτέρυγες (?)** ala (-ae).
 
@@ -135,7 +135,7 @@ instaurans, -ωθέντες instaurati.
 
 **ἀναῤῥάπτω:** ἀναρεραμμένη replica.
 
-**ἀνἀῤῥώννυμαι** convalesco.
+**ἀναῤῥώννυμαι** convalesco.
 
 **ἄναρσις (?)** *cf.* anarseis (*expl.* mansiones).
 
@@ -147,7 +147,7 @@ instaurans, -ωθέντες instaurati.
 
 **\*ἀνασάσσει** luxo (luxatur).
 
-**\*ἀνασαφηνίζω** *et* **\*-σαφίζω** declaro.
+**\*ἀνασαφηνίζω** *et* **\*ἀνασαφίζω** declaro.
 
 **ἀνασείω** concito, sollicito.
 

@@ -21,7 +21,7 @@
 **χρονικός:** -ή dracontea. *Cf.* chronicon (*expl.* temporale).
 
 **χρόνιος** diutinus, diuturnus, temporalis, *cf.* chronia (*expl.*
-veteris causa). *Cf.* νομή*.*
+veteris causa). *Cf.* νομή.
 
 **χρονιότης** morbus regius sine febre.
 
@@ -51,14 +51,14 @@ vini).
 
 **\*χρυσεκλέκτης** aurilegulus.
 
-**χρύσεος** *et* **χρυσοῦς** aureus. *Cf.* νόμισμα*.*
+**χρύσεος** *et* **χρυσοῦς** aureus. *Cf.* νόμισμα.
 
 **\*χρυσεψητής** auricoctor.
 
 **χρύσινος** aureus, solidus, διπλοῦς - ἤτοι ὄβολος dupondium, τέταρτον
 -ου scripulus, εἰς -ους ῥ denariis centum.
 
-**χρυσίον** aurum. *Cf.* γήδιον, διανομή*.*
+**χρυσίον** aurum. *Cf.* γήδιον, διανομή.
 
 **χρυσίτης** *et* **χρυσῖτις** mercurialis, millefolium, sandaraca,
 spuma argenti.
@@ -99,25 +99,25 @@ sermo).
 
 **χρυσουργεῖον** *cf.* auraria.
 
-**χρυσοῦς** *v.* χρύσεος*.*
+**χρυσοῦς** *v.* χρύσεος.
 
 **\*χρύσοφος** aurata. *V. sequ.*
 
-**χρύσοφρυς** *et -* ὁ ἰχθύς aurata.
+**χρύσοφρυς** *et* - ὁ ἰχθύς aurata.
 
 **\*χρυσόχαλκος** aurichalcum.
 
 **χρυσοχοεῖον** aurificina.
 
-**χρυσοχόος** aurifex. *Cf.* ζυγόν*.*
+**χρυσοχόος** aurifex. *Cf.* ζυγόν.
 
 **\*χρυσοψέλια** periscelis (-ides).
 
 **\*χρυσυποδέκτης** susceptor aurarius.
 
-**χρυσῶ:** χρυσωθείς *et* κεχρυσωμένος auratus. *Cf.* χρυσωτός*.*
+**χρυσῶ:** χρυσωθείς *et* κεχρυσωμένος auratus. *Cf.* χρυσωτός.
 
-**\*χρυσωρύκτης** *vel* χρυσορ*.* aurifossor, aurilegulus. *Cf.*
+**\*χρυσωρύκτης** *vel* χρυσορ. aurifossor, aurilegulus. *Cf.*
 aurifodina.
 
 **\*χρυσωρυχεία** aurifodina.
@@ -126,7 +126,7 @@ aurifodina.
 
 **χρυσωτός** auratus.
 
-**χρώζω** *v.* χρώννυμι*.*
+**χρώζω** *v.* χρώννυμι.
 
 **χρώμα** color (*cf.* chroma), fucus, - ἀνθινόν floralis color, -
 πήλινον luteus (-um), - ὑάλινον ferrugineus (-um).

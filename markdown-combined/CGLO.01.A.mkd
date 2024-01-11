@@ -1,5 +1,5 @@
 <div type="section" xml:id="A"><pb n="VI.1" facs="6.1.jpg"></pb>
-**Α** ἀπό, ἀπὸ τοῦ, ὑπὲρ τοῦ, ὑπὲρ τῆς II 3, 1. **ab** ἀπό, παρὰ και ὐπό
+**A** ἀπό, ἀπὸ τοῦ, ὑπὲρ τοῦ, ὑπὲρ τῆς II 3, 1. **ab** ἀπό, παρὰ και ὐπό
 II 3, 2; 554, 21. παρά II 394, 5. **ab abs** ἀπό II 533, 29. **abs**
 ἀπό, χωρίς II 4, 48. **a ab abs dis** ἀπό II 235, 40.
 
@@ -3049,7 +3049,7 @@ pro[ti]nus conruit V 261, 67 (*Verg. Aen.* V 477).
 ἐργομωκία II 313, 62.
 
 **Adulator** κόλαξ II 10, 7; 352, 14; III 151, 16; 250, 1; 342, 18; 439,
-3. ἐργόμωκος II 313, 61; III 334, 49; 372, 53; 519, 67. κολακευτής IIΙ
+3. ἐργόμωκος II 313, 61; III 334, 49; 372, 53; 519, 67. κολακευτής III
 497, 9. colax, parasitus IV 304, 40. blandus, adsentator (*reg.*
 *Bened.* 65, 17?) V 412, 44. blandus uel adsertor IV 8, 3. lemosinator
 (lenocinator?), fautor V 560, 14. **adolatores** κόλακες II 8, 20. *V.*
@@ -4105,7 +4105,7 @@ Osberno p.* 186, 192).
 
 **Aeuitas** quidem potest dici, sed rarum est. in usu magis perpetuitas
 uel (aut *G*) aeternitas dicitur. **aeuum** autem generis neutri est
-*Plac. V* 3, 12. 13 = V 45, 22. aetas IV 204, 5. aetas uel aeternitas V
+*Plac.* V 3, 12. 13 = V 45, 22. aetas IV 204, 5. aetas uel aeternitas V
 437, 57; 490, 32. aeternitas, aetas V 344, 32; 625, 36. aetas,
 temporalitas V 263, 4. *V.* aetas.
 
@@ -5017,7 +5017,7 @@ ligustra.
 
 **Albam paenulam** λευκὴν φαινόλην III 211, 5 = 226, 55/56 = 647, 3.
 
-**Albani patres** Albani principes IV 429, 6 (*Verg. Ecl.* I 7).
+**Albani patres** Albani principes IV 429, 6 (*Verg. Aen.* I 7).
 
 **Alba rosa** λευκόροδα III 567, 56.
 
@@ -5717,7 +5717,7 @@ dicta V 549, 17. clara, serena IV 429, 13. **almum** sanctum IV 14, 2;
 **Alneum** fulae treu (*AS.*) V 340, 4 (*vertitur* alnus: alnetum?).
 
 **Alnus** αἴγειρος II 220, 9; III 300, 68. κλῆθρος, θρύον ὃ ἔστι δένδρον
-II 15, 17. κλῆθρον τὸ δένδρον II 350, 34 κλήθρη III 264, 49. **alnum**
+II 15, 17. κλῆθρον τὸ δένδρον II 350, 34. κλήθρη III 264, 49. **alnum**
 arboris genus V 438, 49. **alnos** nunc populus IV 14, 49. **alnum**
 lignum id est uerna IV 14, 43. lignum alnetanum (agnetano *cod.
 Sangall.*), id est uernum IV 205, 51. *Cf. Diez* II^c^ uerne. lignum, id
@@ -5766,7 +5766,7 @@ flauos (uel faluos *a*) III 596, 8. *V.* ophiasis.
 31. ἀκρωτήριον, προμυκτήριον, δειράς III 260, 34 (*unde?*). montes
 Galliarum IV 14, 51. montes Gallici IV 475, 12. **Alpis** mons ubi
 Gallia ab Italia diuiditur IV 405, 29. **Alpes** Galli[c]ae alti
-montes V 560, 32 niues lingua Gallica, alti montes V 560, 41. niues IV
+montes V 560, 32. niues lingua Gallica, alti montes V 560, 41. niues IV
 307, 47. *Cf. Serv. in Aen.* IV 442; *Georg.* III 474; *Isid.* XIV 8,
 18; *GR. L.* I 33, 6; 548, 38; II 328, 13.
 
@@ -5925,7 +5925,7 @@ comans *in lemm.*). altitonans?
 **Althaea** malua agrestis uel maluauiscum (uiscis *cod.*) V 491, 1. est
 malua siluatica uel maluuauiscum (maluaeuas *cod.*) V 615, 44. id est
 hibiscus (iustus *cod.*) III 617, 27. **altea** ab altitudine V 491, 2.
-*Cf. Pseudap. c.* XXXIX *V.* artemisia.
+*Cf. Pseudap. c.* XXXIX. *V.* artemisia.
 
 **Altiboans** altisonans (antesonans *G*) *Plac.* V 7, 18: *quibus addit
 G* V 46, 15: ut Virgilius: reboant quae siluae cicadas (*Georg.* III 223
@@ -6063,7 +6063,7 @@ alit et quae alitur alumna dici potest, id est nutrix (nutrix *del.
 Deuerling*), et quae nutritur et nutrit: sed melius tamen quae nutritur
 *Plac.* V 3, 2 = V 46, 21 (alumna nutrix ab alendo dicta *omissis
 reliquis = Isid.* X 3). *Cf. Serv. in Aen.* XI 33. **alumnae**
-fosturbearn (foetribarn *falsum est*) V 341, 50 (*AS*).
+fosturbearn (foetribarn *falsum est*) V 341, 50 (*AS.*).
 
 **Aluta** στυπτηρία II 439, 29. στυπτηριακὸν δέρμα II 439, 30; 496, 19.
 locus ubi pelles in calce pilantur uel tanantur II 565, 44. alutanin
@@ -6083,7 +6083,7 @@ praesepia V 165, 31.
 *unde* III 239, 51 (σκαδιφορια alutaria).
 
 **Aluearium** σμῆνος III 262, 11. κυψέλη μελισσῶν II 357, 21. σίμβλον II
-431, 39. **aluearia** σμήνη (σμηνες *cod.*), σίμβλοι, σμηνία II 15, 42
+431, 39. **aluearia** σμήνη (σμηνες *cod.*), σίμβλοι, σμηνία II 15, 42.
 uasa apium IV 14, 24; 15, 18; 206, 20; V 165, 34. uasa apium uel sina IV
 307, 15. uasa apium uel sin\<a\>, uasa V 264, 1. praesepia IV 429, 7 (=
 *Verg. Georg.* IV 34). *Cf. Keil in Varr. p. 228. V.* ab aluearibus.
@@ -6275,7 +6275,7 @@ perplexitates V 439, 12.
 **Ambaruale** est sacrificium pro frugibus V 615, 28. *Cf. Festus Pauli*
 5, 1.
 
-**Ambedo** περιτρώγω II 405, 25, **ambest** circum est V 439, 13 (*cf.*
+**Ambedo** περιτρώγω II 405, 25. **ambest** circum est V 439, 13 (*cf.*
 *Festus Pauli p.* 4, 15). *V.* ambactus.
 
 **Ambesus** περιβεβρωμένος II 402, 12. **ambesas** undique esas V 549,
@@ -6322,7 +6322,7 @@ siue figuratas IV 16, 34; V 165, 47 (ambiguata). *V.* diploma.
 **Ambimanus** περιδέξιος II 16, 5.
 
 **Ambio** κυκλεύω II 356, 30. περιέρι χομαι II 402, 41. κολακεύω II 352,
-7, θωπεύω II 330, 13. **ambit** περιέρχετα-. κολακεύει II 16, 6. circuit
+7. θωπεύω II 330, 13. **ambit** περιέρχετα-. κολακεύει II 16, 6. circuit
 IV 15, 40. circumit IV 308, 16. per aliquem rogat IV 405, 36. circumdat,
 conplectitur IV 480, 43. **ambiamus** amplectamus V 547, 7. **ambire**
 amplecti, circum retinere V 549, 22. circuire IV 427, 17 (*Verg. Aen.*
@@ -6597,7 +6597,7 @@ XXXVII. **amictum** cooperimentum IV 16, 40. cooperimentum uel tectum IV
 **Amiculum** ἀναβόλαιον II 16, 20. ἐπικάρσιον III 369, 67. **amiclum**
 ἐπικάρσιον III 193, 33; 217, 36 = 232, 50 = 652, 10; 272, 67. ἐπικάρσιν
 III 21, 53; 93, 9. amictorium, opertorium (amictolum) V 439, 28.
-**amiculi** περιβολαίου II 16, 21 **amiculo** hraegl (*vel rectius*
+**amiculi** περιβολαίου II 16, 21. **amiculo** hraegl (*vel rectius*
 hraecli, *AS.*) V 341, 13. **amicula** ἐπικάρσια III 286, 39 = 657, 13.
 *Cf. Plaut. Cist.* 115.
 
@@ -6624,7 +6624,7 @@ soror patris uel matris IV 301, 39; 482, 24. magna soror aui IV 308, 37.
 **Amites** στάλικες II 16, 25. ἰξευτικοὶ κάλαμοι II 16, 26. fustes
 aucupales IV 16, 23; 479, 16; V 166, 12; 265, 7; 345, 20. perticae
 aucupum (uel cupum *codd. h. e.* aucupum) V 439, 31. loergae (*AS.*) V
-337, 3 reftras (*AS.*) V 339, 28. *Cf. Festus Pauli p.* 21, 5. *V.*
+337, 3. reftras (*AS.*) V 339, 28. *Cf. Festus Pauli p.* 21, 5. *V.*
 aucupalis.
 
 **Amitinus** qui ex sorore patris tui progeneratur IV 308, 39.
@@ -6747,7 +6747,7 @@ amotam). **amoti** παρειμένοι II 561, 50. remissi IV 308, 46.
 **Amoueo** ἀποκινῶ II 237, 37. ἀποσαλεύω II 240, 29. ἐκφορῶ II 293, 45.
 adigo, cogo, abduco, expello (*v.* admoneo) IV 308, 47. **amouet**
 ἐκφέρει, ἀποκινεῖ II 16, 32. **amoueas** separes V 530, 12 (*= Ter.
-Andr.* 307). **amoue** remoue *Plac.* V, 9 = V 47, 7. **amouere**
+Andr.* 307). **amoue** remoue *Plac.* V 5, 9 = V 47, 7. **amouere**
 abducere IV 16, 19. abducere, subtrahere IV 308, 48.
 
 **Amphi** utrimque V 339, 57 (*cf. Aldhelm. epist. ad Acirc. p.* 290).
@@ -6872,7 +6872,7 @@ aquarum fiunt atque ita inflantur uento V 166, 14 (= *Isid.* XX 5, 5).
 **ampullam** λήκυνθον III 216, 20 = 231, 50 = 651, 10.
 
 **Ampullarius** ληκυθοποιός II 360, 16; III 201, 49; 271, 49; 308, 39;
-499, 26; 528, 59. ampullarum factor II 566, 24 *Cf. Plauti Rud. v.* 756.
+499, 26; 528, 59. ampullarum factor II 566, 24. *Cf. Plauti Rud. v.* 756.
 
 **Amputatio** κλάδευσις II 350, 2. περικοπή II 403, 13. una lectio,
 fiit, (= fitt, *AS.*) II 566, 25: *ubi* uuae sectio *Stowasser Arch.* II
@@ -7573,7 +7573,7 @@ patiens, longanimis IV 481, 20. ipse homo V 266, 12. **animaecum**
 
 **Animal** ζῶον II 323, 7; 534, 7; III 431, 73. ζῶον λογικόν, ἄνθρωπος
 II 17, 55. **animalia** ζῶα III 200, 44; 261, 72; 370, 72; 579, 56.
-ψυχικά, ζῶα ἄλογα II 18, 3. *Cf.* bobula **animalia** II 598, 6
+ψυχικά, ζῶα ἄλογα II 18, 3. *Cf.* bobula **animalia** III 598, 6
 (bubula?), pecora, iumenta IV 309, 22. **animalium** ζώων II 556, 16.
 *V.* aeria animalia, animalis.
 
@@ -8712,7 +8712,7 @@ apostaticus abstans *Nettleship* ῾*Journ. of Phil.'* XVII 120).
 
 **Apocha** ἀποχή II 242, 38. absentia (*ubi* abstinentia *M. Schmidt
 GL. N. praef.* V) II 567, 11. *V.* apopla.
-IIΙ 508, 44
+
 **Apocope** ablatio de fine dictionis III 489, 18 (*cf. Isid.* I 35, 3;
 *GR. L.* I 441, 31). distinctio compositae dictionis III 508, 45.
 
@@ -11800,7 +11800,7 @@ genus uermis [uel] pecoribus permolestum IV 480, 54. *Cf.*
 (*ubi* ἀγγεῖον *pro* ἄγιον *d*, σφάγιον *Vulc. cf. Festus PauIi p.* 18,
 11 *et Swoboda de Nigid. Fig. p.* 16, *cui* athanulus *subesse
 videbatur.* athanuuium *O. Mueller ad Pauli loc.*, atanuuius *Scal.*).
-**atanulu** genus uasis IV 406, 33. **atanulum** genus uasis *Scal. V*
+**atanulu** genus uasis IV 406, 33. **atanulum** genus uasis *Scal.* V
 591, 18. **attanabo** genus uasis *Seal.* V 591, 46. *Cf.* atena,
 arytaena.
 
@@ -12337,7 +12337,7 @@ II 463, 61.
 **Auctrix** (*vel* autrix) ab augendo dicta (dictum *G*) est. auctor
 (est ut uero *vel* est aut uero *G*) ab auctoritate, generis est
 communis, ut hic et haec auctor *Plac.* V 5, 23. 24 = V 49, 14. *Cf.
-Serv. in Αen.* XII 159; *GR. L.* I 44, 8.
+Serv. in Aen.* XII 159; *GR. L.* I 44, 8.
 
 **Auctuarium** (abetuarium *cod. corr. g.* auctarium *b*) ἐπίμετρον II
 3, 32. *Cf. Festus Pauli p.* 14, 17.
@@ -13048,7 +13048,7 @@ auxilla *cogitans*) ἤ συμμαχία II 27, 46. opem, adiutorium IV 312, 52
 
 **Aue** χαῖρε II 474, 34; III 398, 14; 497, 18. χαίροις II 25, 41. haue
 χαῖρε II 68, 25. salutatio IV 84, 34; 523, 10; V 107, 14; 207, 1; 299,
-49. Cf. III 70, 31(= 637, 3); 510, 57; 58; 523, 28; 524, 20; 21.
+49. Cf. III 70, 31 (= 637, 3); 510, 57; 58; 523, 28; 524, 20; 21.
 **auete** χαίρετε III 70, 32 (= 637, 3).
 
 **Auectos** exportatos IV 427, 15 (= *Verg. Aen.* II 43).

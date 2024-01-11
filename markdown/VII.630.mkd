@@ -1,6 +1,6 @@
 **πρωτεῖον** primarium.
 
-**πρωτεύω** principatum gero, II, 424, 58 *s.* *interpr.*, -ων
+**πρωτεύω** principatum gero, II, 424, 58 *s. interpr.*, -ων
 principalis.
 
 **πρώτιστον** primarium.
@@ -23,11 +23,10 @@ principalis.
 
 **\*πρωτοπειρία** rudimentum, tirocinium.
 
-**πρωτόπειρος** II, 425, 6 *s.* *interpr.*
+**πρωτόπειρος** II, 425, 6 *s. interpr.*
 
-**πρωτόπλαστος** *cf.* protoplastus (*expl.*
-
-> primitus figuratus, primo genitus *sim.*), *-*ον primo finctum.
+**πρωτόπλαστος** *cf.* protoplastus (*expl.* primitus figuratus, primo
+genitus *sim.*), -ον primo finctum.
 
 **\*πρωτόπλοια** primum navigium.
 

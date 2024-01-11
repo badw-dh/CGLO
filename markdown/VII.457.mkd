@@ -40,7 +40,7 @@
 **ἀνθῶ** floreo, floresco, polleo, vigeo, vireo, viridico, -ῶν frondens,
 pollens. *Cf.* Ἀνθοῦσα.
 
-***\**ἀνθών** virectum (*ubi non recte* ἀνθῶν τόπος), viridiarium. *Cf.*
+**\*ἀνθών** virectum (*ubi non recte* ἀνθῶν τόπος), viridiarium. *Cf.*
 ἀνθεών.
 
 **ἀνία** maeror, - ψυχῆς offensio animi.
@@ -99,8 +99,8 @@ stolidus, stultus.
 
 **ἄνοια** dementia, insipientia, socordia, stultitia, vecordia.
 
-**ἀνόίγω** aperio, expando, oppando, pando, patefacio, pateo, recludo,
-resero (μοχλόν), *-*ομαι patefacio, ἀνέῳγα pateo, ἀνεῳγώς apertus,
+**ἀνοίγω** aperio, expando, oppando, pando, patefacio, pateo, recludo,
+resero (μοχλόν), -ομαι patefacio, ἀνέῳγα pateo, ἀνεῳγώς apertus,
 patefactum, patulus, propatulus, ἀνοιχθείς apertus, ἀνεῳγμένος διχόθεν
 bipatens, ἀνεῳγμένας insertum (-as), ἠνεῳγμένος patulus.
 
@@ -155,7 +155,7 @@ recertator.
 
 **ἀνταλλάσσω** cambio, submuto.
 
-**ἀνταμείβω** submuto, *-*ομαι remunero, retribuo.
+**ἀνταμείβω** submuto, -ομαι remunero, retribuo.
 
 **ἀντάμειψις** permutatio, submutatio.
 
@@ -175,7 +175,7 @@ recertator.
 
 **ἀνταρσία** rebellatio.
 
-**ἀντάρτης** perduellio, rebellio, -αι delIiones.
+**ἀντάρτης** perduellio, rebellio, -αι delliones.
 
 **\*ἄνταρχος** promagistratus.
 

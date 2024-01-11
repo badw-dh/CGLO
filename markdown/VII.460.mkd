@@ -2,7 +2,7 @@
 
 **ἀνώτερος** superior.
 
-**ἀνωτέρω:** έπὶ χρόνου supra (superius), μικρῷ ἀ. paulo superius.
+**ἀνωτέρω:** ἐπὶ χρόνου supra (superius), μικρῷ ἀ. paulo superius.
 
 **ἀνωφέλεια** incommoditas.
 
@@ -15,7 +15,7 @@
 **ἀξία** dignatio, dignitas, lucus (= locus), meritum, -ας ἱππικῆς
 equestris dignitatis. *Cf.* τιμή, προίστημι.
 
-**ἀξίάγαστος** memorabilis, -ον operae pretium.
+**ἀξιάγαστος** memorabilis, -ον operae pretium.
 
 **ἀξινάρι(ον)** securis.
 
@@ -44,7 +44,7 @@ favorabilis, οὐδενὸς - nulli dignus, nullius preti, πολλοῦ preti
 
 **ἀξιοτίμητος** pretiosus.
 
-**ἀξιόχρεος** *et **-*****εως** idoneus.
+**ἀξιόχρεος** *et* **ἀξιόχρεως** idoneus.
 
 **ἀξιῶ** depreco (*et* -or), desidero, dignor (*et* -o), mereo (-or),
 oro, peto, posco, postulo, rogo, -οῦσιν postulantibus, -ωθείς dignatus,
@@ -72,7 +72,7 @@ precario.
 
 **\*ἄοδος** invius.
 
-**ἄοζος** ὁ μἡ ἔχων ὄζον enodis.
+**ἄοζος** ὁ μὴ ἔχων ὄζον enodis.
 
 **ἀοίδιμος** memorabilis.
 
@@ -140,7 +140,7 @@ disconducit, ἀπηγορευμένος intestabilis, -ον interdictum. *Cf.*
 
 **ἀπαιτητέα** profliganda.
 
-**ἀπαιτητἡς** exactor, τῆς στρατιωτικῆς ἀννώνης opinator.
+**ἀπαιτητής** exactor, τῆς στρατιωτικῆς ἀννώνης opinator.
 
 **ἀπαιτῶ** deposco, exigo, expostulo, postulo, profligo, repeto,
 reposco, - βιαίως efflagito, flagito, profligo, - μετὰ βοῆς flagito.
@@ -164,6 +164,6 @@ definitum.
 
 **ἀπαλλοτριῶ** abalieno.
 
-**\*ἀπαλοιφή** *et **\***-***λιφή** abolitio, litura.
+**\*ἀπαλοιφή** *et* **\*ἁπαλιφή** abolitio, litura.
 
 **\*ἁπαλόπους** mollipes.

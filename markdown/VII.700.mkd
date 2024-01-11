@@ -4,13 +4,9 @@
 
 **grima** scina; mascus *s. v.* masca. *Cf.* grina.
 
-**grimrodr** (A, gimrodr C) dracontia *s. v.*
+**grimrodr** (A, gimrodr C) dracontia *s. v.* draconitas.
 
-draconitas.
-
-**grina** scina (*Glogger* scena *in* L *legit*). *Cf.*
-
-grima.
+**grina** scina (*Glogger* scena *in* L *legit*). *Cf.* grima.
 
 **groeni** prassus *s. v.* prasinus.
 
@@ -84,7 +80,7 @@ calamaucus.
 
 **haeth** (E, haedth A) thimus *s. v.* thymum.
 
-**haeth =** haett *v.* haetas.
+**haeth** = haett *v.* haetas.
 
 **haeuui** (E, haui A) caerula *s. v.* caeruleus; **hęuui** (E, hauui A)
 **vel grei** glaucum *s. v.* glaucus.
@@ -108,7 +104,7 @@ v.* pendulus.
 
 **ham** *v.* haam 1.
 
-**hama** illuvies secundarum *s. v.* ilIuvies (*pertinere puto ad Vulg.
+**hama** illuvies secundarum *s. v.* illuvies (*pertinere puto ad Vulg.
 Deut.* 28, 57).
 
 **haman** cicadae *s. v.* cicada.
@@ -168,4 +164,4 @@ healful.
 
 **heolor** *v.* helor.
 
-**herbid** (?) bipertitum *s. v.* bipertitus.
+**herbid(?)**  bipertitum *s. v.* bipertitus.

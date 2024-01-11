@@ -1,6 +1,4 @@
 <div type="section" xml:id="Palaeotheodiscus"><pb n="VII.712" facs="7.712.jpg"></pb>
-**Palaeotheodisca selecta sive propria sive latina forma.**
-
 **bettibret** sponda.
 
 **blauus** *cf.* blata.
@@ -28,7 +26,7 @@ arroganter.
 
 **hagil** grando. *V.* scûr.
 
-**îs** gIacies.
+**îs** glacies.
 
 **lardo bradone** cartilago.
 

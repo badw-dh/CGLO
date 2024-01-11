@@ -1,5 +1,5 @@
-> τικόν cella, cellarium, pennarium, penus (penum), proma,
-> promptuarium, - τὸ τοῦ δημοσίου aerarium, fiscus, - Καίσαρος fiscus.
+τικόν cella, cellarium, pennarium, penus (penum), proma,
+promptuarium, - τὸ τοῦ δημοσίου aerarium, fiscus, - Καίσαρος fiscus.
 
 **ταμίευσις** fiscatio, proscriptio.
 
@@ -20,7 +20,7 @@ promentarius.
 alaris (-es).
 
 **τάξις** acies, antes (-εις), classis, cohors, legio, officium, ordo
-(*v.* *etiam* ordior telam), series, tenor, - δουλική *v.* χρεωστώ*, -*
+(*v. etiam* ordior telam), series, tenor, - δουλική *v.* χρεωστώ, -
 ἐσχάτη *v.* ὁ πολίτης, - ἱππική ala, turma, - πολεμική cuneum,
 exercitus, tagma, - στρατιωτική cohors, collegium, legio, - ὁ στίχος
 ordo, - ἡ τοῦ ἄρχοντος apparatio, officium, - πράγματος ἢ λόγου series,
@@ -130,7 +130,7 @@ taphos), sepultus 1., tumulus.
 **τάχα** fere, forsitan, fortasse.
 
 **ταχέως** celeriter, cito (*et* citius), mature, ociter, propediem,
-tempus (tempore), volociter, - πάνυ praemature, *-* ποιοῦμαι arripio,
+tempus (tempore), volociter, - πάνυ praemature, - ποιοῦμαι arripio,
 ταχύτερον celeriter, cito (-ius), mature (-ius), ociter (ocius), velox
 (velocius), τάχιον cito (citius), θᾶττον cito (citius), mature (-ius),
 ociter (ocius), velox (velocius), ταχύτατα celeriter (celerissime,

@@ -1,0 +1,83 @@
+Turning CGLO.01.A.mkd into XML.
+Supplying xref (231, 30) from before Klammer: ('PARTIAL_XREF', '<ref addName="coll. Monac." cRef="CGL.III.215.58">215, 58</ref>', (201, 208))
+#  correct!
+No named glossary found for xref: II 598, 6  # fixed
+No named glossary found for xref: V 2, 3  # fixed
+Supplying xref (637, 3) from before Klammer: ('FULL_XREF', '<ref addName="hermen. Leid. coll." cRef="CGL.III.70.31">III 70, 31</ref>', (160, 170))
+# correct!
+Supplying xref (637, 3) from before Klammer: ('FULL_XREF', '<ref addName="hermen. Leid. coll." cRef="CGL.III.70.32">III 70, 32</ref>', (244, 254))
+# correct!
+Turning CGLO.02.B.mkd into XML.
+No named glossary found for xref: II 747, 5  # fixed
+Supplying xref (643, 24) from before Klammer: ('FULL_XREF', '<ref addName="coll. Harl." cRef="CGL.III.114.47">III 114, 47</ref>', (47, 58))
+# correct!
+Supplying xref (637, 1) from before Klammer: ('FULL_XREF', '<ref addName="hermen. Leid. coll." cRef="CGL.III.69.66">III 69, 66</ref>', (118, 128))
+# correct!
+No named glossary found for xref: V 1, 2  # fixed
+Turning CGLO.03.C.mkd into XML.
+No named glossary found for xref: V 955, 21
+# erratum; not solved!
+Supplying xref (432, 41) from before Klammer: ('FULL_XREF', '<ref addName="Abect." cRef="CGL.IV.435.9">IV 435, 9</ref>', (62, 71))
+# correct
+No named glossary found for xref: II 1, 19  # fixed
+No named glossary found for xref: IV 627, 47
+# erratum; not solved!
+No named glossary found for xref: III 118, 55  # fixed
+Turning CGLO.04.D.mkd into XML.
+No named glossary found for xref: V 2, 5  # fixed
+No named glossary found for xref: II 625, 52  # fixed
+
+# stopped here
+Turning CGLO.05.E.mkd into XML.
+No named glossary found for xref: II 1, 2
+No named glossary found for xref: II 1, 2
+No named glossary found for xref: II 2, 3
+No named glossary found for xref: II 1, 1
+No named glossary found for xref: II 1, 1
+No named glossary found for xref: IV 658, 31
+No named glossary found for xref: IV 658, 32
+No named glossary found for xref: II 2, 3
+No named glossary found for xref: II 1, 2
+Turning CGLO.06.F.mkd into XML.
+No named glossary found for xref: V 1, 19
+Turning CGLO.07.G.mkd into XML.
+No named glossary found for xref: V 1, 32
+Turning CGLO.08.H.mkd into XML.
+Turning CGLO.09.I.mkd into XML.
+No named glossary found for xref: II 1, 2
+No named glossary found for xref: II 2, 102
+Turning CGLO.10.K.mkd into XML.
+Turning CGLO.11.L.mkd into XML.
+No named glossary found for xref: II 2, 209
+No named glossary found for xref: II 1, 2
+Turning CGLO.12.M.mkd into XML.
+Turning CGLO.13.N.mkd into XML.
+Turning CGLO.14.corr-II.mkd into XML.
+Turning CGLO.15.corr-I.mkd into XML.
+Turning CGLO.16.O.mkd into XML.
+No named glossary found for xref: II 1, 41
+Turning CGLO.17.P.mkd into XML.
+No named glossary found for xref: II 1, 2
+No named glossary found for xref: II 1, 70
+No named glossary found for xref: II 621, 72
+No named glossary found for xref: II 1, 2
+No named glossary found for xref: II 1, 2
+No named glossary found for xref: III 2, 10
+Turning CGLO.18.Q.mkd into XML.
+No named glossary found for xref: II 1, 1
+No named glossary found for xref: II 1, 1
+Turning CGLO.19.R.mkd into XML.
+No named glossary found for xref: IV 1, 13
+No named glossary found for xref: II 1, 2
+No named glossary found for xref: II 2, 27
+No named glossary found for xref: II 619, 35
+Turning CGLO.20.S.mkd into XML.
+No named glossary found for xref: II 1, 28
+No named glossary found for xref: III 1, 41
+No named glossary found for xref: IV 2, 16
+Turning CGLO.21.T.mkd into XML.
+No named glossary found for xref: II 648, 4
+No named glossary found for xref: V 2, 16
+Turning CGLO.22.U.mkd into XML.
+Turning CGLO.23.V.mkd into XML.
+No named glossary found for xref: IV 993, 22

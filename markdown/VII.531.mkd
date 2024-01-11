@@ -1,22 +1,22 @@
 **εὔξυστος** rasilis.
 
-**\*ίὐόδιος** boni itineris.
+**\*εὐόδιος** boni itineris.
 
-**\^ὐοιώνιστος** auspicatus.
+**εὐοιώνιστος** auspicatus.
 
-**έὐόμιλος** affabilis, bene loquax, effa- bilis, facundus.
+**εὐόμιλος** affabilis, bene loquax, effabilis, facundus.
 
-**έὐορκῶ** liquide iuro.
+**εὐορκῶ** liquide iuro.
 
-***\*Evoęvov** (Einsi)* Avernus.
+**\*Εὔορνον** (*Eins.*) Avernus.
 
-**Γὔοσμος** bene olens, odoratus, odori- ferus.
+**εὔοσμος** bene olens, odoratus, odoriferus.
 
-**έὐόφθαλμος** oculatus.
+**εὐόφθαλμος** oculatus.
 
 **εὔοφρυς** ciliatus.
 
-**εὔπαθής** passibilis.
+**εὐπαθής** passibilis.
 
 **εὐπαίδευτος** doctus, eruditus.
 
@@ -28,11 +28,11 @@
 
 **εὐπατρίδης** patricius.
 
-**εὐπειθἡς** *et evjtL&rię* credulus.
+**εὐπειθής** *et* **εὐπιθής** credulus.
 
 **εὔπεμπτον** missilis (-e).
 
-**εὑἴπεπτος** digestus.
+**εὔπεπτος** digestus.
 
 **εὐπεπτῶ** digero.
 
@@ -40,25 +40,25 @@
 
 **εὐπερίστροφος** versutus.
 
-**εὐπιθής** *v. ευπε\^ης.*
+**εὐπιθής** *v.* εὐπειθής.
 
-***ευπε&τία*** credulitas.
+**εὐπιστία** credulitas.
 
 **εὔπιστος** credulus.
 
 **εὔπλαστος:** ἵππος - equus gymnicus.
 
-**εὔτλοια** bona navigatio.
+**εὔπλοια** bona navigatio.
 
 **εὐπλόκαμος** cincinnatus, crinitus.
 
 **εὔπνους** bene olens.
 
-***ευποιΐα*** beneficium, meritum.
+**εὐποιία** beneficium, meritum.
 
-***ενπο\^ία*** copia, opulentia, -at facultas (-ates), ops (opes).
+**εὐπορία** copia, opulentia, -αι facultas (-ates), ops (opes).
 
-**εὔτορος** accopiosus, copiosus, locuples, opulentus.
+**εὔπορος** accopiosus, copiosus, locuples, opulentus.
 
 **εὐπόρφυρον** bene clavatum.
 
@@ -70,13 +70,13 @@
 
 **εὐπραγία** bona actio, bonus actus.
 
-**εὔτρακτος** exactus.
+**εὔπρακτος** exactus.
 
 **εὐπρακτότερον** exactus (-ius).
 
 **εὐπραξία** bonus actus.
 
-**εὐπρέπεια** decentia, decor, decus, pul­chritudo.
+**εὐπρέπεια** decentia, decor, decus, pulchritudo.
 
 **εὐπρεπεστέρως** decenter (-tius).
 
@@ -87,10 +87,10 @@ decores.
 
 **\*εὐπροόρατος** perspectus.
 
-**εὐπρόσδεκτος** acceptabilis, acceptus, affabilis, -ov ἠγοῦμαι acceptum
+**εὐπρόσδεκτος** acceptabilis, acceptus, affabilis, -ον ἠγοῦμαι acceptum
 habeo.
 
-***ενπροόηγο\^ος*** affabilis.
+**εὐπροσήγορος** affabilis.
 
 **εὐπρόσιτος** accessibilis.
 
@@ -100,36 +100,40 @@ habeo.
 
 **εὔραπτος** sutilis.
 
-**εὕρεμα** *et **εν\^μα*** inventum.
+**εὕρεμα** *et* **εὕρημα** inventum.
 
 **εὕρεσις** inventus.
 
-**εὑρετἡς** inventor, repertor.
+**εὑρετής** inventor, repertor.
 
 **εὑρέτρια** inventrix.
 
-***εΰςημα** v.* εὕρεμα.
+**εὕρημα** *v.* εὕρεμα.
 
 **εὔρινον** ad nares.
 
-**\*εὑριος (?)** *v.* οὔριος.
+**\*εὔριος (?)** *v.* οὔριος.
 
 **εὔριπος** columbus, euripus.
 
 **εὑρίσκω** comperio, invenio, reperio,
 
--εθῇ exsistit (exstiterit), εὑρών nactus, **εὐρόνοτος** euronotus,
-favonius.
+-εθῇ exsistit (exstiterit), εὑρών nactus.
 
-**εύρος** corus, eurus, terrester, vulturnus, III, 426, 48 *sine
+**εὐρόνοτος** euronotus, favonius.
+
+**εὖρος** corus, eurus, terrester, vulturnus, III, 426, 48 *sine
 interpr.*
 
-***ευρν&μος*** normis.
+**εὔρυθμος** normis.
 
 **εὐρύθμως** moderate, modulanter.
 
-**εὐρυχωρία** latum spatium, **εὐρύχωρος** capax, spatiosus,
-**εὐρωστία** bona valitudo, valetudo *(cf.*
+**εὐρυχωρία** latum spatium.
+
+**εὐρύχωρος** capax, spatiosus.
+
+**εὐρωστία** bona valitudo, valetudo (*cf.*
 
 *etiam* languor).
 
@@ -143,19 +147,23 @@ interpr.*
 
 **εὐσέβεια** pietas, religio, φίλημα -ας osculum.
 
-**εὐσεβής** humanus, pius. *Cf.* eusebes. **εὐσημείωτον** bene clavatum.
+**εὐσεβής** humanus, pius. *Cf.* eusebes.
+
+**εὐσημείωτον** bene clavatum.
 
 **εὐσθένεια** firmitas.
 
-**εὐσθενἡς** robustus.
+**εὐσθενής** robustus.
 
 **\*ευσκαδης** rotabulum (= rut.).
 
-**εὔσκιος** amoenus, opacus, umbrosus, -ov umbrata, εὔσκια hedera.
+**εὔσκιος** amoenus, opacus, umbrosus, -ον umbrata, εὔσκια hedera.
 
 **εὔσκοπος** consideratus.
 
-**εὔσκυλτος** agilis, mobilis, **εὐστάθεια** constantia.
+**εὔσκυλτος** agilis, mobilis.
+
+**εὐστάθεια** constantia.
 
 **εὐσταθής** constans, strenuus.
 
@@ -171,11 +179,13 @@ interpr.*
 
 **εὐστομία** dicacitas, eloquentia.
 
-**εὔστομος** dicax, iocosus, scurra, **εὔστοχος** contemplator.
+**εὔστομος** dicax, iocosus, scurra.
 
-**εὐστραφἡς** agilis, navus, strenuus.
+**εὔστοχος** contemplator.
 
-**εὑἈτροφος** obtortus.
+**εὐστραφής** agilis, navus, strenuus.
+
+**εὔστροφος** obtortus.
 
 **εὐστρόφως** correpte.
 
@@ -205,5 +215,5 @@ interpr.*
 
 **εὐτελεστέρως** vile (vilissime).
 
-**εὐτελἡς** frivolus, vilis *(cf. etiam* bilis), *-η* improcerata, ἀπ'
--οῦς ab humili. *Cf. GHevdQbOv, βν,ενος.*
+**εὐτελἡς** frivolus, vilis *(cf. etiam* bilis), -ῆ improcerata, ἀπ'
+-οῦς ab humili. *Cf.* σκευάριον, σκεῦος.

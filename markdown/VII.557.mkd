@@ -20,7 +20,7 @@
 
 **καύσων** ardor, calor, incendium.
 
-**καυτήρ** cauter, II, 347, 4 *s.* *interpr.*
+**καυτήρ** cauter, II, 347, 4 *s. interpr.*
 
 **καυτηριάζω** resero, II, 347, 5 *s. interpr.*
 
@@ -58,7 +58,7 @@ ferulae.
 
 **κεγχρίνης** (ὄφις) anguis, coluber.
 
-**κεγχρίς,** εἶδος ἱέρακος μικροῦ titiunculus.
+**κεγχρίς**, εἶδος ἱέρακος μικροῦ titiunculus.
 
 **κέγχρος** milium, -ον bissinem.
 
@@ -167,9 +167,9 @@ stimulus, - ἐν πτέρνῃ ἱππέως calcar.
 
 **κενωτικόν** purgatorium.
 
-**κέπφος** εἶδος ὀρνέου II, 347,55 *s. interpr.*
+**κέπφος** εἶδος ὀρνέου II, 347, 55 *s. interpr.*
 
-**κεραία** apex. *Cf.* cerarius *s.* *f.*
+**κεραία** apex. *Cf.* cerarius *s. f.*
 
 **κεραμεῖον** figulina.
 

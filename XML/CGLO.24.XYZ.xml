@@ -63,7 +63,7 @@
       <form xml:id="XYZ-26" type="lemma" lang="Latinum">Zaber</form> <emph>v.</emph> rosmarinus.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-27" type="lemma" lang="Latinum">Zaberna</form> ubi uestes ponuntur <ref addName="Absid. Bern. / Absid. Vat." cRef="CGL.III.506.7">III 506, 7</ref>; <ref addName="Absid. Vat." cRef="CGL.III.521.13">521, 13</ref> (<emph>cf. a post</emph> IV 427, 13). ubi uestes ponuntur aut quodlibet aliud <emph>Plac.</emph> <ref addName="Plac. lib. gl. / Forsit." cRef="CGL.V.104.14">V 104, 14</ref>. ubi uestes portantur (?) uel quodlibet aliud <ref addName="Abstr. II" cRef="CGL.IV.197.31">IV 197, 31</ref>; <ref addName="Abal" cRef="CGL.V.519.57">V 519, 57</ref> (quid libet); <ref addName="Abstans / scol. graec. gl." cRef="CGL.V.583.24">583, 24</ref> 
+      <form xml:id="XYZ-27" type="lemma" lang="Latinum">Zaberna</form> ubi uestes ponuntur <ref addName="Absid. Bern. / Absid. Vat." cRef="CGL.III.506.7">III 506, 7</ref>; <ref addName="Absid. Vat." cRef="CGL.III.521.13">521, 13</ref> (<emph>cf. a post</emph> <ref addName="Ab abs." cRef="CGL.IV.427.13">IV 427, 13</ref>). ubi uestes ponuntur aut quodlibet aliud <emph>Plac.</emph> <ref addName="Plac. lib. gl. / Forsit." cRef="CGL.V.104.14">V 104, 14</ref>. ubi uestes portantur (?) uel quodlibet aliud <ref addName="Abstr. II" cRef="CGL.IV.197.31">IV 197, 31</ref>; <ref addName="Abal" cRef="CGL.V.519.57">V 519, 57</ref> (quid libet); <ref addName="Abstans / scol. graec. gl." cRef="CGL.V.583.24">583, 24</ref> 
       <form xml:id="XYZ-28" type="sublemma" lang="Latinum">zabarras</form> arcas <ref addName="Apod. / Abmin." cRef="CGL.V.401.15">V 401, 15</ref>. <emph>V.</emph> pera, gaberina, gabarnas. <emph>Cf. Ducange.</emph>
     </entryFree>
     <entryFree>
@@ -139,7 +139,7 @@
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-60" type="lemma" lang="Latinum">Zernam</form> inpetigo <ref addName="Abba" cRef="CGL.IV.298.30">IV 298, 30</ref>. 
-      <form xml:id="XYZ-61" type="sublemma" lang="Latinum">zernae</form> impetudines (= impetigines) ex flegmate falso <ref addName="Abstr. II" cRef="CGL.IV.197.35">IV 197, 35</ref> (<emph>cf. a</emph> IV 298, 20). 
+      <form xml:id="XYZ-61" type="sublemma" lang="Latinum">zernae</form> impetudines (= impetigines) ex flegmate falso <ref addName="Abstr. II" cRef="CGL.IV.197.35">IV 197, 35</ref> (<emph>cf. a</emph> <ref addName="Abba" cRef="CGL.IV.298.20">IV 298, 20</ref>). 
       <form xml:id="XYZ-62" type="sublemma" lang="Latinum">zernas</form> licinas (λειχῆνας) <ref addName="Antrix" cRef="CGL.III.602.38">III 602, 38</ref>. <emph>V.</emph> impetigo (<emph>ubi</emph> sannam), derbitas, sterna.
     </entryFree>
     <entryFree>

@@ -6,7 +6,7 @@
 
 **taenil** (E, tenil A) fiscella.
 
-**tangi** (E, zangi A, *palaeotheod. ? An latinum est* tangi?) tractata.
+**tangi** (E, zangi A, *palaeotheod.? An latinum est* tangi?) tractata.
 
 **tasul** (A, tasol E) tessera. *Cf.* tesulas.
 
@@ -21,11 +21,9 @@
 **teblith** cottizat.
 
 **tedridtit** (A) defecit *s. v.* deficio. *Huc refero glossam* C V,
-405, 50 desicit **tetridit**, *ubi Goetz* detrudit, *v. Thes.*
+405, 50 desicit **tetridit**, *ubi Goetz* detrudit, *v. Thes. s. v.* dissico.
 
 **tefil** (A, teblae E) alea.
-
-[*s. v. dissico.*
 
 **tefleri** II, 566, 10 *cod. a* alacer *i. e.* aleator, *ut videtur,
 cf.* tebleri (*deest in Thes. et s. v.* alacer *et s. v.* aleator).
@@ -64,7 +62,7 @@ tyndrin.
 
 **tindum** rostris *s. v.* rostrum. *V.* foraeuuallū vel tindum.
 
-**tingin** (?) revimentum.
+**tingin(?)**  revimentum.
 
 **tiorade** desisse *s. v.* desino.
 
@@ -116,7 +114,7 @@ XIV, 301) laena.
 
 **treuteru** bapis.
 
-**treuleusnis** (E, treulesnis A = treuIeasnis) perfidia.
+**treuleusnis** (E, treulesnis A = treuleasnis) perfidia.
 
 **trifoedur** *v.* đrifedor.
 

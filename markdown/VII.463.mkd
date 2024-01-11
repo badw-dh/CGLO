@@ -1,11 +1,11 @@
 μηδείς, μήτις, νῶτος, ξένη, πεντακόσιοι, πέντε, πεντήκοντα, πλεῖστος,
-πρᾶγμα, πρόβατον, προβατοστάσιον, πρόνοια, πρωί, ῥίζα, σπουδή, *eroga,*
-τίς *(indef\\ τόπος, τνχη,* ὕδωρ, χαμαί, χθές, χρήσις. **ἀποβαίνω**
-digredior, evado, evenio,
+πρᾶγμα, πρόβατον, προβατοστάσιον, πρόνοια, πρωί, ῥίζα, σπουδή, στόμα,
+τίς (*indef.*), τόπος, τύχη, ὕδωρ, χαμαί, χθές, χρῆσις.
 
--βαίνων digrediens, -βάς digressus, τὸ ἀποβαῖνον obveniens.
+**ἀποβαίνω** digredior, evado, evenio, -βαίνων digrediens, -βάς
+digressus, τὸ ἀποβαῖνον obveniens.
 
-**ἀποβάλλω** abicio, abrogo, amitto, de- cutio, depello, eicio, proicio,
+**ἀποβάλλω** abicio, abrogo, amitto, decutio, depello, eicio, proicio,
 refuto, reicio, respuo, -ομαι demitto, depello, eicio, expello, reicio,
 repudio, respuo, -βληθείς demissa, explosus, repulsus.
 
@@ -15,39 +15,48 @@ repudio, respuo, -βληθείς demissa, explosus, repulsus.
 
 **ἀποβαστάζω** aveho, deporto, -αχθείς devectus.
 
-**\*ἀπόβατος (?)** conclavis. *V.* ἀπόπατος. **ἀποβιώσας** defunctus.
+**\*ἀπόβατος (?)** conclavis. *V.* ἀπόπατος.
+
+**ἀποβιώσας** defunctus.
 
 **ἀποβλέπω** aspicio, despicio.
 
-**ἀπόβλητος** abiectus, emotus, reiectus. **ἀποβλύζω** singultio.
+**ἀπόβλητος** abiectus, emotus, reiectus.
+
+**ἀποβλύζω** singultio.
 
 **ἀποβολή** abiectio, amissio, eiectio, iactura, reiectio, repudium,
 repulsa.
 
-**ἀποβολιμαῖος** reiecticius. **ἀπόβρασμα** defersum, defrutum,
-**ἀπόγαιος** *v. άπόγει,ος.*
+**ἀποβολιμαῖος** reiecticius.
 
-***άπογαλακτίζω*** compello 1, depello, lacte depello, -γαλακτισθείς *et
--γεγα- λακτΐΰμένος* delactatus, delicum.
+**ἀπόβρασμα** defersum, defrutum.
 
-**ἀπόγειος** *et **-αεος** (ανεμος)* terrester, terra (a terra), -ειον
-σ\^οινίον retina- culum, rudens. *Cf.* apogeum.
+**ἀπόγαιος** *v.* ἀπόγειος.
 
-**ἀπογεύομαι** degusto, -γεύσασθαι degu- nere, -γευσάμενος depastus.
+**ἀπογαλακτίζω** compello 1., depello, lacte depello, -γαλακτισθείς *et*
+-γεγαλακτισμένος delactatus, delicum.
 
-**ἀπογιγνώσκω:** ἀπεγνωσμένος perdi- tus.
+**ἀπόγειος** *et* **ἀπόγαιος** (ἄνεμος) terrester, terra (a terra),
+-ειον σχοινίον retinaculum, rudens. *Cf.* apogeum.
+
+**ἀπογεύομαι** degusto, -γεύσασθαι degunere, -γευσάμενος depastus.
+
+**ἀπογιγνώσκω:** ἀπεγνωσμένος perditus.
 
 **ἀπογομῶ** exonero.
 
-**ἀπογονἡ** posteritas, progenies, proles, propago, suboles.
+**ἀπογονή** posteritas, progenies, proles, propago, suboles.
 
-**ἀπόγονος** abnepos, posterus, pronepos, **ἀπογραφεύς** censitor,
-censor, censorius, **ἀπογραφή** census, professio, professus, -τῆς
-οὐσίας, τῶν συντελειῶν, τῶν χω- ρίων census. *Cf.* caerites, caespes.
+**ἀπόγονος** abnepos, posterus, pronepos.
 
-**ἀπογράφω** profiteor, *-ομαε* censeo (-or), percenseo, profiteor,
-*-ομαι* τὰ ἴδια profiteor, -εται depingit, δεύτερον ἀπογεγραμμένος
-duicensus.
+**ἀπογραφεύς** censitor, censor, censorius.
+
+**ἀπογραφή** census, professio, professus, -τῆς οὐσίας, τῶν συντελειῶν,
+τῶν χωρίων census. *Cf.* caerites, caespes.
+
+**ἀπογράφω** profiteor, -ομαι censeo (-or), percenseo, profiteor, -ομαι
+τὰ ἴδια profiteor, -εται depingit, δεύτερον ἀπογεγραμμένος duicensus.
 
 **ἀπογυμνῶ** denudo.
 
@@ -57,57 +66,69 @@ duicensus.
 
 **\*ἀποδαψιλεύομαι** delargior.
 
-**ἀποδεικνύω** comprobo, declaro, de- monstro, designo, expromo,
--δεδειγμέ- νος designatus, probatus.
+**ἀποδεικνύω** comprobo, declaro, demonstro, designo, expromo,
+-δεδειγμένος designatus, probatus.
 
-**\*ἀποδείκτης** apparitor, designator, **ἀποδειλιῶ** pertimesco.
+**\*ἀποδείκτης** apparitor, designator.
+
+**ἀποδειλιῶ** pertimesco.
 
 **ἀπόδειξις** approbatio, demonstratio, designatio, ostensio, probatio,
-rele- gatio (υ. *s. v.* relga togiae), securitas, - τεκμηρίων
-argumentatio, οὐδεμία - nuIla comprobatio, -ιν λαβεῖν experi- mentum
-accipere. *Cf.* apodixis, evan- gelicae apodixeos.
+relegatio (*v. s. v.* relga togiae), securitas, - τεκμηρίων
+argumentatio, οὐδεμία - nulla comprobatio, -ιν λαβεῖν experimentum
+accipere. *Cf.* apodixis, evangelicae apodixeos.
 
 **ἀποδειπνησαι** percenare.
 
-**\*ἀποδεκάτευσις** eđecumatio.
+**\*ἀποδεκάτευσις** edecumatio.
 
-**\*ἀποδεκατεύω** decimo, **ἀποδεκατῶ** edecumo.
+**\*ἀποδεκατεύω** decimo.
 
-**\*ἀποδεκούριος** decurionalis. **ἀπόδεκτος** *et **-έος*** acceptus.
+**ἀποδεκατῶ** edecumo.
 
-**\*ἀποδερματισμός** ingluvies, **ἀποδέρω** deglubo, discorio.
+**\*ἀποδεκούριος** decurionalis.
+
+**ἀπόδεκτος** *et* **ἀποδεκτέος** acceptus.
+
+**\*ἀποδερματισμός** ingluvies.
+
+**ἀποδέρω** deglubo, discorio.
+
 **ἀποδεσμεύει** religat.
 
 **ἀπόδεσμος** alligamen.
 
 **ἀποδεσμῶ** devincio, -εῖται religat.
 
-**ἀποδέχομαι** acceptum habeo, com- probo, probo.
+**ἀποδέχομαι** acceptum habeo, comprobo, probo.
 
-**ἀποδημητικός** *v. προίξ* (profecticia dos).
+**ἀποδημητικός** *v.* προίξ (profecticia dos).
 
-**ἀποδημία** *et ά. έπϊ ξένης* peregrinatio, profectus 1., ἀ.
-στρατιωτική *et ετιϊ* στρα- τείας expeditio.
+**ἀποδημία** *et* **ἀ. ἐπὶ ξένης** peregrinatio, profectus 1., ἀ.
+στρατιωτική *et* ἐπὶ στρατείας expeditio.
 
-**ἀπόδημος** exterrenus, peregrinus, **ἀποδημῶ** peregrino *(et* -or),
-proficiscor, **ἀποδιδάσκω** dedoceo, edoceo.
+**ἀπόδημος** exterrenus, peregrinus.
+
+**ἀποδημῶ** peregrino (*et* -or), proficiscor.
+
+**ἀποδιδάσκω** dedoceo, edoceo.
 
 **ἀποδιδράσκω** effugio.
 
-**ἀποδίδωμι** *(et* **-διδῶ)** absolvo, de- pendo, reddo *(cf. etiam*
-probus), red- hibeo, repraesento, sarcio, -ομαι pendo.
+**ἀποδίδωμι** (*et* **ἀποδιδῶ**) absolvo, dependo, reddo (*cf. etiam*
+probus), redhibeo, repraesento, sarcio, -ομαι pendo.
 
 **ἀποδικάζω** abiudico.
 
-**ἀποδοκιμάζω** exprobro, improbo, re- fero (= refello), refuto,
-reprobo.
+**ἀποδοκιμάζω** exprobro, improbo, refero (= refello), refuto, reprobo.
 
-**ἀποδοκιμασία** reprobatio, repulsio, **ἀποδοκιμαστέος** reprobati
-cius.
+**ἀποδοκιμασία** reprobatio, repulsio.
 
-**\*ἀποδοκιμαστἡς** reprobator.
+**ἀποδοκιμαστέος** reprobaticius.
 
-**ἀπόδοσις** absolutio, luitio, pensio, red- ditio, solutio.
+**\*ἀποδοκιμαστής** reprobator.
+
+**ἀπόδοσις** absolutio, luitio, pensio, redditio, solutio.
 
 **ἀποδρέπομαι** decerpo.
 
@@ -115,13 +136,13 @@ cius.
 
 **ἀποδύρομαι** affleo, defleo, deploro, queror.
 
-**ἀποδυτήριον** spoliarium. *Cf.* apody- terium.
+**ἀποδυτήριον** spoliarium. *Cf.* apodyterium.
 
 **ἀποδύω** despolio, expilo, exspolio, exuo, spolio, -ομαι exuo.
 
 **ἀπόζεμα** *cf.* apozima.
 
-**ἀποζευγνύω** seiungo, -ζεῦξαι abiu- gassere, ἀπεζευγμένον seiunctum.
+**ἀποζευγνύω** seiungo, -ζεῦξαι abiugassere, ἀπεζευγμένον seiunctum.
 
 **ἀπόζευξις** segregatio.
 
@@ -137,7 +158,7 @@ cius.
 
 **ἀπόθερμον** phaseolus.
 
-**ἀπόθετος** conditus, repositus, -ov de- ponens.
+**ἀπόθετος** conditus, repositus, -ον deponens.
 
 **ἀποθεῶ** deum facio, divino, -οῦμαι deus fio, divino (-or).
 

@@ -1,56 +1,62 @@
-**θυμός** animus, furor, ira, - έπὶ ὀργῆς indignatio, ira.
+**θυμός** animus, furor, ira, - ἐπὶ ὀργῆς indignatio, ira.
 
-**θυμοῦμαι** animesco, irascor (-0). **θυμώδης** animosus, furiosus.
+**θυμοῦμαι** animesco, irascor (-o).
 
-**θύννος** (ὁ ἰχθύς) sarda, thynnus, **θυοσκόπος** hariolus, haruspex.
+**θυμώδης** animosus, furiosus.
+
+**θύννος** (ὁ ἰχθύς) sarda, thynnus.
+
+**θυοσκόπος** hariolus, haruspex.
 
 **θύρα** ianua, limen, ostium; θύραι fores, - ἱεροῦ fores, valvae, -
-ἱππικοῦ val- vae, - διπιωται valvae. *Cf.* κόραξ, μήτρα, μοχλός, ὀχεύς,
-παραστάς, πόλε- *μος.*
+ἱππικοῦ valvae, - διπιωται valvae. *Cf.* κόραξ, μήτρα, μοχλός, ὀχεύς,
+παραστάς, πόλεμος.
 
-***&υραΙος*** Ianus pater, - θεός Ianus. ***Cf*** firator.
+**θυραῖος** Ianus pater, - θεός Ianus. *Cf.* firator.
 
 **θυρεός** clipeus, parma, scutum.
 
-**θυρεπανοίκτης** apertularius, derecta- rius, directarius, effractor,
+**θυρεπανοίκτης** apertularius, derectarius, directarius, effractor,
 effractorius.
 
-**\*θυρευτἡς (?)** ostiarius.
+**\*θυρευτής (?)** ostiarius.
 
-***&υρίΰιον*** ostiolum.
+**θυρίδιον** ostiolum.
 
-**θυρίς** fenestra *(cf* p. 437 *et* thyrsus). *Cf. 'κανών, όβελίΰκος.*
+**θυρίς** fenestra (*cf. p.* 437 *et* thyrsus). *Cf.* κανών, ὀβελίσκος.
 
-*[&vq(jlov]{.smallcaps}* plantago.
+**θυρσίον** plantago.
 
-**θύρσος** *cf.* thyrsus *(expl.* hasta, hasta cum pampino, genus
+**θύρσος** *cf.* thyrsus (*expl.* hasta, hasta cum pampino, genus
 cymbali), tursus.
 
-**θυρώματα** postis (-es), valvae, **θυρωρός** ostiarius.
+**θυρώματα** postis (-es), valvae.
+
+**θυρωρός** ostiarius.
 
 **θύσανος** fimbria.
 
-**θυσία** agonalia, armitia, atturatio, da- mium, hostia, immolatio,
+**θυσία** agonalia, armitia, atturatio, damium, hostia, immolatio,
 impetratus 1., sacer (-crum), sacrificium, sanctus (-um), victima, -
-έγκύμονος βοός forda, - ἠ πρὸ θερισμοῦ Δημήτρας praemetium, - ἠ ἐπὶ
-νεκρῷ υ. έναγίζω, - έκ συὸς καὶ κριοῦ καὶ ταύρου solitaurilia, - ἱερέων
-*(vel -είων)* collifana; θυσίαι ἀπαρχῶν *οίνου* calpar, - ζωγεαι *cf.*
-ab- iugus, - ὑπαίθριοι γινόμεναι damium, μορφαὶ εἰς θυσίαν bolites. *V.
-οΐνος, ποτήρι,ον, ΰτίχος, τόμι,ον.*
+ἐγκύμονος βοός forda, - ἡ πρὸ θερισμοῦ Δημήτρας praemetium, - ἡ ἐπὶ
+νεκρῷ *v.* ἐναγίζω, - ἐκ συὸς καὶ κριοῦ καὶ ταύρου solitaurilia, -
+ἱερέων (*vel* -είων) collifana; θυσίαι ἀπαρχῶν οἴνου calpar, - ζωγεαι
+*cf.* abiugus, - ὑπαίθριοι γινόμεναι damium, μορφαὶ εἰς θυσίαν bolites.
+*V.* οἶνος, ποτήριον, στίχος, τόμιον.
 
-***&υ\<Ηάζω*** immolo (-or), sacrifico.
+**θυσιάζω** immolo (-or), sacrifico.
 
-**θυσιαστἡριον** altarium, ara, sacrarium, sanctuarium.
+**θυσιαστήριον** altarium, ara, sacrarium, sanctuarium.
 
 **θύσιμος** immolaticius.
 
-**θύτης** haruspex, immolator, popa, po- pinarius.
+**θύτης** haruspex, immolator, popa, popinarius.
 
-**θύω** immolo, iugulo, macto, occido, sacrifico. *Cf.* antiquare.
+**θύω** immolo, iugulo, macto, occīdo, sacrifico. *Cf.* antiquare.
 
 **θυῶ:** τεθυωμένα suffita.
 
-**θωπεία** adulatus, blandimentum, blan- dities.
+**θωπεία** adulatus, blandimentum, blandities.
 
 **θωπεύω** ambio, assecto, blandio, -ει focillat.
 
@@ -58,81 +64,85 @@ ab- iugus, - ὑπαίθριοι γινόμεναι damium, μορφαὶ εἰ�
 
 **\*θωρακίς** lorica.
 
-**θωρακοποιός** loricarius, **θωρακοφόρος** loricifer.
+**θωρακοποιός** loricarius.
 
-**θώραξ** lorica, pectus, thorax, - τὸ στῆ- θος pectus.
+**θωρακοφόρος** loricifer.
+
+**θώραξ** lorica, pectus, thorax, - τὸ στῆθος pectus.
 
 **θώρηξον** appectoret (-a).
 
-**θώς** lupus cervalis, lupus cervarius, **θώψ** ambitiosus, blandus,
-φωνῇ - bubo.
+**θώς** lupus cervalis, lupus cervarius.
+
+**θώψ** ambitiosus, blandus, φωνῇ - bubo.
 
 I.
 
-**ιἀμα** remedium, sanitas.
+**ἴαμα** remedium, sanitas.
 
 **\*ιαμας** iuridicus.
 
-**\*ϊανθος** neu (= naevum), *cf.* ihantus *(expl.* mala habitudo in
-facie). *Cf. iiov-* θος, hianio.
+**\*ἴανθος** neu (= naevum), *cf.* ihantus (*expl.* mala habitudo in
+facie). *Cf.* ἴονθος, hianio.
 
-**ίάπυξ** ἄνεμος clores (= corus).
+**ἰᾶπυξ** ἄνεμος clores (= corus).
 
-**\*ίάρι(ο)ν** aerugo, aerugo campana, flos aeraminis.
+**\*ἰάρι(ο)ν** aerugo, aerugo campana, flos aeraminis.
 
-***ίάόϋμος*** sanabilis, -ov medicamentum, **ιάσις** remedium.
+**ἰάσιμος** sanabilis, -ον medicamentum.
 
-**ὶάσπις** *cf.* iaspis *(expl.* gemma, nomen gemmae vel lapidis
-*simi).*
+**ἴασις** remedium.
 
-***ίατρεΐον*** medicinum, studio medici (= stipendium m.?)
+**ἴασπις** *cf.* iaspis (*expl.* gemma, nomen gemmae vel lapidis
+*sim.*).
 
-**ίατρικός:** -ή medicina, -ά medicinalia.
+**ἰατρεῖον** medicinum, studio medici (= stipendium m.?)
 
-*Cf. νάρ\^ηξ.*
+**ἰατρικός:** -ή medicina, -ά medicinalia. *Cf.* νάρθηξ.
 
-**ίατρός** medicus. *Cf. μήλη.*
+**ἰατρός** medicus. *Cf.* μήλη.
 
-***ίατροόοφιότής** cf.* iatrosophistes *(expl.*
+**ἰατροσοφιστής** *cf.* iatrosophistes (*expl.* medicus sapientissimus).
 
-medicus sapientissimus).
+**\*ἰατρῶ** medico.
 
-**\*ίατρῶ** medico.
+**Ἰβηρία** Hispania.
 
-***Ίβηρία*** Hispania.
+**ἰβηρίς** pisce girginaria.
 
-**ίβηρίς** pisce girginaria.
+**ἶβις:** ἴβεως ὄνυξ *et* πτερόν quinquefolium.
 
-**ίβις:** ἴβεως ὄνυξ *et πτερόν* quinque- folium.
+**ἴηδγ, ἰγδίον** *et* **ἰγδίς** mortarium.
 
-**ϊηδγ, ίγδίον** *et ίγδίς* mortarium.
+**ἰγνύα** *et* **ἰγνύαι** poples, suffragines, - τὸ ὄπιθεν καμπτόμενον
+τοῦ γόνατος suffragines.
 
-**ίγνύα** *et **-ai*** poples, suffragines, - τὸ ὄπιθεν καμπτόμενον τοῦ
-γόνατος suffra- gines.
+**ἰγνύς** poples.
 
-**ίγνύς** poples.
+**ἰδαῖος** *v.* βάτος.
 
-**ίδαῖος** *v. βάτος.*
+**ἰδέα** effigies, figura, forma, gestus. *Cf.* εἰδέα.
 
-***ίΰέα*** effigies, figura, forma, gestus. ***Cf. εΐδέα.***
+**ἰδιάζω** solito.
 
-***ίάιάζω*** solito.
+**ἰδικός** peculiaris, specialis. *Cf.* idicon (*expl.* proprium).
 
-**ίδικός** peculiaris, specialis. *Cf.* idicon *(expl.* proprium).
+**ἰδικῶς** specialiter. *Cf.* εἰδικῶς.
 
-**ίδικῶς** specialiter. *Cf.* εἰδικῶς.
+**ἰδιογνώμων** morigerator.
 
-***ίόιογνώμων*** morigerator.
+**ἰδιόκτητος** peculiaris, privatus.
 
-**ίδιόκτητος** peculiaris, privatus, **ίδιοπαθῶ** intercipio.
+**ἰδιοπαθῶ** intercipio.
 
-**\*ίδιοποίημα** usurpatio.
+**\*ἰδιοποίημα** usurpatio.
 
-**ίδιοποιῶ** *cf.* intercipio, - οῦμαι usurpo, **ίδιοπράγμων** suas res
-agens, sui ne- gotii.
+**ἰδιοποιῶ** *cf.* intercipio, - οῦμαι usurpo.
 
-**ϊδιος** proprius, suus, -ov peculium, τὰ -α suamet, τὰ ἑαυτοῦ -α
+**ἰδιοπράγμων** suas res agens, sui negotii.
+
+**ἴδιος** proprius, suus, -ον peculium, τὰ -α suamet, τὰ ἑαυτοῦ -α
 suamet ipsa, τοῦ -ου sui, suimet, τῷ -ῳ suapte, ὡς ἴδιον ut suum, καθ'
-ἰδίαν privatim, secreto, seorsum *(cf. περιττατώ).,* εἰς τὸ καθ'
-*Idiiav* seorsum *(cf. etiam άποσπώ et εξ,άγω). Cf. άπογράφομαι.,
-γένος,* δὕναμις, ἐμπειρία, έντρέχεια, θάνατος,
+ἰδίαν privatim, secreto, seorsum (*cf.* περιπατώ), εἰς τὸ καθ' ἰδίαν
+seorsum (*cf. etiam ἀ*ποσπῶ *et* ἐξάγω). *Cf.* ἀπογράφομαι, γένος,
+δύναμις, ἐμπειρία, ἐντρέχεια, θάνατος,

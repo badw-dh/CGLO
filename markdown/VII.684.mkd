@@ -1,36 +1,36 @@
-> *vel* τετρ. ἔνθα ὁ στήμων διάζεται animatorium, olla *et* animatorium.
->
-> **χυτρόποδες** *cf.* chytropodes (*expl.* vas fictile habens pedes).
->
-> **χωλαίνω** claudico, -ει coxigat.
->
-> **χωλεύω** claudico *et* claudio.
->
-> **χωλός** claudus *sim.*, cloppus, coxus.
->
-> **χῶμα** agger, cumulus, rudus, tumulus, *cf.* fugu, - ἐκ συμπτώσεως
-> rudus. *Cf.* ἐπαύξησις.
->
-> **χώνα** *v.* χώνη*.*
->
-> **χωνευτήριον** conflatorium, fornax.
->
-> **χωνευτής** conflator.
->
-> **χωνευτόν** fusile.
->
-> **χωνεύω** conflo.
->
-> **χώνη** cancellus, fundibulum, infundibulum, traiectorium, - ποταμῶν
-> gurges, χώνα iugulus.
->
-> **χωννύω** obruo.
->
-> **χώρα** arvum (*et* -a), pagus, possessio (-ones), regio, rus (*pl.*
-> χώρατα?), - καρποφόρος εὔφορος regio frugifera fertilis. *Cf.*
-> μεταβάλλω, μεταστρέφω*,* μεταφυτεύω, φυτεύω, ψιλός.
->
-> **χωράφιον** arvum.
+*vel* τετρ. ἔνθα ὁ στήμων διάζεται animatorium, olla *et* animatorium.
+
+**χυτρόποδες** *cf.* chytropodes (*expl.* vas fictile habens pedes).
+
+**χωλαίνω** claudico, -ει coxigat.
+
+**χωλεύω** claudico *et* claudio.
+
+**χωλός** claudus *sim.*, cloppus, coxus.
+
+**χῶμα** agger, cumulus, rudus, tumulus, *cf.* fugu, - ἐκ συμπτώσεως
+rudus. *Cf.* ἐπαύξησις.
+
+**χώνα** *v.* χώνη.
+
+**χωνευτήριον** conflatorium, fornax.
+
+**χωνευτής** conflator.
+
+**χωνευτόν** fusile.
+
+**χωνεύω** conflo.
+
+**χώνη** cancellus, fundibulum, infundibulum, traiectorium, - ποταμῶν
+gurges, χώνα iugulus.
+
+**χωννύω** obruo.
+
+**χώρα** arvum (*et* -a), pagus, possessio (-ones), regio, rus (*pl.*
+χώρατα?), - καρποφόρος εὔφορος regio frugifera fertilis. *Cf.*
+μεταβάλλω, μεταστρέφω, μεταφυτεύω, φυτεύω, ψιλός.
+
+**χωράφιον** arvum.
 
 **χώρημα** alveus, capacitas.
 
@@ -40,15 +40,15 @@
 
 **χωρίξω** discerno, secerno, segrego, seiungo, separo, χωρισθέν
 discretum, κεχωρισμένος divisus, secretus, segregatus, separatus. *Cf*
-κεχωρισμένως*.*
+κεχωρισμένως.
 
 **χωρικός** agrestis, rullus, rusticus.
 
 **χωρίον** ager, domus, fundus, possessio, praedium, rus, villa. *Cf.*
-ασυντελής*.*
+ασυντελής.
 
 **χωρίς** a (abs), absque, citra, extra, praeter, seorsum, separatim,
-separatus (-um), sine. *Cf.* υπέρθεσις*.*
+separatus (-um), sine. *Cf.* υπέρθεσις.
 
 **χωρισμός** discessus, discidium, divortium, separatio.
 
@@ -69,7 +69,7 @@ separatus (-um), sine. *Cf.* υπέρθεσις*.*
 
 **ψαθυρός** fragilis, putris.
 
-**ψαίρει** II, 480,17 *s. interpr.* (ψερει *cod.*).
+**ψαίρει** II, 480, 17 *s. interpr.* (ψερει *cod.*).
 
 **ψαιστός** placenta.
 
@@ -132,7 +132,7 @@ fidicina.
 
 **ψελλός** balbus. *Cf.* pulex (pollix).
 
-**\*ελοποιός** *v.* ψελιοποιός*.*
+**\*ελοποιός** *v.* ψελιοποιός.
 
 **\*ψέξις** vituperatio.
 
