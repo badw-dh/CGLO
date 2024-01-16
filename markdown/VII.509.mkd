@@ -1,15 +1,15 @@
-quor, enuntio, expromo, -ομαι deligo 2, eligo, ἐξειλεγμένος elegans.
+quor, enuntio, expromo, -ομαι deligo 2., eligo, ἐξειλεγμένος elegans.
 
 **\*ἐκλείανσις** abolitio.
 
-**ἐκλειγμάτιον** *cf.* eligmatium *(expl.* quasi electuarium).
+**ἐκλειγμάτιον** *cf.* eligmatium (*expl.* quasi electuarium).
 
 **ἐκλείπω** deficio, desum, -ει defit.
 
 **\*ἐκλειψία (?)** angustia.
 
-**ἔκλειψις** defectio, defectio solis vel lunae, defectus, deliquium
-lunae, *cf.* eclipsis, -ἠλίου *vel αελήνης* defectio, defectio lunae,
+**ἔκλειψις** defectio, defectio solis *vel* lunae, defectus, deliquium
+lunae, *cf.* eclipsis, -ἡλίου *vel* σελήνης defectio, defectio lunae,
 defectus, deliquium, deliquium solis, deniinutus, obscuratio solis.
 
 **ἐκλεκτός** electus.
@@ -24,17 +24,16 @@ defectus, deliquium, deliquium solis, deniinutus, obscuratio solis.
 
 **ἔκλευκος** asper.
 
-**ἐκλἡμπτωρ** conductor, exceptor, red- emptor.
+**ἐκλήμπτωρ** conductor, exceptor, redemptor.
 
-**ἔκληψις** ἤτοι μίσθωσις conductio, - ὑπα- γορεύοντός *τι,νος*
-exceptum.
+**ἔκληψις** ἤτοι μίσθωσις conductio, - ὑπαγορεύοντός τινος exceptum.
 
 **\*ἐκλικνίζω** evannio.
 
-**ἐκλογή** electio, lectio, optio, - ἀπὸ πολ- λῶν de multis (demultia).
+**ἐκλογή** electio, lectio, optio, - ἀπὸ πολλῶν de multis (demultia).
 *Cf.* ecloga.
 
-**ἐκλογιστἡς** dispunctor.
+**ἐκλογιστής** dispunctor.
 
 **\*ἐκλοιπάζω** *cf.* prorogat.
 
@@ -42,10 +41,10 @@ exceptum.
 
 **ἔκλυτος** dissolutus, lassus.
 
-**ἐκλύω** renodo, - δεσμῶν enodo, *-ogab* aestuo, resolvo, ἐκλελυμένος
+**ἐκλύω** renodo, - δεσμῶν enodo, -ομαι aestuo, resolvo, ἐκλελυμένος
 solutus.
 
-**ἐκμαγεῖον** mantela, similitudo, spe- cimen, tersorium.
+**ἐκμαγεῖον** mantela, similitudo, specimen, tersorium.
 
 **ἐκμαλάσσω** emollio.
 
@@ -59,9 +58,9 @@ solutus.
 
 **ἐκμίσθωσις** locatio.
 
-**ἐκμυκτηρίζω** asperno, subsanno *(ubi non recte -ι,άζω).*
+**ἐκμυκτηρίζω** asperno, subsanno (*ubi non recte -*ιάζω).
 
-***έκνευρίζω*** enervo.
+**ἐκνευρίζω** enervo.
 
 **ἔκνευσις** *et* - ὁδοῦ deverticulum.
 
@@ -73,7 +72,7 @@ solutus.
 
 **ἐκνικῶ** convinco, evinco, supero.
 
-**•ἐκνύσσω** expungo.
+**\*ἐκνύσσω** expungo.
 
 **\*ἐκξύω** erado.
 
@@ -81,9 +80,9 @@ solutus.
 
 **ἐκόντως** ultro.
 
-**ἐκούσιος** promptuarius, ultronius, vo- luntarius. *Cf. γνώμη.*
+**ἐκούσιος** promptuarius, ultronius, voluntarius. *Cf.* γνώμη.
 
-***έκου&έως*** sponte, tua sponte, ultro, voluntarie.
+**ἑκουσίως** sponte, tua sponte, ultro, voluntarie.
 
 **ἐκπαλαίω** eluctor.
 
@@ -95,7 +94,7 @@ solutus.
 
 **ἐκπέταλος** patulus.
 
-**έκπηδῶ** emico, exsilio.
+**ἐκπηδῶ** emico, exsilio.
 
 **ἐκπιέζω** elido, exprimo.
 
@@ -119,18 +118,18 @@ solutus.
 
 **ἐκπλήρωσις** exanclatio.
 
-**ἐκπλἡσσω** *et **-ττω*** percello, percutio, stupefacio, -ομαι
-expavesco, obstupefio, obstupesco, stupeo, έκπλαγείς percus- sus,
+**ἐκπλήσσω** *et* **ἐκπλήττω** percello, percutio, stupefacio, -ομαι
+expavesco, obstupefio, obstupesco, stupeo, ἐκπλαγείς percussus,
 stupidus.
 
 **ἐκπλοκή** explicatio.
 
 **ἐκπλύνω** eluo.
 
-ἐκπνέω abolesco, exanimo, exspiro, -έοντα exhalantem, ἐκπεπνευκώς de-
-crepitus.
+**ἐκπνέω** abolesco, exanimo, exspiro, -έοντα exhalantem, ἐκπεπνευκώς
+decrepitus.
 
-**ἐκποδϊἈαι** extricat (-are).
+**ἐκποδίσαι** extricat (-are).
 
 **ἐκποίησις** alienatio.
 
@@ -140,7 +139,9 @@ crepitus.
 
 **ἐκπολεμῶ** debello, expugno.
 
-**\*ἐκπολιόρκησις** devastatio, expugnatio, **ἐκπολιορκῶ** obsideo.
+**\*ἐκπολιόρκησις** devastatio, expugnatio.
+
+**ἐκπολιορκῶ** obsideo.
 
 **ἐκπορεύομαι** egredior, exeo, procedo, -όμενον proveniens.
 
@@ -160,7 +161,7 @@ crepitus.
 
 **ἐκπωμάτιον** pocillum.
 
-**ἐκρέω defluo, effluo.**
+**ἐκρέω** defluo, effluo.
 
 **\*ἐκρηγιάριος** attonitus.
 
@@ -168,27 +169,27 @@ crepitus.
 
 **ἐκριζῶ** eradico, exstirpo.
 
-**ἐκρίπτω** proicio, έκριφείς deiectus, ex- plosus, expulsus,
-ἐξερριμμένος pro- iectus 2.
+**ἐκρίπτω** proicio, ἐκριφείς deiectus, explosus, expulsus, ἐξερριμμένος
+proiectus 2.
 
-*εκς\>ι/ψις* iactus 2.
+**ἔκριψις** iactus 2.
 
 **ἐκσαρκῶ** expulpo.
 
 **ἐκσαρῶ** everro.
 
-**\*ἐκσηκῶ:** έκσεσηκωμένοι examinati.
+**\*ἐκσηκῶ:** ἐκσεσηκωμένοι examinati.
 
 **ἐκσπλαγχνίζω** eviscero.
 
-**ἔκστασις** excessus animi et mentis, praesecutio, - ἠ τοῦ λογισμοῦ
-excessus, pavor, - ὑπαρχόντων bonorum cessio. *Cf.* extasis *(expl.*
-timor, mentis ex- cessus).
+**ἔκστασις** excessus animi et mentis, praesecutio, - ἡ τοῦ λογισμοῦ
+excessus, pavor, - ὑπαρχόντων bonorum cessio. *Cf.* extasis (*expl.*
+timor, mentis excessus).
 
 **ἐκστρέφω** extorqueo.
 
-**ἐκστροφἡ** eversio.
+**ἐκστροφή** eversio.
 
-**ἐκταγή delegatio, -άς delegatorias.**
+**ἐκταγή** delegatio, -άς delegatorias.
 
 **ἐκταράσσω** exturbo.

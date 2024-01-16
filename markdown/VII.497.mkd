@@ -1,29 +1,29 @@
 **διαύγασμα** diluculum.
 
-**διαυγής** limpidus, liquidus, lucidus, per- spicuus, -ές perlucidum,
+**διαυγής** limpidus, liquidus, lucidus, perspicuus, -ές perlucidum,
 translucidum, -ές ἐστι liqueo (-et). *Cf.* δηλαυγής.
 
-**διαυγῶς** liquido. *Cf. δηλανγως.*
+**διαυγῶς** liquido. *Cf.* δηλαυγῶς.
 
-***\*όιανλαξ*** disulcis.
+**\*διαῦλαξ** disulcis.
 
 **\*δίαυλος** bisulcis.
 
-**\*δίαυλος** *(ab* αὐλός): -ot bifores.
+**\*δίαυλος** (*ab* αὐλός): -οι bifores.
 
 **διαφαίνω** illustro, interlucesco, luceo, lucesco, perluceo,
-διαφανέντος illu- cescente.
+διαφανέντος illucescente.
 
 **διαφανής** limpidus, lucidus, specularis, -ές perlucidum,
-translucidum. *Cf. φω- τιΰτήξμον.*
+translucidum. *Cf.* φωτιστήριον.
 
-***όεάφαυμα*** aurora, crepusculum, dilu- culum, πρὸ -ατος ante lucem.
+**διάφαυμα** aurora, crepusculum, diluculum, πρὸ -ατος ante lucem.
 
 **διαφαύω** *vel* -ει: albesco, dilucescit, dilucit, lucesco, perluceo,
 perlucescit.
 
-**διαφέρω** differo, pertineo, praesto *(cf.* potior), -ει intersum
-(-est), refert *etc., -ομαι* discordor (-0), dissentio, dissideo, -ων
+**διαφέρω** differo, pertineo, praesto (*cf.* potior), -ει intersum
+(-est), refert *etc.*, -ομαι discordor (-o), dissentio, dissideo, -ων
 *cf.* potior, τῷ διαφέροντι τῆς δίκης litis discrimine.
 
 **διαφεύγω** diffugio.
@@ -33,31 +33,31 @@ divulgatus, vulgatus, -η pervagata.
 
 **\*διάφημος** celeber.
 
-**διαφθείρω** corrumpo, depravo, pra- vesco; διεφθαρμένος compeditus,
-cor- ruptus, -η devirginata.
+**διαφθείρω** corrumpo, depravo, pravesco; διεφθαρμένος compeditus,
+corruptus, -η devirginata.
 
-**διαφθορά** abortus, corruptela, cor- ruptio, corruptus 1, interitus, -
-παιδὸς ἡ παρθένου stuprum, - έπὶ ἀμβλώ- σεως abortus.
+**διαφθορά** abortus, corruptela, corruptio, corruptus 1., interitus, -
+παιδὸς ἢ παρθένου stuprum, ἐπὶ ἀμβλώσεως abortus.
 
 **διαφθορεύς** interruptor.
 
 **διαφίημι** dimitto, remitto.
 
-**διαφιλον(ε)ικῶ** certamino, contendo, -εῖν disputandi.
+**διαφιλον**(**ε**)**ικῶ** certamino, contendo, -εῖν disputandi.
 
-**διαφορά** controversia, differentia, discri- men, discriminatio,
-diversatio, diver- sitas.
+**διαφορά** controversia, differentia, discrimen, discriminatio,
+diversatio, diversitas.
 
 **διαφόρησις** *cf.* cardiacus.
 
-**διαφορητικά** fascimentum. *Cf.* dia- phoretica.
+**διαφορητικά** fascimentum. *Cf.* diaphoretica.
 
-**διάφορος** diversus *(et* differens), mul- tiplex, praestans
-(-antior), -ov inter- stitio. *Cf.* bifer.
+**διάφορος** diversus (*et* differens), multiplex, praestans (-antior),
+-ον interstitio. *Cf.* bifer.
 
-**διαφόρως** differenter. *Cf. ον,επτομαι.*
+**διαφόρως** differenter. *Cf.* σκέπτομαι.
 
-***ΰεάφραγμα*** intersaeptum, tussis, -ατα loclamenta.
+**διάφραγμα** intersaeptum, tussis, -ατα loclamenta.
 
 **διαφυγή** diffugium.
 
@@ -65,36 +65,43 @@ diversatio, diver- sitas.
 
 **διαφυσῶ** circumflo, perflo.
 
-**διαφωνία** diaphonia *(expl.* dissonantia), **διαφωνῶ** abhorreo,
-abhorresco(c/p.434), discrepo, dissentio, dissono.
+**διαφωνία** diaphonia (*expl.* dissonantia).
+
+**διαφωνῶ** abhorreo, abhorresco (*cf. p.* 434), discrepo, dissentio,
+dissono.
 
 **διαφωτίζω** illumino.
 
 **διαχαίνω** dehisco, διακεχηνώς patulus.
 
-**\*διαχαρακτηρίζω** persono, **διαχάραξις** discriptio.
+**\*διαχαρακτηρίζω** persono.
+
+**διαχάραξις** discriptio.
 
 **διαχαράσσω** discribo.
 
 **διαχειρίζω** digero, tracto.
 
-**διαχέω** diffundo, perfundo, -χεῖται li- quesco (-it), διακεχυμένος
-diffusus, per- fusus.
+**διαχέω** diffundo, perfundo, -χεῖται liquesco (-it), διακεχυμένος
+diffusus, perfusus.
 
-**διάχρισμα** illinimentum. *Cf.* diachrisma *(expl.* gargarismus).
+**διάχρισμα** illinimentum. *Cf.* diachrisma (*expl.* gargarismus).
 
 **διάχρυδος** inauratus.
 
 **διάχυσις** diffusio.
 
 **διαχωρίζω** abgrego, dirimo, discerno, discerpo, discrimino, dissocio,
-secerno, segrego, separo, -ει dispescit, *-ομαι,* dissideo,
+secerno, segrego, separo, -ει dispescit, *-*ομαι, dissideo,
 διακεχωρισμένος segregatus.
 
-**διαχωρισμός** discessio , discidium, discretio, dissortium, separatio.
+**διαχωρισμός** discessio, discidium, discretio, dissortium, separatio.
 
-**\*διαχωριστής** separator, **διαχωριστικόν** separativum, **διάψαλμα**
-*cf.* diapsalma *(expl.* spiritus pausatio), semper.
+**\*διαχωριστής** separator.
+
+**διαχωριστικόν** separativum.
+
+**διάψαλμα** *cf.* diapsalma (*expl.* spiritus pausatio), semper.
 
 **διαψηλαφῶ** detracto.
 
@@ -104,43 +111,43 @@ secerno, segrego, separo, -ει dispescit, *-ομαι,* dissideo,
 
 **δίγλωσσος** bilinguis.
 
-**δϊδακτἡριον** doctrina.
+**διδακτήριον** doctrina.
 
 **διδακτικός** docibilis.
 
 **διδασκαλεῖον** doctrinum, ludus.
 
-**διδασκαλία** cavilla, docibilitas,doctrina, documentum, eruditio,
-insinuatio, in- stigatio, instructio, magisterium, sug- gestio, ---
-*et* - ἐπὶ τοῦ διδάσκοντος πρᾶγμα aIlegatio, instructio.
+**διδασκαλία** cavilla, docibilitas, doctrina, documentum, eruditio,
+insinuatio, instigatio, instructio, magisterium, suggestio, --- *et* -
+ἐπὶ τοῦ διδάσκοντος πρᾶγμα allegatio, instructio.
 
 **διδασκαλικός** doctus.
 
-**διδασκάλιον** *cf.* didascalium *(expl.* in- stitutio doctrinae).
+**διδασκάλιον** *cf.* didascalium (*expl.* institutio doctrinae).
 
-**διδάσκαλος** doctor, magister, prae- ceptor, professor. *Cf.*
-didascalus, di- dascalum *(expl.* doctorale).
+**διδάσκαλος** doctor, magister, praeceptor, professor. *Cf.*
+didascalus, didascalum (*expl.* doctorale).
 
-**διδάσκω** doceo, instruo, - *δημοβία* pro- fiteor, δίδαξον cedo 2.,
+**διδάσκω** doceo, instruo, - δημοσίᾳ profiteor, δίδαξον cedo 2.,
 δεδιδαγμένος catus, doctus.
 
-**διδαχή** doctrina, doctus 2., documen- tum, instrumentum, III, 277, 31
+**διδαχή** doctrina, doctus 2., documentum, instrumentum, III, 277, 31
 *sine interpr.*
 
-***όίόςαχμον*** didrachmum.
+**δίδραχμον** didrachmum.
 
 **διδυμάων (?)** Ianus geminus.
 
-**δίδυμος** dictamnus, gemellus, geminus, puleium Martis, -ov veretrum,
--01 testi- cuIus (-i), testis 2. (-es) *etc.*
+**δίδυμος** dictamnus, gemellus, geminus, puleium Martis, -ον veretrum,
+-οι testiculus (-i), testis 2. (-es) *etc.*
 
 **διδυμῶ** gemino.
 
-**δίδωμι** *et* **διδῶ** dependo, dico, do *(cf. p.* 437), δός *(praeter
-alia)* cedo 2, duis, δὸς τρανόν da labia, διδοι ὄχλοις dat populis, εἰς
-φυγἡν *δίδωμι,* terga do, εἰς εὐθύνας *vel είς ηόλαβι,ν δεδωηεν* noxam
-dedit, ἐν ὑποθήκῃ διδόμενον pigneri datum, δοθέν datum, δοθείς εἰς
-ἔγκλημα *vel είς νόλαοι/ν* noxae deditus, δοθησό- μενος dativus. *Cf.
-ένοχη,* λήθη, λο- γισμός.
+**δίδωμι** *et* **διδῶ** dependo, dĭco, do (*cf. p.* 437), δός (*praeter
+alia*) cedo 2., duis, δὸς τρανόν da labia, διδοι ὄχλοις dat populis, εἰς
+φυγὴν δίδωμι, terga do, εἰς εὐθύνας vel εἰς κόλασιν δέδωκεν noxam dedit,
+ἐν ὑποθήκῃ διδόμενον pigneri datum, δοθέν datum, δοθείς εἰς ἔγκλημα
+*vel* εἰς κόλασιν noxae deditus, δοθησόμενος dativus. *Cf.* ἐνοχή, λήθη,
+λογισμός.
 
 **διεγείρω** excito, subrecto, suscito, -ομαι coorior.

@@ -5,36 +5,41 @@
 **διασημαίνω** denoto.
 
 **διασημότατος** perfectus (-issimus, *cf. p.* 438), procurator,
-procurator ther- marum.
+procurator thermarum.
 
 **διασήμως** clare.
 
-**διασήπω** putrefacio, διασαπέν putre- factum.
+**διασήπω** putrefacio, διασαπέν putrefactum.
 
-**διασκεδάζω** *et **-ανννω** et **-άνννμι ***discutio, dispargo,
-dissipo, διεσκέδασε dispulit, διασκεδασθείς disiectus.
+**διασκεδάζω** *et* **διασκεδαννύω** *et* **διασκεδάννυμι** discutio,
+dispargo, dissipo, διεσκέδασε dispulit, διασκεδασθείς disiectus.
 
-**διασκελίζω** divarico, praevarico, **διασκέπτομαι** delibero,
-discepto, **διάσκεψις** disceptatio.
+**διασκελίζω** divarico, praevarico.
 
-**διασκορπίζω** dispargo, dissico, dissipo, **διασκορπισμός** disparsus.
+**διασκέπτομαι** delibero, discepto.
 
-***όία6μα*** exordium, ordium, orsum.
+**διάσκεψις** disceptatio.
+
+**διασκορπίζω** dispargo, dissico, dissipo.
+
+**διασκορπισμός** disparsus.
+
+**δίασμα** exordium, ordium, orsum.
 
 **διασπαθίζω** diverbero.
 
-**διασπαράσσω** dilacero, dilanio, dila- pido, discerpo, divello, lanio,
+**διασπαράσσω** dilacero, dilanio, dilapido, discerpo, divello, lanio,
 -αχθείς discerptus.
 
 **διάσπασις** vulsus 1.
 
 **διασπασμός** dissipatio.
 
-**διασπείρω** dispargo, dissemino, διεσπαρ- μένος disseminatus.
+**διασπείρω** dispargo, dissemino, διεσπαρμένος disseminatus.
 
 **διασπορά** disparsio.
 
-**διασπῶ** dilacero, dissipo, distraho, di- vello, -ᾷ dispalat.
+**διασπῶ** dilacero, dissipo, distraho, divello, -ᾷ dispalat.
 
 **διασταδόν** eminus.
 
@@ -42,21 +47,21 @@ discepto, **διάσκεψις** disceptatio.
 
 **διασταθμίζω** depondero.
 
-**διάστασις** dissortium, distantia, disten- tio, divortium,
+**διάστασις** dissortium, distantia, distentio, divortium,
 interstitium, - καιροῦ intercapedo.
 
-**διαστέλλω** dirimo, discerno, dispungo, distingo, segrego, *-ομαι,*
+**διαστέλλω** dirimo, discerno, dispungo, distingo, segrego, -ομαι
 interdico, praecipio.
 
-**διαστἡκω** disto, persto.
+**διαστήκω** disto, persto.
 
 **διάστημα** ambulacrum, intercapedo, intercapedo litis, interstitium,
-inter- vallum, passus, prolixitas, spatium, - τόπου intervallum, -
-χρόνου inter- capedo, laxamentum, ἐκ -ατος eminus.
+intervallum, passus, prolixitas, spatium, - τόπου intervallum, - χρόνου
+intercapedo, laxamentum, ἐκ -ατος eminus.
 
 **\*διαστιγμή** distinctio, III, 277, 65 *sine interpr.*
 
-***(ϊι,αότίζω*** dispungo, distingo.
+**διαστίζω** dispungo, distingo.
 
 **\*διαστίκτης** distinctor.
 
@@ -64,55 +69,66 @@ inter- vallum, passus, prolixitas, spatium, - τόπου intervallum, -
 
 **διαστολεύς** distinctor.
 
-**διαστολἡ** disiunctio, distinctio, inter- đictum, - ἠ παῦσις
+**διαστολή** disiunctio, distinctio, interdictum, - ἡ παῦσις
 interdictum, κατὰ -ήν ad distinctum.
 
 **\*διάστρα** orditorium.
 
-**διαστρέφω** diverto, perverto, διεστραμ- μένος perversus, versutus.
+**διαστρέφω** diverto, perverto, διεστραμμένος perversus, versutus.
 
-**διαστροφή** distortus 2, divortium, per- versio.
+**διαστροφή** distortus 2, divortium, perversio.
 
 **διάστροφος** perversus.
 
 **\*διάστρωμα** digestum.
 
-**διαδυρμός** cavillatio, detractio, ob- trectatio.
+**διασυρμός** cavillatio, detractio, obtrectatio.
 
-**διαδύρτης** cavillator, obtrectator, **διασυρτικός** *cf.* diasyrtica
-locutio, **διασύρω** detracto, detraho, obtrecto, **διασφαγή**
-amfractus.
+**διασύρτης** cavillator, obtrectator.
 
-**διασχίζω** diffindo, diminuo, discindo, findo, - ὶμάτιον dissico.
+**διασυρτικός** *cf.* diasyrtica locutio.
+
+**διασύρω** detracto, detraho, obtrecto.
+
+**διασφαγή** amfractus.
+
+**διασχίζω** diffindo, diminuo, discindo, findo, - ἱμάτιον dissico.
 
 **διάσχισις** diffissio.
 
 **διασώζω** perduco.
 
-**διαταγή** dispositio (ei - ἠ διατύπωσις), ordinatio.
+**διαταγή** dispositio (*et* - ἡ διατύπωσις), ordinatio.
 
-**διάταγμα**\'albus (-um), edictum, elogium.
+**διάταγμα** albus (-um), edictum, elogium.
 
 **\*διαταγματικός** edictalis.
 
-**\*διαταγμός** edictalis, **διατάκτης** dispositor.
+**\*διαταγμός** edictalis.
+
+**διατάκτης** dispositor.
 
 **\*διατακτικῶς** ordinate.
 
 **\*διατακτῶ** constituo.
 
-**διάταξις** constitutio, edictum, institu- tum, ordinatio, -
-αὐτοκρατορική con- stitutio imperatoria. *Cf.* dialabis *(expl.*
+**διάταξις** constitutio, edictum, institutum, ordinatio, -
+αὐτοκρατορική constitutio imperatoria. *Cf.* dialabis (*expl.*
 constitutum imperatorum).
 
-**διαταράσσω** disturbo, divello, per- turbo.
+**διαταράσσω** disturbo, divello, perturbo.
 
 **διάτασις** tentigo. *Cf.* distentio.
 
-**διατάσσω** edico, ordino, -ομαι ordino, **διατείνω** distendo,
-pertendo, διατετα- μένος distentus.
+**διατάσσω** edico, ordino, -ομαι ordino.
 
-**διατελῶ** fungor, perago, persevero, **διατέμνω** intercido.
+**διατείνω** distendo, pertendo.
+
+**διατεταμένος** distentus.
+
+**διατελῶ** fungor, perago, persevero.
+
+**διατέμνω** intercido.
 
 **διατήκομαι** liquesco.
 
@@ -120,33 +136,37 @@ pertendo, διατετα- μένος distentus.
 
 **διατηρῶ** conservo.
 
-**διατίθημι** digero, dispono, sepono, - ὅ *[86tlv]{.smallcaps}
-dca&riHriv ποι,ώ* testamentum facio, - ὅ έστι διατυπῶ dispono, δια-
-θέσθαι έν παρατάξει πολέμου ἀγράφως in procinctu, ὁ διατιθέμενος
-testator. *Cf. δίάηειμαι,.*
+**διατίθημι** digero, dispono, sepono, - ὅ ἐστιν διαθήκην ποιῶ
+testamentum facio, - ὅ έστι διατυπῶ dispono, διαθέσθαι ἐν παρατάξει
+πολέμου ἀγράφως in procinctu, ὁ διατιθέμενος testator. *Cf* διάκειμαι.
 
-**διατίμησις** aestimatio, aestimatum, cen- sura, taxatio.
+**διατίμησις** aestimatio, aestimatum, censura, taxatio.
 
 **διατιμητής** aestimator.
 
-**διατιμῶ** aestimo, *et -ωμαν* aestimo, taxo, **διατινάσσω** percusso.
+**διατιμῶ** aestimo, *et* -ῶμαι aestimo, taxo.
 
-**διατιτρῶ** perforo, perfosso, **διατμητέον** decidendum.
+**διατινάσσω** percusso.
+
+**διατιτρῶ** perforo, perfosso, διατμητέον decidendum.
 
 **διάτονος** intentiva.
 
-**διατρέπω:** διετράπη pudet me (puduit), **διατρέχω** discurro,
-percurro.
+**διατρέπω:** διετράπη pudet me (puduit).
 
-**διατριβή** ludus, remoratio, statio. *Cf.* diatribas *(expl.*
+**διατρέχω** discurro, percurro.
+
+**διατριβή** ludus, remoratio, statio. *Cf.* diatribas (*expl.*
 conflictus, dissensiones *vel* disputationes).
 
 **διατρίβω** commoro (-or), dego, egero, emoror, immoror, moror.
 
-**διατρυπῶ** perforo, perfosso, pertundo, **διατυπῶ** constituo,
-deformo, detracto, dispono, exprimo, statuo, -ωθείς dis- positus.
+**διατρυπῶ** perforo, perfosso, pertundo.
 
-**διατύπωσις** constitutio, deformatio, di- gestio, digestum, dimensio,
+**διατυπῶ** constituo, deformo, detracto, dispono, exprimo, statuo,
+-ωθείς dispositus.
+
+**διατύπωσις** constitutio, deformatio, digestio, digestum, dimensio,
 dispositio.
 
 **διαυγάζω** lucesco, perluceo.

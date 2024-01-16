@@ -9,7 +9,7 @@
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-3" type="lemma" lang="Latinum">Xenium</form> graece, ab ammiratione (? animi ratione <emph>Buech.</emph> ammigratore <emph>Schoell</emph>) <ref addName="Abstr. II" cRef="CGL.IV.197.12">IV 197, 12</ref>. 
-      <form xml:id="XYZ-4" type="sublemma" lang="Latinum">xenia</form> munera, dona <ref addName="Abstr. II" cRef="CGL.IV.197.11">IV 197, 11</ref>. quod sunt praemia uel dona, per x scribendum <emph>Plac.</emph> <ref addName="Plac. lib. gl." cRef="CGL.V.103.13">V 103, 13</ref>. <emph>V.</emph> epimenia.
+      <form xml:id="XYZ-4" type="sublemma" lang="Latinum">xenia</form> munera, dona <ref addName="Abstr. II" cRef="CGL.IV.197.11">IV 197, 11</ref>. quod sunt praemia uel dona, per x scribendum <emph>Plac.</emph> <ref addName="Plac. lib. gl." cRef="CGL.V.103.13">V 103, 13</ref>. <emph>V.</emph> <xr>epimenia</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-5" type="lemma" lang="Latinum">Xenizo</form> hospitor <ref addName="Abstr. II" cRef="CGL.IV.197.9">IV 197, 9</ref>. 
@@ -20,7 +20,7 @@
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-8" type="lemma" lang="Latinum">Xenodochium</form> susceptio peregrinorum <ref addName="Absid. Bern." cRef="CGL.III.505.20">III 505, 20</ref>; <ref addName="Aleat." cRef="CGL.V.424.20">V 424, 20</ref> (xenodochiorum <emph>cod. de dial.</emph>). receptatio peregrinorum <ref addName="Apod." cRef="CGL.V.359.49">V 359, 49</ref> (exen.). locum uenerabilem in quo peregrini suscipiuntur <ref addName="Abba" cRef="CGL.IV.298.21">IV 298, 21</ref>. hospitium, locus uenerabilis in quo peregrini suscipiuntur <ref addName="Abstr. II" cRef="CGL.IV.197.8">IV 197, 8</ref>. 
-      <form xml:id="XYZ-9" type="sublemma" lang="Latinum">xenodochiorum</form> collectionum <ref addName="Apod. / Abmin." cRef="CGL.V.401.4">V 401, 4</ref>; <ref addName="Aleat." cRef="CGL.V.416.58">416, 58</ref> (<emph>de verb. interpr.</emph>). <emph>Cf. Is.</emph> XV 3, 13. <emph>V.</emph> receptaculum, synodiciis.
+      <form xml:id="XYZ-9" type="sublemma" lang="Latinum">xenodochiorum</form> collectionum <ref addName="Apod. / Abmin." cRef="CGL.V.401.4">V 401, 4</ref>; <ref addName="Aleat." cRef="CGL.V.416.58">416, 58</ref> (<emph>de verb. interpr.</emph>). <emph>Cf. Is.</emph> XV 3, 13. <emph>V.</emph> <xr>receptaculum</xr>, <xr>synodiciis</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-10" type="lemma" lang="Latinum">Xenodochus</form> susceptor peregrinorum <ref addName="Absid. Bern." cRef="CGL.III.505.19">III 505, 19</ref>.
@@ -33,10 +33,10 @@
       <form xml:id="XYZ-13" type="sublemma" lang="Latinum">sifion</form> <ref addName="Asaru" cRef="CGL.III.563.22">III 563, 22</ref>. exsiphea id est 
       <form xml:id="XYZ-14" type="sublemma" lang="Latinum">exsifion</form> <ref addName="Asaru" cRef="CGL.III.561.44">III 561, 44</ref>. actorion (ἀορίον? <emph>at cf. Diosc.</emph> IV 20 ἀνακτόριον) 
       <form xml:id="XYZ-15" type="sublemma" lang="Latinum">exilio</form> <ref addName="Asaru" cRef="CGL.III.550.37">III 550, 37</ref>. arion id est 
-      <form xml:id="XYZ-16" type="sublemma" lang="Latinum">exfiοn</form> <ref addName="Asaru" cRef="CGL.III.550.38">III 550, 38</ref>. <emph>V.</emph> gladiolus.
+      <form xml:id="XYZ-16" type="sublemma" lang="Latinum">exfiοn</form> <ref addName="Asaru" cRef="CGL.III.550.38">III 550, 38</ref>. <emph>V.</emph> <xr>gladiolus</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-17" type="lemma" lang="Latinum">Xosfer</form> Tureorum (<emph>h. e.</emph> Tuscorum) lingua October mensis dicitur <ref addName="lib. gl." cRef="CGL.V.255.18">V 255, 18</ref>. <emph>V.</emph> menses.
+      <form xml:id="XYZ-17" type="lemma" lang="Latinum">Xosfer</form> Tureorum (<emph>h. e.</emph> Tuscorum) lingua October mensis dicitur <ref addName="lib. gl." cRef="CGL.V.255.18">V 255, 18</ref>. <emph>V.</emph> <xr>menses</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-18" type="lemma" lang="Latinum">Xozibus (?)</form> mendacium <ref addName="Abal" cRef="CGL.V.519.56">V 519, 56</ref>.
@@ -60,11 +60,11 @@
       <form xml:id="XYZ-25" type="lemma" lang="Latinum">Zaba</form> indumenti genus <ref addName="Abal" cRef="CGL.V.519.58">V 519, 58</ref>. munimentum uirorum fortium <ref addName="Absid. Bern." cRef="CGL.III.505.74">III 505, 74</ref>. munimentum <ref addName="Absid. Vat." cRef="CGL.III.521.12">III 521, 12</ref>. munimentum in proelio uirorum fortium <emph>Plac.</emph> <ref addName="Plac. lib. gl. / Forsit." cRef="CGL.V.104.13">V 104, 13</ref>; <ref addName="gl. Iuv." cRef="CGL.V.655.11">V 655, 11</ref> (taba). <emph>Cf. Ducange.</emph>
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-26" type="lemma" lang="Latinum">Zaber</form> <emph>v.</emph> rosmarinus.
+      <form xml:id="XYZ-26" type="lemma" lang="Latinum">Zaber</form> <emph>v.</emph> <xr>rosmarinus</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-27" type="lemma" lang="Latinum">Zaberna</form> ubi uestes ponuntur <ref addName="Absid. Bern. / Absid. Vat." cRef="CGL.III.506.7">III 506, 7</ref>; <ref addName="Absid. Vat." cRef="CGL.III.521.13">521, 13</ref> (<emph>cf. a post</emph> <ref addName="Ab abs." cRef="CGL.IV.427.13">IV 427, 13</ref>). ubi uestes ponuntur aut quodlibet aliud <emph>Plac.</emph> <ref addName="Plac. lib. gl. / Forsit." cRef="CGL.V.104.14">V 104, 14</ref>. ubi uestes portantur (?) uel quodlibet aliud <ref addName="Abstr. II" cRef="CGL.IV.197.31">IV 197, 31</ref>; <ref addName="Abal" cRef="CGL.V.519.57">V 519, 57</ref> (quid libet); <ref addName="Abstans / scol. graec. gl." cRef="CGL.V.583.24">583, 24</ref> 
-      <form xml:id="XYZ-28" type="sublemma" lang="Latinum">zabarras</form> arcas <ref addName="Apod. / Abmin." cRef="CGL.V.401.15">V 401, 15</ref>. <emph>V.</emph> pera, gaberina, gabarnas. <emph>Cf. Ducange.</emph>
+      <form xml:id="XYZ-28" type="sublemma" lang="Latinum">zabarras</form> arcas <ref addName="Apod. / Abmin." cRef="CGL.V.401.15">V 401, 15</ref>. <emph>V.</emph> <xr>pera</xr>, <xr>gaberina</xr>, <xr>gabarnas</xr>. <emph>Cf. Ducange.</emph>
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-29" type="lemma" lang="Latinum">Zabulon</form> habitaculum fortitudinis <ref addName="Apod. / Abmin." cRef="CGL.V.401.17">V 401, 17</ref> (<emph>cf. Roensch Mus. Rhen.</emph> XXXI 464; <emph>On. sacra</emph> 11, 29.
@@ -82,33 +82,33 @@
       <form xml:id="XYZ-33" type="lemma" lang="Latinum">Zame</form> fons in Africa <ref addName="Absid. Vat." cRef="CGL.III.521.16">III 521, 16</ref>. <emph>Cf. Isid.</emph> XIII 13, 2.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-34" type="lemma" lang="Latinum">Zanga</form> pellis. Acro: nigris medium impediit crus pellibus <emph>Scal.</emph> <ref addName="gl. Scal. / vocab. rar. collecta" cRef="CGL.V.613.45">V 613, 45</ref> (<emph>cf. Loewe Prodr.</emph> 50). sunt ossa (!) <ref addName="gl. Aynardi / Abav. mai." cRef="CGL.V.625.11">V 625, 11</ref>. <emph>V.</emph> caliga, ozasanga.
+      <form xml:id="XYZ-34" type="lemma" lang="Latinum">Zanga</form> pellis. Acro: nigris medium impediit crus pellibus <emph>Scal.</emph> <ref addName="gl. Scal. / vocab. rar. collecta" cRef="CGL.V.613.45">V 613, 45</ref> (<emph>cf. Loewe Prodr.</emph> 50). sunt ossa (!) <ref addName="gl. Aynardi / Abav. mai." cRef="CGL.V.625.11">V 625, 11</ref>. <emph>V.</emph> <xr>caliga</xr>, <xr>ozasanga</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-35" type="lemma" lang="Latinum">Zar</form> apud Hebraeos uocatus mensis secundus, id est Aprilis (<emph>Eucher. instr. p.</emph> 153, 18?) <ref addName="lib. gl." cRef="CGL.V.255.26">V 255, 26</ref>. <emph>V.</emph> menses.
+      <form xml:id="XYZ-35" type="lemma" lang="Latinum">Zar</form> apud Hebraeos uocatus mensis secundus, id est Aprilis (<emph>Eucher. instr. p.</emph> 153, 18?) <ref addName="lib. gl." cRef="CGL.V.255.26">V 255, 26</ref>. <emph>V.</emph> <xr>menses</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-36" type="lemma" lang="Latinum">Zare</form> oriens uel ortus <ref addName="Antrix / hermen. med. Bern." cRef="CGL.III.607.7">III 607, 7</ref> (<emph>Isid.</emph> VII 6, 41; <emph>Onom. sacra</emph> 21, 14).
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-37" type="lemma" lang="Latinum">Zarnabo</form> id est careo <ref addName="hermen. med. Vat. 4417" cRef="CGL.III.630.59">III 630, 59</ref>. <emph>V.</emph> careo.
+      <form xml:id="XYZ-37" type="lemma" lang="Latinum">Zarnabo</form> id est careo <ref addName="hermen. med. Vat. 4417" cRef="CGL.III.630.59">III 630, 59</ref>. <emph>V.</emph> <xr>careo</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-38" type="lemma" lang="Latinum">Zaziton (?)</form> omnia condimenta <ref addName="Anes. / Antrix" cRef="CGL.III.596.38">III 596, 38</ref>. 
       <form xml:id="XYZ-39" type="sublemma" lang="Latinum">zazituri (?)</form>. id est omnia condimenta <ref addName="hermen. med. Vat. 4417" cRef="CGL.III.630.58">III 630, 58</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-40" type="lemma" lang="Latinum">Zeduar</form> <emph>v.</emph> cidoar.
+      <form xml:id="XYZ-40" type="lemma" lang="Latinum">Zeduar</form> <emph>v.</emph> <xr>cidoar</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-41" type="lemma" lang="Latinum">Zelatus</form> <emph>v.</emph> inuidus, inuisus.
+      <form xml:id="XYZ-41" type="lemma" lang="Latinum">Zelatus</form> <emph>v.</emph> <xr>inuidus</xr>, <xr>inuisus</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-42" type="lemma" lang="Latinum">Zelo</form> ζηλοτυπῶ <ref addName="hermen. Ampl." cRef="CGL.III.74.62">III 74, 62</ref>. 
       <form xml:id="XYZ-43" type="sublemma" lang="Latinum">zelat</form> ζηλοῖ <ref addName="gl. Steph." cRef="CGL.III.467.8">III 467, 8</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-44" type="lemma" lang="Latinum">Zelocius</form> (zeloticus? zelotypus?) <emph>v.</emph> pelicator.
+      <form xml:id="XYZ-44" type="lemma" lang="Latinum">Zelocius</form> (zeloticus? zelotypus?) <emph>v.</emph> <xr>pelicator</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-45" type="lemma" lang="Latinum">Zelotes</form> ζηλώτης <ref addName="gl. Laud." cRef="CGL.II.556.14">II 556, 14</ref>.
@@ -140,18 +140,18 @@
     <entryFree>
       <form xml:id="XYZ-60" type="lemma" lang="Latinum">Zernam</form> inpetigo <ref addName="Abba" cRef="CGL.IV.298.30">IV 298, 30</ref>. 
       <form xml:id="XYZ-61" type="sublemma" lang="Latinum">zernae</form> impetudines (= impetigines) ex flegmate falso <ref addName="Abstr. II" cRef="CGL.IV.197.35">IV 197, 35</ref> (<emph>cf. a</emph> <ref addName="Abba" cRef="CGL.IV.298.20">IV 298, 20</ref>). 
-      <form xml:id="XYZ-62" type="sublemma" lang="Latinum">zernas</form> licinas (λειχῆνας) <ref addName="Antrix" cRef="CGL.III.602.38">III 602, 38</ref>. <emph>V.</emph> impetigo (<emph>ubi</emph> sannam), derbitas, sterna.
+      <form xml:id="XYZ-62" type="sublemma" lang="Latinum">zernas</form> licinas (λειχῆνας) <ref addName="Antrix" cRef="CGL.III.602.38">III 602, 38</ref>. <emph>V.</emph> <xr>impetigo</xr> (<emph>ubi</emph> sannam), <xr>derbitas</xr>, <xr>sterna</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-63" type="lemma" lang="Latinum">Zeta</form> graece cubiculum <ref addName="Conscr. gl. / Apod." cRef="CGL.V.337.26">V 337, 26</ref>. <emph>Cf.</emph> 
       <form xml:id="XYZ-64" type="sublemma" lang="Latinum">dieta</form> zeta <ref addName="hermen. Monac." cRef="CGL.III.191.1">III 191, 1</ref>. 
-      <form xml:id="XYZ-65" type="sublemma" lang="Latinum">zetas</form> aedes <ref addName="Abstans / scol. graec. gl." cRef="CGL.V.583.25">V 583, 25</ref>. domus <ref addName="Conscr. gl. / Apod." cRef="CGL.V.337.28">V 337, 28</ref> (<emph>cf. Aldhelm de laud. virginit.</emph> 33). id est sedes hiemales quae calidae fiunt obducto igne <ref addName="Abstr. II" cRef="CGL.IV.197.32">IV 197, 32</ref> (<emph>v.</emph> zetas aestiuales).
+      <form xml:id="XYZ-65" type="sublemma" lang="Latinum">zetas</form> aedes <ref addName="Abstans / scol. graec. gl." cRef="CGL.V.583.25">V 583, 25</ref>. domus <ref addName="Conscr. gl. / Apod." cRef="CGL.V.337.28">V 337, 28</ref> (<emph>cf. Aldhelm de laud. virginit.</emph> 33). id est sedes hiemales quae calidae fiunt obducto igne <ref addName="Abstr. II" cRef="CGL.IV.197.32">IV 197, 32</ref> (<emph>v.</emph> <xr>zetas aestiuales</xr>).
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-66" type="lemma" lang="Latinum">Zetarius</form> custos palatii <ref addName="Abal" cRef="CGL.V.519.59">V 519, 59</ref>. mansionarius <ref addName="Abal" cRef="CGL.V.519.60">V 519, 60</ref> (zotarius).
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-67" type="lemma" lang="Latinum">Zetas aestiuales</form> quae frigidae fiunt obducta aqua <ref addName="Abstr. II" cRef="CGL.IV.197.33">IV 197, 33</ref>. <emph>V.</emph> zetas hiemales.
+      <form xml:id="XYZ-67" type="lemma" lang="Latinum">Zetas aestiuales</form> quae frigidae fiunt obducta aqua <ref addName="Abstr. II" cRef="CGL.IV.197.33">IV 197, 33</ref>. <emph>V.</emph> <xr>zetas hiemales</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-68" type="lemma" lang="Latinum">Zetas hiemales</form> sunt domus hiemales quae calidae efficiuntur subductis flammis, quod uero est melius 
@@ -165,26 +165,26 @@
     <entryFree>
       <form xml:id="XYZ-73" type="lemma" lang="Latinum">Zibina</form> (zip. <emph>cod.</emph>) est lancea <ref addName="gl. Aynardi / Abav. mai." cRef="CGL.V.625.10">V 625, 10</ref>. 
       <form xml:id="XYZ-74" type="sublemma" lang="Latinum">zibinarum aculeis</form> lancearum <emph>c post</emph> <ref addName="Abstr. II" cRef="CGL.IV.198.6">IV 198, 6</ref>; <ref addName="lib. gl." cRef="CGL.V.255.28">V 255, 28</ref> (zybinn.). 
-      <form xml:id="XYZ-75" type="sublemma" lang="Latinum">zybinnas</form> lanceas <ref addName="lib. gl." cRef="CGL.V.255.27">V 255, 27</ref>. <emph>Cf. Iulian. Antec. Const.</emph> 79, 4. <emph>V.</emph> uenabulum.
+      <form xml:id="XYZ-75" type="sublemma" lang="Latinum">zybinnas</form> lanceas <ref addName="lib. gl." cRef="CGL.V.255.27">V 255, 27</ref>. <emph>Cf. Iulian. Antec. Const.</emph> 79, 4. <emph>V.</emph> <xr>uenabulum</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-76" type="lemma" lang="Latinum">Zima, zimi</form> <emph>v.</emph> zema.
+      <form xml:id="XYZ-76" type="lemma" lang="Latinum">Zima, zimi</form> <emph>v.</emph> <xr>zema</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-77" type="lemma" lang="Latinum">Zimzario</form> κάνθαρος <ref addName="hermen. Leid." cRef="CGL.III.17.45">III 17, 45</ref>. <emph>V.</emph> zinzalario.
+      <form xml:id="XYZ-77" type="lemma" lang="Latinum">Zimzario</form> κάνθαρος <ref addName="hermen. Leid." cRef="CGL.III.17.45">III 17, 45</ref>. <emph>V.</emph> <xr>zinzalario</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-78" type="lemma" lang="Latinum">Zingiber</form> <emph>v.</emph> gingiber.
+      <form xml:id="XYZ-78" type="lemma" lang="Latinum">Zingiber</form> <emph>v.</emph> <xr>gingiber</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-79" type="lemma" lang="Latinum">Zinzala</form> <emph>v.</emph> culex, sciniphes.
+      <form xml:id="XYZ-79" type="lemma" lang="Latinum">Zinzala</form> <emph>v.</emph> <xr>culex</xr>, <xr>sciniphes</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-80" type="lemma" lang="Latinum">Zinzalario</form> (<emph>vel potius</emph> tzintzalario) <emph>v.</emph> culiculare, zimzario.
+      <form xml:id="XYZ-80" type="lemma" lang="Latinum">Zinzalario</form> (<emph>vel potius</emph> tzintzalario) <emph>v.</emph> <xr>culiculare</xr>, <xr>zimzario</xr>.
     </entryFree>
     <entryFree>
       <pb n="VII.433" facs="7.433.jpg"/> 
-      <form xml:id="XYZ-81" type="lemma" lang="Latinum">Zippei</form> <emph>v.</emph> zibei.
+      <form xml:id="XYZ-81" type="lemma" lang="Latinum">Zippei</form> <emph>v.</emph> <xr>zibei</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-82" type="lemma" lang="Latinum">Zira</form> παλίουρος <ref addName="hermen. Monac." cRef="CGL.III.192.7">III 192, 7</ref> (piliuros <emph>cod. cf.</emph> paliurus, <emph>ubi</emph> zura <emph>est: item Diosc. lat.</emph>).
@@ -197,20 +197,20 @@
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-85" type="lemma" lang="Latinum">Zizania</form> lolium <ref addName="Abstr. II" cRef="CGL.IV.198.6">IV 198, 6</ref>; <ref addName="Abba" cRef="CGL.IV.298.32">298, 32</ref> (<emph>cf. Eucher. instr. p.</emph> 148, 16; <emph>Isid.</emph> XVII 9, 106). 
-      <form xml:id="XYZ-86" type="sublemma" lang="Latinum">zizanium</form> (-ia <emph>d e</emph>) lolium <ref addName="Ab abs." cRef="CGL.IV.427.13">IV 427, 13</ref>. <emph>V.</emph> lolium.
+      <form xml:id="XYZ-86" type="sublemma" lang="Latinum">zizanium</form> (-ia <emph>d e</emph>) lolium <ref addName="Ab abs." cRef="CGL.IV.427.13">IV 427, 13</ref>. <emph>V.</emph> <xr>lolium</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-87" type="lemma" lang="Latinum">Zizeria</form> <emph>v.</emph> gequaria.
+      <form xml:id="XYZ-87" type="lemma" lang="Latinum">Zizeria</form> <emph>v.</emph> <xr>gequaria</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-88" type="lemma" lang="Latinum">Ziziphu&lt;m&gt;</form> ζίζιφον <ref addName="hermen. Vat." cRef="CGL.III.429.12">III 429, 12</ref>. 
       <form xml:id="XYZ-89" type="sublemma" lang="Latinum">zizifa</form> σηρικά (σιρ. <emph>cod.</emph>) <ref addName="Ps.-Cyr." cRef="CGL.II.431.50">II 431, 50</ref>. <emph>Cf. Bluemner 'Maximaltarif' p.</emph> 94.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-90" type="lemma" lang="Latinum">Zizyga</form> rustice galla <ref addName="Conscr. gl. / Apod." cRef="CGL.V.337.27">V 337, 27</ref>. <emph>V.</emph> galla.
+      <form xml:id="XYZ-90" type="lemma" lang="Latinum">Zizyga</form> rustice galla <ref addName="Conscr. gl. / Apod." cRef="CGL.V.337.27">V 337, 27</ref>. <emph>V.</emph> <xr>galla</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-91" type="lemma" lang="Latinum">Zmaragdum</form> lapis pretiosus <emph>Plac.</emph> <ref addName="Plac. lib. gl. / Forsit." cRef="CGL.V.104.15">V 104, 15</ref> (<emph>v.</emph> smar).
+      <form xml:id="XYZ-91" type="lemma" lang="Latinum">Zmaragdum</form> lapis pretiosus <emph>Plac.</emph> <ref addName="Plac. lib. gl. / Forsit." cRef="CGL.V.104.15">V 104, 15</ref> (<emph>v.</emph> <xr>smar</xr>).
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-92" type="lemma" lang="Latinum">Zodiacus</form> animalis <ref addName="Conscr. gl. / Apod." cRef="CGL.V.337.29">V 337, 29</ref>; <ref addName="Apod. / Abmin." cRef="CGL.V.401.13">401, 13</ref> (zoziacus). XII signae (!) continens <ref addName="Apod. / Abmin." cRef="CGL.V.401.14">V 401, 14</ref> (<emph>item</emph>). 
@@ -221,12 +221,12 @@
       <form xml:id="XYZ-95" type="lemma" lang="Latinum">Zoelet</form> tractum uel purgatum <ref addName="Antrix / hermen. med. Bern." cRef="CGL.III.607.8">III 607, 8</ref>. <emph>Cf. Onom, sacra</emph> 44, 3.
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-96" type="lemma" lang="Latinum">Zomos</form> ius <ref addName="Abstr. II" cRef="CGL.IV.198.3">IV 198, 3</ref>. <emph>V.</emph> ius 2.
+      <form xml:id="XYZ-96" type="lemma" lang="Latinum">Zomos</form> ius <ref addName="Abstr. II" cRef="CGL.IV.198.3">IV 198, 3</ref>. <emph>V.</emph> <xr>ius 2</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-97" type="lemma" lang="Latinum">Zona</form> ζώνη <ref addName="hermen. Ampl." cRef="CGL.III.74.50">III 74, 50</ref>. cingulum II <emph>p.</emph> XIII; <ref addName="Abstr. II" cRef="CGL.IV.197.36">IV 197, 36</ref>. cingulum, balteum <ref addName="Abav." cRef="CGL.IV.403.49">IV 403, 49</ref>. cingulum uel balteus <ref addName="Absid. Bern. / Absid. Vat." cRef="CGL.III.506.4">III 506, 4</ref>. <emph>Cf.</emph> ζώνη semicinctum, id est 
       <form xml:id="XYZ-98" type="sublemma" lang="Latinum">zona</form> <ref addName="Abstr. II" cRef="CGL.IV.198.1">IV 198, 1</ref>. 
-      <form xml:id="XYZ-99" type="sublemma" lang="Latinum">zone</form> cinctore (?) <emph>c post</emph> <ref addName="Abstr. II" cRef="CGL.IV.198.6">IV 198, 6</ref>. <emph>V.</emph> aona.
+      <form xml:id="XYZ-99" type="sublemma" lang="Latinum">zone</form> cinctore (?) <emph>c post</emph> <ref addName="Abstr. II" cRef="CGL.IV.198.6">IV 198, 6</ref>. <emph>V.</emph> <xr>aona</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-100" type="lemma" lang="Latinum">Zona pellicia</form> στρόφιον (στοφιος <emph>cod.</emph>) II <emph>p.</emph> XIII.
@@ -235,7 +235,7 @@
       <form xml:id="XYZ-101" type="lemma" lang="Latinum">Zonatim</form> ingenuorum (in goerum?) <ref addName="gl. Non. I / gl. Non. II" cRef="CGL.V.649.17">V 649, 17</ref> (<emph>Non.</emph> 189, 24).
     </entryFree>
     <entryFree>
-      <form xml:id="XYZ-102" type="lemma" lang="Latinum">Zopyrion</form> <emph>v.</emph> azofirion.
+      <form xml:id="XYZ-102" type="lemma" lang="Latinum">Zopyrion</form> <emph>v.</emph> <xr>azofirion</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="XYZ-103" type="lemma" lang="Latinum">Zoroastres</form> (zoro asrtes <emph>cod.</emph>) ipse est magister Babylonis <ref addName="Conscr. gl. / Apod." cRef="CGL.V.337.25">V 337, 25</ref>.

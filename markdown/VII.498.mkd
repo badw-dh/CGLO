@@ -2,7 +2,7 @@
 
 **δίεδρον** subsellium.
 
-**διελεγχω** redarguo, refello, refuto.
+**διελέγχω** redarguo, refello, refuto.
 
 **διέλκω** ducto.
 
@@ -14,20 +14,20 @@
 
 **διέξοδος** compitum, decursus, - ψυχῆς *cf.* psyches diexodus.
 
-**διέπω** modero *(et* -or), rego, -ων modera- tor,rector,-οντιhabenti,
-ὁ-ων τἡν ἐπαρ- χίαν *v. νπογραφή* (praeses provinciae).
+**διέπω** modero (*et* -or), rego, -ων moderator, rector, -οντι habenti,
+ὁ -ων τὴν ἐπαρχίαν *v.* ὑπογραφή (praeses provinciae).
 
-**\*διερειστἡρ (?)** ὅ έστιν ἱμὰς ἵππων περὶ τὸ στῆθος antilena.
+**\*διερειστήρ (?)** ὅ έστιν ἱμὰς ἵππων περὶ τὸ στῆθος antilena.
 
-**διερευνῶ** dirimor, perscruto *(et-* οιὴ, per­tundo, -ηθέντων
-discussis.
+**διερευνῶ** dirimor, perscruto (*et* -or, pertundo, -ηθέντων discussis.
 
-**διερμηνεύω:** διερμηνευμένον interpre- tatum.
+**διερμηνεύω:** διερμηνευμένον interpretatum.
 
 **διέρχομαι** diduco, intercedo, penetro, percurro, pertranseo,
-prosequor, trans- eo, - ἀντὶ τοῦ ἀναγιγνώσκω καὶ ἀπαγ- γέλλω percenseo,
-pronuntio. *Cf. δι,άγω. όιεόις* discidium, divortium, repudium, -ιν
-γάμου ποιοῦμαι repudio.
+prosequor, transeo, ἀντὶ τοῦ ἀναγιγνώσκω καὶ ἀπαγγέλλω percenseo,
+pronuntio. *Cf.* διάγω.
+
+**δίεσις** discidium, divortium, repudium, -ιν γάμου ποιοῦμαι repudio.
 
 **διετής** bimus, - οἶς bidens.
 
@@ -37,17 +37,21 @@ pronuntio. *Cf. δι,άγω. όιεόις* discidium, divortium, repudium, -ιν
 
 **\*διευλύτωσις** dissolutio.
 
-**δίεφθον** decoctum, discoctum, **διήγημα** enarratio, narratio,
-recitatio, **διηγηματικός** enarrabilis, -ά factum (-a),
-**διηγηματικῶς** συγκειμένας facto con- ceptas.
+**δίεφθον** decoctum, discoctum.
 
-**διἡγησις** diegesis *(cf.* deses), enarratio, narratio, recitatio III,
-277, 66 *sine in­terpr.*
+**διήγημα** enarratio, narratio, recitatio.
 
-***(Ϋεηγονμαί*** dissero, enarro, narro, recito, *-ebraL* gnarrat,
--ούμενος διὰ βραχέων breviarius.
+**διηγηματικός** enarrabilis, -ά factum (-a).
 
-**διηθῶ** defaeco, liquo, percolo, sacco, -εῖ coIat, deliquat, -ημένον
+**διηγηματικῶς** συγκειμένας facto conceptas.
+
+**διήγησις** diegesis (*cf.* deses), enarratio, narratio, recitatio III,
+277, 66 *sine interpr.*
+
+**διηγοῦμαι** dissero, enarro, narro, recito, -εῖται gnarrat, -ούμενος
+διὰ βραχέων breviarius.
+
+**διηθῶ** defaeco, liquo, percōlo, sacco, -εῖ colat, deliquat, -ημένον
 colatum, percolatum.
 
 **διημερεύω** omnem diem exigo.
@@ -61,9 +65,9 @@ perennis, perpetuus, sempiternus. *V.* ὑδραγωγός.
 
 **\*διηνεκότης** perpetuitas.
 
-**διηνεκῶς** assidue, continenter, perpetuo, sernper.
+**διηνεκῶς** assidue, continenter, perpetuo, semper.
 
-**διἡρης** biremis.
+**διήρης** biremis.
 
 **διηχῶ** persono.
 
@@ -71,47 +75,50 @@ perennis, perpetuus, sempiternus. *V.* ὑδραγωγός.
 
 **δίθυρον** valvata.
 
-**διιπετές** *(et **ΰιοπ.)*** δἴπλον ancile.
+**διιπετές** (*et* **διοπετές**) ὅπλον ancile.
 
-**διίππι(ο)ν** *et **\*όίεππον*** biga, **διίπταμαι** pervolo.
+**διίππι(ο)ν** *et* **\*δίιππον** biga.
 
-**διίστημι** *et **όιιβτώ*** destituo, dirimo, disto, spatio, διέστησε
+**διίπταμαι** pervolo.
+
+**διίστημι** *et* **διιστῶ** destituo, dirimo, disto, spatio, διέστησε
 dimoveas (-vit), διέστη interstat (-itit), διάστηθι absidet
 
-(-eto), διέστηκα disto, διεστώς distans. *Cf. δίαοτήκω.*
+(-eto), διέστηκα disto, διεστώς distans. *Cf.* διαστήκω.
 
-***άίεύχνρίζομαι**,* allego 2., autumo, con- firmo.
+**διισχυρίζομαι** allego 2., autumo, confirmo.
 
 **δικάζω** confligo, expendo, iudico, litigo, ventilo, -ομαι litigo, τοῦ
-δικάζεσθαι experienda (-iundi), δικαζόμενος liti- gator, δικασόμενος
+δικάζεσθαι experienda (-iundi), δικαζόμενος litigator, δικασόμενος
 indicandus.
 
-**δικαιοδοσία** iuris consultum, iuris- dictio.
+**δικαιοδοσία** iuris consultum, iurisdictio.
 
 **δικαιοδότης** iuridicus.
 
 **δικαιοκρισία** sinceritas.
 
-**\*δικαιοκυρία (?):** έκ -ας ex iure Qui- ritium.
+**\*δικαιοκυρία (?):** ἐκ -ας ex iure Quiritium.
 
 **δικαιολογητόν** allegendum.
 
-**δικαιολογία** allegatio, assertio, iuris- dictio, persecutio, tractus.
+**δικαιολογία** allegatio, assertio, iurisdictio, persecutio, tractus.
 
 **δικαιολογικός** iuridicialis.
 
-**δικαιολόγος** causidicus, iuridicus, pa- tronus, procurator.
+**δικαιολόγος** causidicus, iuridicus, patronus, procurator.
 
-**δικαιολογῶ** causas ago, ius dico, *-ov- gab* peroro, -ούμενος
-prosecutus 2.
+**δικαιολογῶ** causas ago, ius dico, -οῦμαι peroro, -ούμενος prosecutus
+2.
 
 **δίκαιος** aequabilis, aequalis, aequus, iustus, -αία iuridica
-sententia; δίκαιον fas, ius 1. *et* 2. *(cf.* honorarius (-um),
-Iupiter), meritum *etc.,* - πολιτικόν ius civile *(cf.* iustus), έκ -ου
+sententia; δίκαιον fas, ius 1. *et* 2. (*cf.* honorarius (-um),
+Iupiter), meritum *etc.*, - πολιτικόν ius civile (*cf.* iustus), ἐκ -ου
 πολιτικοῦ *et* ἐκ δικαίου κυρίας ex iure Quiritium. *Cf.* φύλαξ, ψῆφος.
 
-**δικαιοσύνη** aequitas, Astraea, iustitia. **δικαιῶ** aequum censeo,
-iustifico, δεδι- καιωμένος iustificatus.
+**δικαιοσύνη** aequitas, Astraea, iustitia.
+
+**δικαιῶ** aequum censeo, iustifico, δεδικαιωμένος iustificatus.
 
 **δικαίωμα** documentum, instrumentum, iustificatio, iustitia.
 
@@ -119,26 +126,30 @@ iustifico, δεδι- καιωμένος iustificatus.
 
 **δικαίωσις** iustificatio.
 
-**δικανικός** dicentarius. **δικαστέον** conferendum.
+**δικανικός** dicentarius.
 
-**δικαστήριον** examen, forum, iudica- torium, indicium, secretarius
-(-um). *Cf. παραχωρώ.*
+**δικαστέον** conferendum.
 
-***όεχαύτΎΐζ*** iudex, recuperator, οἱ περὶ *ορων διαγυγνώβηοντες
-δεκαβταί* arvares sodales.
+**δικαστήριον** examen, forum, iudicatorium, indicium, secretarius
+(-um). *Cf.* παραχωρῶ.
 
-**δικαστικός** iudiciarius, -ή iudicialis, -ov iuđicatorium. *Cf.
-vbvrjGbę.*
+**δικαστής** iudex, recuperator, οἱ περὶ ὅρων διαγιγνώσοντες δικασταί
+arvares sodales.
 
-***ΰίκελλα*** bidens, bidobium, ligo, raster, **δίκελλον** bidens.
+**δικαστικός** iudiciarius, -ή iudicialis, -όν iudicatorium.
+*Cf.*κίνησις.
+
+**δίκελλα** bidens, bidobium, ligo, raster.
+
+**δίκελλον** bidens.
 
 **δικέρατος** bicornis.
 
 **δικέφαλος** anceps, biceps.
 
-δίκη causa, controversia, examinatio, indicatio, iurgium, lis, litigium,
-ne- gotium, poena, -at stlites, αἱ ἀρχἡν λαβοῦσαι έν δικαστηρίῳ δίκαι έξ
-ἀντι- καθεστώτων lites contestatae. *Cf.* προ- δίδωμι, προκάταρξις,
+**δίκη** causa, controversia, examinatio, indicatio, iurgium, lis,
+litigium, negotium, poena, -αι stlites, αἱ ἀρχἡν λαβοῦσαι ἐν δικαστηρίῳ
+δίκαι ἐξ ἀντικαθεστώτων lites contestatae. *Cf.* προδίδωμι, προκάταρξις,
 τέμνω, τιννύω, ὑπέχω.
 
 **δικολογία** causidicatio, causidicatus.

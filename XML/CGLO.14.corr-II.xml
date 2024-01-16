@@ -6,7 +6,7 @@
     </entryFree>
     <entryFree>
       <emph>Adde</emph> 
-      <form xml:id="corr_II-2" type="addendum" lang="incertum">aceodo]</form> <emph>v.</emph> exhortatoriae.
+      <form xml:id="corr_II-2" type="addendum" lang="incertum">aceodo]</form> <emph>v.</emph> <xr>exhortatoriae</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_II-3" type="corrigendum" lang="incertum">aemulus]</form> <emph>adde</emph> <ref addName="gl. AA" cRef="CGL.V.453.23">V 453, 23</ref>.
@@ -67,7 +67,7 @@
       <form xml:id="corr_II-22" type="corrigendum" lang="incertum">germen] gemina proles</form> duos filios <emph>scriben­dum esse coll. Verg. Aen.</emph> I 274 <emph>optime coniecit M. Pokrowsky</emph> (<emph>act. minist. Russ. institut. publicae</emph> 1899, 7): <emph>ibidem haud paucae glossae ad fontes suos revocantur eodem plerumque modo quo ipse revocavi. Doleo quod eiusdem scriptoris libello de quaestionibus grammaticis et glossographicis anno</emph> 1898 <emph>edito, quem mihi auctor benigne transmisit, ut linguae</emph> <emph>Russicae paene ignarus uti non potui: quo de libello cf. Arch.</emph> XI <emph>p.</emph> 351; 437.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_II-23" type="corrigendum" lang="incertum">haec in terra]</form> <emph>v.</emph> interra.
+      <form xml:id="corr_II-23" type="corrigendum" lang="incertum">haec in terra]</form> <emph>v.</emph> <xr>interra</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_II-24" type="corrigendum" lang="incertum">haedus]</form> ἡ ἑλλός <ref addName="hermen. Einsidl." cRef="CGL.III.241.51">III 241, 51</ref> (<emph>dicendum fuit</emph> ἑλτος cetus <emph>traditum esse coniecturamque incertam</emph>).

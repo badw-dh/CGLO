@@ -3,6 +3,7 @@ import os, re, logging
 
 # Project imports
 from tag_CGL_xrefs import tag_CGL_refs_new  # new xref function
+from tag_lemma_refs import tag_lemma_refs  # tags xrefs to named lemmata
 from identify_gloss import *  # for looking up short names
 from combine_xml import combine_XML_files
 # from tag_lemma_refs import tag_lemma_refs  # to tag <xr> xrefs to named lemmata
@@ -47,7 +48,7 @@ def xmlize_paragraph(paragraph):
         paragraph = tag_forms(paragraph)
         paragraph = tag_italics(paragraph)
         paragraph = tag_CGL_refs_new(paragraph)
-        # paragraph = tag_lemma_refs(paragraph)
+        paragraph = tag_lemma_refs(paragraph)
         paragraph = wrap_paragraph(paragraph)
 
         return paragraph

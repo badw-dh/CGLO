@@ -31,13 +31,14 @@ def indent_lxml(element: etree.Element, level: int = 0, is_last_child: bool = Tr
     num_children = len(element)
     if num_children:
         if element.tag == 'entryFree':
-             is_in_entryFree = True
+            is_in_entryFree = True
 
         element.text = f"{element.text or ''}{indent_str}{space}"
 
         for index, child in enumerate(element.iterchildren()):
             is_last = index == num_children - 1
             indent_lxml(child, level + 1, is_last, is_in_entryFree)
+
 
     # elif element.text:
     #     element.text += indent_str

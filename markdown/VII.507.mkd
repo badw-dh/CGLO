@@ -1,99 +1,112 @@
-**ίίσοδιάζω** redigo, -ασθείς redactus, *τοϋ* -αζομένου redigenda.
+**εἰσοδιάζω** redigo, -ασθείς redactus, τοῦ -αζομένου redigenda.
 
-**\*είσοδιασμός** redactio.
+**\*εἰσοδιασμός** redactio.
 
-**έίσόδιος** introitorius.
+**εἰσόδιος** introitorius.
 
-**εϊσοδος** area, - *et* - ἐπὶ οἰκίας aditus, ingressus, introitus, - ἡ
+**εἴσοδος** area, - *et* - ἐπὶ οἰκίας aditus, ingressus, introitus, - ἡ
 λῆψις acceptus 2., obventio.
 
-**βϊσοπτρον** *et **fōo\^TQOv*** speculum.
+**εἴσοπτρον** *et* **ἔσοπτρον** speculum.
 
 **\*εισπαθι** dolat.
 
-**είσπέμπω** immitto.
+**εἰσπέμπω** immitto.
 
-**\*είσπηδησιῶνες** derectarius (-ii), **είσπηδῶ** insilio, invado,
-irrumpo. ***είόποίηΰις*** adoptio.
+**\*εἰσπηδησιῶνες** derectarius (-ii).
 
-**είσποιητός** adoptivus, suppositus, **είσποιῶ** coopto, -οῦμαι adopto,
-coopto, **είσπορεύομαι** ingredior, introeo.
+**εἰσπηδῶ** insilio, invado, irrumpo.
 
-**είσπράκτωρ** coactor.
+**εἰσποίησις** adoptio.
 
-**εϊσπραξις** compulsio, exactio.
+**εἰσποιητός** adoptivus, suppositus.
 
-**είσπράσσω** *et* **-ττω** exigo, εἰσπραχθείς redactus. *Cf.* ingero.
+**εἰσποιῶ** coopto, -οῦμαι adopto, coopto.
 
-**είσρέω** influo.
+**εἰσπορεύομαι** ingredior, introeo.
 
-**είσφέρω** fero, infero, rogo, εἰσενεχθέν collatum, εἰσενεχθέντα
-(νόμον) rogatam. ***είόφορά*** functio, fusio, illatio, illatus (-um),
-pensitatio, pensum, tributum *(cf.* triennium), - δημοσίων fusio, νόμου
-rogatio legis.
+**εἰσπράκτωρ** coactor.
 
-**εϊσω** infra, intra, ἔσω intro, intus.
+**εἴσπραξις** compulsio, exactio.
 
-**(εϊόωθεν) ἔσωθεν** intrinsecus, intus, **είτα** dehinc, deinde, tum.
+**εἰσπράσσω** *et* **εἰσπράττω** exigo, εἰσπραχθείς redactus. *Cf.*
+ingero.
 
-**εϊτε** *v. ei.*
+**εἰσρέω** influo.
 
-**εὶώθα** *v. ε&ίζω.*
+**εἰσφέρω** fero, infero, rogo, εἰσενεχθέν collatum, εἰσενεχθέντα
+(νόμον) rogatam.
 
-*έκ et* ἐξ de, ex. *Cf. άδι,ά&ετος, άναφο- ęia,* ἀπόφασις, ἀπροσδόκητος,
-ἀρχαῖος, ἀρχή, αὐτός, βάθρον, δεύτερος, διά- στημα, δίκαιος, ἔθος,
-έκεῖνος, έναντίος, ἐξεπίτηδες, έξόπιθεν, έπἴπεδος, έπι- πολή, έπιταγή,
-έπιτομή, καιρός, λοιπός, μακρός, μέρος, οἶκος, ὀλίγος, ὁλόκληρος,
-*ονομα,* ὅτε, πάλαι, περιουσία, περισσός, πλάγιος, πολύς, προσαγωγή,
-προφανής, τότε, τρίτος, τρόπος, τύχη, ὕδωρ, ὑπο- „ γραφή, χείρ.
+**εἰσφορά** functio, fusio, illatio, illatus (-um), pensitatio, pensum,
+tributum (*cf.* triennium), - δημοσίων fusio, - νόμου rogatio legis.
 
-**ἔκαστος** quicunque, quisque, singulus quisque, unusquisque, -ot
-singulum (-i), καθ' ἔκαστον per singula, sin- gillatim, singulatim, καθ'
-ἔκαστα sin- gulum (per singula), καθ' ἔκαστον *erLavzor et* ἔτος
-quotannis, καθ' ἑκάστην ἡμέραν per singulos dies, παρ' ἔκαστα ad
-singula, identidem, per sin- gula *(v. p.* 438), subinde. *Cf.* εἶς.
+**εἴσω** infra, intra, ἔσω intro, intus.
+
+**(εἴσωθεν) ἔσωθεν** intrinsecus, intus.
+
+**εἶτα** dehinc, deinde, tum.
+
+**εἴτε** *v.* εἰ.
+
+**εἴωθα** *v.* ἐθίζω.
+
+**ἐκ** *et* **ἐξ** de, ex. *Cf.* ἀδιάθετος, ἀναφορία, ἀπόφασις,
+ἀπροσδόκητος, ἀρχαῖος, ἀρχή, αὐτός, βάθρον, δεύτερος, διάστημα, δίκαιος,
+ἔθος, ἐκεῖνος, ἐναντίος, ἐξεπίτηδες, ἐξόπιθεν, ἐπίπεδος, ἐπιπολή,
+ἐπιταγή, ἐπιτομή, καιρός, λοιπός, μακρός, μέρος, οἶκος, ὀλίγος,
+ὁλόκληρος, ὄνομα, ὅτε, πάλαι, περιουσία, περισσός, πλάγιος, πολύς,
+προσαγωγή, προφανής, τότε, τρίτος, τρόπος, τύχη, ὕδωρ, ὑπογραφή, χείρ.
+
+**ἕκαστος** quicunque, quisque, singulus quisque, unusquisque, -οι
+singulum (-i), καθ' ἕκαστον per singula, singillatim, singulatim, καθ'
+ἕκαστα singulum (per singula), καθ' ἕκαστον ἐνιαυτόν *et* ἔτος
+quotannis, καθ' ἑκάστην ἡμέραν per singulos dies, παρ' ἕκαστα ad
+singula, identidem, per singula (*v. p.* 438), subinde. *Cf.* εἷς.
 
 **ἑκάστοτε** assidue.
 
-**ἐκάτερος** uterque, -ot ambo, **έκατέρωθεν** ultro citroque, utrimque,
-**ἐκατέρωθι** utrubi.
+**ἑκάτερος** uterque, -οι ambo.
 
-**ἐκατέρωσε** utroque.
+**ἑκατέρωθεν** ultro citroque, utrimque.
 
-**Ἡκάτη** Lucifera, Trivia, - νυκτοφαίνουσα Nocticula. *Cf. τρίμορφος,*
+**ἑκατέρωθι** utrubi.
+
+**ἑκατέρωσε** utroque.
+
+**Ἡκάτη** Lucifera, Trivia, - νυκτοφαίνουσα Nocticula. *Cf.* τρίμορφος,
 Hecate.
 
-**ἐκατόγχειρ** centimanus.
+**ἑκατόγχειρ** centimanus.
 
-***\'Εκατομβαιών*** hecatombeon. ***Cf.*** menses.
+**Ἑκατομβαιών** hecatombeon. *Cf.* menses.
 
 **ἑκατόμπεδος** centuria.
 
-**ἐκατόν** centum.
+**ἑκατόν** centum.
 
-**εκατονταετἡς** centenarius.
+**ἑκατονταετής** centenarius.
 
-**έκατοντάκις** centiens.
+**ἑκατοντάκις** centiens.
 
-**ἐκατοντάρχης** centurio.
+**ἑκατοντάρχης** centurio.
 
-**ἐκατόνταρχος** centenarius, centurio.
+**ἑκατόνταρχος** centenarius, centurio.
 
-**ἐκατοντάφυλλον** centifolia.
+**ἑκατοντάφυλλον** centifolia.
 
-**έκατοστἡ** centesima.
+**ἑκατοστή** centesima.
 
-**\*ἔκατόφυλλον** centifolia (-um), centum- folia.
+**\*ἑκατόφυλλον** centifolia (-um), centumfolia.
 
 **ἐκβαίνω** egredior, evado.
 
 **ἐκβακχεύω** debacchor.
 
 **ἐκβάλλω** deicio, eicio, elimino, expello, proicio, propello, refuto,
-reicio, re- pello, έκβληθείς eiectus, explosus, έκ- βεβλημένος eiectus,
+reicio, repello, ἐκβληθείς eiectus, explosus, ἐκβεβλημένος eiectus,
 explosus, proiectus.
 
-ἔκβασις egressus, eventus, excessus, exitus, - ἠ κατὰ τύχην casus.
+**ἔκβασις** egressus, eventus, excessus, exitus, - ἡ κατὰ τύχην casus.
 
 **ἐκβαστάζω** eveho, exporto.
 
@@ -101,7 +114,7 @@ explosus, proiectus.
 
 **ἐκβιβάζω** apparo, efficio, exsequor.
 
-**ἐκβιβασμός apparitio, effectus, exse- cutio.**
+**ἐκβιβασμός** apparitio, effectus, exsecutio.
 
 **ἐκβιβαστής** apparitor, efficax, exsecutor, intercessor, viator, -
 ἱερέων calator.
@@ -112,7 +125,7 @@ explosus, proiectus.
 
 **ἔκβλητος** emotus, proiectus 2.
 
-**ἐκβολή** excessus, iactura, iactus 2., - no- ταμοῦ ostium.
+**ἐκβολή** excessus, iactura, iactus 2., - ποταμοῦ ostium.
 
 **ἐκβόλιον** abortum.
 
@@ -122,36 +135,36 @@ explosus, proiectus.
 
 **ἐκβράσματα** excrementum (-a), - τὰ ψυδράκια papula (-ae).
 
-**ἐκβράσσω** ebullio, evannio, -ει τὸ σῶμα ἠ θάλασσα respuit, έκβρασθείς
-ὁ *έκρι- φεις* expulsus.
+**ἐκβράσσω** ebullio, evannio, -ει τὸ σῶμα ἡ θάλασσα respuit, ἐκβρασθείς
+ὁ ἐκριφείς expulsus.
 
 **ἐκβυρσῶ** decorio.
 
-**ἐκγίγνομαι:** έξεγένετο II, 302, 33 *sine interpret.*
+**ἐκγίγνομαι:** ἐξεγένετο II, 302, 33 *sine interpret.*
 
-***έκγλύφω*** excudo.
+**ἐκγλύφω** excudo.
 
 **ἐκγόνη** neptis.
 
 **ἔκγονος** nepos, -ου νυός abnurus.
 
-**\*ἐκγυμνάζω** exerceo, έκγεγυμνασμένα eventilata.
+**\*ἐκγυμνάζω** exerceo, ἐκγεγυμνασμένα eventilata.
 
-**ἐκδέρω** caedo, decorio, deglubo, dis- corio, reglubo.
+**ἐκδέρω** caedo, decorio, deglubo, discorio, reglubo.
 
-**ἐκδέχομαι** exspecto, opperior, praesto- lor, -όμενος opperiens.
+**ἐκδέχομαι** exspecto, opperior, praestolor, -όμενος opperiens.
 
 **ἔκδηλος** clarus, perspicuus.
 
 **ἐκδήλως** manifeste.
 
-**\*ἐκδημητικός** *v. 'έξοδος.*
+**\*ἐκδημητικός** *v.* ἔξοδος.
 
-***έκόημία*** peregrinatio, profectio, pro­fectus 1.
+**ἐκδημία** peregrinatio, profectio, profectus 1.
 
 **ἔκδημος** profector.
 
 **ἐκδιδάσκω** edoceo.
 
-**ἐκδίδωμι** dedo, edo 1., - *o eare μι,ΰ&ώ* colloco, loco, - εἰς
-κόλασιν dedo, -
+**ἐκδίδωμι** dedo, edo 1., - ὅ ἐστι μισθῶ colloco, loco, - εἰς κόλασιν
+dedo, -

@@ -1,4 +1,4 @@
-**ἐπιγραφή** inscriptio, perscriptum, super- scriptio, titulus, - διὰ
+**ἐπιγραφή** inscriptio, perscriptum, superscriptio, titulus, - διὰ
 μίλτου rubrica.
 
 **ἐπιγράφω** inscribo, subscribo.
@@ -7,14 +7,14 @@
 
 **ἐπιδαψιλευθέν** indultum *sim.*
 
-***έπίόεεγμα*** specimen.
+**ἐπίδειγμα** specimen.
 
-**ἐπιδείκνυμι** *et* **-ύω** approbo, demon- stro, designo, ostendo,
--ύμενος osten- tans,\^ἐπιδεδειγμένος detentator.
+**ἐπιδείκνυμι** *et* **ἐπιδεικνύω** approbo, demonstro, designo,
+ostendo, -ύμενος ostentans, ἐπιδεδειγμένος detentator.
 
-**ἐπιδεικτικόν** ostentabile. *Cf.* epidictica *(expl.* demonstrativa).
+**ἐπιδεικτικόν** ostentabile. *Cf.* epidictica (*expl.* demonstrativa).
 
-**έπίδειξις** affirmatio, ostentatio, pro- batio.
+**ἐπίδειξις** affirmatio, ostentatio, probatio.
 
 **ἐπιδεκατεύω** decimo.
 
@@ -36,15 +36,15 @@
 
 **ἐπιδέχομαι** admitto, recipio.
 
-**ἐπιδέω:** *-ομαι* egeo, indigeo.
+**ἐπιδέω:** *-*ομαι egeo, indigeo.
 
 **ἐπιδημία** adventus.
 
-**ἐπιδίδωμι** edo 1., porrigo, εἴπιδοθῆναι prodo (-eret).
+**ἐπιδίδωμι** edo 1., porrigo, ἐπιδοθῆναι prodo (-eret).
 
 **ἐπίδικος** litigiosus.
 
-**ἐπιδ\'ιπλασιάζω** ingemino.
+**ἐπιδιπλασιάζω** ingemino.
 
 **\*ἐπιδιώκτης** persecutor.
 
@@ -54,15 +54,15 @@ assectatus.
 **ἐπιδορατίς** cuspis, mucro, spiculum, - τοῦ τραχήλου βοός palearium
 (-a).
 
-**ἐπίδοσις** congiarium, porrectio, - γέ- νους propagatio, propago 1., -
-έπὶ τῶν νούμμων congiarium, - στρατιᾶς sti­pendium.
+**ἐπίδοσις** congiarium, porrectio, - γένους propagatio, propago 1., -
+ἐπὶ τῶν νούμμων congiarium, - στρατιᾶς stipendium.
 
-**ἐπιδρομἡ** incursio.
+**ἐπιδρομή** incursio.
 
-**\*ἐπιόρομίδες** troclea (-ae).
+**\*ἐπιδρομίδες** troclea (-ae).
 
-**ἐπιείκεια** clementia, mansuetudo, mo- destia, sedulitas, sequitas,
-τί - quid quietum.
+**ἐπιείκεια** clementia, mansuetudo, modestia, sedulitas, sequitas, τί -
+quid quietum.
 
 **ἐπιεικής** clemens, industrius, mitis, modestus.
 
@@ -70,12 +70,12 @@ assectatus.
 
 **ἐπιζευγνύω** iniungo.
 
-**ἐπιζήμιος** damnabilis, damnosus, dis- p en dio sus, -ov iacturale.
+**ἐπιζήμιος** damnabilis, damnosus, dispendiosus, -ον iacturale.
 
-**ἐπιζήτησις** consideratio, inquisitio, re- quisitio.
+**ἐπιζήτησις** consideratio, inquisitio, requisitio.
 
 **ἐπιζητῶ** considero, desidero, exquiro, inquiro, requiro, rostrat
-(-ει), ἐπὶ τοῦ ὀρέγομαι appeto.
+(-εῖ), ἐπὶ τοῦ ὀρέγομαι appeto.
 
 **ἐπιζῶ:** -ζήσω supervivo.
 
@@ -83,18 +83,18 @@ assectatus.
 
 **ἐπιζώστρα** canthus.
 
-**ίπιθαλάμιος** nuptialis. *Cf* epithala- mium *(expl.* carmen
+**ἐπιθαλάμιος** nuptialis. *Cf.* epithalamium (*expl.* carmen
 nuptiarum).
 
-**ἐπίθεμα** *cf.* epithema *(expl.* fascimen- tum in similitudinem quasi
+**ἐπίθεμα** *cf.* epithema (*expl.* fascimentum in similitudinem quasi
 malagma).
 
 **\*ἐπιθεμάτια (?)** lixopyritum.
 
 **\*ἐπιθεματισμός** augmentum.
 
-stellionatus, - ἡ χλεύη im- postura, stellionatus, - τὸ έπάνω θεῖναι
-impositio.
+**ἐπίθεσις** stellionatus, - ἡ χλεύη impostura, stellionatus, - τὸ έπάνω
+θεῖναι impositio.
 
 **ἐπιθέτης** impostor, stellionatus (= -or).
 
@@ -102,34 +102,34 @@ impositio.
 
 **ἐπιθεώρησις** inspectio.
 
-**ἐπιθημ-** *v.* έπίθεμ-.
+**ἐπιθημ-** *v.* ἐπίθεμ-.
 
 **ἐπιθυμητής** ambitiosus, concupiscens, cupidus, - ἀσελγείας teritigo.
 
-**ἐπιθυμητικός** concupiscibilis *(cf.* epi- thymeticon), voluptarius.
+**ἐπιθυμητικός** concupiscibilis (*cf.* epithymeticon), voluptarius.
 
-**ἐπιθυμητός** concupiscibilis, desidera- biIis.
+**ἐπιθυμητός** concupiscibilis, desiderabilis.
 
-**ἐπιθυμία** ambitio, concupiscentia, cu- piditas, cupido, desiderium,
+**ἐπιθυμία** ambitio, concupiscentia, cupiditas, cupido, desiderium,
 κατ' -αν per desiderium.
 
-**ἐπιθύμιος** *cf* epitimio.
+**ἐπιθύμιος** *cf.* epitimio.
 
-**ἐπίθυμον** *et **-ος*** epithymus, satureia.
+**ἐπίθυμον** *et* **ἐπίθυμος** epithymus, satureia.
 
 **\*ἐπίθυμος** cupidus.
 
 **ἐπιθυμῶ** concupisco, cupio, delibero, desidero, gestio, - λίαν cupio
 valde, - καθ' ὑπερβολήν desidero, gestio, -ῶν *etc.* appetentes,
-cupientem, -οῦμαι *v. λογίζομοα. Cf.* aboleo *s. f.*
+cupientem, -οῦμαι *v.* λογίζομαι. *Cf.* aboleo *s. f.*
 
-*\*έπε&ύτης (Einsi)* incensor.
+**\*ἐπιθύτης** (*Eins.*) incensor.
 
-**ἐπιθύω** immolo, incendo. *Cf.* aboleo *s.f*
+**ἐπιθύω** immolo, incendo. *Cf.* aboleo *s.f.*
 
-***\*έπωερουργεΐ*** epigetur.
+**\*ἐπιιερουργεῖ** epigetur.
 
-**ἐπιίππιον** *v. εφί,ππι,ον.*
+**ἐπιίππιον** *v.* ἐφίππιον.
 
 **ἐπικάθημαι** supersedeo.
 
@@ -140,12 +140,12 @@ cupientem, -οῦμαι *v. λογίζομοα. Cf.* aboleo *s. f.*
 **ἐπικαλύπτω** cooperio, tecto, tego, ἐπικεκαλυμμένος obnixus.
 
 **ἐπικαλῶ** indico, -εσον endoplorato, -οῦμαι appello, imploro, invoco,
-pro­voco.
+provoco.
 
-**ἐπικαμπής** aduncus, arcuatus, circum- flexus, incurvus, inflexus,
-obuncus. *Cf. ξίφος.*
+**ἐπικαμπής** aduncus, arcuatus, circumflexus, incurvus, inflexus,
+obuncus. *Cf.* ξίφος.
 
-***έπικάμπτω*** adunco, incurvo, inflecto, vergo.
+**ἐπικάμπτω** adunco, incurvo, inflecto, vergo.
 
 **ἐπικαρπία** *et* χρῆσις -ας ususfructus.
 
@@ -163,14 +163,16 @@ obuncus. *Cf. ξίφος.*
 
 **ἐπικερτομῶ** increpito.
 
-**ἐπικεφάλαιον** tributum, tributum ca- pitulare.
+**ἐπικεφάλαιον** tributum, tributum capitulare.
 
-**ἐπικήδειον** nenia. *Cf* epicedion, **ἐπικίνδυνος** periculosus.
+**ἐπικήδειον** nenia. *Cf* epicedion.
+
+**ἐπικίνδυνος** periculosus.
 
 **\*ἐπίκλασμα** infractio.
 
 **\*ἐπικλασμός** desino (desiit).
 
-**\*ἐπικλαύσιμος (?)** *cf* desino (desiit).
+**\*ἐπικλαύσιμος (?)** *cf.* desino (desiit).
 
 **ἐπίκληρος** orbus.

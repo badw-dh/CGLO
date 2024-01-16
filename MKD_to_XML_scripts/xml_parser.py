@@ -89,7 +89,8 @@ def clean_lemma(lemma):
     # lemma = lemma.replace('V', 'u')
     lemma = lemma.lower()
     lemma = lemma.replace(' ', '')  # ignore spaces
-    lemma = re.sub('[<>]', '', lemma)  # ignore <>
+    lemma = re.sub(r'[<>*]', '', lemma)  # ignore <>, *
+    # lemma = re.sub(r'\[.+$\]', '', lemma) # delete anything in square brackets
     lemma = re.sub(r'\(.+\)', '', lemma)  # ignore parentheses
 
     return lemma

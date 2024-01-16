@@ -8,13 +8,13 @@
       <form xml:id="Q-2" type="lemma" lang="Latinum">Qua</form> ποίᾳ, πόθεν, τὶς <ref addName="Ps.-Phil." cRef="CGL.II.165.48">II 165, 48</ref>. in qua parte, per qua&lt;m&gt; <ref addName="Abstr. II" cRef="CGL.IV.157.26">IV 157, 26</ref>; <ref addName="Forsit." cRef="CGL.V.139.26">V 139, 26</ref>. quomodo <ref addName="Forsit." cRef="CGL.V.139.28">V 139, 28</ref>. unde <ref addName="Forsit." cRef="CGL.V.140.1">V 140, 1</ref>; <ref addName="Forsit." cRef="CGL.V.140.22">22</ref>(que). <emph>Cf.</emph> quis.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-3" type="lemma" lang="Latinum">Quacquare</form> <emph>v.</emph> ortygometra.
+      <form xml:id="Q-3" type="lemma" lang="Latinum">Quacquare</form> <emph>v.</emph> <xr>ortygometra</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-4" type="lemma" lang="Latinum">Quactiliarius</form> <emph>v.</emph> coactiliarius.
+      <form xml:id="Q-4" type="lemma" lang="Latinum">Quactiliarius</form> <emph>v.</emph> <xr>coactiliarius</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-5" type="lemma" lang="Latinum">Quacumque</form> suae suithae (<emph>uel</emph> suue suidae, <emph>AS.</emph>) <ref addName="Apod." cRef="CGL.V.385.51">V 385, 51</ref>. <emph>V.</emph> quantisper.
+      <form xml:id="Q-5" type="lemma" lang="Latinum">Quacumque</form> suae suithae (<emph>uel</emph> suue suidae, <emph>AS.</emph>) <ref addName="Apod." cRef="CGL.V.385.51">V 385, 51</ref>. <emph>V.</emph> <xr>quantisper</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-6" type="lemma" lang="Latinum">Qua data porta</form> qua datur exitus <ref addName="Abect." cRef="CGL.IV.460.35">IV 460, 35</ref> (<emph>Verg. Aen.</emph> I 83).
@@ -27,10 +27,10 @@
       <form xml:id="Q-9" type="sublemma" lang="Latinum">codra</form> νομός <ref addName="hermen. Monac." cRef="CGL.III.183.46">III 183, 46</ref>. κόδρα 
       <form xml:id="Q-10" type="sublemma" lang="Latinum">codra quadra</form> <ref addName="Ps.-Cyr." cRef="CGL.II.351.35">II 351, 35</ref> (<emph>cf. Diez</emph> II^c^ coron). 
       <form xml:id="Q-11" type="sublemma" lang="Latinum">quadra</form> τοπος (τόμος <emph>dg</emph>) <ref addName="Ps.-Phil." cRef="CGL.II.165.50">II 165, 50</ref>. quarta pars panis dicitur <ref addName="gl. Iuv." cRef="CGL.V.652.49">V 652, 49</ref> (<emph>cf. Serv. in Aen.</emph> VII 115). <emph>Cf.</emph> κλάσον ψωμούς 
-      <form xml:id="Q-12" type="sublemma" lang="Latinum">frange quadras</form> <ref addName="coll. Monac." cRef="CGL.III.218.45">III 218, 45</ref>. <emph>V.</emph> quadrus.
+      <form xml:id="Q-12" type="sublemma" lang="Latinum">frange quadras</form> <ref addName="coll. Monac." cRef="CGL.III.218.45">III 218, 45</ref>. <emph>V.</emph> <xr>quadrus</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-13" type="lemma" lang="Latinum">Quadrangulus</form> τετράγωνος <ref addName="Absid. Bern." cRef="CGL.III.504.25">III 504, 25</ref> (<emph>v.</emph> tetragonus).
+      <form xml:id="Q-13" type="lemma" lang="Latinum">Quadrangulus</form> τετράγωνος <ref addName="Absid. Bern." cRef="CGL.III.504.25">III 504, 25</ref> (<emph>v.</emph> <xr>tetragonus</xr>).
     </entryFree>
     <entryFree>
       <form xml:id="Q-14" type="lemma" lang="Latinum">Quadrans</form> τριούγκιον <ref addName="Ps.-Cyr." cRef="CGL.II.459.30">II 459, 30</ref>. τέταρτον ἐπὶ σταθμοῦ <ref addName="Ps.-Cyr." cRef="CGL.II.453.47">II 453, 47</ref>. τεταρτημόριον <ref addName="Ps.-Cyr." cRef="CGL.II.453.44">II 453, 44</ref>. 
@@ -48,7 +48,7 @@
     <entryFree>
       <form xml:id="Q-21" type="lemma" lang="Latinum">Quadratus</form> τετράγωνος <ref addName="Ps.-Cyr." cRef="CGL.II.453.55">II 453, 55</ref>; <ref addName="hermen. Monac." cRef="CGL.III.180.17">III 180, 17</ref>; <ref addName="hermen. Montep." cRef="CGL.III.329.41">329, 41</ref>; <ref addName="hermen. Montep." cRef="CGL.III.329.42">42</ref>. 
       <form xml:id="Q-22" type="sublemma" lang="Latinum">quadrata</form> τετράγωνος <ref addName="Ps.-Cyr." cRef="CGL.II.453.55">II 453, 55</ref>. 
-      <form xml:id="Q-23" type="sublemma" lang="Latinum">quadratum</form> τετράγωνον <ref addName="Ps.-Phil." cRef="CGL.II.165.56">II 165, 56</ref>; <ref addName="Ps.-Cyr." cRef="CGL.II.454.1">454, 1</ref>; <ref addName="hermen. Montep." cRef="CGL.III.293.60">III 293, 60</ref>; <ref addName="hermen. Steph." cRef="CGL.III.369.42">369, 42</ref>. <emph>V.</emph> agmen quad, iuncus quadr.
+      <form xml:id="Q-23" type="sublemma" lang="Latinum">quadratum</form> τετράγωνον <ref addName="Ps.-Phil." cRef="CGL.II.165.56">II 165, 56</ref>; <ref addName="Ps.-Cyr." cRef="CGL.II.454.1">454, 1</ref>; <ref addName="hermen. Montep." cRef="CGL.III.293.60">III 293, 60</ref>; <ref addName="hermen. Steph." cRef="CGL.III.369.42">369, 42</ref>. <emph>V.</emph> <xr>agmen quad</xr>, <xr>iuncus quadr</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-24" type="lemma" lang="Latinum">Quadriduo</form> τέτρασιν ἡμέραις <ref addName="hermen. Montep." cRef="CGL.III.295.69">III 295, 69</ref>.
@@ -71,7 +71,7 @@
       <form xml:id="Q-32" type="sublemma" lang="Latinum">quadrifi­das</form> quattuor fissuras <ref addName="lib. gl." cRef="CGL.V.237.45">V 237, 45</ref> (<emph>Verg. Georg.</emph> II 25?).
     </entryFree>
     <entryFree>
-      <form xml:id="Q-33" type="lemma" lang="Latinum">Quadrifllum gemmarum</form> <emph>supplet H.</emph> (τετράλινον) <ref addName="Ps.-Cyr." cRef="CGL.II.454.12">II 454, 12</ref>. <emph>V.</emph> trifilum g.
+      <form xml:id="Q-33" type="lemma" lang="Latinum">Quadrifllum gemmarum</form> <emph>supplet H.</emph> (τετράλινον) <ref addName="Ps.-Cyr." cRef="CGL.II.454.12">II 454, 12</ref>. <emph>V.</emph> <xr>trifilum g.</xr>
     </entryFree>
     <entryFree>
       <form xml:id="Q-34" type="lemma" lang="Latinum">Quadriformis</form> τετράμορφος <ref addName="Ps.-Cyr." cRef="CGL.II.454.14">II 454, 14</ref>.
@@ -87,7 +87,7 @@
       <form xml:id="Q-40" type="lemma" lang="Latinum">Quadrigarius</form> ἁρματηλάτης, ἱππηλάτης, ἡνίοχος <ref addName="Ps.-Phil." cRef="CGL.II.165.51">II 165, 51</ref>. ἁρματηλάτης <ref addName="Ps.-Cyr." cRef="CGL.II.245.2">II 245, 2</ref>. stabularius (!) <ref addName="gl. nom." cRef="CGL.II.590.59">II 590, 59</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-41" type="lemma" lang="Latinum">Quadriiugos</form> currus quattuor rotarum <ref addName="lib. gl." cRef="CGL.V.237.44">V 237, 44</ref>. <emph>V.</emph> quadriga.
+      <form xml:id="Q-41" type="lemma" lang="Latinum">Quadriiugos</form> currus quattuor rotarum <ref addName="lib. gl." cRef="CGL.V.237.44">V 237, 44</ref>. <emph>V.</emph> <xr>quadriga</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-42" type="lemma" lang="Latinum">Quadrimenstruus</form> τετραμηνιαῖος <ref addName="Ps.-Cyr." cRef="CGL.II.454.13">II 454, 13</ref>.
@@ -108,11 +108,11 @@
       <form xml:id="Q-49" type="lemma" lang="Latinum">Quadriremis</form> τετρήρης <ref addName="Ps.-Phil." cRef="CGL.II.165.57">II 165, 57</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-50" type="lemma" lang="Latinum">Quadriporticum</form> <emph>v.</emph> atrium.
+      <form xml:id="Q-50" type="lemma" lang="Latinum">Quadriporticum</form> <emph>v.</emph> <xr>atrium</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-51" type="lemma" lang="Latinum">Quadriuium</form> τετραοδία <ref addName="Ps.-Cyr." cRef="CGL.II.454.16">II 454, 16</ref>; <ref addName="idiom. Harl." cRef="CGL.II.505.9">505, 9</ref>; <ref addName="hermen. Montep." cRef="CGL.III.306.42">III 306, 42</ref>. τετρά&lt;μ&gt;φοδον (?) <ref addName="Ps.-Cyr." cRef="CGL.II.454.15">II 454, 15</ref> (τετράοδον <emph>e</emph>). τετράπυλον <ref addName="Ps.-Cyr." cRef="CGL.II.454.23">II 454, 23</ref>. 
-      <form xml:id="Q-52" type="sublemma" lang="Latinum">quatriuia</form> est enim semita cum pedibus <ref addName="Abal" cRef="CGL.V.512.5">V 512, 5</ref> (<emph>quae addenda esse ad</emph> <ref addName="Abba" cRef="CGL.IV.221.9">IV 221, 9</ref> <emph>vidit H. v.</emph> compitum). <emph>V.</emph> quadruuium.
+      <form xml:id="Q-52" type="sublemma" lang="Latinum">quatriuia</form> est enim semita cum pedibus <ref addName="Abal" cRef="CGL.V.512.5">V 512, 5</ref> (<emph>quae addenda esse ad</emph> <ref addName="Abba" cRef="CGL.IV.221.9">IV 221, 9</ref> <emph>vidit H. v.</emph> compitum). <emph>V.</emph> <xr>quadruuium</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-53" type="lemma" lang="Latinum">Quadro</form> τετραγωνίζω <ref addName="Ps.-Cyr." cRef="CGL.II.454.3">II 454, 3</ref>. 
@@ -142,10 +142,10 @@
     <entryFree>
       <form xml:id="Q-64" type="lemma" lang="Latinum">Quadrus quadra</form> τετράγωνος <ref addName="Ps.-Cyr." cRef="CGL.II.453.55">II 453, 55</ref>. 
       <form xml:id="Q-65" type="sublemma" lang="Latinum">quadrus</form> τετράγωνος <ref addName="hermen. Einsidl." cRef="CGL.III.252.32">III 252, 32</ref>. 
-      <form xml:id="Q-66" type="sublemma" lang="Latinum">quadrum</form> τετράγωνον <ref addName="Ps.-Cyr." cRef="CGL.II.454.1">II 454, 1</ref>. <emph>V.</emph> quadra.
+      <form xml:id="Q-66" type="sublemma" lang="Latinum">quadrum</form> τετράγωνον <ref addName="Ps.-Cyr." cRef="CGL.II.454.1">II 454, 1</ref>. <emph>V.</emph> <xr>quadra</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-67" type="lemma" lang="Latinum">Quadruuium</form> ἄμφοδον <ref addName="hermen. Steph." cRef="CGL.III.353.58">III 353, 58</ref>. <emph>V.</emph> quadriuium.
+      <form xml:id="Q-67" type="lemma" lang="Latinum">Quadruuium</form> ἄμφοδον <ref addName="hermen. Steph." cRef="CGL.III.353.58">III 353, 58</ref>. <emph>V.</emph> <xr>quadriuium</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-68" type="lemma" lang="Latinum">Quae cum ita sint</form> τούτων οὕτως ἐχόντων <ref addName="Ps.-Cyr." cRef="CGL.II.458.2">II 458, 2</ref>.
@@ -185,7 +185,7 @@
       <form xml:id="Q-90" type="sublemma" lang="Latinum">quaeritur</form> ζητεῖται <ref addName="hermen. Leid." cRef="CGL.III.4.43">III 4, 43</ref>; <ref addName="hermen. Ampl." cRef="CGL.III.74.45">74, 45</ref>. 
       <form xml:id="Q-91" type="sublemma" lang="Latinum">quaeratur</form> ζητῆται <ref addName="hermen. frg. Leid." cRef="CGL.III.415.60">III 415, 60</ref>. 
       <form xml:id="Q-92" type="sublemma" lang="Latinum">quaesitus est</form> προσεπορίσθη <ref addName="Ps.-Phil." cRef="CGL.II.166.6">II 166, 6</ref>. 
-      <form xml:id="Q-93" type="sublemma" lang="Latinum">quaesita est</form> ἐτέχθη <ref addName="Ps.-Cyr." cRef="CGL.II.315.60">II 315, 60</ref>. <emph>V.</emph> consilium quaerit. <emph>Cf.</emph> 
+      <form xml:id="Q-93" type="sublemma" lang="Latinum">quaesita est</form> ἐτέχθη <ref addName="Ps.-Cyr." cRef="CGL.II.315.60">II 315, 60</ref>. <emph>V.</emph> <xr>consilium quaerit</xr>. <emph>Cf.</emph> 
       <form xml:id="Q-94" type="sublemma" lang="Latinum">quero</form> queror quisitus sum <ref addName="Conscr. gl." cRef="CGL.V.326.54">V 326, 54</ref>.
     </entryFree>
     <entryFree>
@@ -195,7 +195,7 @@
       <form xml:id="Q-96" type="lemma" lang="Latinum">Quae sententia</form> quo consilio <ref addName="Abstr. II" cRef="CGL.IV.157.43">IV 157, 43</ref>; <ref addName="Affat." cRef="CGL.IV.559.24">559, 24</ref> (quod consilium <emph>Nettleship 'Journ. of Phil.'</emph> XX 53 <emph>coll. Verg. Aen.</emph> I 237).
     </entryFree>
     <entryFree>
-      <form xml:id="Q-97" type="lemma" lang="Latinum">Quaesito</form> <emph>v.</emph> quaerito.
+      <form xml:id="Q-97" type="lemma" lang="Latinum">Quaesito</form> <emph>v.</emph> <xr>quaerito</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-98" type="lemma" lang="Latinum">Quaesitor</form> iudex ad quaerendum <ref addName="Abect." cRef="CGL.IV.460.39">IV 460, 39</ref> (<emph>Verg. Aen.</emph> VI 432). 
@@ -217,7 +217,7 @@
     </entryFree>
     <entryFree>
       <form xml:id="Q-107" type="lemma" lang="Latinum">Quaestionarius</form> ἐκζητητής <ref addName="Ps.-Cyr." cRef="CGL.II.290.11">II 290, 11</ref>. βασάνων ὑπηρέτης <ref addName="Ps.-Cyr." cRef="CGL.II.256.11">II 256, 11</ref>. plagarius, flagellator, plagitor (plagator?) <ref addName="gl. nom." cRef="CGL.II.591.6">II 591, 6</ref>. quaesitor qui praeest perficiendis quaestionibus <ref addName="gl. Aynardi" cRef="CGL.V.622.54">V 622, 54</ref>. quaesitor <ref addName="Forsit." cRef="CGL.V.140.29">V 140, 29</ref>; <ref addName="lib. gl." cRef="CGL.V.238.5">238, 5</ref>. 
-      <form xml:id="Q-108" type="sublemma" lang="Latinum">quaestionarii</form> mercenarii <ref addName="exc. Vat. reg. 215 / Licent. / Alieno" cRef="CGL.V.529.21">V 529, 21</ref> (<emph>v.</emph> quaestuarius). <emph>V.</emph> quaestiono.
+      <form xml:id="Q-108" type="sublemma" lang="Latinum">quaestionarii</form> mercenarii <ref addName="exc. Vat. reg. 215 / Licent. / Alieno" cRef="CGL.V.529.21">V 529, 21</ref> (<emph>v.</emph> <xr>quaestuarius</xr>). <emph>V.</emph> <xr>quaestiono</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-109" type="lemma" lang="Latinum">Quaestiono</form> est perquiro <ref addName="gl. Aynardi" cRef="CGL.V.622.53">V 622, 53</ref>. 
@@ -232,25 +232,25 @@
       <form xml:id="Q-114" type="sublemma" lang="Latinum">quaestores</form> praefecti <ref addName="Apod." cRef="CGL.V.386.2">V 386, 2</ref>. dicti quasi quaesitores eo quod quaestionibus praesunt: consilium autem et causa aput eos est <ref addName="lib. gl." cRef="CGL.V.238.7">V 238, 7</ref>. siue quaesitores uocamus auctores indiciorum et praepositos: indicium enim olim inquisitio uocabatur <ref addName="lib. gl." cRef="CGL.V.238.9">V 238, 9</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-115" type="lemma" lang="Latinum">Quaestoria</form> πρακτική <ref addName="Ps.-Cyr." cRef="CGL.II.415.6">II 415, 6</ref>. <emph>V.</emph> quaestuarius.
+      <form xml:id="Q-115" type="lemma" lang="Latinum">Quaestoria</form> πρακτική <ref addName="Ps.-Cyr." cRef="CGL.II.415.6">II 415, 6</ref>. <emph>V.</emph> <xr>quaestuarius</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-116" type="lemma" lang="Latinum">Quaestuarius</form> qui quaestu corporis uiuit <ref addName="Abstr. II" cRef="CGL.IV.157.48">IV 157, 48</ref>; <ref addName="Affat." cRef="CGL.IV.559.15">559, 15</ref>; <ref addName="lib. gl." cRef="CGL.V.238.11">V 238, 11</ref>; <ref addName="gl. Scal." cRef="CGL.V.609.7">609, 7</ref>. 
       <form xml:id="Q-117" type="sublemma" lang="Latinum">quaestuaria</form> ποριστική <ref addName="Ps.-Cyr." cRef="CGL.II.413.51">II 413, 51</ref>. πρακτική, ποριν (πόρνη <emph>Lindenbrog.</emph> πρατική, ποριστική <emph>Vulc.</emph> πρακτικὴ πόρων <emph>Buech.</emph>) <ref addName="Ps.-Phil." cRef="CGL.II.166.4">II 166, 4</ref>. qui (<emph>scr.</emph> quae) quaestu corporis uiuit <ref addName="Abba" cRef="CGL.IV.276.52">IV 276, 52</ref>; <ref addName="Conscr. gl." cRef="CGL.V.326.52">V 326, 52</ref>; <ref addName="Apod." cRef="CGL.V.386.19">386, 19</ref> (questoria). 
-      <form xml:id="Q-118" type="sublemma" lang="Latinum">quaestuarii</form> mercennarii <ref addName="Abba" cRef="CGL.IV.276.43">IV 276, 43</ref>; <ref addName="gl. AA" cRef="CGL.V.477.54">V 477, 54</ref>; <ref addName="Abal" cRef="CGL.V.512.7">512, 7</ref>. <emph>V.</emph> quaestionarius.
+      <form xml:id="Q-118" type="sublemma" lang="Latinum">quaestuarii</form> mercennarii <ref addName="Abba" cRef="CGL.IV.276.43">IV 276, 43</ref>; <ref addName="gl. AA" cRef="CGL.V.477.54">V 477, 54</ref>; <ref addName="Abal" cRef="CGL.V.512.7">512, 7</ref>. <emph>V.</emph> <xr>quaestionarius</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-119" type="lemma" lang="Latinum">Quaestuosus</form> ἐπικερδής <ref addName="Ps.-Phil." cRef="CGL.II.166.5">II 166, 5</ref>. ποριστικός <ref addName="Ps.-Cyr." cRef="CGL.II.413.52">II 413, 52</ref>. ποριστής <emph>Scal.</emph> <ref addName="gl. Scal." cRef="CGL.V.609.5">V 609, 5</ref>. lucrosus <ref addName="Abav." cRef="CGL.IV.383.10">IV 383, 10</ref>; <ref addName="Apod." cRef="CGL.V.386.13">V 386, 13</ref> (quaestiosus); <ref addName="gl. AA" cRef="CGL.V.477.53">477, 53</ref>; <ref addName="Abstans" cRef="CGL.V.577.18">577, 18</ref> (quaestiosus). 
       <form xml:id="Q-120" type="sublemma" lang="Latinum">quaestuosa</form> lucr&lt;os&gt;a <ref addName="Affat." cRef="CGL.IV.559.17">IV 559, 17</ref>; <ref addName="Conscr. gl." cRef="CGL.V.326.26">V 326, 26</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-121" type="lemma" lang="Latinum">Quaestus</form> πόρος <ref addName="Ps.-Cyr." cRef="CGL.II.414.1">II 414, 1</ref>. πόρος, πρόσοδος <ref addName="Ps.-Phil." cRef="CGL.II.166.3">II 166, 3</ref>. πρόσοδος <ref addName="idiom. nom." cRef="CGL.II.539.9">II 539, 9</ref>. ἡ πρόσοδος (?), ὁ πόρος <ref addName="idiom. Par." cRef="CGL.II.551.33">II 551, 33</ref>. lucrum uel adquisitio <ref addName="Abstr. II" cRef="CGL.IV.158.7">IV 158, 7</ref>. substantia <ref addName="Aleat." cRef="CGL.V.424.41">V 424, 41</ref> (<emph>Cassian. inst.</emph> VII 7, 5?). lucra <ref addName="Abect." cRef="CGL.IV.460.41">IV 460, 41</ref> (<emph>gl. Verg.?</emph>). lucra aut quaerella (<emph>v.</emph> questus) <ref addName="Affat." cRef="CGL.IV.559.12">IV 559, 12</ref>; <ref addName="Forsit." cRef="CGL.V.140.11">V 140, 11</ref>. lucra uel querellae <ref addName="Abstr. II" cRef="CGL.IV.157.41">IV 157, 41</ref>. 
+      <form xml:id="Q-121" type="lemma" lang="Latinum">Quaestus</form> πόρος <ref addName="Ps.-Cyr." cRef="CGL.II.414.1">II 414, 1</ref>. πόρος, πρόσοδος <ref addName="Ps.-Phil." cRef="CGL.II.166.3">II 166, 3</ref>. πρόσοδος <ref addName="idiom. nom." cRef="CGL.II.539.9">II 539, 9</ref>. ἡ πρόσοδος (?), ὁ πόρος <ref addName="idiom. Par." cRef="CGL.II.551.33">II 551, 33</ref>. lucrum uel adquisitio <ref addName="Abstr. II" cRef="CGL.IV.158.7">IV 158, 7</ref>. substantia <ref addName="Aleat." cRef="CGL.V.424.41">V 424, 41</ref> (<emph>Cassian. inst.</emph> VII 7, 5?). lucra <ref addName="Abect." cRef="CGL.IV.460.41">IV 460, 41</ref> (<emph>gl. Verg.?</emph>). lucra aut quaerella (<emph>v.</emph> <xr>questus</xr>) <ref addName="Affat." cRef="CGL.IV.559.12">IV 559, 12</ref>; <ref addName="Forsit." cRef="CGL.V.140.11">V 140, 11</ref>. lucra uel querellae <ref addName="Abstr. II" cRef="CGL.IV.157.41">IV 157, 41</ref>. 
       <form xml:id="Q-122" type="sublemma" lang="Latinum">quaestum</form> lucrum, acquisitio <ref addName="Abba" cRef="CGL.IV.276.46">IV 276, 46</ref>. lucrum adquisitum <ref addName="Affat." cRef="CGL.IV.559.18">IV 559, 18</ref>. lucrum <ref addName="Forsit." cRef="CGL.V.140.18">V 140, 18</ref>; <ref addName="Conscr. gl." cRef="CGL.V.326.24">326, 24</ref>. 
       <form xml:id="Q-123" type="sublemma" lang="Latinum">quaestui</form> lucri (!) <ref addName="Conscr. gl." cRef="CGL.V.326.40">V 326, 40</ref>. <emph>Cf.</emph> 
       <form xml:id="Q-124" type="sublemma" lang="Latinum">quaes&lt;tus&gt;</form> per ae lucri, per solum &lt;e&gt; est lacrimarum <ref addName="Abstans" cRef="CGL.V.577.17">V 577, 17</ref> (<emph>cf. GR. L.</emph> VII 308, 17). <emph>V. Landgraf Arch.</emph> IX 416.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-125" type="lemma" lang="Latinum">Quagulum</form> <emph>v.</emph> coagulum.
+      <form xml:id="Q-125" type="lemma" lang="Latinum">Quagulum</form> <emph>v.</emph> <xr>coagulum</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-126" type="lemma" lang="Latinum">Qualis</form> ὁποῖος <ref addName="Ps.-Cyr." cRef="CGL.II.385.33">II 385, 33</ref>. ποῖος <emph>gloss. Werth. Gallée</emph> 341 (<emph>v. suppl.</emph>). ποταπός <ref addName="Ps.-Cyr." cRef="CGL.II.414.32">II 414, 32</ref>. οἷος, ὁποῖος, ποία, ποταπός <ref addName="Ps.-Phil." cRef="CGL.II.166.12">II 166, 12</ref>. ὁποία τὸ ἑνικόν <ref addName="Ps.-Cyr." cRef="CGL.II.385.38">II 385, 38</ref>. ποταπή <ref addName="Ps.-Cyr." cRef="CGL.II.414.33">II 414, 33</ref>. ὁποίου <ref addName="Ps.-Cyr." cRef="CGL.II.385.34">II 385, 34</ref>; <ref addName="Ps.-Cyr." cRef="CGL.II.385.43">43</ref>. cuius magnitudinis <ref addName="Abect." cRef="CGL.IV.460.42">IV 460, 42</ref> (<emph>Verg. Aen.</emph> II 274). 
@@ -286,10 +286,10 @@
       <form xml:id="Q-145" type="lemma" lang="Latinum">Qualus</form> σώρακος, κόφινος <ref addName="Ps.-Phil." cRef="CGL.II.166.15">II 166, 15</ref> (<emph>cf. margo</emph>). κόφινος <ref addName="Ps.-Cyr." cRef="CGL.II.354.32">II 354, 32</ref>; <ref addName="hermen. Montep." cRef="CGL.III.322.13">III 322, 13</ref>; <ref addName="gl. Steph." cRef="CGL.III.461.68">461, 68</ref>; <ref addName="gl. Lois." cRef="CGL.III.484.9">484, 9</ref>. κάλαθος <ref addName="Ps.-Cyr." cRef="CGL.II.337.12">II 337, 12</ref> (qualis <emph>cod. corr. a e</emph>). ἠθμός (ηθρος <emph>cod.</emph>), δινλιστηρ <ref addName="Ps.-Phil." cRef="CGL.II.166.14">II 166, 14</ref> (qualos <emph>cod. corr. e</emph>). cofinus, corbis <ref addName="gl. nom." cRef="CGL.II.591.1">II 591, 1</ref>. mand (<emph>AS.</emph>) <ref addName="Apod." cRef="CGL.V.385.44">V 385, 44</ref>. 
       <form xml:id="Q-146" type="sublemma" lang="Latinum">qualum</form> cofinum <ref addName="Abav." cRef="CGL.IV.383.13">IV 383, 13</ref>. 
       <form xml:id="Q-147" type="sublemma" lang="Latinum">quali</form> per quos uinum defluit <ref addName="Abnuo" cRef="CGL.V.556.38">V 556, 38</ref>. 
-      <form xml:id="Q-148" type="sublemma" lang="Latinum">qualos</form> corbes quibus uuae portantur <ref addName="lib. gl." cRef="CGL.V.237.46">V 237, 46</ref>. corbes colaque prelorum, per quos mustus fluit, a colando <ref addName="lib. gl." cRef="CGL.V.238.1">V 238, 1</ref> (<emph>Verg. Georg.</emph> II 242: <emph>cf. Serv.</emph>). coffinos <ref addName="Conscr. gl." cRef="CGL.V.326.37">V 326, 37</ref>. <emph>V.</emph> cophinus (squalum).
+      <form xml:id="Q-148" type="sublemma" lang="Latinum">qualos</form> corbes quibus uuae portantur <ref addName="lib. gl." cRef="CGL.V.237.46">V 237, 46</ref>. corbes colaque prelorum, per quos mustus fluit, a colando <ref addName="lib. gl." cRef="CGL.V.238.1">V 238, 1</ref> (<emph>Verg. Georg.</emph> II 242: <emph>cf. Serv.</emph>). coffinos <ref addName="Conscr. gl." cRef="CGL.V.326.37">V 326, 37</ref>. <emph>V.</emph> <xr>cophinus</xr> (squalum).
     </entryFree>
     <entryFree>
-      <form xml:id="Q-149" type="lemma" lang="Latinum">Quam</form> ὅπως <ref addName="Ps.-Cyr." cRef="CGL.II.386.9">II 386, 9</ref>. πῶς <ref addName="Ps.-Cyr." cRef="CGL.II.427.2">II 427, 2</ref>. ἥντινα, πάνυ, ἤ, πόσηπερ <ref addName="Ps.-Phil." cRef="CGL.II.166.16">II 166, 16</ref>. cum sit (?) <ref addName="Forsit." cRef="CGL.V.139.37">V 139, 37</ref>. = <emph>valde</emph>: <emph>cf.</emph> antigerio (<emph>ubi in gl. Plac.</emph> quam admodum <emph>traditiur</emph>, <emph>pro quo</emph> quam, adm. <emph>scribe</emph>: <emph>cf.</emph> oppido). <emph>V.</emph> quis.
+      <form xml:id="Q-149" type="lemma" lang="Latinum">Quam</form> ὅπως <ref addName="Ps.-Cyr." cRef="CGL.II.386.9">II 386, 9</ref>. πῶς <ref addName="Ps.-Cyr." cRef="CGL.II.427.2">II 427, 2</ref>. ἥντινα, πάνυ, ἤ, πόσηπερ <ref addName="Ps.-Phil." cRef="CGL.II.166.16">II 166, 16</ref>. cum sit (?) <ref addName="Forsit." cRef="CGL.V.139.37">V 139, 37</ref>. = <emph>valde</emph>: <emph>cf.</emph> antigerio (<emph>ubi in gl. Plac.</emph> quam admodum <emph>traditiur</emph>, <emph>pro quo</emph> quam, adm. <emph>scribe</emph>: <emph>cf.</emph> oppido). <emph>V.</emph> <xr>quis</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-150" type="lemma" lang="Latinum">Quam celerrime</form> διὰ τάχους <ref addName="Ps.-Cyr." cRef="CGL.II.274.54">II 274, 54</ref>. 
@@ -299,7 +299,7 @@
       <form xml:id="Q-152" type="lemma" lang="Latinum">Quam cito</form> ἐν τάχει <ref addName="Ps.-Cyr." cRef="CGL.II.300.21">II 300, 21</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-153" type="lemma" lang="Latinum">Quamdiu</form> ἐφ' ὅσον, ἐπὶ πόσον <ref addName="Ps.-Phil." cRef="CGL.II.166.17">II 166, 17</ref>. ἐφ' ὅσον <ref addName="Ps.-Cyr." cRef="CGL.II.321.21">II 321, 21</ref>. ἐπὶ πόσον <ref addName="Ps.-Cyr." cRef="CGL.II.310.30">II 310, 30</ref>. ἕως τίνος <ref addName="Ps.-Phil." cRef="CGL.II.167.54">II 167, 54</ref> (<emph>v.</emph> quoad); <ref addName="Ps.-Cyr." cRef="CGL.II.321.52">321, 52</ref>. ἕως τοῦ <ref addName="gl. Steph." cRef="CGL.III.461.69">III 461, 69</ref>. ἕως πότε <ref addName="hermen. frg. Leid." cRef="CGL.III.415.66">III 415, 66</ref>. ὅπως ἐπὶ πολύ <ref addName="Ps.-Cyr." cRef="CGL.II.386.13">II 386, 13</ref>. usque quo <ref addName="Abav." cRef="CGL.IV.383.16">IV 383, 16</ref>.
+      <form xml:id="Q-153" type="lemma" lang="Latinum">Quamdiu</form> ἐφ' ὅσον, ἐπὶ πόσον <ref addName="Ps.-Phil." cRef="CGL.II.166.17">II 166, 17</ref>. ἐφ' ὅσον <ref addName="Ps.-Cyr." cRef="CGL.II.321.21">II 321, 21</ref>. ἐπὶ πόσον <ref addName="Ps.-Cyr." cRef="CGL.II.310.30">II 310, 30</ref>. ἕως τίνος <ref addName="Ps.-Phil." cRef="CGL.II.167.54">II 167, 54</ref> (<emph>v.</emph> <xr>quoad</xr>); <ref addName="Ps.-Cyr." cRef="CGL.II.321.52">321, 52</ref>. ἕως τοῦ <ref addName="gl. Steph." cRef="CGL.III.461.69">III 461, 69</ref>. ἕως πότε <ref addName="hermen. frg. Leid." cRef="CGL.III.415.66">III 415, 66</ref>. ὅπως ἐπὶ πολύ <ref addName="Ps.-Cyr." cRef="CGL.II.386.13">II 386, 13</ref>. usque quo <ref addName="Abav." cRef="CGL.IV.383.16">IV 383, 16</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-154" type="lemma" lang="Latinum">Quam dudum</form> ὅσα (ὡς ἄν?) πάλαι <ref addName="Ps.-Cyr." cRef="CGL.II.388.1">II 388, 1</ref>. ὡς ἂν δήποτε <ref addName="Ps.-Phil." cRef="CGL.II.166.21">II 166, 21</ref>.
@@ -332,7 +332,7 @@
       <form xml:id="Q-163" type="lemma" lang="Latinum">Quam ob rem</form> δι' ὁποῖον πρᾶγμα <ref addName="Ps.-Phil." cRef="CGL.II.166.24">II 166, 24</ref>. διὰ ποῖον πρᾶγμα <ref addName="Ps.-Cyr." cRef="CGL.II.273.35">II 273, 35</ref>. δι' ὃ πρᾶγμα <ref addName="Ps.-Cyr." cRef="CGL.II.278.24">II 278, 24</ref>; <ref addName="hermen. Monac." cRef="CGL.III.135.7">III 135, 7</ref>; <ref addName="hermen. Montep." cRef="CGL.III.338.2">338, 2</ref>; <ref addName="gl. Steph." cRef="CGL.III.461.70">461, 70</ref>. δι' ἣν αἰτίαν <ref addName="Ps.-Cyr." cRef="CGL.II.276.55">II 276, 55</ref>. δι' ὃ δή <ref addName="Ps.-Cyr." cRef="CGL.II.278.9">II 278, 9</ref>. pro qua\[m\] re\[m\] <ref addName="Abstr. II" cRef="CGL.IV.156.46">IV 156, 46</ref>; <ref addName="Abstr. II" cRef="CGL.IV.157.22">157, 22</ref>. pro qua re aut idcirco <ref addName="Affat." cRef="CGL.IV.558.35">IV 558, 35</ref>. propter quam rem <ref addName="Forsit." cRef="CGL.V.139.21">V 139, 21</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-164" type="lemma" lang="Latinum">Quam ocissime</form> <emph>v.</emph> ociter.
+      <form xml:id="Q-164" type="lemma" lang="Latinum">Quam ocissime</form> <emph>v.</emph> <xr>ociter</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-165" type="lemma" lang="Latinum">Quam potest</form> ὡς δυνατόν <ref addName="Ps.-Cyr." cRef="CGL.II.482.39">II 482, 39</ref>. ὡς οἴονται <ref addName="Ps.-Cyr." cRef="CGL.II.482.44">II 482, 44</ref> (οἷόν τε <emph>e</emph>).
@@ -375,7 +375,7 @@
       <form xml:id="Q-177" type="lemma" lang="Latinum">Quantillum</form> quantulumcumque <ref addName="gl. AA" cRef="CGL.V.477.45">V 477, 45</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-178" type="lemma" lang="Latinum">Quantisper</form> πόσως <ref addName="Ps.-Phil." cRef="CGL.II.166.34">II 166, 34</ref>. suae suithae (<emph>uel</emph> suue suidae, <emph>AS.</emph>) <ref addName="Apod." cRef="CGL.V.385.52">V 385, 52</ref> (<emph>v.</emph> quacumque).
+      <form xml:id="Q-178" type="lemma" lang="Latinum">Quantisper</form> πόσως <ref addName="Ps.-Phil." cRef="CGL.II.166.34">II 166, 34</ref>. suae suithae (<emph>uel</emph> suue suidae, <emph>AS.</emph>) <ref addName="Apod." cRef="CGL.V.385.52">V 385, 52</ref> (<emph>v.</emph> <xr>quacumque</xr>).
     </entryFree>
     <entryFree>
       <form xml:id="Q-179" type="lemma" lang="Latinum">Quantitas</form> ποσότης <ref addName="Ps.-Phil." cRef="CGL.II.166.32">II 166, 32</ref>; <ref addName="Ps.-Cyr." cRef="CGL.II.414.22">414, 22</ref>; <ref addName="hermen. Leid." cRef="CGL.III.24.50">III 24, 50</ref>; <ref addName="gl. Steph." cRef="CGL.III.441.8">441, 8</ref> (cantitas); <ref addName="gl. Steph." cRef="CGL.III.461.71">461, 71</ref>. quantum sit <ref addName="Abstr. II" cRef="CGL.IV.157.7">IV 157, 7</ref>. quanto sit <ref addName="Affat." cRef="CGL.IV.558.47">IV 558, 47</ref>. modus designatus <ref addName="Abav." cRef="CGL.IV.383.19">IV 383, 19</ref>. mensura <ref addName="Aleat." cRef="CGL.V.414.30">V 414, 30</ref> (<emph>reg. Bened.</emph> 39, 17).
@@ -384,7 +384,7 @@
       <form xml:id="Q-180" type="lemma" lang="Latinum">Quantocius</form> τὴν ταχίστην <ref addName="Ps.-Cyr." cRef="CGL.II.455.11">II 455, 11</ref>. quam citius, celerius <ref addName="Abba" cRef="CGL.IV.276.38">IV 276, 38</ref>. celerius uel citius <ref addName="Abstr. II" cRef="CGL.IV.157.5">IV 157, 5</ref> (quanto citius <emph>Vat.</emph> 3321); <ref addName="Affat." cRef="CGL.IV.558.44">558, 44</ref>; <ref addName="gl. AA" cRef="CGL.V.477.47">V 477, 47</ref> (quanto citius). quanto uelocius <ref addName="gl. AA" cRef="CGL.V.477.46">V 477, 46</ref>; <ref addName="gl. Scal." cRef="CGL.V.609.6">609, 6</ref>. quanto uelocius uel celerius <ref addName="Abav." cRef="CGL.IV.383.20">IV 383, 20</ref>. uelocius <ref addName="Apod." cRef="CGL.V.386.10">V 386, 10</ref>. uelocius, quam citius, celerius <ref addName="Abstans" cRef="CGL.V.577.15">V 577, 15</ref>. \[uel\] celerius siue citius <ref addName="Forsit." cRef="CGL.V.139.32">V 139, 32</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-181" type="lemma" lang="Latinum">Quantocuique</form> cuicumque, de numero <ref addName="Abstr. II" cRef="CGL.IV.157.14">IV 157, 14</ref> (quotocuique <emph>Nettleship 'Journ. of Phil.'</emph> XX 53. <emph>v.</emph> quotocuique).
+      <form xml:id="Q-181" type="lemma" lang="Latinum">Quantocuique</form> cuicumque, de numero <ref addName="Abstr. II" cRef="CGL.IV.157.14">IV 157, 14</ref> (quotocuique <emph>Nettleship 'Journ. of Phil.'</emph> XX 53. <emph>v.</emph> <xr>quotocuique</xr>).
     </entryFree>
     <entryFree>
       <form xml:id="Q-182" type="lemma" lang="Latinum">Quanto magis</form> ὅσῳ (osu <emph>cod.</emph>) μᾶλλον <ref addName="hermen. Monac." cRef="CGL.III.152.37">III 152, 37</ref>.
@@ -401,7 +401,7 @@
       <form xml:id="Q-187" type="sublemma" lang="Latinum">quantum</form> πόσον, πηλίκον <ref addName="Ps.-Phil." cRef="CGL.II.166.35">II 166, 35</ref>. πόσον <ref addName="Ps.-Cyr." cRef="CGL.II.414.20">II 414, 20</ref>. ὅσον <ref addName="Ps.-Cyr." cRef="CGL.II.388.14">II 388, 14</ref>. 
       <form xml:id="Q-188" type="sublemma" lang="Latinum">quanti</form> ὅσου <ref addName="hermen. Monac." cRef="CGL.III.152.36">III 152, 36</ref>. 
       <form xml:id="Q-189" type="sublemma" lang="Latinum">quanto</form> ὅσον <ref addName="hermen. Monac." cRef="CGL.III.152.35">III 152, 35</ref>. 
-      <form xml:id="Q-190" type="sublemma" lang="Latinum">quanta</form> πόσα <ref addName="Ps.-Cyr." cRef="CGL.II.414.14">II 414, 14</ref>. <emph>V.</emph> quot, in quantum.
+      <form xml:id="Q-190" type="sublemma" lang="Latinum">quanta</form> πόσα <ref addName="Ps.-Cyr." cRef="CGL.II.414.14">II 414, 14</ref>. <emph>V.</emph> <xr>quot</xr>, <xr>in quantum</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-191" type="lemma" lang="Latinum">Quantuscumque</form> ὅσος δήποτε <ref addName="Ps.-Cyr." cRef="CGL.II.388.17">II 388, 17</ref>. πηλίκος δήποτε <ref addName="Ps.-Cyr." cRef="CGL.II.407.24">II 407, 24</ref>. 
@@ -418,14 +418,14 @@
       <form xml:id="Q-196" type="lemma" lang="Latinum">Quaquauersum</form> qualibet ex parte <ref addName="Abstr. II" cRef="CGL.IV.157.4">IV 157, 4</ref> (quamque uersu); <ref addName="Abstr. II" cRef="CGL.IV.157.20">20</ref>; <ref addName="Affat." cRef="CGL.IV.558.43">558, 43</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-197" type="lemma" lang="Latinum">Qua ratione</form> ποίῳ λόγῳ <ref addName="Ps.-Cyr." cRef="CGL.II.411.47">II 411, 47</ref>. &lt;quatenus&gt; uel quousquam (<emph>uel</emph> quo usque) <ref addName="Affat." cRef="CGL.IV.558.56">IV 558, 56</ref>. <emph>V.</emph> quatenus.
+      <form xml:id="Q-197" type="lemma" lang="Latinum">Qua ratione</form> ποίῳ λόγῳ <ref addName="Ps.-Cyr." cRef="CGL.II.411.47">II 411, 47</ref>. &lt;quatenus&gt; uel quousquam (<emph>uel</emph> quo usque) <ref addName="Affat." cRef="CGL.IV.558.56">IV 558, 56</ref>. <emph>V.</emph> <xr>quatenus</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-198" type="lemma" lang="Latinum">Qua re</form> διὰ τί, διότι <ref addName="Ps.-Phil." cRef="CGL.II.166.38">II 166, 38</ref>. διὰ τί <ref addName="Ps.-Cyr." cRef="CGL.II.275.6">II 275, 6</ref>; <ref addName="gl. Steph." cRef="CGL.III.461.72">III 461, 72</ref>. διότι <ref addName="Ps.-Cyr." cRef="CGL.II.278.36">II 278, 36</ref>. δι' ὅπερ <ref addName="Ps.-Cyr." cRef="CGL.II.278.23">II 278, 23</ref>. δι' ὃ πρᾶγμα <ref addName="Ps.-Cyr." cRef="CGL.II.278.24">II 278, 24</ref>. quur (<emph>uel</emph> cur) <ref addName="Abav." cRef="CGL.IV.383.22">IV 383, 22</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-199" type="lemma" lang="Latinum">Quarsum</form> quomodo <ref addName="Conscr. gl." cRef="CGL.V.326.30">V 326, 30</ref>. 
-      <form xml:id="Q-200" type="sublemma" lang="Latinum">quas­sum</form> quomodo <ref addName="Abstr. II" cRef="CGL.IV.156.45">IV 156, 45</ref>; <ref addName="Abstr. II" cRef="CGL.IV.157.9">157, 9</ref>; <ref addName="Affat." cRef="CGL.IV.558.50">558, 50</ref>; <ref addName="Apod." cRef="CGL.V.386.6">V 386, 6</ref>; <ref addName="gl. AA" cRef="CGL.V.477.48">477, 48</ref>; <ref addName="gl. AA" cRef="CGL.V.477.49">49</ref>. quorsum <emph>Nettleship 'Journ. of Phil.'</emph> XX 53; <emph>cf. Loewe Prodr.</emph> 341. <emph>V.</emph> quorsus.
+      <form xml:id="Q-200" type="sublemma" lang="Latinum">quas­sum</form> quomodo <ref addName="Abstr. II" cRef="CGL.IV.156.45">IV 156, 45</ref>; <ref addName="Abstr. II" cRef="CGL.IV.157.9">157, 9</ref>; <ref addName="Affat." cRef="CGL.IV.558.50">558, 50</ref>; <ref addName="Apod." cRef="CGL.V.386.6">V 386, 6</ref>; <ref addName="gl. AA" cRef="CGL.V.477.48">477, 48</ref>; <ref addName="gl. AA" cRef="CGL.V.477.49">49</ref>. quorsum <emph>Nettleship 'Journ. of Phil.'</emph> XX 53; <emph>cf. Loewe Prodr.</emph> 341. <emph>V.</emph> <xr>quorsus</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-201" type="lemma" lang="Latinum">Quartana</form> τεταρταῖος <ref addName="Ps.-Phil." cRef="CGL.II.166.39">II 166, 39</ref>; <ref addName="Ps.-Cyr." cRef="CGL.II.453.43">453, 43</ref>; <ref addName="hermen. Montep." cRef="CGL.III.296.39">III 296, 39</ref>. τεταρταία <ref addName="hermen. Monac." cRef="CGL.III.207.6">III 207, 6</ref>. τεταρταῖον <ref addName="hermen. Leid." cRef="CGL.III.29.50">III 29, 50</ref>; <ref addName="hermen. Steph." cRef="CGL.III.363.40">363, 40</ref>.
@@ -440,17 +440,17 @@
     <entryFree>
       <form xml:id="Q-205" type="lemma" lang="Latinum">Quartus</form> τέταρτος <ref addName="Ps.-Cyr." cRef="CGL.II.453.46">II 453, 46</ref>. 
       <form xml:id="Q-206" type="sublemma" lang="Latinum">quarta</form> τετάρτη <ref addName="hermen. Vat." cRef="CGL.III.426.20">III 426, 20</ref>. 
-      <form xml:id="Q-207" type="sublemma" lang="Latinum">quartum</form> τέταρτον ἐπὶ ἀριθμοῦ <ref addName="Ps.-Cyr." cRef="CGL.II.453.48">II 453, 48</ref>. <emph>V.</emph> de quarto de quarta, de quarte.
+      <form xml:id="Q-207" type="sublemma" lang="Latinum">quartum</form> τέταρτον ἐπὶ ἀριθμοῦ <ref addName="Ps.-Cyr." cRef="CGL.II.453.48">II 453, 48</ref>. <emph>V.</emph> <xr>de quarto de quarta</xr>, <xr>de quarte</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-208" type="lemma" lang="Latinum">Quasat</form> ὅταν φωνεῖ (!) βάτραχος <ref addName="Ps.-Phil." cRef="CGL.II.166.44">II 166, 44</ref>. <emph>Cf. Loewe GL. N.</emph> 249. <emph>V.</emph> coaxare.
+      <form xml:id="Q-208" type="lemma" lang="Latinum">Quasat</form> ὅταν φωνεῖ (!) βάτραχος <ref addName="Ps.-Phil." cRef="CGL.II.166.44">II 166, 44</ref>. <emph>Cf. Loewe GL. N.</emph> 249. <emph>V.</emph> <xr>coaxare</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-209" type="lemma" lang="Latinum">Quasi</form> ὡσεί, ὡσανεί, εἰ δέ <ref addName="Ps.-Phil." cRef="CGL.II.166.43">II 166, 43</ref>. καθάπερ <ref addName="Ps.-Cyr." cRef="CGL.II.334.33">II 334, 33</ref>. ὥσπερ <ref addName="Ps.-Cyr." cRef="CGL.II.482.45">II 482, 45</ref>. ὡς ἄν εἰ <ref addName="gl. Steph." cRef="CGL.III.461.73">III 461, 73</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-210" type="lemma" lang="Latinum">Quasillarius</form> κοφινοποιός <ref addName="gl. Steph." cRef="CGL.III.461.74">III 461, 74</ref>. <emph>Cf.</emph> 
-      <form xml:id="Q-211" type="sublemma" lang="Latinum">quastillarius</form> (<emph>v.</emph> quasillus) φιλοποιός (κοφινοποιός?) <ref addName="gl. Lois." cRef="CGL.III.484.10">III 484, 10</ref>.
+      <form xml:id="Q-211" type="sublemma" lang="Latinum">quastillarius</form> (<emph>v.</emph> <xr>quasillus</xr>) φιλοποιός (κοφινοποιός?) <ref addName="gl. Lois." cRef="CGL.III.484.10">III 484, 10</ref>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-212" type="lemma" lang="Latinum">Quasillus</form> κάλαθος <ref addName="Ps.-Phil." cRef="CGL.II.166.45">II 166, 45</ref>. 
@@ -476,10 +476,10 @@
       <form xml:id="Q-224" type="lemma" lang="Latinum">Quassum</form> σαθρόν, σαβακοῦν (!) <ref addName="Ps.-Phil." cRef="CGL.II.166.46">II 166, 46</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-225" type="lemma" lang="Latinum">Quassum</form> <emph>v.</emph> quarsum.
+      <form xml:id="Q-225" type="lemma" lang="Latinum">Quassum</form> <emph>v.</emph> <xr>quarsum</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-226" type="lemma" lang="Latinum">Quastillarius</form> <emph>v.</emph> quasillarius.
+      <form xml:id="Q-226" type="lemma" lang="Latinum">Quastillarius</form> <emph>v.</emph> <xr>quasillarius</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-227" type="lemma" lang="Latinum">Quatenus</form> (<emph>uel</emph> quatinus: <emph>cf. GR. L.</emph> VI 111, 5) ἐπειδή, ὅπως ἄν, ἃ δὲ (ἅτε?) δὴ καὶ ἐπὶ τοσοῦτον <ref addName="Ps.-Phil." cRef="CGL.II.166.47">II 166, 47</ref>. πῶς <ref addName="Ps.-Cyr." cRef="CGL.II.427.2">II 427, 2</ref>. ὅπως <ref addName="Ps.-Cyr." cRef="CGL.II.386.9">II 386, 9</ref>. ἐπειδή <ref addName="Ps.-Cyr." cRef="CGL.II.306.27">II 306, 27</ref>. ἄχρι τούτου <ref addName="Ps.-Cyr." cRef="CGL.II.254.47">II 254, 47</ref>. μέχρις οὗ <ref addName="Ps.-Cyr." cRef="CGL.II.370.34">II 370, 34</ref>. ἕως οὗ <ref addName="Ps.-Cyr." cRef="CGL.II.321.54">II 321, 54</ref>. qua ratione <ref addName="Abstr. II" cRef="CGL.IV.157.12">IV 157, 12</ref>; <ref addName="Abstr. II" cRef="CGL.IV.157.17">17</ref>. qua ratione et qualiter <ref addName="Abba" cRef="CGL.IV.276.34">IV 276, 34</ref>. qua ratione, qualitercumque <ref addName="Affat." cRef="CGL.IV.558.57">IV 558, 57</ref>. qua ratione uel usque quo <ref addName="Abav." cRef="CGL.IV.383.24">IV 383, 24</ref>. qua ratione uel quousque <ref addName="Conscr. gl." cRef="CGL.V.326.19">V 326, 19</ref>. qua ratione uel qualiter aut pro eo &lt;quod&gt; quoad usque <ref addName="Forsit." cRef="CGL.V.139.36">V 139, 36</ref>. pro usque ponitur, ut Horatius (<emph>cf. carm.</emph> <pb n="VII.170" facs="7.170.jpg"/> <ref addName="hermen. Leid." cRef="CGL.III.24.30">III 24, 30</ref>; <emph>sat.</emph> I, 64) <ref addName="gl. Aynardi" cRef="CGL.V.623.1">V 623, 1</ref>. quo tenore <ref addName="gl. AA" cRef="CGL.V.477.50">V 477, 50</ref>. <emph>Cf. Arch.</emph> V 400.
@@ -497,7 +497,7 @@
       <form xml:id="Q-233" type="sublemma" lang="Latinum">cutit</form> mouet, concutit, cillet (!) <ref addName="Conscr. gl." cRef="CGL.V.283.11">V 283, 11</ref>. 
       <form xml:id="Q-234" type="sublemma" lang="Latinum">quatere</form> peruertere <ref addName="Ab abs." cRef="CGL.IV.421.9">IV 421, 9</ref>. percutere, contundere (<emph>uel</emph> tundere) <ref addName="Abav." cRef="CGL.IV.383.25">IV 383, 25</ref>. 
       <form xml:id="Q-235" type="sublemma" lang="Latinum">quatare</form> commonere <ref addName="Conscr. gl." cRef="CGL.V.326.21">V 326, 21</ref>. 
-      <form xml:id="Q-236" type="sublemma" lang="Latinum">quatitur</form> concutitur <ref addName="Abstr. II" cRef="CGL.IV.157.13">IV 157, 13</ref>; <ref addName="Affat." cRef="CGL.IV.558.52">558, 52</ref>; <ref addName="Conscr. gl." cRef="CGL.V.326.29">V 326, 29</ref>; <ref addName="Apod." cRef="CGL.V.386.8">386, 8</ref>. concutitur \[ue coniunctio\] <ref addName="Abav." cRef="CGL.IV.383.27">IV 383, 27</ref> (<emph>v.</emph> que). <emph>Cf. Festus p.</emph> 261, 15.
+      <form xml:id="Q-236" type="sublemma" lang="Latinum">quatitur</form> concutitur <ref addName="Abstr. II" cRef="CGL.IV.157.13">IV 157, 13</ref>; <ref addName="Affat." cRef="CGL.IV.558.52">558, 52</ref>; <ref addName="Conscr. gl." cRef="CGL.V.326.29">V 326, 29</ref>; <ref addName="Apod." cRef="CGL.V.386.8">386, 8</ref>. concutitur \[ue coniunctio\] <ref addName="Abav." cRef="CGL.IV.383.27">IV 383, 27</ref> (<emph>v.</emph> <xr>que</xr>). <emph>Cf. Festus p.</emph> 261, 15.
     </entryFree>
     <entryFree>
       <form xml:id="Q-237" type="lemma" lang="Latinum">Quattuor</form> τέσσαρες <ref addName="Ps.-Cyr." cRef="CGL.II.453.35">II 453, 35</ref>. τέσσαρα <emph>b e post</emph> <ref addName="Abstr. II" cRef="CGL.IV.166.42">IV 166, 42</ref>. τὰ τέσσαρα <ref addName="hermen. Vat." cRef="CGL.III.426.29">III 426, 29</ref>. 
@@ -508,7 +508,7 @@
       <form xml:id="Q-240" type="lemma" lang="Latinum">Qua uectus</form> qua portatus <ref addName="Abstr. II" cRef="CGL.IV.157.21">IV 157, 21</ref>; <ref addName="Abect." cRef="CGL.IV.460.47">460, 47</ref> (<emph>Verg. Aen.</emph> I 121).
     </entryFree>
     <entryFree>
-      <form xml:id="Q-241" type="lemma" lang="Latinum">Quaxillus</form> <emph>v.</emph> quasillus.
+      <form xml:id="Q-241" type="lemma" lang="Latinum">Quaxillus</form> <emph>v.</emph> <xr>quasillus</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-242" type="lemma" lang="Latinum">Que</form> τέ, καί <ref addName="Ps.-Phil." cRef="CGL.II.166.49">II 166, 49</ref>. τέ <ref addName="Ps.-Cyr." cRef="CGL.II.452.27">II 452, 27</ref>. καί <ref addName="Ps.-Cyr." cRef="CGL.II.335.50">II 335, 50</ref>. coniunctio <ref addName="Abav." cRef="CGL.IV.383.27">IV 383, 27</ref> (<emph>cf. GR. L. suppl.</emph> 275, 4). ue \[etsi licet\] <ref addName="Abav." cRef="CGL.IV.383.38">IV 383, 38</ref>. <emph>Cf.</emph> etsi, quatio.
@@ -535,7 +535,7 @@
       <form xml:id="Q-257" type="sublemma" lang="Latinum">quiuerit</form> (<emph>uel</emph> queuerit) potuerit <ref addName="Abav." cRef="CGL.IV.383.40">IV 383, 40</ref>; <ref addName="gl. AA" cRef="CGL.V.478.2">V 478, 2</ref> (querit); <ref addName="Abstans" cRef="CGL.V.577.20">577, 20</ref>. 
       <form xml:id="Q-258" type="sublemma" lang="Latinum">queuerint</form> potuerint <ref addName="Abba" cRef="CGL.IV.276.51">IV 276, 51</ref>. 
       <form xml:id="Q-259" type="sublemma" lang="Latinum">quiuissent</form> potuissent <ref addName="Conscr. gl." cRef="CGL.V.326.39">V 326, 39</ref>. 
-      <form xml:id="Q-260" type="sublemma" lang="Latinum">queuero</form> potuero <ref addName="Abal" cRef="CGL.V.512.8">V 512, 8</ref>. <emph>V.</emph> quis, non queo.
+      <form xml:id="Q-260" type="sublemma" lang="Latinum">queuero</form> potuero <ref addName="Abal" cRef="CGL.V.512.8">V 512, 8</ref>. <emph>V.</emph> <xr>quis</xr>, <xr>non queo</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-261" type="lemma" lang="Latinum">Quercetum</form> δρυμών <ref addName="Ps.-Cyr." cRef="CGL.II.281.13">II 281, 13</ref>. 
@@ -549,7 +549,7 @@
       <form xml:id="Q-265" type="sublemma" lang="Latinum">quercu</form> <ref addName="Asp." cRef="CGL.III.538.27">III 538, 27</ref>. diris 
       <form xml:id="Q-266" type="sublemma" lang="Latinum">querco</form> sunt, ilice <ref addName="Arsic." cRef="CGL.III.545.28">III 545, 28</ref>. drius id est arbor rubor (= robur) uel 
       <form xml:id="Q-267" type="sublemma" lang="Latinum">querquus</form> <ref addName="hermen. med. Vat. 4417" cRef="CGL.III.623.11">III 623, 11</ref>. 
-      <form xml:id="Q-268" type="sublemma" lang="Latinum">quercus</form> πρῖνος <ref addName="hermen. Vat." cRef="CGL.III.428.37">III 428, 37</ref>. ilicis similis an ilex <emph>a post</emph> <ref addName="Abstr. II" cRef="CGL.IV.157.48">IV 157, 48</ref>. genus ligni <ref addName="Affat." cRef="CGL.IV.559.25">IV 559, 25</ref>; <ref addName="Conscr. gl." cRef="CGL.V.326.47">V 326, 47</ref>. arbus <ref addName="Forsit." cRef="CGL.V.140.17">V 140, 17</ref>. <emph>V.</emph> aeriae quercus, quernum, ramnus, lingua clandis.
+      <form xml:id="Q-268" type="sublemma" lang="Latinum">quercus</form> πρῖνος <ref addName="hermen. Vat." cRef="CGL.III.428.37">III 428, 37</ref>. ilicis similis an ilex <emph>a post</emph> <ref addName="Abstr. II" cRef="CGL.IV.157.48">IV 157, 48</ref>. genus ligni <ref addName="Affat." cRef="CGL.IV.559.25">IV 559, 25</ref>; <ref addName="Conscr. gl." cRef="CGL.V.326.47">V 326, 47</ref>. arbus <ref addName="Forsit." cRef="CGL.V.140.17">V 140, 17</ref>. <emph>V.</emph> <xr>aeriae quercus</xr>, <xr>quernum</xr>, <xr>ramnus</xr>, <xr>lingua clandis</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-269" type="lemma" lang="Latinum">Querela</form> μέμψις ματαία <ref addName="Ps.-Phil." cRef="CGL.II.166.59">II 166, 59</ref>. μέμψις <ref addName="hermen. Montep." cRef="CGL.III.339.33">III 339, 33</ref>; <ref addName="gl. Steph." cRef="CGL.III.461.76">461, 76</ref>. 
@@ -558,42 +558,42 @@
       <form xml:id="Q-272" type="sublemma" lang="Latinum">quaerilla</form> quae habet quaestionem <ref addName="Ab abs." cRef="CGL.IV.421.14">IV 421, 14</ref>. culpae accusatio <ref addName="Abba" cRef="CGL.IV.276.44">IV 276, 44</ref>. 
       <form xml:id="Q-273" type="sublemma" lang="Latinum">querella</form> accusatio <ref addName="Abav." cRef="CGL.IV.383.32">IV 383, 32</ref>. 
       <form xml:id="Q-274" type="sublemma" lang="Latinum">querela</form> est uox (mox <emph>cod.</emph>) muta (?) <ref addName="gl. nom." cRef="CGL.II.591.3">II 591, 3</ref>. 
-      <form xml:id="Q-275" type="sublemma" lang="Latinum">quaelellae</form> accusationes <ref addName="Conscr. gl." cRef="CGL.V.326.44">V 326, 44</ref>. <emph>V.</emph> sine querella.
+      <form xml:id="Q-275" type="sublemma" lang="Latinum">quaelellae</form> accusationes <ref addName="Conscr. gl." cRef="CGL.V.326.44">V 326, 44</ref>. <emph>V.</emph> <xr>sine querella</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-276" type="lemma" lang="Latinum">Querellantem</form> querellas afferentem <ref addName="Abect." cRef="CGL.IV.460.37">IV 460, 37</ref> (<emph>cf. Serv. in Ecl. prooem. p.</emph> 3, 11). 
       <form xml:id="Q-277" type="sublemma" lang="Latinum">querelantem</form> querelas afferentem <emph>Scal.</emph> <ref addName="gl. Scal." cRef="CGL.V.609.8">V 609, 8</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-278" type="lemma" lang="Latinum">Querellator</form> <emph>v.</emph> quiritator.
+      <form xml:id="Q-278" type="lemma" lang="Latinum">Querellator</form> <emph>v.</emph> <xr>quiritator</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-279" type="lemma" lang="Latinum">Querellatus</form> questus <ref addName="Abav." cRef="CGL.IV.383.33">IV 383, 33</ref>. <emph>V.</emph> quiritat.
+      <form xml:id="Q-279" type="lemma" lang="Latinum">Querellatus</form> questus <ref addName="Abav." cRef="CGL.IV.383.33">IV 383, 33</ref>. <emph>V.</emph> <xr>quiritat</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-280" type="lemma" lang="Latinum">Querens</form> quaerulans (= querellans) uel deprecans <ref addName="Abstr. II" cRef="CGL.IV.157.50">IV 157, 50</ref>; <ref addName="Abect." cRef="CGL.IV.460.38">460, 38</ref> (<emph>cf. Verg. Aen.</emph> I 385).
     </entryFree>
     <entryFree>
-      <form xml:id="Q-281" type="lemma" lang="Latinum">Quereta</form> <emph>v.</emph> quae fata.
+      <form xml:id="Q-281" type="lemma" lang="Latinum">Quereta</form> <emph>v.</emph> <xr>quae fata</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-282" type="lemma" lang="Latinum">Querimonia</form> μέμψις <ref addName="Ps.-Phil." cRef="CGL.II.166.61">II 166, 61</ref>; <ref addName="Ps.-Cyr." cRef="CGL.II.367.42">367, 42</ref>. αἰτία <ref addName="Ps.-Cyr." cRef="CGL.II.221.20">II 221, 20</ref>. frequens querella <ref addName="Abav." cRef="CGL.IV.383.34">IV 383, 34</ref>. grauis querelIa uel accusatio <ref addName="Conscr. gl." cRef="CGL.V.326.31">V 326, 31</ref>. \[maleficus arteficus\] contestatio <ref addName="gl. AA" cRef="CGL.V.477.51">V 477, 51</ref>. querella aut quaestio <ref addName="Affat." cRef="CGL.IV.559.5">IV 559, 5</ref>. <emph>Cf.</emph> 
       <form xml:id="Q-283" type="sublemma" lang="Latinum">quaerimonis</form> (<emph>uel</emph> -iis) grauis quaerela <ref addName="Apod." cRef="CGL.V.386.9">V 386, 9</ref>. 
       <form xml:id="Q-284" type="sublemma" lang="Latinum">quaerimoniam</form> querellam grauem (<emph>can. conc. Carth.</emph> 11) <ref addName="Aleat." cRef="CGL.V.411.49">V 411, 49</ref>. 
       <form xml:id="Q-285" type="sublemma" lang="Latinum">quaeremoniae</form> quaerellae <ref addName="Affat." cRef="CGL.IV.559.7">IV 559, 7</ref>. quaerellae graues <ref addName="Abstr. II" cRef="CGL.IV.157.37">IV 157, 37</ref> (quaerim.); <ref addName="Affat." cRef="CGL.IV.559.6">559, 6</ref>. accusationes <ref addName="Apod." cRef="CGL.V.386.17">V 386, 17</ref> (quaerim.). 
-      <form xml:id="Q-286" type="sublemma" lang="Latinum">quaerimoniae</form> querellae graues <ref addName="Forsit." cRef="CGL.V.140.9">V 140, 9</ref>. <emph>V.</emph> caerimonia. <emph>Cf. GR. L.</emph> VII 523, 3.
+      <form xml:id="Q-286" type="sublemma" lang="Latinum">quaerimoniae</form> querellae graues <ref addName="Forsit." cRef="CGL.V.140.9">V 140, 9</ref>. <emph>V.</emph> <xr>caerimonia</xr>. <emph>Cf. GR. L.</emph> VII 523, 3.
     </entryFree>
     <entryFree>
       <form xml:id="Q-287" type="lemma" lang="Latinum">Querimonia puplica</form> querellae in publico prouulgatae <ref addName="Ab abs." cRef="CGL.IV.421.15">IV 421, 15</ref>. 
       <form xml:id="Q-288" type="sublemma" lang="Latinum">caerimonia puplica</form> scripta puplica <ref addName="Ab abs." cRef="CGL.IV.407.44">IV 407, 44</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-289" type="lemma" lang="Latinum">Querito</form> <emph>v.</emph> quiritat.
+      <form xml:id="Q-289" type="lemma" lang="Latinum">Querito</form> <emph>v.</emph> <xr>quiritat</xr>.
     </entryFree>
     <entryFree>
       <pb n="VII.171" facs="7.171.jpg"/> 
       <form xml:id="Q-290" type="lemma" lang="Latinum">Quernum</form> genus ligni roboris <ref addName="Abstr. II" cRef="CGL.IV.158.3">IV 158, 3</ref>; <ref addName="gl. AA" cRef="CGL.V.478.20">V 478, 20</ref> (quornum). 
-      <form xml:id="Q-291" type="sublemma" lang="Latinum">quornu</form> genus ligni est <ref addName="Abstans" cRef="CGL.V.577.26">V 577, 26</ref> (<emph>nisi</emph> cornu <emph>subest</emph>). <emph>V.</emph> quercus. <emph>Cf. Is.</emph> XVII 7, 38.
+      <form xml:id="Q-291" type="sublemma" lang="Latinum">quornu</form> genus ligni est <ref addName="Abstans" cRef="CGL.V.577.26">V 577, 26</ref> (<emph>nisi</emph> cornu <emph>subest</emph>). <emph>V.</emph> <xr>quercus</xr>. <emph>Cf. Is.</emph> XVII 7, 38.
     </entryFree>
     <entryFree>
       <form xml:id="Q-292" type="lemma" lang="Latinum">Queror</form> μέμφομαι <ref addName="Ps.-Cyr." cRef="CGL.II.367.41">II 367, 41</ref>; <ref addName="hermen. Ampl." cRef="CGL.III.77.25">III 77, 25</ref> (quereor). iniurias meas indico <ref addName="Abba" cRef="CGL.IV.277.4">IV 277, 4</ref>; <ref addName="Affat." cRef="CGL.IV.559.19">559, 19</ref>; <ref addName="Forsit." cRef="CGL.V.140.10">V 140, 10</ref>. iniurias meas indico uel querellam depono <ref addName="Abstr. II" cRef="CGL.IV.157.38">IV 157, 38</ref>. deponens, questus sum <ref addName="Conscr. gl." cRef="CGL.V.326.53">V 326, 53</ref>. 
@@ -602,7 +602,7 @@
       <form xml:id="Q-295" type="sublemma" lang="Latinum">queramur</form> μεμψώμεθα <ref addName="Ps.-Phil." cRef="CGL.II.166.60">II 166, 60</ref>. 
       <form xml:id="Q-296" type="sublemma" lang="Latinum">questus sum</form> culpaui <ref addName="Abav." cRef="CGL.IV.383.11">IV 383, 11</ref>. 
       <form xml:id="Q-297" type="sublemma" lang="Latinum">questus</form> 
-      <form xml:id="Q-298" type="sublemma" lang="Latinum">est</form> accusauit <ref addName="Abstr. II" cRef="CGL.IV.158.6">IV 158, 6</ref>; <ref addName="Abba" cRef="CGL.IV.276.48">276, 48</ref>; <ref addName="Affat." cRef="CGL.IV.559.13">559, 13</ref>; <ref addName="Conscr. gl." cRef="CGL.V.326.27">V 326, 27</ref>. <emph>V.</emph> quaero.
+      <form xml:id="Q-298" type="sublemma" lang="Latinum">est</form> accusauit <ref addName="Abstr. II" cRef="CGL.IV.158.6">IV 158, 6</ref>; <ref addName="Abba" cRef="CGL.IV.276.48">276, 48</ref>; <ref addName="Affat." cRef="CGL.IV.559.13">559, 13</ref>; <ref addName="Conscr. gl." cRef="CGL.V.326.27">V 326, 27</ref>. <emph>V.</emph> <xr>quaero</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-299" type="lemma" lang="Latinum">Querquedula</form> ἀηδών (<emph>contam.</emph>) <ref addName="hermen. Leid." cRef="CGL.III.17.59">III 17, 59</ref>. κερκήδης (κερχήλης <emph>Boucherie</emph>) <ref addName="hermen. Montep." cRef="CGL.III.319.13">III 319, 13</ref>; <ref addName="Absid. Vat." cRef="CGL.III.526.62">526, 62</ref>. 
@@ -611,13 +611,13 @@
       <form xml:id="Q-302" type="sublemma" lang="Latinum">circetula</form> filaris <ref addName="hermen. Monac." cRef="CGL.III.188.41">III 188, 41</ref>. 
       <form xml:id="Q-303" type="sublemma" lang="Latinum">quercedulus</form> βοσκάς <ref addName="hermen. Steph." cRef="CGL.III.361.21">III 361, 21</ref>. 
       <form xml:id="Q-304" type="sublemma" lang="Latinum">querpetola</form> βοσκάς <ref addName="hermen. Ampl." cRef="CGL.III.89.63">III 89, 63</ref>. 
-      <form xml:id="Q-305" type="sublemma" lang="Latinum">querquetulae</form> ubi lecti (!) sint <ref addName="gl. Non. I" cRef="CGL.V.639.52">V 639, 52</ref> (<emph>Non.</emph> 91, 3). <emph>V.</emph> cetolus. <emph>Cf. Keller 'Volksetym.' p.</emph> 52.
+      <form xml:id="Q-305" type="sublemma" lang="Latinum">querquetulae</form> ubi lecti (!) sint <ref addName="gl. Non. I" cRef="CGL.V.639.52">V 639, 52</ref> (<emph>Non.</emph> 91, 3). <emph>V.</emph> <xr>cetolus</xr>. <emph>Cf. Keller 'Volksetym.' p.</emph> 52.
     </entryFree>
     <entryFree>
       <form xml:id="Q-306" type="lemma" lang="Latinum">Querquera</form> febris acuta <ref addName="gl. nom." cRef="CGL.II.591.4">II 591, 4</ref>. est febris acris ac uehemens quae cum magno frigore solet uenire <ref addName="Abstr. II" cRef="CGL.IV.158.10">IV 158, 10</ref>; <ref addName="Abal" cRef="CGL.V.512.6">V 512, 6</ref>; <ref addName="Auxil." cRef="CGL.V.525.33">525, 33</ref> (querquela). <emph>Cf. Festus p.</emph> 257, 31; <emph>Loewe Prodr.</emph> 327 (<emph>Plaut. fragm. p.</emph> 148 <emph>ed. mai.</emph>).
     </entryFree>
     <entryFree>
-      <form xml:id="Q-307" type="lemma" lang="Latinum">Querquiola</form> <emph>v.</emph> chamaedrys.
+      <form xml:id="Q-307" type="lemma" lang="Latinum">Querquiola</form> <emph>v.</emph> <xr>chamaedrys</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-308" type="lemma" lang="Latinum">Querula</form> querella minor <ref addName="Abav." cRef="CGL.IV.383.36">IV 383, 36</ref>; <ref addName="exc. Vat. reg. 215 / Abgr." cRef="CGL.V.545.9">V 545, 9</ref> (querellula?).
@@ -636,10 +636,10 @@
       <form xml:id="Q-313" type="sublemma" lang="Latinum">questiosus est</form> accusator est <ref addName="Abal" cRef="CGL.V.512.9">V 512, 9</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-314" type="lemma" lang="Latinum">Qui</form> <emph>v.</emph> quis (<emph>coniunxi quandoquidem saepissime discerni nequeunt</emph>).
+      <form xml:id="Q-314" type="lemma" lang="Latinum">Qui</form> <emph>v.</emph> <xr>quis</xr> (<emph>coniunxi quandoquidem saepissime discerni nequeunt</emph>).
     </entryFree>
     <entryFree>
-      <form xml:id="Q-315" type="lemma" lang="Latinum">Qui</form> inde, quo modo <ref addName="Forsit." cRef="CGL.V.140.53">V 140, 53</ref>. unde <emph>a post</emph> <ref addName="Abstr. II" cRef="CGL.IV.158.10">IV 158, 10</ref>. unde \[uel qualis\] <ref addName="Abstr. II" cRef="CGL.IV.158.44">IV 158, 44</ref>. <emph>V.</emph> quis, qua re <ref addName="exc. Vat. reg. 215 / Alieno" cRef="CGL.V.538.66">V 538, 66</ref> (<emph>Ter. Andr.</emph> 154, <emph>ubi</emph> Quis <emph>CDG</emph>). Dum dico 'qui tibi fecit iniuriam' nomen est, et si dicam: 'qui uenis' aduerbium est pro unde <ref addName="Abstans" cRef="CGL.V.567.60">V 567, 60</ref>. <emph>Cf. GR. L.</emph> IV 410, 33; V 65, 34; 69, 13; 205, 18.
+      <form xml:id="Q-315" type="lemma" lang="Latinum">Qui</form> inde, quo modo <ref addName="Forsit." cRef="CGL.V.140.53">V 140, 53</ref>. unde <emph>a post</emph> <ref addName="Abstr. II" cRef="CGL.IV.158.10">IV 158, 10</ref>. unde \[uel qualis\] <ref addName="Abstr. II" cRef="CGL.IV.158.44">IV 158, 44</ref>. <emph>V.</emph> <xr>quis</xr>, <xr>qua re</xr> <ref addName="exc. Vat. reg. 215 / Alieno" cRef="CGL.V.538.66">V 538, 66</ref> (<emph>Ter. Andr.</emph> 154, <emph>ubi</emph> Quis <emph>CDG</emph>). Dum dico 'qui tibi fecit iniuriam' nomen est, et si dicam: 'qui uenis' aduerbium est pro unde <ref addName="Abstans" cRef="CGL.V.567.60">V 567, 60</ref>. <emph>Cf. GR. L.</emph> IV 410, 33; V 65, 34; 69, 13; 205, 18.
     </entryFree>
     <entryFree>
       <form xml:id="Q-316" type="lemma" lang="Latinum">Quia</form> ὅτι <ref addName="Ps.-Phil." cRef="CGL.II.167.2">II 167, 2</ref> (qua <emph>cod.</emph>, <emph>sed in sene</emph> qui); <ref addName="Ps.-Cyr." cRef="CGL.II.388.44">388, 44</ref>; <ref addName="hermen. frg. Leid." cRef="CGL.III.415.71">III 415, 71</ref>. ἐπεί <ref addName="Ps.-Cyr." cRef="CGL.II.306.25">II 306, 25</ref>. ἐπειδή <ref addName="Ps.-Cyr." cRef="CGL.II.306.27">II 306, 27</ref>. ἐπείπερ <ref addName="Ps.-Cyr." cRef="CGL.II.306.30">II 306, 30</ref>. quod <ref addName="Affat." cRef="CGL.IV.559.40">IV 559, 40</ref>; <ref addName="Conscr. gl." cRef="CGL.V.327.2">V 327, 2</ref>.
@@ -683,14 +683,14 @@
       <form xml:id="Q-340" type="sublemma" lang="Latinum">quoscumque quosque</form> οὕστινας δήποτε <ref addName="Ps.-Cyr." cRef="CGL.II.390.28">II 390, 28</ref>. 
       <form xml:id="Q-341" type="sublemma" lang="Latinum">quascumque</form> ἃς δηποτε <ref addName="Ps.-Phil." cRef="CGL.II.166.42">II 166, 42</ref>. 
       <form xml:id="Q-342" type="sublemma" lang="Latinum">quascumque quasquas</form> ἅστινας δήποτε <ref addName="Ps.-Cyr." cRef="CGL.II.248.42">II 248, 42</ref>. 
-      <form xml:id="Q-343" type="sublemma" lang="Latinum">a quibuscumque</form> ἀφ' ὧν ἄν <ref addName="Ps.-Cyr." cRef="CGL.II.254.13">II 254, 13</ref>. <emph>V.</emph> in quacumque, de quocumque.
+      <form xml:id="Q-343" type="sublemma" lang="Latinum">a quibuscumque</form> ἀφ' ὧν ἄν <ref addName="Ps.-Cyr." cRef="CGL.II.254.13">II 254, 13</ref>. <emph>V.</emph> <xr>in quacumque</xr>, <xr>de quocumque</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-344" type="lemma" lang="Latinum">Quidam</form> τὶς ἀρσενικῶς <ref addName="Ps.-Cyr." cRef="CGL.II.456.26">II 456, 26</ref>. 
       <form xml:id="Q-345" type="sublemma" lang="Latinum">quaedam</form> τίσποτε, τινέσποτε <ref addName="Ps.-Phil." cRef="CGL.II.165.59">II 165, 59</ref>. τὶς θηλυκῶς <ref addName="Ps.-Cyr." cRef="CGL.II.456.27">II 456, 27</ref>. 
       <form xml:id="Q-346" type="sublemma" lang="Latinum">quiddam</form> modicum aliquid <ref addName="Abba" cRef="CGL.IV.277.19">IV 277, 19</ref>; <ref addName="Affat." cRef="CGL.IV.559.30">559, 30</ref>. aliquid <ref addName="Abstr. II" cRef="CGL.IV.158.14">IV 158, 14</ref>. aliquid uel modicum <pb n="VII.172" facs="7.172.jpg"/> alicuius rei <ref addName="Abav." cRef="CGL.IV.383.45">IV 383, 45</ref>. 
       <form xml:id="Q-347" type="sublemma" lang="Latinum">quoddam</form> τὶ <ref addName="Ps.-Cyr." cRef="CGL.II.455.22">II 455, 22</ref>. τιποτε <ref addName="Ps.-Cyr." cRef="CGL.II.456.24">II 456, 24</ref> (τινος ποτε). aliquod <ref addName="Ab abs." cRef="CGL.IV.421.27">IV 421, 27</ref> (quodam). <emph>Cf.</emph> 
-      <form xml:id="Q-348" type="sublemma" lang="Latinum">quoddam</form> τινὰ οὐδετέρως (!) <ref addName="Ps.-Cyr." cRef="CGL.II.456.5">II 456, 5</ref>. quodcumque \[quod quas, tamquam\] <ref addName="Abav." cRef="CGL.IV.384.18">IV 384, 18</ref> (<emph>v.</emph> quod). quodcumque <ref addName="Abba" cRef="CGL.IV.277.40">IV 277, 40</ref>. 
+      <form xml:id="Q-348" type="sublemma" lang="Latinum">quoddam</form> τινὰ οὐδετέρως (!) <ref addName="Ps.-Cyr." cRef="CGL.II.456.5">II 456, 5</ref>. quodcumque \[quod quas, tamquam\] <ref addName="Abav." cRef="CGL.IV.384.18">IV 384, 18</ref> (<emph>v.</emph> <xr>quod</xr>). quodcumque <ref addName="Abba" cRef="CGL.IV.277.40">IV 277, 40</ref>. 
       <form xml:id="Q-349" type="sublemma" lang="Latinum">cuiusdam</form> τινὸς ἀρσενικῶς <ref addName="Ps.-Cyr." cRef="CGL.II.456.21">II 456, 21</ref>. οὗ ἀντὶ τοῦ οὕτινος <ref addName="Ps.-Cyr." cRef="CGL.II.388.49">II 388, 49</ref>. 
       <form xml:id="Q-350" type="sublemma" lang="Latinum">cuidam</form> τινὶ ἀρσενικῶς <ref addName="Ps.-Cyr." cRef="CGL.II.456.17">II 456, 17</ref>. cuiquam, alicui <ref addName="Abba" cRef="CGL.IV.224.52">IV 224, 52</ref>. alicui <ref addName="Abstr. II" cRef="CGL.IV.46.29">IV 46, 29</ref>; <ref addName="Affat." cRef="CGL.IV.501.42">501, 42</ref>; <ref addName="Conscr. gl." cRef="CGL.V.282.54">V 282, 54</ref>. 
       <form xml:id="Q-351" type="sublemma" lang="Latinum">quendam</form> τινὰ ἀρσενικῶς <ref addName="Ps.-Cyr." cRef="CGL.II.456.3">II 456, 3</ref>. ὅντινα <ref addName="Ps.-Phil." cRef="CGL.II.166.56">II 166, 56</ref>. aliquem, quempiam (<emph>uel</emph> quemquam) <ref addName="Abba" cRef="CGL.IV.277.2">IV 277, 2</ref>. aliquem <ref addName="Abstr. II" cRef="CGL.IV.157.29">IV 157, 29</ref> (quaedam); <ref addName="Affat." cRef="CGL.IV.558.62">558, 62</ref> (<emph>item</emph>); <ref addName="Forsit." cRef="CGL.V.140.5">V 140, 5</ref> (<emph>item</emph>). 
@@ -703,15 +703,15 @@
       <form xml:id="Q-358" type="sublemma" lang="Latinum">quidam</form> τινὲς ἀρσενικῶς <ref addName="Ps.-Cyr." cRef="CGL.II.456.13">II 456, 13</ref>. τινές, τινέσποτε, τίσποτε <ref addName="Ps.-Phil." cRef="CGL.II.167.7">II 167, 7</ref>. 
       <form xml:id="Q-359" type="sublemma" lang="Latinum">quaedam</form> τινὲς θηλυκῶς <ref addName="Ps.-Cyr." cRef="CGL.II.456.14">II 456, 14</ref>. ἔνια <ref addName="Ps.-Cyr." cRef="CGL.II.299.25">II 299, 25</ref>; <ref addName="hermen. Monac." cRef="CGL.III.140.58">III 140, 58</ref>. aliqua\[m\] <ref addName="Abav." cRef="CGL.IV.383.7">IV 383, 7</ref>. 
       <form xml:id="Q-360" type="sublemma" lang="Latinum">quorundam</form> aliquorum <ref addName="Abba" cRef="CGL.IV.277.38">IV 277, 38</ref>; <ref addName="Affat." cRef="CGL.IV.560.2">560, 2</ref>; <ref addName="Abnuo" cRef="CGL.V.556.40">V 556, 40</ref>. 
-      <form xml:id="Q-361" type="sublemma" lang="Latinum">quibusdam</form> personam referentis (<emph>v.</emph> quisnam) <ref addName="Abav." cRef="CGL.IV.383.42">IV 383, 42</ref> (indicat <emph>add. b</emph>, indicium <emph>add. e</emph>). 
+      <form xml:id="Q-361" type="sublemma" lang="Latinum">quibusdam</form> personam referentis (<emph>v.</emph> <xr>quisnam</xr>) <ref addName="Abav." cRef="CGL.IV.383.42">IV 383, 42</ref> (indicat <emph>add. b</emph>, indicium <emph>add. e</emph>). 
       <form xml:id="Q-362" type="sublemma" lang="Latinum">a quibusdam</form> ἀπό τινων <ref addName="Ps.-Cyr." cRef="CGL.II.241.35">II 241, 35</ref>. ἀπὸ τινῶν ποτε <ref addName="Ps.-Cyr." cRef="CGL.II.241.37">II 241, 37</ref>. 
       <form xml:id="Q-363" type="sublemma" lang="Latinum">quasdam</form> aliquis (!) <ref addName="Abstr. II" cRef="CGL.IV.157.11">IV 157, 11</ref>; <ref addName="Affat." cRef="CGL.IV.558.54">558, 54</ref>; <ref addName="Forsit." cRef="CGL.V.139.35">V 139, 35</ref>; <ref addName="Conscr. gl." cRef="CGL.V.326.33">326, 33</ref> (aliquas).
     </entryFree>
     <entryFree>
-      <form xml:id="Q-364" type="lemma" lang="Latinum">Quid differt</form> quid interest uel quid obest <ref addName="Abstr. II" cRef="CGL.IV.158.17">IV 158, 17</ref>; <ref addName="Forsit." cRef="CGL.V.140.35">V 140, 35</ref>. <emph>V.</emph> quid refert.
+      <form xml:id="Q-364" type="lemma" lang="Latinum">Quid differt</form> quid interest uel quid obest <ref addName="Abstr. II" cRef="CGL.IV.158.17">IV 158, 17</ref>; <ref addName="Forsit." cRef="CGL.V.140.35">V 140, 35</ref>. <emph>V.</emph> <xr>quid refert</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-365" type="lemma" lang="Latinum">Quidem</form> μέν <ref addName="Ps.-Phil." cRef="CGL.II.167.9">II 167, 9</ref>; <ref addName="Ps.-Cyr." cRef="CGL.II.367.44">367, 44</ref>. <emph>V.</emph> et quidem.
+      <form xml:id="Q-365" type="lemma" lang="Latinum">Quidem</form> μέν <ref addName="Ps.-Phil." cRef="CGL.II.167.9">II 167, 9</ref>; <ref addName="Ps.-Cyr." cRef="CGL.II.367.44">367, 44</ref>. <emph>V.</emph> <xr>et quidem</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-366" type="lemma" lang="Latinum">Quid enim</form> uidelicet <ref addName="Abect." cRef="CGL.IV.461.1">IV 461, 1</ref> (<emph>Verg. Aen.</emph> V 850; XII 798).
@@ -747,11 +747,11 @@
       <form xml:id="Q-380" type="sublemma" lang="Latinum">quinni</form> quare non <ref addName="Conscr. gl." cRef="CGL.V.327.16">V 327, 16</ref>. etiam aduerbium. adfirmandi <ref addName="Abba" cRef="CGL.IV.277.20">IV 277, 20</ref>. 
       <form xml:id="Q-381" type="sublemma" lang="Latinum">quidni</form> quidnisi <ref addName="Abstr. II" cRef="CGL.IV.158.36">IV 158, 36</ref>. quomodo non <ref addName="Abstr. II" cRef="CGL.IV.158.45">IV 158, 45</ref>. aduerbium est adfirmandi, ut si dicamus 'quare non' <ref addName="Conscr. gl." cRef="CGL.V.327.5">V 327, 5</ref>. uti si dicas 'qua re non' <ref addName="Abav." cRef="CGL.IV.384.4">IV 384, 4</ref> (quinni). quare non, uidelicet, profecto <ref addName="Forsit." cRef="CGL.V.140.56">V 140, 56</ref>. quor non, uidelicet <ref addName="exc. Vat. reg. 215 / Alieno / Pelix" cRef="CGL.V.539.8">V 539, 8</ref> (<emph>Ter. Ad.</emph> 573? 726?). 
       <form xml:id="Q-382" type="sublemma" lang="Latinum">quinni</form> qui non, nisi quid <ref addName="Abstr. II" cRef="CGL.IV.158.19">IV 158, 19</ref>; <ref addName="gl. AA" cRef="CGL.V.478.3">V 478, 3</ref>. 
-      <form xml:id="Q-383" type="sublemma" lang="Latinum">quidni</form> quod si non uel nisi <ref addName="Abav." cRef="CGL.IV.383.46">IV 383, 46</ref> (quodni?). <emph>V.</emph> quid nisi, quisque.
+      <form xml:id="Q-383" type="sublemma" lang="Latinum">quidni</form> quod si non uel nisi <ref addName="Abav." cRef="CGL.IV.383.46">IV 383, 46</ref> (quodni?). <emph>V.</emph> <xr>quid nisi</xr>, <xr>quisque</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-384" type="lemma" lang="Latinum">Quid nisi</form> porro, quid deinde <ref addName="Abstr. II" cRef="CGL.IV.158.16">IV 158, 16</ref>. quare non <emph>Plac.</emph> <ref addName="Plac. lib. gl." cRef="CGL.V.96.4">V 96, 4</ref>. 
-      <form xml:id="Q-385" type="sublemma" lang="Latinum">quin nisi</form> \[aut\] immo <ref addName="Abstr. II" cRef="CGL.IV.158.34">IV 158, 34</ref> (quidni quid nisi aut immo <emph>Nettleship</emph> '<emph>Journ. of Phil.'</emph> XX 53, <emph>recte</emph>? <emph>nisi</emph> quin <emph>lemma est</emph>). <emph>Cf. Festus p.</emph> 257, 31. <emph>V.</emph> quidni.
+      <form xml:id="Q-385" type="sublemma" lang="Latinum">quin nisi</form> \[aut\] immo <ref addName="Abstr. II" cRef="CGL.IV.158.34">IV 158, 34</ref> (quidni quid nisi aut immo <emph>Nettleship</emph> '<emph>Journ. of Phil.'</emph> XX 53, <emph>recte</emph>? <emph>nisi</emph> quin <emph>lemma est</emph>). <emph>Cf. Festus p.</emph> 257, 31. <emph>V.</emph> <xr>quidni</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-386" type="lemma" lang="Latinum">Quid non</form> \[aut\] quare non, hoc magis, hoc potius, propter quod, quare <emph>a post</emph> <ref addName="Abstr. II" cRef="CGL.IV.159.2">IV 159, 2</ref>.
@@ -778,7 +778,7 @@
       <form xml:id="Q-393" type="lemma" lang="Latinum">Quid referat</form> (<emph>cf. Verg. Aen.</emph> II 75) quid nuntiet <ref addName="Abstr. II" cRef="CGL.IV.159.13">IV 159, 13</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-394" type="lemma" lang="Latinum">Quid refert</form> quid interest uel quid obest <ref addName="Abstr. II" cRef="CGL.IV.158.38">IV 158, 38</ref>; <ref addName="Affat." cRef="CGL.IV.559.34">559, 34</ref>. <emph>V.</emph> quid differt.
+      <form xml:id="Q-394" type="lemma" lang="Latinum">Quid refert</form> quid interest uel quid obest <ref addName="Abstr. II" cRef="CGL.IV.158.38">IV 158, 38</ref>; <ref addName="Affat." cRef="CGL.IV.559.34">559, 34</ref>. <emph>V.</emph> <xr>quid differt</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-395" type="lemma" lang="Latinum">Quid st&lt;r&gt;uit</form> (studet <emph>b</emph>) quid cogitat <ref addName="Abba" cRef="CGL.IV.277.16">IV 277, 16</ref>. <emph>Cf. Verg. Aen.</emph> VIII 15.
@@ -816,10 +816,10 @@
     <entryFree>
       <form xml:id="Q-410" type="lemma" lang="Latinum">Quietus</form> ἥσυχος <ref addName="Ps.-Cyr." cRef="CGL.II.325.58">II 325, 58</ref>; <ref addName="hermen. Monac." cRef="CGL.III.144.26">III 144, 26</ref>; <ref addName="hermen. Monac." cRef="CGL.III.178.10">178, 10</ref>; <ref addName="hermen. Einsidl." cRef="CGL.III.250.45">250, 45</ref>; <ref addName="hermen. Montep." cRef="CGL.III.331.70">331, 70</ref>; <ref addName="gl. Steph." cRef="CGL.III.461.78">461, 78</ref>; <ref addName="gl. Steph." cRef="CGL.III.472.31">472, 31</ref> (ἡσύχιος); <ref addName="Absid. Vat." cRef="CGL.III.519.57">519, 57</ref>. ἤρεμος <ref addName="Ps.-Cyr." cRef="CGL.II.325.42">II 325, 42</ref>. εὔψυχος (eupsichius) <ref addName="Absid. Bern." cRef="CGL.III.493.68">III 493, 68</ref>. securus <ref addName="Abstr. II" cRef="CGL.IV.158.41">IV 158, 41</ref>; <ref addName="Abect." cRef="CGL.IV.461.5">461, 5</ref> (<emph>gl. Verg.</emph>). mollis, mitis, placidus <ref addName="Abav." cRef="CGL.IV.383.51">IV 383, 51</ref>. 
       <form xml:id="Q-411" type="sublemma" lang="Latinum">quietos</form> otiosos <ref addName="Abstr. II" cRef="CGL.IV.159.10">IV 159, 10</ref> (<emph>Verg. Aen.</emph> IV 379; XI 253). <emph>Cf.</emph> 
-      <form xml:id="Q-412" type="sublemma" lang="Latinum">coetus</form> ἥσυχος <ref addName="hermen. Steph." cRef="CGL.III.374.19">III 374, 19</ref>. <emph>V.</emph> cetus 2.
+      <form xml:id="Q-412" type="sublemma" lang="Latinum">coetus</form> ἥσυχος <ref addName="hermen. Steph." cRef="CGL.III.374.19">III 374, 19</ref>. <emph>V.</emph> <xr>cetus 2</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-413" type="lemma" lang="Latinum">Ouigneum</form> <emph>v.</emph> cygneum.
+      <form xml:id="Q-413" type="lemma" lang="Latinum">Ouigneum</form> <emph>v.</emph> <xr>cygneum</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-414" type="lemma" lang="Latinum">Quiliaci</form> (= κοιλ-) causa in uentriculo subitanea digestio cum turbatione <ref addName="Antrix" cRef="CGL.III.604.42">III 604, 42</ref>. 
@@ -838,7 +838,7 @@
       <form xml:id="Q-423" type="lemma" lang="Latinum">Quilismata</form> (= κυλίσμ.) uibrationes uocum <emph>gloss. Salom.</emph>; <emph>Loewe Prodr.</emph> 376.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-424" type="lemma" lang="Latinum">Quin</form> ἀλλά <ref addName="Ps.-Phil." cRef="CGL.II.167.27">II 167, 27</ref>. ἀλλὰ μήν, ἀλλὰ γάρ <ref addName="Ps.-Phil." cRef="CGL.II.167.26">II 167, 26</ref>. ὅπως <ref addName="Ps.-Cyr." cRef="CGL.II.386.9">II 386, 9</ref>. ἐπεί <ref addName="Ps.-Cyr." cRef="CGL.II.306.25">II 306, 25</ref>. utique, aliquando \[uel\] qui non <ref addName="Abav." cRef="CGL.IV.383.52">IV 383, 52</ref>. aliquando significat etiam, ergo, quod, quia, immo aut uero <ref addName="Affat." cRef="CGL.IV.559.39">IV 559, 39</ref> (<emph>v.</emph> quin etiam). sed tantum uel quod, aliquando etiam, aliquando ergo, aliquando quia, aliquando itaque aliquando &lt;immo&gt; <ref addName="Conscr. gl." cRef="CGL.V.326.57">V 326, 57</ref>. qui non <ref addName="Conscr. gl." cRef="CGL.V.326.58">V 326, 58</ref>. quominus <ref addName="exc. Vat. reg. 215 / Alieno / Pelix" cRef="CGL.V.539.2">V 539, 2</ref> (<emph>Ter. Andr.</emph> 391). ut non, etiam <ref addName="Forsit." cRef="CGL.V.140.44">V 140, 44</ref> (<emph>Serv. in Aen.</emph> X 615). nisi (<emph>v.</emph> quid nisi) uel si uero <ref addName="Forsit." cRef="CGL.V.140.43">V 140, 43</ref>. immo uel sin, quod, quia, praeterea, potius, magis ac magis <ref addName="Affat." cRef="CGL.IV.559.37">IV 559, 37</ref>. etiam uel insuper <ref addName="Abstr. II" cRef="CGL.IV.158.32">IV 158, 32</ref>. quod aut immo <ref addName="Abstr. II" cRef="CGL.IV.158.42">IV 158, 42</ref>. immo uero <ref addName="Abstr. II" cRef="CGL.IV.159.14">IV 159, 14</ref>. potius <ref addName="Abstr. II" cRef="CGL.IV.159.11">IV 159, 11</ref>. immo, quia uel quod <ref addName="Abstr. II" cRef="CGL.IV.158.43">IV 158, 43</ref> (<emph>cf. Serv. in Aen.</emph> IV 547).
+      <form xml:id="Q-424" type="lemma" lang="Latinum">Quin</form> ἀλλά <ref addName="Ps.-Phil." cRef="CGL.II.167.27">II 167, 27</ref>. ἀλλὰ μήν, ἀλλὰ γάρ <ref addName="Ps.-Phil." cRef="CGL.II.167.26">II 167, 26</ref>. ὅπως <ref addName="Ps.-Cyr." cRef="CGL.II.386.9">II 386, 9</ref>. ἐπεί <ref addName="Ps.-Cyr." cRef="CGL.II.306.25">II 306, 25</ref>. utique, aliquando \[uel\] qui non <ref addName="Abav." cRef="CGL.IV.383.52">IV 383, 52</ref>. aliquando significat etiam, ergo, quod, quia, immo aut uero <ref addName="Affat." cRef="CGL.IV.559.39">IV 559, 39</ref> (<emph>v.</emph> <xr>quin etiam</xr>). sed tantum uel quod, aliquando etiam, aliquando ergo, aliquando quia, aliquando itaque aliquando &lt;immo&gt; <ref addName="Conscr. gl." cRef="CGL.V.326.57">V 326, 57</ref>. qui non <ref addName="Conscr. gl." cRef="CGL.V.326.58">V 326, 58</ref>. quominus <ref addName="exc. Vat. reg. 215 / Alieno / Pelix" cRef="CGL.V.539.2">V 539, 2</ref> (<emph>Ter. Andr.</emph> 391). ut non, etiam <ref addName="Forsit." cRef="CGL.V.140.44">V 140, 44</ref> (<emph>Serv. in Aen.</emph> X 615). nisi (<emph>v.</emph> <xr>quid nisi</xr>) uel si uero <ref addName="Forsit." cRef="CGL.V.140.43">V 140, 43</ref>. immo uel sin, quod, quia, praeterea, potius, magis ac magis <ref addName="Affat." cRef="CGL.IV.559.37">IV 559, 37</ref>. etiam uel insuper <ref addName="Abstr. II" cRef="CGL.IV.158.32">IV 158, 32</ref>. quod aut immo <ref addName="Abstr. II" cRef="CGL.IV.158.42">IV 158, 42</ref>. immo uero <ref addName="Abstr. II" cRef="CGL.IV.159.14">IV 159, 14</ref>. potius <ref addName="Abstr. II" cRef="CGL.IV.159.11">IV 159, 11</ref>. immo, quia uel quod <ref addName="Abstr. II" cRef="CGL.IV.158.43">IV 158, 43</ref> (<emph>cf. Serv. in Aen.</emph> IV 547).
     </entryFree>
     <entryFree>
       <form xml:id="Q-425" type="lemma" lang="Latinum">Quin autem</form> ὅπως δέ <ref addName="Ps.-Cyr." cRef="CGL.II.386.10">II 386, 10</ref>. ὅθεν δέ <ref addName="Ps.-Cyr." cRef="CGL.II.379.47">II 379, 47</ref>. utrumque (utique <emph>Hildebr.</emph> utc. <emph>Buech.</emph>) autem <ref addName="Abav." cRef="CGL.IV.384.2">IV 384, 2</ref>; <ref addName="exc. Vat. reg. 215 / Alieno / Pelix" cRef="CGL.V.539.18">V 539, 18</ref>.
@@ -873,13 +873,13 @@
       <form xml:id="Q-436" type="sublemma" lang="Latinum">quinis</form> ἀπὸ πέντε <ref addName="Ps.-Cyr." cRef="CGL.II.239.55">II 239, 55</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-437" type="lemma" lang="Latinum">Quinici</form> <emph>v.</emph> Cynici.
+      <form xml:id="Q-437" type="lemma" lang="Latinum">Quinici</form> <emph>v.</emph> <xr>Cynici</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-438" type="lemma" lang="Latinum">Quin igitur</form> δι' ὅπερ <ref addName="Ps.-Cyr." cRef="CGL.II.278.23">II 278, 23</ref>. ὅθεν τοίνυν <ref addName="Ps.-Cyr." cRef="CGL.II.379.49">II 379, 49</ref>. τί οὖν <ref addName="Ps.-Phil." cRef="CGL.II.167.33">II 167, 33</ref>. quare non <ref addName="Ab abs." cRef="CGL.IV.421.20">IV 421, 20</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-439" type="lemma" lang="Latinum">Quin immo</form> ὅπως μὲν οὖν <ref addName="Ps.-Cyr." cRef="CGL.II.386.12">II 386, 12</ref>. magis etiam uel potius <ref addName="Abba" cRef="CGL.IV.277.10">IV 277, 10</ref>. hoc magis, hoc potius <ref addName="Abstr. II" cRef="CGL.IV.158.37">IV 158, 37</ref>; <ref addName="Forsit." cRef="CGL.V.140.42">V 140, 42</ref>. magis uideo (adeo? ideo?) <ref addName="Apod." cRef="CGL.V.386.21">V 386, 21</ref> (<emph>nisi in his</emph> immo <emph>interpr. est</emph>). <emph>V.</emph> quin.
+      <form xml:id="Q-439" type="lemma" lang="Latinum">Quin immo</form> ὅπως μὲν οὖν <ref addName="Ps.-Cyr." cRef="CGL.II.386.12">II 386, 12</ref>. magis etiam uel potius <ref addName="Abba" cRef="CGL.IV.277.10">IV 277, 10</ref>. hoc magis, hoc potius <ref addName="Abstr. II" cRef="CGL.IV.158.37">IV 158, 37</ref>; <ref addName="Forsit." cRef="CGL.V.140.42">V 140, 42</ref>. magis uideo (adeo? ideo?) <ref addName="Apod." cRef="CGL.V.386.21">V 386, 21</ref> (<emph>nisi in his</emph> immo <emph>interpr. est</emph>). <emph>V.</emph> <xr>quin</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-440" type="lemma" lang="Latinum">Quinio</form> πεντάς <ref addName="Ps.-Cyr." cRef="CGL.II.401.21">II 401, 21</ref>.
@@ -915,7 +915,7 @@
       <form xml:id="Q-453" type="sublemma" lang="Latinum">quinque folia</form> <ref addName="Aars." cRef="CGL.III.584.51">III 584, 51</ref>. disophis (disufi <emph>cod. Vrat. Pseudap.</emph>) <ref addName="Asaru" cRef="CGL.III.559.70">III 559, 70</ref>. istafis agria id est grana herbae pentafille <ref addName="Asp." cRef="CGL.III.539.62">III 539, 62</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-454" type="lemma" lang="Latinum">Quinqueneruia</form> leciuuyrt (<emph>vel</emph> leciuyrt, <emph>AS.</emph>) <ref addName="Apod." cRef="CGL.V.386.5">V 386, 5</ref>. <emph>V.</emph> trixago.
+      <form xml:id="Q-454" type="lemma" lang="Latinum">Quinqueneruia</form> leciuuyrt (<emph>vel</emph> leciuyrt, <emph>AS.</emph>) <ref addName="Apod." cRef="CGL.V.386.5">V 386, 5</ref>. <emph>V.</emph> <xr>trixago</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-455" type="lemma" lang="Latinum">Quinquennale certamen</form> <ref addName="de lat." cRef="CGL.V.664.5">V 664, 5</ref>.
@@ -937,7 +937,7 @@
     </entryFree>
     <entryFree>
       <form xml:id="Q-461" type="lemma" lang="Latinum">Quinqueplex</form> πενταπλοῦς <ref addName="Ps.-Cyr." cRef="CGL.II.401.20">II 401, 20</ref>. πενταπλῆ <ref addName="Ps.-Cyr." cRef="CGL.II.401.19">II 401, 19</ref>. 
-      <form xml:id="Q-462" type="sublemma" lang="Latinum">quinquuplum</form> πενταπλοῦν <ref addName="Ps.-Phil." cRef="CGL.II.167.37">II 167, 37</ref>. <emph>V.</emph> quinduplum.
+      <form xml:id="Q-462" type="sublemma" lang="Latinum">quinquuplum</form> πενταπλοῦν <ref addName="Ps.-Phil." cRef="CGL.II.167.37">II 167, 37</ref>. <emph>V.</emph> <xr>quinduplum</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-463" type="lemma" lang="Latinum">Quinqueremis</form> πεντήρης <ref addName="Ps.-Phil." cRef="CGL.II.167.32">II 167, 32</ref>. πεντήρης, πεντάκωπος <ref addName="Ps.-Cyr." cRef="CGL.II.401.25">II 401, 25</ref>.
@@ -955,20 +955,20 @@
     </entryFree>
     <entryFree>
       <form xml:id="Q-469" type="lemma" lang="Latinum">Quintilis</form> mensis Iulius <ref addName="Affat." cRef="CGL.IV.559.50">IV 559, 50</ref>. Iulius <ref addName="Apod." cRef="CGL.V.386.23">V 386, 23</ref>. 
-      <form xml:id="Q-470" type="sublemma" lang="Latinum">Quintilius</form> mensis quem (quin <emph>cod.</emph>) Iulium nominant <ref addName="Conscr. gl." cRef="CGL.V.326.60">V 326, 60</ref>. nomen mensis Iulii <emph>a c post</emph> <ref addName="Abstr. II" cRef="CGL.IV.158.20">IV 158, 20</ref>. nomen mensis Iulii, quia quintus est a Martio, qui est caput anni aput Hebraeos <ref addName="lib. gl." cRef="CGL.V.238.17">V 238, 17</ref>. <emph>V.</emph> menses.
+      <form xml:id="Q-470" type="sublemma" lang="Latinum">Quintilius</form> mensis quem (quin <emph>cod.</emph>) Iulium nominant <ref addName="Conscr. gl." cRef="CGL.V.326.60">V 326, 60</ref>. nomen mensis Iulii <emph>a c post</emph> <ref addName="Abstr. II" cRef="CGL.IV.158.20">IV 158, 20</ref>. nomen mensis Iulii, quia quintus est a Martio, qui est caput anni aput Hebraeos <ref addName="lib. gl." cRef="CGL.V.238.17">V 238, 17</ref>. <emph>V.</emph> <xr>menses</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-471" type="lemma" lang="Latinum">Quintus</form> πεμπτός <ref addName="Ps.-Cyr." cRef="CGL.II.400.58">II 400, 58</ref>. 
-      <form xml:id="Q-472" type="sublemma" lang="Latinum">quinta</form> πεμπτή <ref addName="hermen. Vat." cRef="CGL.III.426.21">III 426, 21</ref>. <emph>V.</emph> de quinte.
+      <form xml:id="Q-472" type="sublemma" lang="Latinum">quinta</form> πεμπτή <ref addName="hermen. Vat." cRef="CGL.III.426.21">III 426, 21</ref>. <emph>V.</emph> <xr>de quinte</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-473" type="lemma" lang="Latinum">Quippe</form> δηλαδή, ἅτε δή, τί δῆτα <ref addName="Ps.-Phil." cRef="CGL.II.167.39">II 167, 39</ref>. δηλαδή <ref addName="Ps.-Cyr." cRef="CGL.II.269.9">II 269, 9</ref>. δηλονότι <ref addName="Ps.-Cyr." cRef="CGL.II.269.12">II 269, 12</ref>. εἰκότως <ref addName="Ps.-Cyr." cRef="CGL.II.285.47">II 285, 47</ref>. quoniam, certe, sine dubio <ref addName="Ab abs." cRef="CGL.IV.421.23">IV 421, 23</ref>. reuera, sine dubium <ref addName="Abba" cRef="CGL.IV.277.23">IV 277, 23</ref>. maxime aut certe <ref addName="Abstr. II" cRef="CGL.IV.158.21">IV 158, 21</ref>. nimirum <ref addName="Abect." cRef="CGL.IV.461.7">IV 461, 7</ref> (<emph>Verg. Aen.</emph> I 39?). uidelicet <ref addName="Abstr. II" cRef="CGL.IV.159.17">IV 159, 17</ref>. cum, certe <ref addName="Abstr. II" cRef="CGL.IV.158.35">IV 158, 35</ref>. maxime, utique <ref addName="Abav." cRef="CGL.IV.384.6">IV 384, 6</ref>. utique uel reuera <ref addName="Forsit." cRef="CGL.V.140.46">V 140, 46</ref>. uere siue &lt;t&gt;amen <ref addName="Forsit." cRef="CGL.V.140.48">V 140, 48</ref>. maxime, certe, nimirum, sine dubio <ref addName="Affat." cRef="CGL.IV.559.44">IV 559, 44</ref>. statim et immo <ref addName="Conscr. gl." cRef="CGL.V.326.63">V 326, 63</ref>. praesertim, etenim, quo, ergo <ref addName="Abut." cRef="CGL.V.636.30">V 636, 30</ref>. modicum (?) <ref addName="Affat." cRef="CGL.IV.559.45">IV 559, 45</ref> (<emph>v.</emph> quispiam).
+      <form xml:id="Q-473" type="lemma" lang="Latinum">Quippe</form> δηλαδή, ἅτε δή, τί δῆτα <ref addName="Ps.-Phil." cRef="CGL.II.167.39">II 167, 39</ref>. δηλαδή <ref addName="Ps.-Cyr." cRef="CGL.II.269.9">II 269, 9</ref>. δηλονότι <ref addName="Ps.-Cyr." cRef="CGL.II.269.12">II 269, 12</ref>. εἰκότως <ref addName="Ps.-Cyr." cRef="CGL.II.285.47">II 285, 47</ref>. quoniam, certe, sine dubio <ref addName="Ab abs." cRef="CGL.IV.421.23">IV 421, 23</ref>. reuera, sine dubium <ref addName="Abba" cRef="CGL.IV.277.23">IV 277, 23</ref>. maxime aut certe <ref addName="Abstr. II" cRef="CGL.IV.158.21">IV 158, 21</ref>. nimirum <ref addName="Abect." cRef="CGL.IV.461.7">IV 461, 7</ref> (<emph>Verg. Aen.</emph> I 39?). uidelicet <ref addName="Abstr. II" cRef="CGL.IV.159.17">IV 159, 17</ref>. cum, certe <ref addName="Abstr. II" cRef="CGL.IV.158.35">IV 158, 35</ref>. maxime, utique <ref addName="Abav." cRef="CGL.IV.384.6">IV 384, 6</ref>. utique uel reuera <ref addName="Forsit." cRef="CGL.V.140.46">V 140, 46</ref>. uere siue &lt;t&gt;amen <ref addName="Forsit." cRef="CGL.V.140.48">V 140, 48</ref>. maxime, certe, nimirum, sine dubio <ref addName="Affat." cRef="CGL.IV.559.44">IV 559, 44</ref>. statim et immo <ref addName="Conscr. gl." cRef="CGL.V.326.63">V 326, 63</ref>. praesertim, etenim, quo, ergo <ref addName="Abut." cRef="CGL.V.636.30">V 636, 30</ref>. modicum (?) <ref addName="Affat." cRef="CGL.IV.559.45">IV 559, 45</ref> (<emph>v.</emph> <xr>quispiam</xr>).
     </entryFree>
     <entryFree>
       <form xml:id="Q-474" type="lemma" lang="Latinum">Quippini</form> quidni <ref addName="gl. AA" cRef="CGL.V.478.5">V 478, 5</ref>. quidnisi <ref addName="Abstr. II" cRef="CGL.IV.159.4">IV 159, 4</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-475" type="lemma" lang="Latinum">Quirinalis</form> Ἀρήιος <ref addName="Ps.-Cyr." cRef="CGL.II.244.27">II 244, 27</ref>. <emph>V.</emph> flamen Cyrinalis, Quiritis.
+      <form xml:id="Q-475" type="lemma" lang="Latinum">Quirinalis</form> Ἀρήιος <ref addName="Ps.-Cyr." cRef="CGL.II.244.27">II 244, 27</ref>. <emph>V.</emph> <xr>flamen Cyrinalis</xr>, <xr>Quiritis</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-476" type="lemma" lang="Latinum">Quirinali trabea</form> Romuli † habes (Romulea ueste?) <ref addName="gl. AA" cRef="CGL.V.478.6">V 478, 6</ref>. <emph>Cf. Verg. Aen.</emph> VII 612 (<emph>et Serv. ibid. et</emph> VII 187).
@@ -987,7 +987,7 @@
       <form xml:id="Q-483" type="sublemma" lang="Latinum">quaeritat</form> clamat <ref addName="Apod." cRef="CGL.V.385.56">V 385, 56</ref>. uociferat, cla­mat uel conatur (? contionatur ?) <ref addName="Abstans" cRef="CGL.V.577.16">V 577, 16</ref>. querellatur uel clamat <emph>a post</emph> <ref addName="Abstr. II" cRef="CGL.IV.158.10">IV 158, 10</ref>. uociferat, clamat <ref addName="Abav." cRef="CGL.IV.383.35">IV 383, 35</ref>. 
       <form xml:id="Q-484" type="sublemma" lang="Latinum">karitat</form> prope adloquitur plebem <ref addName="lib. gl." cRef="CGL.V.214.22">V 214, 22</ref>.<pb n="VII.175" facs="7.175.jpg"/>  
       <form xml:id="Q-485" type="sublemma" lang="Latinum">queritatur</form> qui assidue clamosus est <ref addName="lib. gl." cRef="CGL.V.238.4">V 238, 4</ref>. 
-      <form xml:id="Q-486" type="sublemma" lang="Latinum">quiritare</form> populare (pipulare? populares conclamare <emph>Schoell coll. Don. in Ad.</emph> <ref addName="" cRef="CGL.II.1.1">II 1, 1</ref>) <ref addName="gl. AA" cRef="CGL.V.478.7">V 478, 7</ref>. clamare, quiriticare (?) <ref addName="gl. Non. II" cRef="CGL.V.651.28">V 651, 28</ref> (<emph>Non.</emph> 21, 19). <emph>Cf. Loewe Prodr.</emph> 316; <emph>Donat. in Ad.</emph> <ref addName="" cRef="CGL.II.1.1">II 1, 1</ref>. <emph>V.</emph> alloquor.
+      <form xml:id="Q-486" type="sublemma" lang="Latinum">quiritare</form> populare (pipulare? populares conclamare <emph>Schoell coll. Don. in Ad.</emph> <ref addName="" cRef="CGL.II.1.1">II 1, 1</ref>) <ref addName="gl. AA" cRef="CGL.V.478.7">V 478, 7</ref>. clamare, quiriticare (?) <ref addName="gl. Non. II" cRef="CGL.V.651.28">V 651, 28</ref> (<emph>Non.</emph> 21, 19). <emph>Cf. Loewe Prodr.</emph> 316; <emph>Donat. in Ad.</emph> <ref addName="" cRef="CGL.II.1.1">II 1, 1</ref>. <emph>V.</emph> <xr>alloquor</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-487" type="lemma" lang="Latinum">Quiritator</form> (quer. <emph>cod.</emph>) querelator, uociferator <ref addName="gl. nom." cRef="CGL.II.591.5">II 591, 5</ref>.
@@ -997,7 +997,7 @@
       <form xml:id="Q-489" type="sublemma" lang="Latinum">Quirites</form> πολῖται Ῥωμαίων <ref addName="Ps.-Phil." cRef="CGL.II.167.44">II 167, 44</ref>; <ref addName="hermen. Einsidl." cRef="CGL.III.274.54">III 274, 54</ref> (Qu. Romanorum). πολῖται Ῥωμαίων (singulare non habet) <ref addName="Ps.-Cyr." cRef="CGL.II.412.7">II 412, 7</ref> (<emph>GR. L.</emph> 133, 2; <emph>al.</emph>). ἄνδρες Ῥωμαῖοι <ref addName="Ps.-Cyr." cRef="CGL.II.225.9">II 225, 9</ref>. populus Romanus <ref addName="Abba" cRef="CGL.IV.277.26">IV 277, 26</ref>. populus <ref addName="Ab abs." cRef="CGL.IV.421.24">IV 421, 24</ref>. populi Romani (-us-us?) <ref addName="Abstr. II" cRef="CGL.IV.158.23">IV 158, 23</ref>; <ref addName="Forsit." cRef="CGL.V.140.50">V 140, 50</ref>. Romani <ref addName="Abav." cRef="CGL.IV.327.10">IV 327, 10</ref>. ciues Romani a Quirino dicti <ref addName="Abav." cRef="CGL.IV.384.11">IV 384, 11</ref>. ciues Romani <ref addName="Conscr. gl." cRef="CGL.V.327.17">V 327, 17</ref>; <ref addName="Apod." cRef="CGL.V.386.20">386, 20</ref>. Romani, unde Quiri&lt;n&gt;alis dicitur mons septimus Romae <ref addName="Affat." cRef="CGL.IV.559.46">IV 559, 46</ref>. 
       <form xml:id="Q-490" type="sublemma" lang="Latinum">Quiritium</form> Romanorum <ref addName="Abstr. II" cRef="CGL.IV.158.24">IV 158, 24</ref>; <ref addName="Affat." cRef="CGL.IV.559.48">559, 48</ref>. 
       <form xml:id="Q-491" type="sublemma" lang="Latinum">Quiritum</form> Romanorum <ref addName="Forsit." cRef="CGL.V.140.51">V 140, 51</ref>. <emph>Cf.</emph> 
-      <form xml:id="Q-492" type="sublemma" lang="Latinum">Quiritos</form> populos Romanos, indices (<emph>ad</emph> quaesitores?) <ref addName="Forsit." cRef="CGL.V.140.16">V 140, 16</ref> (quirites populus Romanus?). <emph>V.</emph> ex iure Quiritium, ius Quiritium.
+      <form xml:id="Q-492" type="sublemma" lang="Latinum">Quiritos</form> populos Romanos, indices (<emph>ad</emph> quaesitores?) <ref addName="Forsit." cRef="CGL.V.140.16">V 140, 16</ref> (quirites populus Romanus?). <emph>V.</emph> <xr>ex iure Quiritium</xr>, <xr>ius Quiritium</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-493" type="lemma" lang="Latinum">Quis</form> τίς ἀρσενικῶς <ref addName="Ps.-Cyr." cRef="CGL.II.456.26">II 456, 26</ref>. τίς, τισίν, οἷστισιν <ref addName="Ps.-Phil." cRef="CGL.II.167.45">II 167, 45</ref>. ποῖος <ref addName="Ps.-Cyr." cRef="CGL.II.411.37">II 411, 37</ref>. qualis <ref addName="Abstr. II" cRef="CGL.IV.159.11">IV 159, 11</ref>. qualis uel quibus <ref addName="Abect." cRef="CGL.IV.461.9">IV 461, 9</ref> (<emph>cf. Serv. in Aen.</emph> I 95; 615). quantus, quam magnus <ref addName="Abstr. II" cRef="CGL.IV.158.28">IV 158, 28</ref>; <ref addName="Affat." cRef="CGL.IV.559.52">559, 52</ref> (<emph>cf. Serv. in Aen.</emph> IX 34); <ref addName="Forsit." cRef="CGL.V.140.54">V 140, 54</ref>. 
@@ -1025,12 +1025,12 @@
       <form xml:id="Q-515" type="sublemma" lang="Latinum">quorum quibus</form> ὧν <ref addName="Ps.-Cyr." cRef="CGL.II.482.14">II 482, 14</ref>. 
       <form xml:id="Q-516" type="sublemma" lang="Latinum">quarum</form> e quibus <ref addName="Abect." cRef="CGL.IV.460.45">IV 460, 45</ref> (<emph>gl. Verg.</emph>). 
       <form xml:id="Q-517" type="sublemma" lang="Latinum">quibus</form> ποίοις <ref addName="Ps.-Cyr." cRef="CGL.II.411.42">II 411, 42</ref>. ποίαις <ref addName="Ps.-Cyr." cRef="CGL.II.411.12">II 411, 12</ref>. οἷστισιν <ref addName="Ps.-Phil." cRef="CGL.II.167.3">II 167, 3</ref>. αἷς <ref addName="Ps.-Cyr." cRef="CGL.II.220.51">II 220, 51</ref>. αἷστισι <ref addName="Ps.-Cyr." cRef="CGL.II.221.3">II 221, 3</ref>. 
-      <form xml:id="Q-518" type="sublemma" lang="Latinum">quis</form> quibus <ref addName="Abstr. II" cRef="CGL.IV.158.27">IV 158, 27</ref>; <ref addName="Abstr. II" cRef="CGL.IV.158.30">30</ref>; <ref addName="Conscr. gl." cRef="CGL.V.327.14">V 327, 14</ref>. quibus datiui et ablatiui casus <ref addName="gl. AA" cRef="CGL.V.478.11">V 478, 11</ref>. quibus uel potes[t] <ref addName="Abav." cRef="CGL.IV.384.12">IV 384, 12</ref> (<emph>v.</emph> queo). 
+      <form xml:id="Q-518" type="sublemma" lang="Latinum">quis</form> quibus <ref addName="Abstr. II" cRef="CGL.IV.158.27">IV 158, 27</ref>; <ref addName="Abstr. II" cRef="CGL.IV.158.30">30</ref>; <ref addName="Conscr. gl." cRef="CGL.V.327.14">V 327, 14</ref>. quibus datiui et ablatiui casus <ref addName="gl. AA" cRef="CGL.V.478.11">V 478, 11</ref>. quibus uel potes[t] <ref addName="Abav." cRef="CGL.IV.384.12">IV 384, 12</ref> (<emph>v.</emph> <xr>queo</xr>). 
       <form xml:id="Q-519" type="sublemma" lang="Latinum">quibus autem</form> αἷστισιν ἄν <ref addName="Ps.-Cyr." cRef="CGL.II.221.4">II 221, 4</ref>. 
       <form xml:id="Q-520" type="sublemma" lang="Latinum">quos</form> ποίους <ref addName="Ps.-Cyr." cRef="CGL.II.411.43">II 411, 43</ref>. οὕστινας, οἵους, οὕς <ref addName="Ps.-Phil." cRef="CGL.II.168.23">II 168, 23</ref>. οὕστινας <ref addName="Ps.-Cyr." cRef="CGL.II.390.26">II 390, 26</ref>. οὕς ἀντωνυμία <ref addName="Ps.-Cyr." cRef="CGL.II.390.22">II 390, 22</ref>. 
       <form xml:id="Q-521" type="sublemma" lang="Latinum">quas</form> τίνας <ref addName="Ps.-Cyr." cRef="CGL.II.456.11">II 456, 11</ref>; <ref addName="Ps.-Cyr." cRef="CGL.II.456.20">20</ref>. ποίας πληθυντικῶς <ref addName="Ps.-Cyr." cRef="CGL.II.411.11">II 411, 11</ref>. ἅς, ποίας <ref addName="Ps.-Phil." cRef="CGL.II.166.41">II 166, 41</ref>. ἅς <ref addName="Ps.-Cyr." cRef="CGL.II.247.10">II 247, 10</ref>. ἅστινας <ref addName="Ps.-Cyr." cRef="CGL.II.248.40">II 248, 40</ref>. 
       <form xml:id="Q-522" type="sublemma" lang="Latinum">a quibus</form> ἀφ' ὧν <ref addName="Ps.-Cyr." cRef="CGL.II.254.11">II 254, 11</ref>. ἀπὸ τίνων <ref addName="Ps.-Cyr." cRef="CGL.II.241.35">II 241, 35</ref>. ἀπὸ ποίων <ref addName="Ps.-Phil." cRef="CGL.II.20.33">II 20, 33</ref>. 
-      <form xml:id="Q-523" type="sublemma" lang="Latinum">de quibus</form> περὶ ὧν <ref addName="Ps.-Phil." cRef="CGL.II.47.28">II 47, 28</ref>. <emph>V.</emph> qua, qui, quam, siquis, in quis, in quo, ex quo, in qua.
+      <form xml:id="Q-523" type="sublemma" lang="Latinum">de quibus</form> περὶ ὧν <ref addName="Ps.-Phil." cRef="CGL.II.47.28">II 47, 28</ref>. <emph>V.</emph> <xr>qua</xr>, <xr>qui</xr>, <xr>quam</xr>, <xr>siquis</xr>, <xr>in quis</xr>, <xr>in quo</xr>, <xr>ex quo</xr>, <xr>in qua</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-524" type="lemma" lang="Latinum">Qui sciam</form> unde sciam <ref addName="Abba" cRef="CGL.IV.277.12">IV 277, 12</ref>.
@@ -1063,7 +1063,7 @@
     <entryFree>
       <form xml:id="Q-544" type="lemma" lang="Latinum">Quispiam</form> τὶς ἀρσενικῶς <ref addName="Ps.-Cyr." cRef="CGL.II.456.26">II 456, 26</ref>. τίς ποτε άρσενικῶς <ref addName="Ps.-Cyr." cRef="CGL.II.456.28">II 456, 28</ref>. ὅλως τις <ref addName="Ps.-Cyr." cRef="CGL.II.382.45">II 382, 45</ref>. aliquis <ref addName="Abstr. II" cRef="CGL.IV.159.3">IV 159, 3</ref>; <ref addName="Abba" cRef="CGL.IV.277.11">277, 11</ref>; <ref addName="Ab abs." cRef="CGL.IV.421.25">421, 25</ref>. quicunque <ref addName="Affat." cRef="CGL.IV.559.27">IV 559, 27</ref>. quicumque uel quis, aliquis <ref addName="Conscr. gl." cRef="CGL.V.327.15">V 327, 15</ref>. 
       <form xml:id="Q-545" type="sublemma" lang="Latinum">quaepiam</form> ὅλως τιςθηλυκῶς <ref addName="Ps.-Cyr." cRef="CGL.II.382.46">II 382, 46</ref>. 
-      <form xml:id="Q-546" type="sublemma" lang="Latinum">quippiam</form> τίποτε <ref addName="Ps.-Phil." cRef="CGL.II.167.40">II 167, 40</ref>; <ref addName="Ps.-Cyr." cRef="CGL.II.456.24">456, 24</ref> (τινος ποτε). aliquid <ref addName="Affat." cRef="CGL.IV.559.31">IV 559, 31</ref>. modicum <ref addName="Abstr. II" cRef="CGL.IV.158.22">IV 158, 22</ref>; <ref addName="Abav." cRef="CGL.IV.384.7">384, 7</ref>; <ref addName="Forsit." cRef="CGL.V.140.47">V 140, 47</ref>; <ref addName="Conscr. gl." cRef="CGL.V.326.62">326, 62</ref>; <ref addName="Aleat." cRef="CGL.V.414.31">414, 31</ref> (reg. <emph>Bened.</emph> 67, 13). <emph>V.</emph> quippe, aliquid, modicum <ref addName="Abba" cRef="CGL.IV.277.24">IV 277, 24</ref>. modicumque (modicum, quid?) <ref addName="Apod." cRef="CGL.V.386.25">V 386, 25</ref>. quid, aliquid <ref addName="Conscr. gl." cRef="CGL.V.327.28">V 327, 28</ref>. aliquo &lt;modo&gt; <ref addName="exc. Vat. reg. 215 / Alieno / Pelix" cRef="CGL.V.539.3">V 539, 3</ref> (Ter. <emph>Andr.</emph> 438). aliquantum uel quantulumcumque <ref addName="Abstr. II" cRef="CGL.IV.159.2">IV 159, 2</ref>. 
+      <form xml:id="Q-546" type="sublemma" lang="Latinum">quippiam</form> τίποτε <ref addName="Ps.-Phil." cRef="CGL.II.167.40">II 167, 40</ref>; <ref addName="Ps.-Cyr." cRef="CGL.II.456.24">456, 24</ref> (τινος ποτε). aliquid <ref addName="Affat." cRef="CGL.IV.559.31">IV 559, 31</ref>. modicum <ref addName="Abstr. II" cRef="CGL.IV.158.22">IV 158, 22</ref>; <ref addName="Abav." cRef="CGL.IV.384.7">384, 7</ref>; <ref addName="Forsit." cRef="CGL.V.140.47">V 140, 47</ref>; <ref addName="Conscr. gl." cRef="CGL.V.326.62">326, 62</ref>; <ref addName="Aleat." cRef="CGL.V.414.31">414, 31</ref> (reg. <emph>Bened.</emph> 67, 13). <emph>V.</emph> <xr>quippe</xr>, <xr>aliquid</xr>, <xr>modicum</xr> <ref addName="Abba" cRef="CGL.IV.277.24">IV 277, 24</ref>. modicumque (modicum, quid?) <ref addName="Apod." cRef="CGL.V.386.25">V 386, 25</ref>. quid, aliquid <ref addName="Conscr. gl." cRef="CGL.V.327.28">V 327, 28</ref>. aliquo &lt;modo&gt; <ref addName="exc. Vat. reg. 215 / Alieno / Pelix" cRef="CGL.V.539.3">V 539, 3</ref> (Ter. <emph>Andr.</emph> 438). aliquantum uel quantulumcumque <ref addName="Abstr. II" cRef="CGL.IV.159.2">IV 159, 2</ref>. 
       <form xml:id="Q-547" type="sublemma" lang="Latinum">quodpiam</form> ὅλως τι οὐδετέρως <ref addName="Ps.-Cyr." cRef="CGL.II.382.47">II 382, 47</ref>. 
       <form xml:id="Q-548" type="sublemma" lang="Latinum">quodpiam</form> quoddam et est neutri generis <emph>Plac.</emph> <ref addName="Plac. lib. gl." cRef="CGL.V.96.6">V 96, 6</ref> = <ref addName="Forsit." cRef="CGL.V.140.63">V 140, 63</ref> (et ... generis om.). quodcumque <ref addName="Conscr. gl." cRef="CGL.V.327.3">V 327, 3</ref>. quoddam <ref addName="Abba" cRef="CGL.IV.277.34">IV 277, 34</ref>. 
       <form xml:id="Q-549" type="sublemma" lang="Latinum">cuiuspiam</form> ὅλως τινος <ref addName="Ps.-Cyr." cRef="CGL.II.382.43">II 382, 43</ref>. τινὸς ἀρσενικῶς <ref addName="Ps.-Cyr." cRef="CGL.II.456.21">II 456, 21</ref> (cuipiam <emph>cod.</emph>). τινος ὀξυτόνως <ref addName="Ps.-Cyr." cRef="CGL.II.456.23">II 456, 23</ref>. τινός ποτε <ref addName="Ps.-Cyr." cRef="CGL.II.456.24">II 456, 24</ref>. θηλυκῶς <ref addName="Ps.-Cyr." cRef="CGL.II.456.22">II 456, 22</ref>. alicuius <ref addName="Affat." cRef="CGL.IV.501.45">IV 501, 45</ref>. cuiuscumque <ref addName="Abba" cRef="CGL.IV.224.37">IV 224, 37</ref>. alicuius uel cuiuscumque <ref addName="Abstr. II" cRef="CGL.IV.46.34">IV 46, 34</ref>; <ref addName="Abav." cRef="CGL.IV.326.29">326, 29</ref>. 
@@ -1117,7 +1117,7 @@
       <form xml:id="Q-591" type="sublemma" lang="Latinum">quarumque</form> ἑκάστων <ref addName="Ps.-Cyr." cRef="CGL.II.288.37">II 288, 37</ref>. 
       <form xml:id="Q-592" type="sublemma" lang="Latinum">quibusque</form> ἑκάστοις <ref addName="Ps.-Cyr." cRef="CGL.II.288.30">II 288, 30</ref>. ἑκάσται&lt;ς&gt; <ref addName="Ps.-Cyr." cRef="CGL.II.288.38">II 288, 38</ref>. quibuscumque <ref addName="Abstr. II" cRef="CGL.IV.158.12">IV 158, 12</ref>; <ref addName="Abav." cRef="CGL.IV.383.44">383, 44</ref>; <ref addName="Affat." cRef="CGL.IV.559.28">559, 28</ref>; <ref addName="Forsit." cRef="CGL.V.140.32">V 140, 32</ref>; <ref addName="Conscr. gl." cRef="CGL.V.327.7">327, 7</ref>. 
       <form xml:id="Q-593" type="sublemma" lang="Latinum">quosque</form> ἑκάστους <ref addName="Ps.-Cyr." cRef="CGL.II.288.31">II 288, 31</ref>. οὕσποτε, οὕς δήποτε <ref addName="Ps.-Phil." cRef="CGL.II.168.24">II 168, 24</ref>. οὕς τινας δήποτε <ref addName="Ps.-Cyr." cRef="CGL.II.300.28">II 300, 28</ref>. οὕς τινας ἄν <ref addName="Ps.-Cyr." cRef="CGL.II.390.27">II 390, 27</ref>. 
-      <form xml:id="Q-594" type="sublemma" lang="Latinum">quasque</form> ἑκάστας <ref addName="Ps.-Cyr." cRef="CGL.II.288.39">II 288, 39</ref>. <emph>V.</emph> quicumque, quisquis, singulus quisque, unusquisque.
+      <form xml:id="Q-594" type="sublemma" lang="Latinum">quasque</form> ἑκάστας <ref addName="Ps.-Cyr." cRef="CGL.II.288.39">II 288, 39</ref>. <emph>V.</emph> <xr>quicumque</xr>, <xr>quisquis</xr>, <xr>singulus quisque</xr>, <xr>unusquisque</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-595" type="lemma" lang="Latinum">Quisquiliae</form> σκύβαλα <ref addName="idiom. nom." cRef="CGL.II.546.14">II 546, 14</ref> (<emph>cf.</emph> 
@@ -1130,11 +1130,11 @@
       <form xml:id="Q-599" type="lemma" lang="Latinum">quisquilias</form> paleas minutissimas <ref addName="Abba" cRef="CGL.IV.277.22">IV 277, 22</ref>. paleas minutissimas uel surculi minuti quod faluppas uocant <ref addName="Auxil." cRef="CGL.V.525.32">V 525, 32</ref> (stupulas <emph>Landgraf Arch.</emph> IX 416 <emph>coll. Isid.</emph> XVII 6, 28: <emph>at cf. Arch.</emph> IX 578; X 517). surculos minutos uel paleas cuiuscumque leguminis <ref addName="Abut." cRef="CGL.V.636.31">V 636, 31</ref>. paleas uel crientas (<emph>v. Ducange</emph>) <ref addName="Affat." cRef="CGL.IV.559.55">IV 559, 55</ref>. frumen torum purgamentum <ref addName="Abav." cRef="CGL.IV.384.16">IV 384, 16</ref>. purgamenta &lt;de&gt; corticibus pomorum <emph>a c post</emph> <ref addName="Abstr. II" cRef="CGL.IV.158.29">IV 158, 29</ref>; <ref addName="Affat." cRef="CGL.IV.559.54">559, 54</ref>. purgamenta de summitatibus corticibusque pomorum <ref addName="Abut." cRef="CGL.V.636.32">V 636, 32</ref> (quisquirias). stercora <ref addName="Apod." cRef="CGL.V.386.22">V 386, 22</ref>. purgamenta siue tegumenta de summitatibus corticibusque pomorum <ref addName="lib. gl." cRef="CGL.V.238.21">V 238, 21</ref>. 
       <form xml:id="Q-600" type="sublemma" lang="Latinum">quisquilias</form> (<emph>vel</emph> quisquilia) stercora uel &lt;in&gt;munditias <ref addName="Conscr. gl." cRef="CGL.V.327.18">V 327, 18</ref>. 
       <form xml:id="Q-601" type="sublemma" lang="Latinum">quisquilia</form> inmunditia herbarum <ref addName="Aleat." cRef="CGL.V.416.34">V 416, 34</ref> (<emph>de verbor. interpr. = Hieron. in</emph> <emph>Matth.</emph> 13, 45. 46). 
-      <form xml:id="Q-602" type="sublemma" lang="Latinum">quisquiliae</form> aegrihan (<emph>vel</emph> aehrian, <emph>utrumque pro</emph> aegnan, <emph>AS.</emph>) <ref addName="Apod." cRef="CGL.V.385.48">V 385, 48</ref>, <emph>V.</emph> uesciliae. <emph>Cf. W. Heraeus 'Spr. des Petr.'</emph> 43.
+      <form xml:id="Q-602" type="sublemma" lang="Latinum">quisquiliae</form> aegrihan (<emph>vel</emph> aehrian, <emph>utrumque pro</emph> aegnan, <emph>AS.</emph>) <ref addName="Apod." cRef="CGL.V.385.48">V 385, 48</ref>, <emph>V.</emph> <xr>uesciliae</xr>. <emph>Cf. W. Heraeus 'Spr. des Petr.'</emph> 43.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-603" type="lemma" lang="Latinum">Quisquis</form> ὅστις ἄν <ref addName="Ps.-Cyr." cRef="CGL.II.388.22">II 388, 22</ref>. ὅστις δήποτε <ref addName="Ps.-Cyr." cRef="CGL.II.388.23">II 388, 23</ref>. ὃς ἄν <ref addName="Ps.-Cyr." cRef="CGL.II.387.50">II 387, 50</ref>. ὅστις ἄν, ὅστις οὖν <ref addName="Ps.-Phil." cRef="CGL.II.167.50">II 167, 50</ref>. quicumque <ref addName="Affat." cRef="CGL.IV.559.26">IV 559, 26</ref>. [quis quibus <emph>v.</emph> quis] 
-      <form xml:id="Q-604" type="sublemma" lang="Latinum">quisquis</form> qui cumque <ref addName="Abstr. II" cRef="CGL.IV.158.27">IV 158, 27</ref>. 
+      <form xml:id="Q-603" type="lemma" lang="Latinum">Quisquis</form> ὅστις ἄν <ref addName="Ps.-Cyr." cRef="CGL.II.388.22">II 388, 22</ref>. ὅστις δήποτε <ref addName="Ps.-Cyr." cRef="CGL.II.388.23">II 388, 23</ref>. ὃς ἄν <ref addName="Ps.-Cyr." cRef="CGL.II.387.50">II 387, 50</ref>. ὅστις ἄν, ὅστις οὖν <ref addName="Ps.-Phil." cRef="CGL.II.167.50">II 167, 50</ref>. quicumque <ref addName="Affat." cRef="CGL.IV.559.26">IV 559, 26</ref>. [quis quibus <emph>v.</emph> <xr>quis]</xr> 
+      <form xml:id="Q-604" type="sublemma" lang="Latinum">quisquis</form> <xr>qui cumque</xr> <ref addName="Abstr. II" cRef="CGL.IV.158.27">IV 158, 27</ref>. 
       <form xml:id="Q-605" type="sublemma" lang="Latinum">quidquid</form> εἴτι <ref addName="hermen. Monac." cRef="CGL.III.141.50">III 141, 50</ref>. εἴτι δ' ἄν (δἄν <emph>Buech.</emph>) <ref addName="Ps.-Cyr." cRef="CGL.II.288.2">II 288, 2</ref>. εἴτι δήποτε <ref addName="Ps.-Cyr." cRef="CGL.II.288.3">II 288, 3</ref>. 
       <form xml:id="Q-606" type="sublemma" lang="Latinum">et quidquid</form> καὶ εἴτι δ' ἄν <ref addName="Ps.-Cyr." cRef="CGL.II.335.57">II 335, 57</ref>. καὶ εἴτι δήποτε <ref addName="Ps.-Cyr." cRef="CGL.II.335.58">II 335, 58</ref>. 
       <form xml:id="Q-607" type="sublemma" lang="Latinum">quidsit</form> (quidquid <emph>e</emph>) ὅτι ποτέ, ὅτι ἄν <ref addName="Ps.-Phil." cRef="CGL.II.167.19">II 167, 19</ref>. 
@@ -1151,22 +1151,22 @@
       <form xml:id="Q-618" type="sublemma" lang="Latinum">quorumquorum</form> ὧν τινων ἄν <ref addName="Ps.-Cyr." cRef="CGL.II.482.19">II 482, 19</ref>. 
       <form xml:id="Q-619" type="sublemma" lang="Latinum">quibusquibus</form> οἵστισιν ἄν <ref addName="Ps.-Cyr." cRef="CGL.II.381.16">II 381, 16</ref>. 
       <form xml:id="Q-620" type="sublemma" lang="Latinum">quasquas</form> ἅστινας ἄν <ref addName="Ps.-Cyr." cRef="CGL.II.248.41">II 248, 41</ref>. ἅστινας δήποτε <ref addName="Ps.-Cyr." cRef="CGL.II.248.42">II 248, 42</ref>. 
-      <form xml:id="Q-621" type="sublemma" lang="Latinum">a quibusquibus</form> ἀφ' ὧν τινων δήποτε <ref addName="Ps.-Cyr." cRef="CGL.II.254.16">II 254, 16</ref>. <emph>V.</emph> quicumque, et quidquid.
+      <form xml:id="Q-621" type="sublemma" lang="Latinum">a quibusquibus</form> ἀφ' ὧν τινων δήποτε <ref addName="Ps.-Cyr." cRef="CGL.II.254.16">II 254, 16</ref>. <emph>V.</emph> <xr>quicumque</xr>, <xr>et quidquid</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-622" type="lemma" lang="Latinum">Quisquis es</form> quicumque es <ref addName="Forsit." cRef="CGL.V.140.55">V 140, 55</ref> (<emph>Verg. Aen.</emph> I 387; II 148?).
     </entryFree>
     <entryFree>
-      <form xml:id="Q-623" type="lemma" lang="Latinum">Qui sunt</form> τίνες εἰσίν <ref addName="Ps.-Phil." cRef="CGL.II.167.51">II 167, 51</ref>. <emph>V.</emph> Quod est, qui est.
+      <form xml:id="Q-623" type="lemma" lang="Latinum">Qui sunt</form> τίνες εἰσίν <ref addName="Ps.-Phil." cRef="CGL.II.167.51">II 167, 51</ref>. <emph>V.</emph> <xr>Quod est</xr>, <xr>qui est</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-624" type="lemma" lang="Latinum">Quis uideor</form> qualis uideor <ref addName="Abstr. II" cRef="CGL.IV.158.46">IV 158, 46</ref>. <emph>Cf. Serv. in Aen.</emph> I 615; IV 10.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-625" type="lemma" lang="Latinum">Quitum</form> <emph>v.</emph> non qu.
+      <form xml:id="Q-625" type="lemma" lang="Latinum">Quitum</form> <emph>v.</emph> <xr>non qu</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-626" type="lemma" lang="Latinum">Quitradas</form> <emph>v.</emph> batrachion.
+      <form xml:id="Q-626" type="lemma" lang="Latinum">Quitradas</form> <emph>v.</emph> <xr>batrachion</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-627" type="lemma" lang="Latinum">Quiue</form> (Cybela?) mons Troiae <ref addName="gl. AA" cRef="CGL.V.478.12">V 478, 12</ref>.
@@ -1196,7 +1196,7 @@
       <form xml:id="Q-635" type="lemma" lang="Latinum">Quocumque modo</form> ᾧ δήποτε τρόπῳ <ref addName="hermen. Monac." cRef="CGL.III.151.53">III 151, 53</ref>. gihuuuelci uuaega (<emph>vel</emph> gihuelci uuegi, <emph>AS.</emph>) <ref addName="Apod." cRef="CGL.V.385.50">V 385, 50</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-636" type="lemma" lang="Latinum">Quod</form> ἐπειδή <ref addName="Ps.-Cyr." cRef="CGL.II.306.27">II 306, 27</ref>. ὅτι <ref addName="Ps.-Cyr." cRef="CGL.II.388.44">II 388, 44</ref>. quando <ref addName="Forsit." cRef="CGL.V.141.1">V 141, 1</ref>. <emph>V.</emph> quidam.
+      <form xml:id="Q-636" type="lemma" lang="Latinum">Quod</form> ἐπειδή <ref addName="Ps.-Cyr." cRef="CGL.II.306.27">II 306, 27</ref>. ὅτι <ref addName="Ps.-Cyr." cRef="CGL.II.388.44">II 388, 44</ref>. quando <ref addName="Forsit." cRef="CGL.V.141.1">V 141, 1</ref>. <emph>V.</emph> <xr>quidam</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-637" type="lemma" lang="Latinum">Quodammodo</form> τινὶ τρόπῳ <ref addName="Ps.-Phil." cRef="CGL.II.167.58">II 167, 58</ref>. quadam ratione <ref addName="Abstr. II" cRef="CGL.IV.159.22">IV 159, 22</ref>; <ref addName="Affat." cRef="CGL.IV.560.4">560, 4</ref>; <ref addName="Forsit." cRef="CGL.V.140.64">V 140, 64</ref>.
@@ -1205,7 +1205,7 @@
       <form xml:id="Q-638" type="lemma" lang="Latinum">Quod cum</form> ὅπερ μέντοι <ref addName="Ps.-Phil." cRef="CGL.II.168.4">II 168, 4</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-639" type="lemma" lang="Latinum">Quod est</form> τὸ ὄν <ref addName="Ps.-Cyr." cRef="CGL.II.457.16">II 457, 16</ref>. τὸ ὄν, τὸ ὑπάρχον <ref addName="Ps.-Phil." cRef="CGL.II.167.59">II 167, 59</ref>. <emph>V.</emph> qui est, qui sunt.
+      <form xml:id="Q-639" type="lemma" lang="Latinum">Quod est</form> τὸ ὄν <ref addName="Ps.-Cyr." cRef="CGL.II.457.16">II 457, 16</ref>. τὸ ὄν, τὸ ὑπάρχον <ref addName="Ps.-Phil." cRef="CGL.II.167.59">II 167, 59</ref>. <emph>V.</emph> <xr>qui est</xr>, <xr>qui sunt</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-640" type="lemma" lang="Latinum">Quodne</form> τί ἄρα <ref addName="Ps.-Cyr." cRef="CGL.II.455.23">II 455, 23</ref>.
@@ -1244,7 +1244,7 @@
       <form xml:id="Q-652" type="sublemma" lang="Latinum">quod magis</form> quanto magis <ref addName="Abstr. II" cRef="CGL.IV.159.30">IV 159, 30</ref> (<emph>Ter. Ad.</emph> 680).
     </entryFree>
     <entryFree>
-      <form xml:id="Q-653" type="lemma" lang="Latinum">Quominus</form> ὅπως ἔλαττον, ἵνα μή <ref addName="Ps.-Phil." cRef="CGL.II.168.10">II 168, 10</ref>. aliter <ref addName="Abstr. II" cRef="CGL.IV.159.23">IV 159, 23</ref>; <ref addName="Abba" cRef="CGL.IV.277.37">277, 37</ref>. ideo minus <ref addName="Abav." cRef="CGL.IV.384.20">IV 384, 20</ref>. qualiter <ref addName="Forsit." cRef="CGL.V.140.60">V 140, 60</ref> (aliter?). <emph>V.</emph> si quominus.
+      <form xml:id="Q-653" type="lemma" lang="Latinum">Quominus</form> ὅπως ἔλαττον, ἵνα μή <ref addName="Ps.-Phil." cRef="CGL.II.168.10">II 168, 10</ref>. aliter <ref addName="Abstr. II" cRef="CGL.IV.159.23">IV 159, 23</ref>; <ref addName="Abba" cRef="CGL.IV.277.37">277, 37</ref>. ideo minus <ref addName="Abav." cRef="CGL.IV.384.20">IV 384, 20</ref>. qualiter <ref addName="Forsit." cRef="CGL.V.140.60">V 140, 60</ref> (aliter?). <emph>V.</emph> <xr>si quominus</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-654" type="lemma" lang="Latinum">Quomodo</form> ὡς <ref addName="Ps.-Phil." cRef="CGL.II.168.19">II 168, 19</ref>; <ref addName="hermen. Leid." cRef="CGL.III.7.45">III 7, 45</ref>; <ref addName="hermen. Leid." cRef="CGL.III.7.46">46</ref>; <ref addName="hermen. Leid." cRef="CGL.III.7.47">47</ref>. πῶς <ref addName="Ps.-Cyr." cRef="CGL.II.427.2">II 427, 2</ref>; <ref addName="hermen. frg. Leid." cRef="CGL.III.415.69">III 415, 69</ref>. ποίῳ τρόπῳ <ref addName="Ps.-Cyr." cRef="CGL.II.411.49">II 411, 49</ref>. ποίῳ τρόπῳ καὶ πῶς <ref addName="Ps.-Phil." cRef="CGL.II.168.8">II 168, 8</ref>.
@@ -1281,11 +1281,11 @@
       <form xml:id="Q-665" type="lemma" lang="Latinum">Quoniam uero</form> ἀλλ' ἐπειδή, ἐπειδὴ δέ <ref addName="Ps.-Phil." cRef="CGL.II.168.14">II 168, 14</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-666" type="lemma" lang="Latinum">Quoniam uolo</form> <emph>v.</emph> uolo.
+      <form xml:id="Q-666" type="lemma" lang="Latinum">Quoniam uolo</form> <emph>v.</emph> <xr>uolo</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-667" type="lemma" lang="Latinum">Quo numine</form> qua potestate <ref addName="Abba" cRef="CGL.IV.277.32">IV 277, 32</ref>; <ref addName="Conscr. gl." cRef="CGL.V.327.20">V 327, 20</ref>; <ref addName="Abnuo" cRef="CGL.V.556.41">556, 41</ref> (<emph>Verg.</emph> <emph>Aen.</emph> I 8). 
-      <form xml:id="Q-668" type="sublemma" lang="Latinum">quo nomine</form> qua maiestate <ref addName="Affat." cRef="CGL.IV.559.60">IV 559, 60</ref>. <emph>V.</emph> quo libamine.
+      <form xml:id="Q-668" type="sublemma" lang="Latinum">quo nomine</form> qua maiestate <ref addName="Affat." cRef="CGL.IV.559.60">IV 559, 60</ref>. <emph>V.</emph> <xr>quo libamine</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-669" type="lemma" lang="Latinum">Quo ore</form> qua fronte <ref addName="Abstr. II" cRef="CGL.IV.159.34">IV 159, 34</ref> (<emph>Ter. Heaut.</emph> 700).
@@ -1294,7 +1294,7 @@
       <form xml:id="Q-670" type="lemma" lang="Latinum">Quo pacto</form> ποίῳ συμφώνῳ <ref addName="Ps.-Cyr." cRef="CGL.II.411.48">II 411, 48</ref>. ποίῳ τρόπῳ <ref addName="Ps.-Cyr." cRef="CGL.II.411.49">II 411, 49</ref>. ποίᾳ συνθήκῃ <ref addName="Ps.-Cyr." cRef="CGL.II.411.13">II 411, 13</ref>. qua ratione <ref addName="Abstr. II" cRef="CGL.IV.159.32">IV 159, 32</ref> (<emph>Ter. Eun.</emph> 420); <ref addName="Abnuo" cRef="CGL.V.556.42">V 556, 42</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-671" type="lemma" lang="Latinum">Quopiam</form> alicubi <ref addName="Abba" cRef="CGL.IV.277.31">IV 277, 31</ref> (<emph>Ter. Eun.</emph> 462). <emph>V.</emph> quispiam.
+      <form xml:id="Q-671" type="lemma" lang="Latinum">Quopiam</form> alicubi <ref addName="Abba" cRef="CGL.IV.277.31">IV 277, 31</ref> (<emph>Ter. Eun.</emph> 462). <emph>V.</emph> <xr>quispiam</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-672" type="lemma" lang="Latinum">Quo possit</form> ὅπως ἂν δυνηθῇ <ref addName="Ps.-Phil." cRef="CGL.II.168.15">II 168, 15</ref>.
@@ -1325,7 +1325,7 @@
       <form xml:id="Q-681" type="sublemma" lang="Latinum">qui corsum</form> ποιοι (ποῖοι <emph>et</emph> ποῖ?) <ref addName="Ps.-Cyr." cRef="CGL.II.411.39">II 411, 39</ref>. 
       <form xml:id="Q-682" type="sublemma" lang="Latinum">corsum</form> ποῦ ἄρα <ref addName="Ps.-Cyr." cRef="CGL.II.414.56">II 414, 56</ref>. 
       <form xml:id="Q-683" type="sublemma" lang="Latinum">quorsum</form> in quam partem <ref addName="Abba" cRef="CGL.IV.277.33">IV 277, 33</ref>. in quam partem [siue tegumenta] <ref addName="Abstr. II" cRef="CGL.IV.159.25">IV 159, 25</ref> (corium = corsum); <ref addName="gl. AA" cRef="CGL.V.478.19">V 478, 19</ref>; <ref addName="Affat." cRef="CGL.IV.560.7">IV 560, 7</ref>. quocumque uel qua in parte uel quousque <ref addName="Abav." cRef="CGL.IV.384.21">IV 384, 21</ref>. quo[d]cumque, qua in parte <ref addName="Affat." cRef="CGL.IV.560.6">IV 560, 6</ref>; <ref addName="exc. Vat. reg. 215 / Alieno / Pelix" cRef="CGL.V.539.19">V 539, 19</ref>. quocumque <ref addName="Apod." cRef="CGL.V.386.1">V 386, 1</ref>. quocumque, qua in parte uel quapropter <ref addName="Conscr. gl." cRef="CGL.V.327.22">V 327, 22</ref>. quousque <ref addName="Affat." cRef="CGL.IV.560.8">IV 560, 8</ref>. quo uersum, utrum <ref addName="exc. Vat. reg. 215 / Alieno / Pelix" cRef="CGL.V.539.10">V 539, 10</ref> (<emph>Ter. Eun.</emph> 155). 
-      <form xml:id="Q-684" type="sublemma" lang="Latinum">quorsus</form> quo modo <ref addName="Ab abs." cRef="CGL.IV.421.31">IV 421, 31</ref> (<emph>v.</emph> quarsum). quousque <ref addName="Abstr. II" cRef="CGL.IV.159.26">IV 159, 26</ref>. qua ratione, quo modo <ref addName="Abba" cRef="CGL.IV.277.42">IV 277, 42</ref>; <ref addName="exc. Vat. reg. 215 / Alieno / Pelix" cRef="CGL.V.539.20">V 539, 20</ref>. quoquerens (quid quaerens?) <ref addName="Forsit." cRef="CGL.V.140.67">V 140, 67</ref>. <emph>V.</emph> quarsum.
+      <form xml:id="Q-684" type="sublemma" lang="Latinum">quorsus</form> quo modo <ref addName="Ab abs." cRef="CGL.IV.421.31">IV 421, 31</ref> (<emph>v.</emph> <xr>quarsum</xr>). quousque <ref addName="Abstr. II" cRef="CGL.IV.159.26">IV 159, 26</ref>. qua ratione, quo modo <ref addName="Abba" cRef="CGL.IV.277.42">IV 277, 42</ref>; <ref addName="exc. Vat. reg. 215 / Alieno / Pelix" cRef="CGL.V.539.20">V 539, 20</ref>. quoquerens (quid quaerens?) <ref addName="Forsit." cRef="CGL.V.140.67">V 140, 67</ref>. <emph>V.</emph> <xr>quarsum</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-685" type="lemma" lang="Latinum">Quorsum istuc</form> quapropter dicis <ref addName="exc. Vat. reg. 215 / Alieno / Pelix" cRef="CGL.V.539.6">V 539, 6</ref> (<emph>Ter. Ad.</emph> 100).
@@ -1374,7 +1374,7 @@
     </entryFree>
     <entryFree>
       <form xml:id="Q-699" type="lemma" lang="Latinum">Quotocuique</form> cuicumque, de numero <ref addName="Abav." cRef="CGL.IV.384.23">IV 384, 23</ref>; <ref addName="Apod." cRef="CGL.V.386.33">V 386, 33</ref>. 
-      <form xml:id="Q-700" type="sublemma" lang="Latinum">quotumquemque</form> quousque moram facit (<emph>v.</emph> quousque tandem <emph>etc.</emph>) <ref addName="gl. AA" cRef="CGL.V.478.21">V 478, 21</ref>. <emph>V.</emph> quantocuique.
+      <form xml:id="Q-700" type="sublemma" lang="Latinum">quotumquemque</form> quousque moram facit (<emph>v.</emph> <xr>quousque tandem</xr> <emph>etc.</emph>) <ref addName="gl. AA" cRef="CGL.V.478.21">V 478, 21</ref>. <emph>V.</emph> <xr>quantocuique</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="Q-701" type="lemma" lang="Latinum">Quotquotque</form> ὅσοι ἄν <ref addName="Ps.-Cyr." cRef="CGL.II.388.12">II 388, 12</ref> (quotquot, quotcunque <emph>e</emph>).
@@ -1401,7 +1401,7 @@
       <form xml:id="Q-712" type="lemma" lang="Latinum">Quoue magis</form> uel quo maxime <ref addName="Affat." cRef="CGL.IV.559.62">IV 559, 62</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="Q-713" type="lemma" lang="Latinum">Quur</form> <emph>v.</emph> cur. 
+      <form xml:id="Q-713" type="lemma" lang="Latinum">Quur</form> <emph>v.</emph> <xr>cur</xr>. 
     </entryFree>
   </div>
 </head>

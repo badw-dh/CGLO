@@ -95,6 +95,11 @@ def lemma_dict_to_json(lemma_list):
 
         location_Ar = arabicize(location)
 
+        if ".praef_" in location_Ar:  # special treatment for preface pages
+            volume, praef_page  = location_Ar.split('.praef_')
+            praef_page = str(rom_arab(praef_page))
+            location_Ar = volume + '_praef.' + praef_page
+
         index_loc = f"<a onclick=\"rI(event,'-/{location_Ar}.jpg',4)\">{location.replace('.', ' ')}</a>"
         xref_locs = ""
 

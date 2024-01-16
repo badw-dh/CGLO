@@ -14,9 +14,9 @@ directory_list = [
     # r"C:/users/adamg/dropbox/cglo/vol 7/vol 7 word proofread",
     # r"C:/users/adamg/dropbox/cglo/vol 7/vol 7 proofread corrigenda",
     # r"C:/users/adamg/dropbox/cglo/vol 7/vol 7 word proofread anglosaxonico-latinus",
-    # r"C:/users/adamg/dropbox/cglo/vol 7/vol 7 word proofread index graeco-latinus",
+    r"C:/users/adamg/dropbox/cglo/vol 7/vol 7 word proofread index graeco-latinus",
     # r"C:/users/adamg/dropbox/cglo/vol 7/vol 7 word uncorrected Graeco-latinus"
-    "C:/users/adamg/LRZ Sync+Share/GLOSS Online/Website"
+    # "C:/users/adamg/LRZ Sync+Share/GLOSS Online/Website"
 ]
 
 for directory in directory_list:

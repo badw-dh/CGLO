@@ -1,36 +1,36 @@
 **ἔκτασις** extensio, productus, prorogatio, - στόματος rictus. *Cf.*
-ectasis *(expl,* pro- ductio syllabae).
+ectasis (*expl.* productio syllabae).
 
 **ἐκτάσσω** delego.
 
-**ἐκτείνω** affecto, detendo, extendo, por- rigo, produco; έκτεταμένος
-elatus, por- rectus, productus, proiectus 2., proten- tus, -ην ἐπὶ
+**ἐκτείνω** affecto, detendo, extendo, porrigo, produco; ἐκτεταμένος
+elatus, porrectus, productus, proiectus 2., protentus****, -ην ἐπὶ
 χρόνου propagatam.
 
 **ἐκτελῶ** efficio, perficio, -ῶν persolvens, -έσας emensus, -ισθείς
 confectus.
 
-**ἐκτέμνω** amputo, excastro, excido, - ὶστόν detexo, ἐκτμηθεὶς τοῦ
-αἰδοίου eviratus, ἐκτετμημένος castratus, ex- cisus.
+**ἐκτέμνω** amputo, excastro, excido, - ἱστόν detexo, ἐκτμηθεὶς τοῦ
+αἰδοίου eviratus, ἐκτετμημένος castratus, excisus.
 
 **ἐκτένεια** exuberantia.
 
-**ἐκτενῶς** affatim, enixe, -έστατα dili- genter (-tius). *Cf.* ἱκανῶς.
+**ἐκτενῶς** affatim, enixe, -έστατα diligenter (-tius). *Cf.* ἱκανῶς.
 
-***εκτί&\'ημΐ\'*** expono, exprimo, - ἀντὶ τοῦ λέγω dissero, edissero,
--εμαι edissero, expono, -έμενον (βρέφος) expositicium. *Cf.
-έπν.είμενος.*
+**ἐκτίθημι** expono, exprimo, - ἀντὶ τοῦ λέγω dissero, edissero, -εμαι
+edissero, expono, -έμενον (βρέφος) expositicium. *Cf.* ἐκκείμενος.
 
-***έκτεκός*** exilis, perfectus.
+**ἑκτικός** exilis, perfectus.
 
-**έκτικῶς** diserte.
+**ἑκτικῶς** diserte.
 
 **ἐκτίλλω** avello, evello, vellico.
 
-**έκτιναγμός** excussio.
+**ἐκτιναγμός** excussio.
 
-**ἐκτινάσσω** *et* **-άζω** excutio, extorqueo, **έκτιννύω** *vel
-έν,τίνω* expendo, pendo, solvo.
+**ἐκτινάσσω** *et* **ἐκτινάζω** excutio, extorqueo.
+
+**ἐκτιννύω** *vel* ἐκτίνω expendo, pendo, solvo.
 
 **ἔκτισις** luitio, pensio.
 
@@ -40,7 +40,7 @@ confectus.
 
 **\*ἐκτομάζω** castro.
 
-***έκτομη*** excastratio, excisio.
+**ἐκτομή** excastratio, excisio.
 
 **ἐκτοπίζω** amendo, deloco, desolo, eicio.
 
@@ -48,7 +48,7 @@ confectus.
 
 **ἐκτόπως** nimium.
 
-**ἔκτος** sextus, -ov sextans, -ov οὐγκίας sexuncia.
+**ἕκτος** sextus, -ον sextans, -ον οὐγκίας sexuncia.
 
 **ἐκτός** citra, exterius, extra, extrinsecus, praeter, - τῆς τάξεως
 extra ordinem, - φρενῶν externatus.
@@ -59,7 +59,7 @@ extra ordinem, - φρενῶν externatus.
 
 **ἐκτραχύνω** exaspero.
 
-**έκτρέπομαι** deverto.
+**ἐκτρέπομαι** deverto.
 
 **ἐκτρέφω** educo, enutrio.
 
@@ -73,13 +73,13 @@ extra ordinem, - φρενῶν externatus.
 
 **ἐκτρώγω** exedo.
 
-**ἔκτρωμα** aborticium, abortivus, abor- tum, abortus.
+**ἔκτρωμα** aborticium, abortivus, abortum, abortus.
 
-**έκτρωματιαῖος** aborticiosus, -ov abor- ticium.
+**ἐκτρωματιαῖος** aborticiosus, -ον aborticium.
 
 **\*ἐκτρωματικόν** aborticium.
 
-**ἔκτρωσις** abortivus (-um), abortum, ab- ortus. *Cf.* sterilitas
+**ἔκτρωσις** abortivus (-um), abortum, abortus. *Cf.* sterilitas
 mulierum.
 
 **ἐκτυπωθέν** expressum.
@@ -92,48 +92,59 @@ mulierum.
 
 **\*ἐκτύφλωσις** excaecatio.
 
-**\*ἐκυνατικόν (=** equinat.) cauda caballi, hippuris.
+**\*ἐκυνατικόν** (= equinat.) cauda caballi, hippuris.
 
-**έκυρά** socrus.
+**ἑκυρά** socrus.
 
-**έκυρός** socer.
+**ἑκυρός** socer.
 
-**ἐκφαίνω** effor, eluceo, prodo, **ἐκφαυλίζω** depravo.
+**ἐκφαίνω** effor, eluceo, prodo.
 
-**ἐκφέρω** amoveo, effero 1, fero,promo, -ει exserit, ἐξοίσοντα
-prolaturum, έξενε- χθείς latus 2, prolatus.
+**ἐκφαυλίζω** depravo.
+
+**ἐκφέρω** amoveo, effero 1., fero, promo, -ει exserit, ἐξοίσοντα
+prolaturum, ἐξενεχθείς latus 2., prolatus.
 
 **ἐκφεύγω** effugio, evado.
 
-**έκφθέγγομαι** effor, exprimo.
+**ἐκφθέγγομαι** effor, exprimo.
 
 **ἐκφοβῶ** deterreo, perterreo, pertimesco, -οῦμαι extimeo.
 
-**ἐκφορά** *et **-ai*** exsequiae, funus. ***Cf.*** κόπτω.
+**ἐκφορά** *et* **ἐκφοραί** exsequiae, funus. *Cf.* κόπτω.
 
 **ἐκφορικά** elativa.
 
 **ἔκφορος** proiectus 2.
 
-**ἐκφορτίζομαι** asporto, exonero, **ἐκφορῶ** amoveo, exporto.
+**ἐκφορτίζομαι** asporto, exonero.
+
+**ἐκφορῶ** amoveo, exporto.
 
 **ἐκφράζω** exprimo.
 
 **ἔκφρασις** exprimatio.
 
-**ἐκφράσσω** II, 293, 48 *sine interpr. εκφρων* amens, demens,
-insipiens, **ἐκφυσῶ** efflo, proflo, -ῶντα exhalantem, **ἐκφωνῶ**
-exclamo, expresso, exprimo, **ἐκφωτίζω** illustro.
+**ἐκφράσσω** II, 293, 48 *sine interpr.*
+
+**ἔκφρων** amens, demens, insipiens.
+
+**ἐκφυσῶ** efflo, proflo, -ῶντα exhalantem.
+
+**ἐκφωνῶ** exclamo, expresso, exprimo.
+
+**ἐκφωτίζω** illustro.
 
 **ἐκχαλκεύω** fabrico.
 
-έκχέω effundo, effuso, fundo, profundo, ἐκκεχυμένος effusus, profluens.
+**ἐκχέω** effundo, effuso, fundo, profundo, ἐκκεχυμένος effusus,
+profluens.
 
-**ἐκχολοῦμαι** exacerbo *(et* -or), ἐκ- κεχόλωμαι exacerbatus sum.
+**ἐκχολοῦμαι** exacerbo (*et* -or), ἐκκεχόλωμαι exacerbatus sum.
 
 **ἐκχύνω** effundo.
 
-**ἔκχυσις** effusio, effusorium, - κοιλίας pro- luvies.
+**ἔκχυσις** effusio, effusorium, - κοιλίας proluvies.
 
 **\*ἐκχυτήριον** effusorium.
 
@@ -143,20 +154,23 @@ exclamo, expresso, exprimo, **ἐκφωτίζω** illustro.
 
 **ἐκχωρῶ** discedo, excedo.
 
-**ἐκών** mea sponte, sponte, sponte sua.
+**ἑκών** mea sponte, sponte, sponte sua.
 
-**ἐλάδι(ο)ν** oleum *(cf.* eliu), - ῥόδινον oleum roseum. *Cf. λάδι,ον.*
+**ἐλάδι(ο)ν** oleum (*cf.* eliu), - ῥόδινον oleum roseum. *Cf.* λάδιον.
 
-***έλαία** et* **ἐλάα** olea, oliva, ἐλάα ὁ καρ- πός oliva, ἐλαία τὸ
+**ἐλαία** *et* **ἐλάα** olea, oliva, ἐλάα ὁ καρπός oliva, ἐλαία τὸ
 δένδρον olea, ἐλαία μελανή druppae, ἐλαῖαι ἐπιμήκεις orchae, - θλασταί
-contusae. *Cf. δά- κρνον, ηλάδος, ηολνμβάς, μνλος.*
+contusae. *Cf.* δάκρυον, κλάδος, κολυμβάς, μύλος.
 
-***έλαΐνεον*** oleum et vinum et sal mix- tum.
+**ἐλαΐνεον** oleum et vinum et sal mixtum.
 
-**ἐλάινον** oleagineum *(ubi corrrige* -inum *, ad* II, 294, 1).
+**ἐλάινον** oleagineum (*ubi corrrige* -inum *ad* II, 294, 1).
 
-**ἐλαιόγαρον** impensa, oleum et liquamen. **\*ἐλαιοκόνιον** malta.
+**ἐλαιόγαρον** impensa, oleum et liquamen.
 
-**ἔλαιον** oleum *(cf.* eliu), - παλαιόν oleum vetus, - Χπανόν oleum
-Spanum. *Cf. μύλος,* τρυγία, τρύξ, ὑπόστασις, βρέχω. **ἐλαιοποιία**
-olivatio.
+**\*ἐλαιοκόνιον** malta.
+
+**ἔλαιον** oleum (*cf.* eliu), - παλαιόν oleum vetus, - Σπανόν oleum
+Spanum. *Cf.* μύλος, τρυγία, τρύξ, ὑπόστασις, βρέχω.
+
+**ἐλαιοποιία** olivatio.

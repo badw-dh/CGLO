@@ -1,6 +1,6 @@
-**ἐνοχλῶ** convicior, inquieto, molesto *(et* ,-\<\*)·
+**ἐνοχλῶ** convicior, inquieto, molesto (*et* -or).
 
-**\*ἐνοχοποιον** obligatorium.
+**\*ἐνοχοποιόν** obligatorium.
 
 **ἔνοχος** obligatus, obnoxius, reus. *Cf.* superobligatus, χάλαζα.
 
@@ -8,13 +8,15 @@
 
 **ἐνράσσω** *cf.* illido.
 
-*[\*8vq£l&qov]{.smallcaps}* endoriguum.
+**\*ἔνρειθρον** endoriguum.
 
-**ἐνρήγνυμι** *vel **-ή(ϊ6ω*** irrumpo, ἐνραγείς elisus.
+**ἐνρήγνυμι** *vel* **ἐνρήσσω** irrumpo, ἐνραγείς elisus.
 
 **\*ἔνρηξις** illisio.
 
-**ἐνρήσσω** *v. EVQrjyrvgL, **έναείω*** incutio.
+**ἐνρήσσω** *v.* ἐνρήγνυμι.
+
+**ἐνσείω** incutio.
 
 **\*ἔνσηστρον** cerniculum.
 
@@ -24,7 +26,7 @@
 
 **\*ἐνστοιβάζει** instipat.
 
-**ἐνστρέφω** intorqueo, ἐνεστῥαμμένον in­tortum.
+**ἐνστρέφω** intorqueo, ἐνεστραμμένον intortum.
 
 **ἐνστύφω** imbuo, ἐνεστυμμένος infectus.
 
@@ -40,69 +42,79 @@
 
 **ἐντάσσω** indo, insero.
 
-**ἐντατικόν** magisnon. *Cf.* entaticum *(expl.* quae humanum sperma
+**ἐντατικόν** magisnon. *Cf.* entaticum (*expl.* quae humanum sperma
 diregunt).
 
-**ἐντάττω** *v. εντάΰβω.*
+**ἐντάττω** *v.* ἐντάσσω.
 
-**ἐνταῦθα** hic 1. *et* 2, huc, istuc.
+**ἐνταῦθα** hic 1. *et* 2., huc, istuc.
 
-**ἐνταφιάζω** funero, pollingo, **ἐνταφιαστής** libitinarius,
-pollinctor.
+**ἐνταφιάζω** funero, pollingo.
+
+**ἐνταφιαστής** libitinarius, pollinctor.
 
 **ἐντάφιον** libitina.
 
 **ἐνταφιοπώλης** libitinarius.
 
-**ἐντελής** perféctus, plenus.
+**ἐντελής** perfectus, plenus.
 
-**ἐντέλλομαι** mando 1., -όμενος man- dator.
+**ἐντέλλομαι** mando 1., -όμενος mandator.
 
-**ἐνρέμνω** incido.
+**ἐντέμνω** incido.
 
-**ἐντεροκἡλη** ramex *sim.*
+**ἐντεροκήλη** ramex *sim.*
 
-***\^έντε\^οκηλήτης*** ramicosus.
+**\*ἐντεροκηλήτης** ramicosus.
 
 **ἐντεροκηλικός** ruptura (intrinsecus rupturas).
 
 **ἔντερον** chorda, γῆς - lumbricus terrae,
 
--a burbalia, iecur (iocinera), interanea, intestinum (-a, stentinae
-*sim.), -a λεπτώ (των έρίφων)* lactes.
+-α burbalia, iecur (iocinera), interanea, intestinum (-a, stentinae
+*sim.*), -α λεπτά (τῶν ἐρίφων) lactes.
 
 **ἐντεῦθεν** exin, hinc, indidem, istinc, - ἤδη iam inde, iam nunc, -
 ἤδη λοιπόν iam iamque.
 
 **ἐντευκτής** interpellator.
 
-**ἔντευξις** aditio, aditus, conventus, in- terpellatio, postulatio.
+**ἔντευξις** aditio, aditus, conventus, interpellatio, postulatio.
 
-**ἐντεχνἡς** affaber.
+**ἐντεχνής** affaber.
 
-**ἐντίθημι** impono, indo, insero, inter- pono, ἐντεθῇ inditum (-a),
-ένθείς in- dens, έντεθειμένον appositicium. *Cf. \^yusipai,.*
+**ἐντίθημι** impono, indo, insero, interpono, ἐντεθῇ inditum (-a),
+ἐνθείς indens, ἐντεθειμένον appositicium. *Cf.* ἔγκειμαι.
 
-***εντεμος*** gravis, honestus, honoratus, ho- norificus, praeclarus,
-praetextatus, - κατὰ στρατιωτικοὺς καμάτους emeritus. **ἐντίμως**
-honorifice, **ἐντινάσσω** incutio, **ἔντοκον** δάνειον fenus,
-**ἐντολεύς** procurator, **ἐντολἡ** commissum, mandatum, **ἔντομα**
-inferiae.
+**ἔντιμος** gravis, honestus, honoratus, honorificus, praeclarus,
+praetextatus, - κατὰ στρατιωτικοὺς καμάτους emeritus.
+
+**ἐντίμως** honorifice.
+
+**ἐντινάσσω** incutio.
+
+**ἔντοκον** δάνειον fenus.
+
+**ἐντολεύς** procurator.
+
+**ἐντολή** commissum, mandatum.
+
+**ἔντομα** inferiae.
 
 **ἔντονος** intentus.
 
 **ἐντόπιος** gentilis, II, 300, 44 *sine interpr.*
 
 **ἐντός** cis, indu, infra, intra, intro 1., intus, νάρθηκος τὸ - hilum.
-*Cf.* εἰσ- έρχομαι.
+*Cf.* εἰσέρχομαι.
 
-**ἐντρέπομαι** revereor, venero (-or), vere- cundor, vereor.
+**ἐντρέπομαι** revereor, venero (-or), verecundor, vereor.
 
-**ἐντρέχεια** experientia, instantia, sol- lertia, strenuitas, κατὰ τἡν
-*Ιδίαν -αν* pro sua scientia.
+**ἐντρέχεια** experientia, instantia, sollertia, strenuitas, κατὰ τὴν
+ἰδίαν *-*αν pro sua scientia.
 
-**ἐντρεχής** navus, sollers, strenuus, ve- getis (-tus, *ubi lege evTQ.
-pro* εὐτρἡ.
+**ἐντρεχής** navus, sollers, strenuus, vegetis (-tus, *ubi lege* ἐντρ.
+*pro* εὐτρ.).
 
 **ἐντρεχῶς** citate, gnare.
 
@@ -110,57 +122,66 @@ pro* εὐτρἡ.
 
 **ἔντριχος** pilosus.
 
-**ἐντροπή** elementicium, respectus, reve- rentia, verecundia.
+**ἐντροπή** elementicium, respectus, reverentia, verecundia.
 
 **ἐντρυφῶ** luxurior, sulto.
 
 **ἐντύβι(ο)ν** intubus.
 
-**ἔντυβον** indivia, intubus *sim. Cf.* ἴντ. **ἐντυγχάνω** interpello,
--ων adiens, ἐν- τευχθείς aditus.
+**ἔντυβον** indivia, intubus *sim. Cf.* ἴντ.
 
-**\*ἐντυπἡ** ἄρτου exagies.
+**ἐντυγχάνω** interpello, -ων adiens, ἐντευχθείς aditus.
 
-**ἐντυπῶ :** ἐντετυπωμένος informatus.
+**\*ἐντυπή** ἄρτου exagies.
+
+**ἐντυπῶ:** ἐντετυπωμένος informatus.
 
 **\*ἐντυρίτης** libus, sibitillus.
 
 **ἐντυχία** interpellatio.
 
-**Ένυάλιος** Quirinus.
+**Ἐνυάλιος** Quirinus.
 
 **ἔνυγρος** madidus.
 
-**ἔνυδρις** *cf.* enhydris *(expl.* colubra in aqua vivens).
+**ἔνυδρις** *cf.* enhydris (*expl.* colubra in aqua vivens).
 
 **ἔνυδρος** aquatilis.
 
-**ἐνυπνιάζομαι** somnio, -όμενος som- niator.
+**ἐνυπνιάζομαι** somnio, -όμενος somniator.
 
 **ἐνύπνιον** insomnium, somnium, visio, visum, visus 1.
 
 **ἐνυφαίνω** contexo.
 
-**Ἡνυώ** Bellona.
+**Ἐνυώ** Bellona.
 
-**ἐνῶ:** *ενονμαί* unit (unior), ἥνωμαι haereo, ἡνωμένος· continuatus,
+**ἑνῶ:** ἑνοῦμαι unit (unior), ἥνωμαι haereo, ἡνωμένος· continuatus,
 haerens.
 
-**ἐνώπιον** coram, in conspectum, **ἐνωρίτερον** *et* **-ρότερον**
-temperi (-ius). **ἑνωσις** coadunatio, unitas, - σιδήρου ἐκτὸς μολίβδου
-ferruminatio, - σιδήρου διὰ μολίβδου plumbatura.
+**ἐνώπιον** coram, in conspectum.
+
+**ἐνωρίτερον** *et* **ἐνωρότερον** temperi (-ius).
+
+**ἑνωσις** coadunatio, unitas, - σιδήρου ἐκτὸς μολίβδου ferruminatio, -
+σιδήρου διὰ μολίβδου plumbatura.
 
 **ἐνώτιον** auris, inauris.
 
-**ἐξ** *v. έκ.*
+**ἐξ** *v.* ἐκ.
 
-*εξ* sex, χαλκοῖ - sesquas.
+**ἕξ** sex, χαλκοῖ - sesquas.
 
-**ἐξαγγέλλω** enuntio, pronuntio, **ἐξαγιάζω** examino, perpendo,
+**ἐξαγγέλλω** enuntio, pronuntio.
+
+**ἐξαγιάζω** examino, perpendo.
+
 **ἐξάγιον** pensatio.
 
-**έξαγοράζω** redimo.
+**ἐξαγοράζω** redimo.
 
 **\*ἐξαγορασία** redemptio.
 
-**ἐξαγορεύω** enuntio. Cf. έξεῖπον. **ἐξαγριῶ** effero 2., exaspero.
+**ἐξαγορεύω** enuntio. *Cf.* ἔξεῖπον.
+
+**ἐξαγριῶ** effero 2., exaspero.

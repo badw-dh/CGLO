@@ -1,13 +1,15 @@
-πρὸς γάμον colloco (-ομαι), loco, ἐκ- δεδομένος dediticius.
+πρὸς γάμον colloco (-ομαι), loco, ἐκδεδομένος dediticius.
 
 **ἐκδίκησις** defensio, ultio, vindicatio, vindicium, vindicta, -εις
-ultrix (-ces). **ἐκδικία** defensio, defensum, vindicatio, vindicium
-(-ictum), vindicta, -αι ἐλευ- θερίας vindiciae.
+ultrix (-ces).
 
-**ἔκδικος** cognitor, defensor, vindex, - έλευθερίας assertor, - ὅ έστι
-τιμωρός ultor, ultus 1. *Cf. '\'Αρης.*
+**ἐκδικία** defensio, defensum, vindicatio, vindicium (-ictum),
+vindicta, -αι ἐλευθερίας vindiciae.
 
-*έκΰικώ* defendo, ulciscor, vindico, -ηθέν defensa.
+**ἔκδικος** cognitor, defensor, vindex, - ἐλευθερίας assertor, - ὅ ἐστι
+τιμωρός ultor, ultus 1. *Cf.* Ἄρης.
+
+**ἐκδικῶ** defendo, ulciscor, vindico, -ηθέν defensa.
 
 **ἔκδιψος** siticulosus.
 
@@ -15,7 +17,7 @@ ultrix (-ces). **ἐκδικία** defensio, defensum, vindicatio, vindicium
 
 **ἐκδόσιμος** locaticius.
 
-**ἔκδοσις** deditio, editio, locatio, - εἰς κόλασιν ἡ πόλεμον deditio.
+**ἔκδοσις** deditio, editio, locatio, - εἰς κόλασιν ἢ πόλεμον deditio.
 
 **ἔκδοτος** dediticius, deditus, editus, - εἰς κόλασιν dediticius.
 
@@ -27,7 +29,7 @@ ultrix (-ces). **ἐκδικία** defensio, defensum, vindicatio, vindicium
 
 **ἔκδυσις** spoliatio.
 
-**\*ἐκδυτἡριον** apodyterium, spoliatorium.
+**\*ἐκδυτήριον** apodyterium, spoliatorium.
 
 **\*ἐκδύτης** despoliator.
 
@@ -35,17 +37,17 @@ ultrix (-ces). **ἐκδικία** defensio, defensum, vindicatio, vindicium
 
 -ομαι exuo.
 
-ἐκεῖ ibi, illic.
+**ἐκεῖ** ibi, illic.
 
 **ἐκεῖθεν** dein, exinde, illim, illinc, inde, istinc.
 
 **ἐκείνη** illac.
 
-**ἐκεῖνος·** ille, -η ecca, illaec, -η αὐτή ipse (ea ipsa), -a illaec,
-ἐξ -ου exinde. *Cf.* έκείνῃ, ἰδού.
+**ἐκεῖνος·** ille, -η ecca, illaec, -η αὐτή ipse (ea ipsa), -α illaec,
+ἐξ -ου exinde. *Cf.* ἐκείνῃ, ἰδού.
 
 **ἐκεῖσε** ibi, ibidem, illac, illic, illuc, ollic. *Cf.* ταύτῃ, τῇδε,
-ὡδε.
+ὧδε.
 
 **ἐκεχειρία** indutia.
 
@@ -53,32 +55,32 @@ ultrix (-ces). **ἐκδικία** defensio, defensum, vindicatio, vindicium
 
 **ἐκζεννύω** elixo.
 
-**ἐκζεστός** bullitus, elixus, -δέλφαξ elixus.
+**ἐκζεστός** bullitus, elixus, - δέλφαξ elixus.
 
-*Cf. HObktihov.*
+*Cf.* κοιλίδιον.
 
 **ἐκζέω** ebullio, efferveo, exscaturrio.
 
-**ἐκζήτησις** exaequatio, exquisitio, in- quisitio.
+**ἐκζήτησις** exaequatio, exquisitio, inquisitio.
 
-**ἐκζητητἡς** exquisitor, flagitator, quae- stionarius.
+**ἐκζητητής** exquisitor, flagitator, quaestionarius.
 
 **ἐκζητῶ** eruo, excutio, exploro, exquiro, indago, inquiro, perquiro,
 requiro.
 
-**έκηβόλος** longe iaculans.
+**ἑκηβόλος** longe iaculans.
 
-**ἐκθάλπω:** έξέθαλψα effo(t)ui.
+**ἐκθάλπω:** ἐξέθαλψα effo(t)ui.
 
 **ἐκθαμβοῦμαι** obstupesco, stupesco.
 
-**ἐκθερμαίνω** decalefacio, -ομαι deca- lesco.
+**ἐκθερμαίνω** decalefacio, -ομαι decalesco.
 
-**\*έκθέσιμον** expositicium.
+**\*ἐκθέσιμον** expositicium.
 
 **ἔκθεσις** enarratio, explanatio, expositio, - λοιπάδος reliquarium.
 
-**ἐκθέτης** maenianus, proiectum, sug- grunda, - ὁ έξώστης proiectus 1.
+**ἐκθέτης** maenianus, proiectum, suggrunda, - ὁ ἐξώστης proiectus 1.
 
 **ἐκθηλάζει** exsugit.
 
@@ -86,7 +88,7 @@ requiro.
 
 **ἐκθηριῶ** effero 2.
 
-**ἐκθλίβω** confligo, elido, exprimo, έκ- θλιβείς elisus.
+**ἐκθλίβω** confligo, elido, exprimo, ἐκθλιβείς elisus.
 
 **ἔκθλιψις** collisio.
 
@@ -94,21 +96,21 @@ requiro.
 
 **ἐκκαθαίρω** expurgo.
 
-**ἐκκαίω** accendo, aduro, exardeo, exuro, *-ομαι,* exardeo, exuro,
+**ἐκκαίω** accendo, aduro, exardeo, exuro, *-*ομαι, exardeo, exuro,
 -εται ardescit.
 
 **ἐκκακῶ** deficio.
 
-**ἐκκαλῶ** evoco, excieo, -οῦμαι allicio, appello, evoco. *Cf.
-εηηλητης.*
+**ἐκκαλῶ** evoco, excieo, -οῦμαι allicio, appello, evoco. *Cf.*
+ἐκκλητής.
 
-*εκκαυόις* accensus 2., adustio.
+**ἔκκαυσις** accensus 2., adustio.
 
 **ἐκκείμενος** expositus.
 
 **ἐκκεντῶ** expungo.
 
-ἐκκενῶ evacuo, exinanio, -οῦμαι eva· nesco.
+**ἐκκενῶ** evacuo, exinanio, -οῦμαι evanesco.
 
 **ἐκκένωσις** exinanitio.
 
@@ -122,16 +124,16 @@ requiro.
 
 **ἐκκλησιάζω** contionor.
 
-**ἐκκλησιαστἡς** contionator.
+**ἐκκλησιαστής** contionator.
 
-**\*ἐκκλητἡς** ὁ έκκαλούμενος appellator.
+**\*ἐκκλητής** ὁ ἐκκαλούμενος appellator.
 
 **ἔκκλητος** appellatio, provocatio.
 
-**έκκλίνω** declino, deflecto, deverto, de- vito, evado, evito, vito,
-τοῦ *-ΐναι* evi- tandi, -ων vitabundus.
+**ἐκκλίνω** declino, deflecto, deverto, devito, evado, evito, vito, τοῦ
+*-*ῖναι evitandi, -ων vitabundus.
 
-**ἐκκλύζω** eluo. ·
+**ἐκκλύζω** eluo.
 
 **\*ἐκκοίτησις** excubitum.
 
@@ -141,22 +143,22 @@ requiro.
 
 **ἐκκολάπτω** excudo.
 
-**ἐκκολυμβῶ** enato, *-ηβαι,* abnatare.
+**ἐκκολυμβῶ** enato, -ῆσαι abnatare.
 
-**ἐκκομιδἡ** evectio , exportatio, exse- quiae, funus (νεκροῦ), -αί
+**ἐκκομιδή** evectio, exportatio, exsequiae, funus (νεκροῦ), -αί
 exsequiae.
 
-**ἐκκομίζω** effero 1, exporto.
+**ἐκκομίζω** effero 1., exporto.
 
-**\*ἐκκομιστἡς** efiertor.
+**\*ἐκκομιστής** effertor.
 
-**ἐκκοπεύς** excussorium *(ubi lege:* ossi ex- cussorium III, 207, 58).
+**ἐκκοπεύς** excussorium (*ubi lege:* ossi excussorium III, 207, 58).
 
-**ἐκκοπή** discidium *s. v.* discedo, divor- tium, excidium, excisio.
+**ἐκκοπή** discidium *s. v.* discedo, divortium, excidium, excisio.
 
 **\*ἐκκόπτης** excisor.
 
-**ἐκκόπτω** excido 1. *et* 2., praecido, - ἀπὸ λίθου extundo, έκκοπείς
+**ἐκκόπτω** excido 1. *et* 2., praecido, - ἀπὸ λίθου extundo, ἐκκοπείς
 excisus.
 
 **ἐκκορίζω** excimico.
@@ -175,7 +177,7 @@ excisus.
 
 **ἐκλάλησις** eloquium.
 
-**έκλαλῶ** efibr, eloquor, for.
+**ἐκλαλῶ** efibr, eloquor, for.
 
 **ἐκλαμβάνω** excipio.
 
@@ -187,4 +189,4 @@ excisus.
 
 **ἐκλανθάνομαι** abolesco.
 
-**ἐκλέγω** *(aor, εζεΐπον)* edico, effor, elo-
+**ἐκλέγω** (*aor.* ἐξεῖπον) edico, effor, elo-

@@ -4,7 +4,7 @@
     <entryFree>ADDENDA ET CORRIGENDA</entryFree>
     <entryFree>(Add. I et Add. II hoc loco simul comprehenduntur).</entryFree>
     <entryFree>
-      <form xml:id="corr_III-1" type="corrigendum" lang="incertum">Abbo]</form> <emph>v.</emph> sauio.
+      <form xml:id="corr_III-1" type="corrigendum" lang="incertum">Abbo]</form> <emph>v.</emph> <xr>sauio</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-2" type="corrigendum" lang="incertum">Abhorresco]</form> <emph>adde</emph> διαφωνῶ <ref addName="Ps.-Cyr." cRef="CGL.II.275.49">II 275, 49</ref>.
@@ -38,22 +38,22 @@
       <form xml:id="corr_III-12" type="corrigendum" lang="incertum">Abutor]</form> <ref addName="Ps.-Cyr." cRef="CGL.II.242.44">II 242, 44</ref> <emph>est</emph> ἀποχρῶμαι; <ref addName="Ps.-Cyr." cRef="CGL.II.397.23">II 397, 23</ref> <emph>est</emph> παραχρῶμαι; <ref addName="Ps.-Cyr." cRef="CGL.II.237.28">II 237, 28</ref> <emph>est</emph> abutor; <ref addName="Ps.-Cyr." cRef="CGL.II.341.10">II 341, 10</ref> κατακέχρημαι.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-13" type="corrigendum" lang="incertum">Acatus]</form> <emph>v.</emph> carabus.
+      <form xml:id="corr_III-13" type="corrigendum" lang="incertum">Acatus]</form> <emph>v.</emph> <xr>carabus</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-14" type="corrigendum" lang="incertum">Accedo]</form> <emph>ad</emph> accedunt <emph>cf. GR. L.</emph> VII 264, 20 (accidunt).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-15" type="corrigendum" lang="incertum">Accidentia]</form> <emph>v.</emph> addictio.
+      <form xml:id="corr_III-15" type="corrigendum" lang="incertum">Accidentia]</form> <emph>v.</emph> <xr>addictio</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-16" type="corrigendum" lang="incertum">Accitus]</form> <emph>adde</emph> uocatus <ref addName="Abstr. II" cRef="CGL.IV.5.41">IV 5, 41</ref> <emph>et</emph> <ref addName="Abav." cRef="CGL.IV.302.54">IV 302, 54</ref> <emph>post</emph> <ref addName="Conscr. gl." cRef="CGL.V.260.18">V 260, 18</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-17" type="corrigendum" lang="incertum">Aceo]</form> acie turba <emph>H. pro</emph> acet curuat. <emph>V.</emph> aceto.
+      <form xml:id="corr_III-17" type="corrigendum" lang="incertum">Aceo]</form> acie turba <emph>H. pro</emph> acet curuat. <emph>V.</emph> <xr>aceto</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-18" type="corrigendum" lang="incertum">Aceodo</form> <emph>v.</emph> exhortatoriae.
+      <form xml:id="corr_III-18" type="corrigendum" lang="incertum">Aceodo</form> <emph>v.</emph> <xr>exhortatoriae</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-19" type="corrigendum" lang="incertum">Acerrale]</form> λαβίς <emph>H.</emph> 'λαβῆς δ. ab acere, quantum digito prendas' <emph>Buech.</emph>
@@ -82,7 +82,7 @@
       <form xml:id="corr_III-28" type="corrigendum" lang="incertum">auctor</form>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-29" type="corrigendum" lang="incertum">Acutum cerno]</form> <emph>v.</emph> certum non cerno.
+      <form xml:id="corr_III-29" type="corrigendum" lang="incertum">Acutum cerno]</form> <emph>v.</emph> <xr>certum non cerno</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-30" type="corrigendum" lang="incertum">Acutus]</form> <emph>post</emph> 
@@ -122,10 +122,10 @@
       <form xml:id="corr_III-44" type="corrigendum" lang="incertum">Aemulus]</form> <emph>adde</emph> <ref addName="gl. AA" cRef="CGL.V.453.23">V 453, 23</ref> <emph>post a</emph> <ref addName="Abstr. II" cRef="CGL.IV.62.51">IV 62, 51</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-45" type="corrigendum" lang="incertum">Aeneadae]</form> <emph>v.</emph> Eneades.
+      <form xml:id="corr_III-45" type="corrigendum" lang="incertum">Aeneadae]</form> <emph>v.</emph> <xr>Eneades</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-46" type="corrigendum" lang="incertum">Aenigma]</form> <emph>v.</emph> inaegnea; <emph>adde</emph> ae. quaestio obscura ut de conmede (comete?) nex̄ cib; et israel <emph>gl. Werth. Gallée</emph> 339 (<emph>v. suppl.</emph>).
+      <form xml:id="corr_III-46" type="corrigendum" lang="incertum">Aenigma]</form> <emph>v.</emph> <xr>inaegnea</xr>; <emph>adde</emph> ae. quaestio obscura ut de conmede (comete?) nex̄ cib; et israel <emph>gl. Werth. Gallée</emph> 339 (<emph>v. suppl.</emph>).
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-47" type="corrigendum" lang="incertum">Aequa lance]</form> aequa diuisio <emph>gl. Werth. Gallée</emph> 340 (<emph>v.</emph> <emph>suppl.</emph>).
@@ -141,7 +141,7 @@
       <form xml:id="corr_III-51" type="corrigendum" lang="incertum">Aestiuus]</form> <emph>adde</emph> στι&lt;βος&gt; θερεα (= θερεία) <emph>ex 'Catal. of Greek Pap.'</emph> II 322 (<emph>v. suppl.</emph>).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-52" type="corrigendum" lang="incertum">Affabilis</form> <emph>v.</emph> effabilis.
+      <form xml:id="corr_III-52" type="corrigendum" lang="incertum">Affabilis</form> <emph>v.</emph> <xr>effabilis</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-53" type="corrigendum" lang="incertum">Affector]</form> offector <emph>priore loco H.</emph>
@@ -162,7 +162,7 @@
       <form xml:id="corr_III-58" type="corrigendum" lang="incertum">Agnina]</form> <emph>pro</emph> ἀρνεία <emph>scr.</emph> ἄρνια.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-59" type="corrigendum" lang="incertum">Agrantos]</form> <emph>scr.</emph> Ἀγριάνιος. <emph>V.</emph> menses.
+      <form xml:id="corr_III-59" type="corrigendum" lang="incertum">Agrantos]</form> <emph>scr.</emph> Ἀγριάνιος. <emph>V.</emph> <xr>menses</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-60" type="corrigendum" lang="incertum">Agricola]</form> <emph>scr.</emph> Γεώργιος <ref addName="Absid. Bern." cRef="CGL.III.495.80">III 495, 80</ref>.
@@ -180,19 +180,19 @@
       <form xml:id="corr_III-64" type="corrigendum" lang="incertum">Allium]</form> <emph>adde</emph> αλι&lt;ον&gt; σκο&lt;ροδον&gt; <emph>ex 'Catal. of Greek Pap'</emph> II 323 (<emph>v. suppl</emph>).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-65" type="corrigendum" lang="incertum">Almacinum</form> <emph>v.</emph> Dalmatinum.
+      <form xml:id="corr_III-65" type="corrigendum" lang="incertum">Almacinum</form> <emph>v.</emph> <xr>Dalmatinum</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-66" type="corrigendum" lang="incertum">Almus ager]</form> <emph>del.</emph> (<emph>v.</emph> aruum).
+      <form xml:id="corr_III-66" type="corrigendum" lang="incertum">Almus ager]</form> <emph>del.</emph> (<emph>v.</emph> <xr>aruum</xr>).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-67" type="corrigendum" lang="incertum">Aluccus</form> <emph>v.</emph> ales, ulucus.
+      <form xml:id="corr_III-67" type="corrigendum" lang="incertum">Aluccus</form> <emph>v.</emph> <xr>ales</xr>, <xr>ulucus</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-68" type="corrigendum" lang="incertum">Aluta]</form> <emph>ultimis glossis subesse</emph> [σ]κόρυθα i. e. alauda quae uolat <emph>nunc censet Stadler.</emph>
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-69" type="corrigendum" lang="incertum">Amaryllis</form> <emph>v.</emph> Marillis.
+      <form xml:id="corr_III-69" type="corrigendum" lang="incertum">Amaryllis</form> <emph>v.</emph> <xr>Marillis</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-70" type="corrigendum" lang="incertum">Ambactus]</form> <emph>scr.</emph> δοῦλος, μισθωτός.
@@ -205,7 +205,7 @@
       <form xml:id="corr_III-72" type="corrigendum" lang="incertum">Ambuuia]</form> <emph>cf. Georges</emph> ambubaia. <emph>'Wegewarte' confert Buech.</emph>
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-73" type="corrigendum" lang="incertum">Amenticus</form> <emph>v.</emph> dementicus.
+      <form xml:id="corr_III-73" type="corrigendum" lang="incertum">Amenticus</form> <emph>v.</emph> <xr>dementicus</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-74" type="corrigendum" lang="incertum">Amfragosus]</form> <emph>adde</emph> περιοδεύσιμος τόπος <ref addName="Ps.-Cyr." cRef="CGL.II.403.33">II 403, 33</ref>.
@@ -224,10 +224,10 @@
       <form xml:id="corr_III-79" type="corrigendum" lang="incertum">Amplus]</form> <emph>scr</emph>. ἄπλατος <ref addName="Ps.-Cyr." cRef="CGL.II.235.15">II 235, 15</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-80" type="corrigendum" lang="incertum">Anaphus</form> <emph>v.</emph> crater.
+      <form xml:id="corr_III-80" type="corrigendum" lang="incertum">Anaphus</form> <emph>v.</emph> <xr>crater</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-81" type="corrigendum" lang="incertum">Animulus]</form> <emph>v.</emph> papilio (<ref addName="Conscr. gl." cRef="CGL.V.318.33">V 318, 33</ref>).
+      <form xml:id="corr_III-81" type="corrigendum" lang="incertum">Animulus]</form> <emph>v.</emph> <xr>papilio</xr> (<ref addName="Conscr. gl." cRef="CGL.V.318.33">V 318, 33</ref>).
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-82" type="corrigendum" lang="incertum">Annoto]</form> <emph>scr</emph>. προσσημειοῦμαι.
@@ -243,7 +243,7 @@
       <form xml:id="corr_III-86" type="corrigendum" lang="incertum">anteuerto</form> προκαταστρέφω <ref addName="Ps.-Cyr." cRef="CGL.II.418.21">II 418, 21</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-87" type="corrigendum" lang="incertum">Antigerio]</form> <emph>in gl. Plac. scr.</emph> uel quemadmodum uel inprimis. <emph>V.</emph> oppido.
+      <form xml:id="corr_III-87" type="corrigendum" lang="incertum">Antigerio]</form> <emph>in gl. Plac. scr.</emph> uel quemadmodum uel inprimis. <emph>V.</emph> <xr>oppido</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-88" type="corrigendum" lang="incertum">Antlia]</form> <emph>adde v.</emph> sentina.
@@ -268,7 +268,7 @@
       <form xml:id="corr_III-95" type="corrigendum" lang="incertum">Aqualis]</form> <emph>adde</emph> ὕδρωψ <ref addName="Ps.-Cyr." cRef="CGL.II.462.24">II 462, 24</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-96" type="corrigendum" lang="incertum">Ara]</form> <emph>v.</emph> hasenam.
+      <form xml:id="corr_III-96" type="corrigendum" lang="incertum">Ara]</form> <emph>v.</emph> <xr>hasenam</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-97" type="corrigendum" lang="incertum">Arceo]</form> <emph>pro</emph> parceo <emph>nunc</emph> porceo <emph>H.</emph>
@@ -293,7 +293,7 @@
       <form xml:id="corr_III-104" type="corrigendum" lang="incertum">Armus]</form> <emph>post</emph> <ref addName="hermen. Einsidl." cRef="CGL.III.247.70">III 247, 70</ref> <emph>adde</emph> (-ης).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-105" type="corrigendum" lang="incertum">Arra]</form> <emph>v.</emph> masculinus.
+      <form xml:id="corr_III-105" type="corrigendum" lang="incertum">Arra]</form> <emph>v.</emph> <xr>masculinus</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-106" type="corrigendum" lang="incertum">Arutaena]</form> <emph>cf. Krumbadher 'de codd.' etc. p.</emph> 64.
@@ -315,7 +315,7 @@
       <form xml:id="corr_III-112" type="corrigendum" lang="incertum">Assuesco]</form> <emph>adde</emph> ἐθίζομαι <ref addName="Ps.-Cyr." cRef="CGL.II.284.51">II 284, 51</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-113" type="corrigendum" lang="incertum">Atrium]</form> <emph>scr.</emph> πύλη <emph>v.</emph> hastarium.
+      <form xml:id="corr_III-113" type="corrigendum" lang="incertum">Atrium]</form> <emph>scr.</emph> πύλη <emph>v.</emph> <xr>hastarium</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-114" type="corrigendum" lang="incertum">Attali]</form> <emph>cf. Isid.</emph> XIX 26, 8.
@@ -333,7 +333,7 @@
       <form xml:id="corr_III-118" type="corrigendum" lang="incertum">Auditus]</form> <emph>post</emph> <ref addName="Ps.-Cyr." cRef="CGL.II.223.52">II 223, 52</ref> <emph>adde</emph> (masculinum est hic auditus).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-119" type="corrigendum" lang="incertum">Aurunculus]</form> <emph>v.</emph> arunculeus.
+      <form xml:id="corr_III-119" type="corrigendum" lang="incertum">Aurunculus]</form> <emph>v.</emph> <xr>arunculeus</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-120" type="corrigendum" lang="incertum">Auspicium]</form> <emph>cf. Serv. in Aen.</emph> VII 257.
@@ -342,7 +342,7 @@
       <form xml:id="corr_III-121" type="corrigendum" lang="incertum">Autumo]</form> <emph>adde</emph> ὑπολαμβάνω <ref addName="Ps.-Cyr." cRef="CGL.II.466.46">II 466, 46</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-122" type="corrigendum" lang="incertum">Auena]</form> <emph>v.</emph> uena 2.
+      <form xml:id="corr_III-122" type="corrigendum" lang="incertum">Auena]</form> <emph>v.</emph> <xr>uena 2</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-123" type="corrigendum" lang="incertum">Auernus]</form> <emph>sub</emph> Auernum <emph>scr.</emph> <ref addName="Conscr. gl." cRef="CGL.V.260.2">V 260, 2</ref> (<emph>pro</emph> 200, 2).
@@ -397,13 +397,13 @@
       <form xml:id="corr_III-140" type="corrigendum" lang="incertum">Bibitor]</form> <emph>adde</emph> <ref addName="Abav." cRef="CGL.IV.402.27">IV 402, 27</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-141" type="corrigendum" lang="incertum">Biduuium</form> <emph>v.</emph> uid.
+      <form xml:id="corr_III-141" type="corrigendum" lang="incertum">Biduuium</form> <emph>v.</emph> <xr>uid</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-142" type="corrigendum" lang="incertum">Bigener]</form> <emph>v. Isid.</emph> XVIII 4, 4.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-143" type="corrigendum" lang="incertum">Bilis]</form> <emph>v.</emph> sine bile.
+      <form xml:id="corr_III-143" type="corrigendum" lang="incertum">Bilis]</form> <emph>v.</emph> <xr>sine bile</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-144" type="corrigendum" lang="incertum">Bilustrum]</form> <emph>scr.</emph> decem annis.
@@ -412,13 +412,13 @@
       <form xml:id="corr_III-145" type="corrigendum" lang="incertum">Bipennis]</form> <emph>adde</emph> <ref addName="Conscr. gl." cRef="CGL.V.271.36">V 271, 36</ref> (b. securis Amazonica).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-146" type="corrigendum" lang="incertum">Bissum]</form> <emph>v.</emph> dissum.
+      <form xml:id="corr_III-146" type="corrigendum" lang="incertum">Bissum]</form> <emph>v.</emph> <xr>dissum</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-147" type="corrigendum" lang="incertum">Boethos</form> <emph>v.</emph> praeses (<emph>ubi haec gl. rec­tius tractatur</emph>).
+      <form xml:id="corr_III-147" type="corrigendum" lang="incertum">Boethos</form> <emph>v.</emph> <xr>praeses</xr> (<emph>ubi haec gl. rec­tius tractatur</emph>).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-148" type="corrigendum" lang="incertum">Bonorum cedo</form> ἐξίσταμαι <ref addName="Ps.-Cyr." cRef="CGL.II.303.41">II 303, 41</ref> (<emph>v.</emph> cedo).
+      <form xml:id="corr_III-148" type="corrigendum" lang="incertum">Bonorum cedo</form> ἐξίσταμαι <ref addName="Ps.-Cyr." cRef="CGL.II.303.41">II 303, 41</ref> (<emph>v.</emph> <xr>cedo</xr>).
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-149" type="corrigendum" lang="incertum">Bonus]</form> <emph>ad</emph> optimus κάλλιστος <emph>adde</emph> <ref addName="Ps.-Cyr." cRef="CGL.II.337.32">II 337, 32</ref>.
@@ -430,10 +430,10 @@
       <form xml:id="corr_III-151" type="corrigendum" lang="incertum">Bruma]</form> <emph>ad</emph> <ref addName="Ps.-Cyr." cRef="CGL.II.476.17">II 476, 17</ref> <emph>adde</emph> (χ. τρ.).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-152" type="corrigendum" lang="incertum">Bucinum]</form> <emph>v.</emph> bigener.
+      <form xml:id="corr_III-152" type="corrigendum" lang="incertum">Bucinum]</form> <emph>v.</emph> <xr>bigener</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-153" type="corrigendum" lang="incertum">Bulbus]</form> <emph>v.</emph> uulbos.
+      <form xml:id="corr_III-153" type="corrigendum" lang="incertum">Bulbus]</form> <emph>v.</emph> <xr>uulbos</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-154" type="corrigendum" lang="incertum">Burrae Vatr.]</form> scr. Burra.
@@ -446,7 +446,7 @@
       <form xml:id="corr_III-157" type="corrigendum" lang="incertum">Caduceator]</form> <emph>Liv.</emph> XXXII 32, 5.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-158" type="corrigendum" lang="incertum">Caedo]</form> <emph>v.</emph> pugnis caedo.
+      <form xml:id="corr_III-158" type="corrigendum" lang="incertum">Caedo]</form> <emph>v.</emph> <xr>pugnis caedo</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-159" type="corrigendum" lang="incertum">Caelatum]</form> <emph>adde</emph> 
@@ -479,7 +479,7 @@
       <form xml:id="corr_III-168" type="corrigendum" lang="incertum">Calumnia]</form> <emph>cf. Isid.</emph> V 26, 8.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-169" type="corrigendum" lang="incertum">Calx</form> 1] <emph>v.</emph> carcer.
+      <form xml:id="corr_III-169" type="corrigendum" lang="incertum">Calx</form> 1] <emph>v.</emph> <xr>carcer</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-170" type="corrigendum" lang="incertum">Camera]</form> <emph>ante</emph> fornix curua <emph>adde</emph> 
@@ -495,7 +495,7 @@
       <form xml:id="corr_III-174" type="corrigendum" lang="incertum">Caniles]</form> τηγανίτης <emph>H.</emph>
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-175" type="corrigendum" lang="incertum">Canopus]</form> <emph>v.</emph> excetra (?).
+      <form xml:id="corr_III-175" type="corrigendum" lang="incertum">Canopus]</form> <emph>v.</emph> <xr>excetra</xr> (?).
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-176" type="corrigendum" lang="incertum">Ca[n]tabulum]</form> '<emph>cf. Migne</emph> 149, 694' <emph>Schlutter.</emph>
@@ -522,11 +522,11 @@
       <form xml:id="corr_III-183" type="corrigendum" lang="incertum">Carrucharius]</form> <emph>codex</emph> carucharius <emph>ha­bet, quod non removendum fuit. Cf.</emph> <ref addName="hermen. Vat." cRef="CGL.III.425.21">III 425, 21</ref>---23.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-184" type="corrigendum" lang="incertum">Catagoga</form> <emph>v.</emph> ocimum <emph>et</emph> 
-      <form xml:id="corr_III-185" type="corrigendum" lang="incertum">cataegis</form> <emph>v.</emph> totegis.
+      <form xml:id="corr_III-184" type="corrigendum" lang="incertum">Catagoga</form> <emph>v.</emph> <xr>ocimum</xr> <emph>et</emph> 
+      <form xml:id="corr_III-185" type="corrigendum" lang="incertum">cataegis</form> <emph>v.</emph> <xr>totegis</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-186" type="corrigendum" lang="incertum">Castrum]</form> <emph>v.</emph> castra.
+      <form xml:id="corr_III-186" type="corrigendum" lang="incertum">Castrum]</form> <emph>v.</emph> <xr>castra</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-187" type="corrigendum" lang="incertum">Cataphractus]</form> <emph>Liv.</emph> XXXVII 40, 11?
@@ -535,10 +535,10 @@
       <form xml:id="corr_III-188" type="corrigendum" lang="incertum">Catulaster]</form> <emph>post</emph> catulester <emph>adde</emph> πάλληξ.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-189" type="corrigendum" lang="incertum">Cauda tremula]</form> <emph>v.</emph> σείουρος.
+      <form xml:id="corr_III-189" type="corrigendum" lang="incertum">Cauda tremula]</form> <emph>v.</emph> <xr>σείουρος</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-190" type="corrigendum" lang="incertum">Caupulus</form> <emph>adde</emph> (<emph>v.</emph> capulum) <emph>post</emph> locellum.
+      <form xml:id="corr_III-190" type="corrigendum" lang="incertum">Caupulus</form> <emph>adde</emph> (<emph>v.</emph> <xr>capulum</xr>) <emph>post</emph> locellum.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-191" type="corrigendum" lang="incertum">Celaena]</form> <emph>Liv.</emph> XXXVIII 13, 5.
@@ -602,19 +602,19 @@
       <form xml:id="corr_III-210" type="corrigendum" lang="incertum">clausa</form> cl[a]usa, negata <emph>Plac.</emph> <ref addName="Plac. lib. gl." cRef="CGL.V.55.19">V 55, 19</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-211" type="corrigendum" lang="incertum">Clipeus]</form> <emph>v.</emph> calbae, pluteus.
+      <form xml:id="corr_III-211" type="corrigendum" lang="incertum">Clipeus]</form> <emph>v.</emph> <xr>calbae</xr>, <xr>pluteus</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-212" type="corrigendum" lang="incertum">Cliuosus]</form> <emph>post</emph> <ref addName="Ps.-Cyr." cRef="CGL.II.341.14">II 341, 14</ref> <emph>adde</emph> (clibuosus).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-213" type="corrigendum" lang="incertum">Co]</form> <emph>v.</emph> quo.
+      <form xml:id="corr_III-213" type="corrigendum" lang="incertum">Co]</form> <emph>v.</emph> <xr>quo</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-214" type="corrigendum" lang="incertum">Colligatio</form> σύνδεσμος <ref addName="Ps.-Cyr." cRef="CGL.II.444.41">II 444, 41</ref>; <ref addName="gl. Steph." cRef="CGL.III.442.46">III 442, 46</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-215" type="corrigendum" lang="incertum">Collis iugum</form> <emph>v.</emph> iugum.
+      <form xml:id="corr_III-215" type="corrigendum" lang="incertum">Collis iugum</form> <emph>v.</emph> <xr>iugum</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-216" type="corrigendum" lang="incertum">Colobistae]</form> <emph>cf. GR. L. suppl. p.</emph> 95, 10.
@@ -629,7 +629,7 @@
       <form xml:id="corr_III-219" type="corrigendum" lang="incertum">Colurnum]</form> λεπτοκάρυον est colurna.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-220" type="corrigendum" lang="incertum">Comitium facio]</form> <emph>v.</emph> conuicior.
+      <form xml:id="corr_III-220" type="corrigendum" lang="incertum">Comitium facio]</form> <emph>v.</emph> <xr>conuicior</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-221" type="corrigendum" lang="incertum">Comoedia]</form> <emph>scr.</emph> comessatione <emph>pro</emph> commessatione. <emph>ibidem</emph> tricenos <emph>pro</emph> trecenos <emph>ut formam vulgarem me consulto reliquisse moneo.</emph>
@@ -645,7 +645,7 @@
       <form xml:id="corr_III-225" type="corrigendum" lang="incertum">Compos]</form> <emph>adde</emph> <ref addName="Conscr. gl." cRef="CGL.V.281.51">V 281, 51</ref> (conputem suspitem).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-226" type="corrigendum" lang="incertum">Concauae]</form> <emph>v.</emph> poples.
+      <form xml:id="corr_III-226" type="corrigendum" lang="incertum">Concauae]</form> <emph>v.</emph> <xr>poples</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-227" type="corrigendum" lang="incertum">Concitorem]</form> <emph>Liv.</emph> XXXVII 45, 17.
@@ -792,7 +792,7 @@
       <form xml:id="corr_III-277" type="corrigendum" lang="incertum">da</form> <ref addName="Ps.-Phil." cRef="CGL.II.37.5">II 37, 5</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-278" type="corrigendum" lang="incertum">Dominor]</form> <emph>v.</emph> subdo, subeo, subigo.
+      <form xml:id="corr_III-278" type="corrigendum" lang="incertum">Dominor]</form> <emph>v.</emph> <xr>subdo</xr>, <xr>subeo</xr>, <xr>subigo</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-279" type="corrigendum" lang="incertum">Dumestis]</form> dumis tis (<emph>h. e.</emph> dumes etis?) <emph>cod.</emph> dumex <emph>gl. ms. apud Ducangium. Cf.</emph> domesticus agaso.
@@ -804,7 +804,7 @@
       <form xml:id="corr_III-281" type="corrigendum" lang="incertum">Equile]</form> <emph>adde</emph> <ref addName="Ps.-Cyr." cRef="CGL.II.333.4">II 333, 4</ref> (ἱπποστάσιον).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-282" type="corrigendum" lang="incertum">Euclios</form> <emph>v.</emph> Eiclios.
+      <form xml:id="corr_III-282" type="corrigendum" lang="incertum">Euclios</form> <emph>v.</emph> <xr>Eiclios</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-283" type="corrigendum" lang="incertum">Exceptio]</form> <emph>adde</emph> <ref addName="Ps.-Cyr." cRef="CGL.II.469.14">II 469, 14</ref> (ὑφεξαίρεσις).
@@ -817,7 +817,7 @@
       <form xml:id="corr_III-286" type="corrigendum" lang="incertum">extar</form> olla.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-287" type="corrigendum" lang="incertum">Fabulum]</form> <emph>v.</emph> ualuolum.
+      <form xml:id="corr_III-287" type="corrigendum" lang="incertum">Fabulum]</form> <emph>v.</emph> <xr>ualuolum</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-288" type="corrigendum" lang="incertum">Faux]</form> <emph>cf. Isid.</emph> XIV 8, 26 (<emph>Pokrowskij</emph>).
@@ -826,7 +826,7 @@
       <form xml:id="corr_III-289" type="corrigendum" lang="incertum">Fenestra]</form> <emph>adde</emph> φενεστρα θυρις <emph>ex 'Cat. of Greek Pap.'</emph> II 322 (<emph>v. suppl.</emph>).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-290" type="corrigendum" lang="incertum">Ficatum]</form> <emph>v.</emph> uicatum.
+      <form xml:id="corr_III-290" type="corrigendum" lang="incertum">Ficatum]</form> <emph>v.</emph> <xr>uicatum</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-291" type="corrigendum" lang="incertum">Flumen]</form> <emph>adde</emph> φλουμε&lt;ν&gt; π&lt;οταμος&gt; <emph>ex 'Cat. of Greek Pap'</emph> II 323 (<emph>cf. suppl.</emph>).
@@ -838,13 +838,13 @@
       <form xml:id="corr_III-293" type="corrigendum" lang="incertum">Germen] gemina proles</form> duos filios <emph>scribendum esse ex Verg. Aen.</emph> I 274 <emph>mo­nuit Pokrowskij act. min. Russ. inst. publ.</emph> 1899, 7.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-294" type="corrigendum" lang="incertum">Haec in terra]</form> <emph>v.</emph> interra.
+      <form xml:id="corr_III-294" type="corrigendum" lang="incertum">Haec in terra]</form> <emph>v.</emph> <xr>interra</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-295" type="corrigendum" lang="incertum">Haedus]</form> ἡ ἑλλός <ref addName="hermen. Einsidl." cRef="CGL.III.241.51">III 241, 51</ref> (<emph>dicen­dum fuit</emph> ἑλτος cetus <emph>traditum esse coniecturamque incertam</emph>).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-296" type="corrigendum" lang="incertum">Hammon]</form> <emph>v.</emph> Iouis Amm. <emph>Cf. Serv. in Aen.</emph> IV 196.
+      <form xml:id="corr_III-296" type="corrigendum" lang="incertum">Hammon]</form> <emph>v.</emph> <xr>Iouis Amm</xr>. <emph>Cf. Serv. in Aen.</emph> IV 196.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-297" type="corrigendum" lang="incertum">Hibernus]</form> <emph>adde</emph> ειβερνος χιμον <emph>ex 'Cat. of Greek Pap.'</emph> II 322 (<emph>v. suppl.</emph>).
@@ -884,7 +884,7 @@
       <form xml:id="corr_III-309" type="corrigendum" lang="incertum">Insitio]</form> <emph>adde</emph> περιποίησις <ref addName="Ps.-Cyr." cRef="CGL.II.404.15">II 404, 15</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-310" type="corrigendum" lang="incertum">Instultus]</form> <emph>v.</emph> praestultus.
+      <form xml:id="corr_III-310" type="corrigendum" lang="incertum">Instultus]</form> <emph>v.</emph> <xr>praestultus</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-311" type="corrigendum" lang="incertum">Ira]</form> <emph>adde</emph> 
@@ -950,13 +950,13 @@
       <form xml:id="corr_III-332" type="corrigendum" lang="incertum">Nauis]</form> <emph>adde</emph> ναβες πλ&lt;οιο&gt;ν <emph>ex 'Cat. of Greek Pap.'</emph> II 322 (<emph>v. suppl.</emph>).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-333" type="corrigendum" lang="incertum">Nupta]</form> <emph>v.</emph> uxor nupta.
+      <form xml:id="corr_III-333" type="corrigendum" lang="incertum">Nupta]</form> <emph>v.</emph> <xr>uxor nupta</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-334" type="corrigendum" lang="incertum">Nux]</form> <emph>adde</emph> νοκαι καρυδιν <emph>ex 'Cat. of Greek Pap.'</emph> II 322 (<emph>v.</emph> <emph>suppl.</emph>).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-335" type="corrigendum" lang="incertum">Obdo]</form> <emph>v.</emph> ubdo.
+      <form xml:id="corr_III-335" type="corrigendum" lang="incertum">Obdo]</form> <emph>v.</emph> <xr>ubdo</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-336" type="corrigendum" lang="incertum">Oleum]</form> <emph>ad</emph> oleu <emph>cf.</emph> eliu.
@@ -979,7 +979,7 @@
       <form xml:id="corr_III-343" type="corrigendum" lang="incertum">Palus</form> 1] <emph>cf.</emph> <ref addName="hermen. Vat." cRef="CGL.III.433.38">III 433, 38</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-344" type="corrigendum" lang="incertum">Pandus]</form> <emph>v.</emph> cloppus.
+      <form xml:id="corr_III-344" type="corrigendum" lang="incertum">Pandus]</form> <emph>v.</emph> <xr>cloppus</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-345" type="corrigendum" lang="incertum">Parturio]</form> <emph>cf.</emph> <ref addName="hermen. Monac." cRef="CGL.III.155.66">III 155, 66</ref>.
@@ -1001,7 +1001,7 @@
       <form xml:id="corr_III-351" type="corrigendum" lang="incertum">Persecta recta]</form> <emph>corrige ex eis quae ad</emph> proiecta <emph>adnotavi</emph> (<emph>sub</emph> proiectus 2).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-352" type="corrigendum" lang="incertum">Per singula]</form> παρ' ἕκαστα <ref addName="frg. Colon." cRef="CGL.II.562.6">II 562, 6</ref>. <emph>V.</emph> singulum.
+      <form xml:id="corr_III-352" type="corrigendum" lang="incertum">Per singula]</form> παρ' ἕκαστα <ref addName="frg. Colon." cRef="CGL.II.562.6">II 562, 6</ref>. <emph>V.</emph> <xr>singulum</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-353" type="corrigendum" lang="incertum">Per te]</form> <emph>adde</emph> διὰ σοῦ <ref addName="Ps.-Cyr." cRef="CGL.II.274.16">II 274, 16</ref>.
@@ -1010,7 +1010,7 @@
       <form xml:id="corr_III-354" type="corrigendum" lang="incertum">Peruenio]</form> <emph>adde</emph> φθάνω ὅ εστι παραγίνομαι <ref addName="Ps.-Cyr." cRef="CGL.II.470.47">II 470, 47</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-355" type="corrigendum" lang="incertum">Phalera]</form> <emph>v.</emph> ueleras.
+      <form xml:id="corr_III-355" type="corrigendum" lang="incertum">Phalera]</form> <emph>v.</emph> <xr>ueleras</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-356" type="corrigendum" lang="incertum">Pituita]</form> <emph>adde</emph> gillistrae (<emph>AS.</emph>) <emph>post</emph> <ref addName="Apod." cRef="CGL.V.384.50">V 384, 50</ref>.
@@ -1023,7 +1023,7 @@
       <form xml:id="corr_III-359" type="corrigendum" lang="incertum">preces</form> λιταί <ref addName="hermen. Ampl." cRef="CGL.III.76.65">III 76, 65</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-360" type="corrigendum" lang="incertum">Proluuies]</form> <emph>v.</emph> uentris proluuies.
+      <form xml:id="corr_III-360" type="corrigendum" lang="incertum">Proluuies]</form> <emph>v.</emph> <xr>uentris proluuies</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-361" type="corrigendum" lang="incertum">Purgamentum narium</form> ἡ μύξα <ref addName="hermen. Einsidl." cRef="CGL.III.247.34">III 247, 34</ref> (<emph>unde</emph>?).
@@ -1048,16 +1048,16 @@
       <form xml:id="corr_III-368" type="corrigendum" lang="incertum">robus</form> μελάνδρυς <ref addName="hermen. Leid." cRef="CGL.III.26.19">III 26, 19</ref>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-369" type="corrigendum" lang="incertum">Ruspinat]</form> <emph>v.</emph> suspino.
+      <form xml:id="corr_III-369" type="corrigendum" lang="incertum">Ruspinat]</form> <emph>v.</emph> <xr>suspino</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-370" type="corrigendum" lang="incertum">Sapor]</form> <emph>adde</emph> <ref addName="hermen. Ampl." cRef="CGL.III.74.10">III 74, 10</ref> (γεῦσις).
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-371" type="corrigendum" lang="incertum">Scato]</form> <emph>v.</emph> scuotit, succutit.
+      <form xml:id="corr_III-371" type="corrigendum" lang="incertum">Scato]</form> <emph>v.</emph> <xr>scuotit</xr>, <xr>succutit</xr>.
     </entryFree>
     <entryFree>
-      <form xml:id="corr_III-372" type="corrigendum" lang="incertum">Sclatarius</form> <emph>v.</emph> stlattarius.
+      <form xml:id="corr_III-372" type="corrigendum" lang="incertum">Sclatarius</form> <emph>v.</emph> <xr>stlattarius</xr>.
     </entryFree>
     <entryFree>
       <form xml:id="corr_III-373" type="corrigendum" lang="incertum">Sepulcri uiolator]</form> <emph>pro</emph> τυμβορύκτης <emph>scr.</emph> τυμβορύχος.

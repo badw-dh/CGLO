@@ -14,7 +14,17 @@
 # e.g. "*V.* anes, **anitas**."
 
 import re
-from mkd_to_xml import xmlize_paragraph
+# from mkd_to_xml import xmlize_paragraph
+
+
+# Main function: takes a paragraph of partly tagged MKD text and adds <xr> tags to
+# named lemmata.
+def tag_lemma_refs(paragraph):
+    tokens = tokenize_lemma_refs(paragraph)
+    tagged_tokens = tag_lemma_tokens(tokens)
+    output = tokens_to_text(tagged_tokens)
+
+    return output
 
 def tokenize_lemma_refs(paragraph):
     TOKENS = [
@@ -22,7 +32,7 @@ def tokenize_lemma_refs(paragraph):
 #       ('FULL_STOP', r"(?P<FULL_STOP>\.)(?!,| .{1,10},)"),
         ('FULL_STOP', r"(?P<FULL_STOP>(?<! \w)\.(?= |<|$))"),
         ('COMMA', r"(?P<COMMA>, )"),
-        ('SEMICOLON',  r"(?P<SEMICOLON>; )"),
+        ('SEMICOLON',  r"(?P<SEMICOLON>(?<!&lt|&gt|uot|pos|amp); )"),
         ('KLAMMER', r'(?P<KLAMMER>\(.+?\))'),
     #    ('END_SQUARE_BRACKET', r"(?P<END_SQUARE_BRACKET>\])"),
         ('VEL_OR_ET', r"(?P<VEL_OR_ET><emph> *(vel|et) *</emph>)"),
@@ -138,7 +148,11 @@ def tag_lemma_tokens(tagged_paragraph):
 
         elif name == 'EMPH_TAG':
             # If next token is a comma, pass; otherwise break out of the vide_sequence.
-            next_token_name = tagged_paragraph[i + 1][0]
+            try:
+                next_token_name = tagged_paragraph[i + 1][0]
+            except:
+                next_token_name = None
+
             if next_token_name == 'COMMA':
                 pass
             else:
@@ -167,6 +181,11 @@ def tag_lemma_ref(content):
     leading_space = ''
     tail = ''
 
+    if content.endswith('</div>'):
+        tail = '</div>'
+        content = content.rstrip('</div>')
+        print("Content stripped of </div>:", content, ".")
+
     if content[0] == ' ':  # strip leading space but remember to add it later
         content = content[1:]
         leading_space = ' '
@@ -179,6 +198,7 @@ def tag_lemma_ref(content):
         if not ends_with_abbreviation(content):
             tail = content[-1] + tail
             content = content[:-1]
+
     elif content[-1] == ' ':
         content = content[:-1]
         tail = ' ' + tail

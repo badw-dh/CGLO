@@ -1,6 +1,8 @@
 **ἐνακόσια** nongenta.
 
-**\*ἐνάκρατον (?)** υ. ἄκρατος (ἔν ἄκρατον). **ἐναλείφω** inungo.
+**\*ἐνάκρατον (?)** *v.* ἄκρατος (ἕν ἄκρατον).
+
+**ἐναλείφω** inungo.
 
 **ἐναλλαγή** mutatio.
 
@@ -8,8 +10,8 @@
 
 **ἐναλλάσσω** cambio, commuto, demuto, immuto, muto.
 
-**ἐνάμαρτος** mendosus, -ov perperus (per- peram; ἀνάμαρτον coiZ., *quod
-ενάμ. cor- rigend/um videtur).*
+**ἐνάμαρτος** mendosus, -ον perperus (perperam; ἀνάμαρτον *cod.*, *quod*
+ἐνάμ. *corrigendum videtur*).
 
 **ἐναμάρτως** perperam.
 
@@ -17,20 +19,21 @@
 
 **ἔναμμα** filum.
 
-**ἐναντίος** adversarius, adversus, con- trarius, eniber, sinister, -ot
-advores, -ov τὸ ἀντικρύ ante conspectum, ἐξ -ας contra, obviam *(cf.
-μέρος),* ἐκ τοῦ -ου e contrario, ex diverso, versa vice, ἐκ τῶν -ων
-ultro, ultro citro que, κατ' *et νπ'* ἐναντίον adversus, contra.
+**ἐναντίος** adversarius, adversus, contrarius, eniber, sinister, -οι
+advores, -ον τὸ ἀντικρύ ante conspectum, ἐξ -ας contra, obviam (*cf.*
+μέρος), ἐκ τοῦ -ου e contrario, ex diverso, versa vice, ἐκ τῶν -ων
+ultro, ultro citroque, κατ' *et* ὑπ' ἐναντίον adversus, contra.
 
 **ἐναντιότης** contrarietas, refragatio.
 
-**ἐναντιοῦμαι** adversor, committo, ob- sisto, obvio, occurro, officio,
+**ἐναντιοῦμαι** adversor, committo, obsisto, obvio, occurro, officio,
 reclamo, refragor, reluctor, resisto.
 
 **ἐναούγκιον** dodrans.
 
-**ἐναπόγραφος**ascripticius, capite census, **ἐναργής** evidens,
-liquidus, manifestus, praesens. *Cf.* impigrabile.
+**ἐναπόγραφος** ascripticius, capite census.
+
+**ἐναργής** evidens, liquidus, manifestus, praesens. *Cf.* impigrabile.
 
 **\*ἔναργος** *cf.* impedio 2.
 
@@ -50,18 +53,20 @@ liquidus, manifestus, praesens. *Cf.* impigrabile.
 
 **ἐνάρχομαι** inchoo.
 
-**ένάς** unitas.
+**ἑνάς** unitas.
 
 **ἐνατενίζω** intueor.
 
-**ἔνατος** nonus, -ov novies. *Cf* ἔννατος. **ἔναυλος** alveus, aulon.
+**ἔνατος** nonus, -ον novies. *Cf.* ἔννατος.
+
+**ἔναυλος** alveus, aulon.
 
 **ἐνδαψιλεύομαι** indulgeo, largior.
 
-**ἐνδεἡς** egens, egenus, egestuosus, in- digens, indigus, -έστερος
+**ἐνδεής** egens, egenus, egestuosus, indigens, indigus, -έστερος
 detentator.
 
-**ἔνδεια** abstinentia, egestas, inopia, pe- nuria. *Cf.* paenitentia.
+**ἔνδεια** abstinentia, egestas, inopia, penuria. *Cf.* paenitentia.
 
 **ἐνδεικνύω** demonstro, ostendo.
 
@@ -69,11 +74,11 @@ detentator.
 
 **ἔνδειξις** ostentatio.
 
-**\*ἐὐδειστρον** *(Eins.)* cerniculum.
+**\*ἔνδειστρον** (*Eins.*) cerniculum.
 
-**\*ἐνδεκαούγκιον** deunx.
+**\*ἑνδεκαούγκιον** deunx.
 
-**ενδεκάτη** undecima.
+**ἑνδεκάτη** undecima.
 
 **ἐνδελεχείᾳ** assidue.
 
@@ -85,7 +90,7 @@ detentator.
 
 **ἔνδεμα** alligamentum.
 
-**ἔνδεσμος** ligatura, materia, nodus, vo- lumen.
+**ἔνδεσμος** ligatura, materia, nodus, volumen.
 
 **ἐνδεσμῶ** innexo, innodo, - ἐν παλαίστρᾳ implico, nexo.
 
@@ -110,23 +115,22 @@ detentator.
 
 **ἐνδοιάζω** dubito.
 
-**ἐνδομενία** *et* **-αι** lautia, supellex, - ξυ- *λί,νη* supellex
-lignea.
+**ἐνδομενία** *et* **-αι** lautia, supellex, - ξυλίνη supellex lignea.
 
-**ἐνδόμυχον** latebrosus (-um), penetra- Iium.
+**ἐνδόμυχον** latebrosus (-um), penetralium.
 
 **ἔνδον** indu, intro, intus, penetralis (-e), penitus. *Cf.* penes.
 
-**ἔνδοξος** adoriosus, almus, clarus, glo- riosus, honoratus, illustris,
+**ἔνδοξος** adoriosus, almus, clarus, gloriosus, honoratus, illustris,
 inclytus, nobilis, praeclarus.
 
 **ἐνδόξως** clare, gloriosus (-e), II, 298, 18 *sine interpr.*
 
-**ἐνδότερος** citerior, interior, intimus, ulterior, -ov *cf.*
-endopicus, εἰς τὸ -ov introrsus; ἐνδότατος intimus *(cf.* in- clytus),
-penetralis, -a ancita.
+**ἐνδότερος** citerior, interior, intimus, ulterior, -ον *cf.*
+endopicus, εἰς τὸ -ον introrsus; ἐνδότατος intimus (*cf.* inclytus),
+penetralis, -α ancita.
 
-**ἐνδοτέρω** interior (-us), penitus. *Cf.* en- dopicus.
+**ἐνδοτέρω** interior (-us), penitus. *Cf.* endopicus.
 
 **ἐνδοχεῖον** *cf.* horreum.
 
@@ -134,32 +138,32 @@ penetralis, -a ancita.
 
 **ἐνδρανής** sollers.
 
-**ἐνδρομίς** gausapa. *Cf.* caligo, endro- mida.
+**ἐνδρομίς** gausapa. *Cf.* caligo, endromida.
 
 **ἔνδυμα** indumentum, palla, pallium, stola, vestimentum, vestitus, -
-συγκλη- τικόν praetexta.
+συγκλητικόν praetexta.
 
 **ἐνδυναμοῦμαι** praevaleo.
 
 **ἐνδύνω** penetro.
 
-**ἐνδύω** induo, vestio, ἐνδεδυμένον ve- stitum.
+**ἐνδύω** induo, vestio, ἐνδεδυμένον vestitum.
 
 **ἐνεάζω** stupeo.
 
-**ἐνέδρα** cavillatio, deceptio *s. v.* de- voro, fraus, insidia,
-insidiatio, ob- sessio, obsessus (-um), subsessum, sutela, -at illecebra
+**ἐνέδρα** cavillatio, deceptio *s. v.* devoro, fraus, insidia,
+insidiatio, obsessio, obsessus (-um), subsessum, sutela, -αι illecebra
 (-ae).
 
-**ἐνεδρευτής** deceptor, insidiator, se- ductor.
+**ἐνεδρευτής** deceptor, insidiator, seductor.
 
 **ἐνεδρευτικός** insidiosus.
 
-**ἐνεδρεύω** colloco, decipio, illecebro, insidio *(et* -or), obsideo.
+**ἐνεδρεύω** colloco, decipio, illecebro, insidio (*et* -or), obsideo.
 
 **ἐνείλημα** involucrum, involumen.
 
-**ἐνειλῶ** implico, involvo, ἐνειλημένον in- volutum.
+**ἐνειλῶ** implico, involvo, ἐνειλημένον involutum.
 
 **ἔνειμι** insum, ἐνών ingenitus.
 
