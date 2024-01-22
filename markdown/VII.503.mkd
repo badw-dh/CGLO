@@ -1,28 +1,33 @@
 **δύσοσμον** foetidum.
 
-**\*δυσουρητικά** *cf.* đysuretica. **δυσουρία** substillum. *Cf.*
-dysuria, **δυσουρῶ:** -οῦντας *cf.* dysuruntas *(expl. λί&ιώντας).*
+**\*δυσουρητικά** *cf.* dysuretica.
 
-***ΰυόπα&εΐ** cf.* dolat.
+**δυσουρία** substillum. *Cf.* dysuria.
+
+**δυσουρῶ:** -οῦντας *cf.* dysuruntas (*expl.* λιθιῶντας).
+
+**δυσπαθεῖ** *cf.* dolat.
 
 **δυσπειθής** dolosus.
 
-**δυσπερίληπτος** incomplexus, in.com- prehensibilis.
+**δυσπερίληπτος** incomplexus, incomprehensibilis.
 
 **\*δυσπιθῶ** diffido.
 
 **δύσπιστος** incredibilis.
 
-**όὔσπνοια** suspirio, suspirium. *Cf.* dys- pnoia.
+**δύσπνοια** suspirio, suspirium. *Cf.* dyspnoia.
 
-**δυσπνοϊκός** suspiriosus, *cf.* dyspnoicos *(expl.* difficultas
+**δυσπνοϊκός** suspiriosus, *cf.* dyspnoicos (*expl.* difficultas
 spirandi).
 
-**δύσριγος** algidus, alsiosus, **δυσσέβεια** scelus.
+**δύσριγος** algidus, alsiosus.
+
+**δυσσέβεια** scelus.
 
 **δυσσέβημα** facinus.
 
-**δυσσεβής** facinorosus, impius, scele- ratus.
+**δυσσεβής** facinorosus, impius, sceleratus.
 
 **δυσσεβῶ** violo.
 
@@ -30,14 +35,17 @@ spirandi).
 
 **δύστηνος** importabilis.
 
-**δύστροπος** callidus, malemoratus, mo­rosus.
+**δύστροπος** callidus, malemoratus, morosus.
 
-**Δύστρος** Distros. *Cf.* menses, **δυστυχής** calamitosus, infelix,
+**Δύστρος** Distros. *Cf.* menses.
+
+**δυστυχής** calamitosus, infelix.
+
 **δυστυχία** aerumna, calamitas, casus, clades.
 
 **δυστυχῶς** infeliciter.
 
-***όυβφημία*** impietas, infamia.
+**δυσφημία** impietas, infamia.
 
 **δυσφημῶ:** -εῖ impie loquitur, infauste loquitur.
 
@@ -47,12 +55,19 @@ spirandi).
 
 **δυσχέρεια** difficultas, offensio.
 
-**δυσχερής** arduus, difficilis, inenodabilis, **δυσχερῶς** difficile,
-difficulter.
+**δυσχερής** arduus, difficilis, inenodabilis.
 
-**δυσχρηστία** incommodum, **δύσχρηστος** incommodus, **δυσχρηστῶ**
-incommodo, **δυσώδης** olidus, putidus, taeter, **δυσωδία** *(et
-**-ώΰεια)*** foetor, mephitis, putor.
+**δυσχερῶς** difficile, difficulter.
+
+**δυσχρηστία** incommodum.
+
+**δύσχρηστος** incommodus.
+
+**δυσχρηστῶ** incommodo.
+
+**δυσώδης** olidus, putidus, taeter.
+
+**δυσωδία** (*et* **δυσώδεια**) foetor, mephitis, putor.
 
 **δυσώπησις** ambitio.
 
@@ -60,24 +75,24 @@ incommodo, **δυσώδης** olidus, putidus, taeter, **δυσωδία** *(et
 
 **δυσωπῶ** confundo, exoro.
 
-**δὔτης** urinator, - ὄἤνις mergus.
+**δύτης** urinator, - ὄρνις mergus.
 
 **δυτικός** occasivus.
 
 **δώδεκα** duodecim, duodena. *Cf.* γράμμα, δέκα.
 
-**δωδέκατος:** -η duodecima, -ov duo- decies.
+**δωδέκατος:** -η duodecima, -ον duodecies.
 
-**δῶμά** tectum. *Cf.* domata.
+**δῶμα** tectum. *Cf.* domata.
 
 **δωμάτιον** cubiculum.
 
 **δωρακινόν** duracinum, persum.
 
-**δωρεά** beneficium, congiarium, dona- tio, lib er alitas,
-munificentia, - θείά indulgentia, - Καίσαρος congiarium, κατὰ -άν
-gratuito, δωρεάν *(adv.) v.* λαμβάνω, δωρεᾶς *(sic potius quam* δω-
-ρεάς) ἀντὶ τοῦ δώρου gratia (-tis).
+**δωρεά** beneficium, congiarium, donatio, liberalitas, munificentia, -
+θεία indulgentia, - Καίσαρος congiarium, κατὰ -άν gratuito, δωρεάν
+(*adv.*) *v.* λαμβάνω, δωρεᾶς (*sic potius quam* δωρεάς) ἀντὶ τοῦ δώρου
+gratia (-tis).
 
 **δωρητικός** donator.
 
@@ -89,53 +104,65 @@ gratuito, δωρεάν *(adv.) v.* λαμβάνω, δωρεᾶς *(sic potius 
 
 **δωροδόκος** ambitiosus, continens.
 
-**δωροδοκῶ** demunero, munero, **δωροδότης** munerarius.
+**δωροδοκῶ** demunero, munero.
+
+**δωροδότης** munerarius.
 
 **\*δωροκόπος** munerator.
 
 **δωροκοπῶ** munero.
 
-**δῶρον** donum, munus, munusculum, - στρατιώταις donativum. *Cf.
-μετανοώ. **όωροϋμαε*** dono, munero, -ηθέντα dono collato.
+**δῶρον** donum, munus, munusculum, - στρατιώταις donativum. *Cf.*
+μετανοῶ.
 
-ἔά hem, ἔα ἔα em (he, em; *cf.* hem).
+**δωροῦμαι** dono, munero, -ηθέντα dono collato.
+
+**ἔά** hem, **ἔα** **ἔα** em (he, em; *cf.* hem).
+
+**ἔα** hem, ἔα ἔα em (he, em; *cf.* hem).
 
 **ἐάν** an, aut, si, sin, - δέ an, ast, - δέ τις ac si quis, - μὲν οὖν
 siquidem, - μή nisi, - εἴπω *etc.* si dicam *etc.*
 
-***εαρ*** ver. ***V. ωρα.***
+**ἔαρ** ver. *V.* ὥρα.
 
-***έα(μνός*** vernus. ***V.*** ἰσημερία, καιρός, τροπή.
+**ἐαρινός** vernus. *V.* ἰσημερία, καιρός, τροπή.
 
-**έαυτοῦ** *etc.* sui, suimet, suus, sibimet, sibimet ipsi, semet, semet
+**ἑαυτοῦ** *etc.* sui, suimet, suus, sibimet, sibimet ipsi, semet, semet
 ipsum, suamet, suamet ipsa, δι' ἑαυτοῦ per se, per semet ipsum, καθ'
 ἑαυτόν in se, secum, μεθ' ἑαυτοῦ *etc.* secum, παρ' ἑαυτῷ apud me (a.
-se). *Cf. ί\'δι,ος. **έβΰομάς** (Eins.)* hebdomada. *Cf.* septem,
+se). *Cf.* ἴδιος.
+
+**ἑβδομάς** (*Eins.*) hebdomada. *Cf.* septem.
+
 **ἑβδόμη** septima.
 
-**ἐγγαιος** *et **-ειος*** terrester, -α κτήματα praedium (-a).
+**ἔγγαιος** *et* **ἔγγειος** terrester, -α κτήματα praedium (-a).
 
-Corp. gloss. lat. tom. VII. fasc. II.
+**ἐγγαμίζω** marito.
 
-**ἐγγαμίζω ἐγγειος υ. ἐγγελῶ irrideo, ἐγγίζω appropinquo, propinquo.**
+**ἔγγειος** *v.* ἔγγαιος
 
-**ἔγγιστα iuxta, prope** *(et* **proxime), εἰς τὸ - propior
-(proximum).**
+**ἐγγελῶ** irrideo.
 
-**ἔγγιστος propinquus, propior (proxi- mus).**
+**ἐγγίζω** appropinquo, propinquo.
 
-**ἐγγλυκάζον sucidum.**
+**ἔγγιστα** iuxta, prope (*et* proxime), εἰς τὸ - propior (proximum).
 
-**ἐγγλυκαίνω in dulco.**
+**ἔγγιστος** propinquus, propior (proximus).
 
-**\*εγγλυφα caelatum (-a), ἐγγλύφω caelo, insculpo.**
+**ἐγγλυκάζον** sucidum.
 
-**\*ἔγγομος onustus.**
+**ἐγγλυκαίνω** indulco.
 
-**ἐγγόνη neptis. *V, άνήρ.***
+**\*ἔγγλυφα** caelatum (-a).
 
-***εγγονος* nepos, -ot posterus (-i).** *Cf, γαμ,ετη.*
+**ἐγγλύφω** caelo, insculpo.
 
-**\*ἐγγραφεύς descriptor.**
+**\*ἔγγομος** onustus.
 
-**33**
+**ἐγγόνη** neptis. *V.* ἀνήρ.
+
+**ἔγγονος** nepos, -οι posterus (-i). *Cf.* γαμετή.
+
+**\*ἐγγραφεύς** descriptor.

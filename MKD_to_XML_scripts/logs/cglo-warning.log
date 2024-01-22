@@ -6194,7 +6194,7 @@ Discarded POSS_LINE_REF  62  in: ers.&apos; p.</emph> 62 <emph>sq. V.</e
 Discarded POSS_LINE_REF  14. in: h>Aldhelm. p.</emph> 14.
 Discarded xref 4, 5 without prev. xref in: mph>Paralip.</emph> 4, 5
 Discarded xref 281, 16 without prev. xref in: f. Festus p.</emph> 281, 16.
-Xref I 13, 21 has an invalid volume number.
+Discarded xref I 13, 21 after invalid source in: f. Iul. Val.</emph> I 13, 21 (<emph>W. Hera
 Discarded xref 57, 84 without prev. xref in: f. Not. Tir.</emph> 57, 84
 Discarded xref 165, 12 without prev. xref in: 12
 Discarded xref I 550, 13 after invalid source in:  Bob. GR. L.</emph> I 550, 13. <emph>Cf. Fes
@@ -7927,7 +7927,7 @@ Discarded POSS_LINE_REF  2. in: xpromo, -ομαι deligo 2., eligo, ἐξειλ�
 Discarded POSS_LINE_REF  2. in: /form> obstupefactus 2., stupefactus, 
 Discarded POSS_LINE_REF  2. in: ερριμμένος proiectus 2.
 Discarded POSS_LINE_REF  2. in: κριψις</form> iactus 2.
-Discarded POSS_LINE_REF  2. in: productus, proiectus 2., protentus<emp
+Discarded POSS_LINE_REF  2. in: productus, proiectus 2., protentus, -η
 Discarded POSS_LINE_REF  1. in: form> amoveo, effero 1., fero, promo, 
 Discarded POSS_LINE_REF  2. in: um, ἐξενεχθείς latus 2., prolatus.
 Discarded POSS_LINE_REF  2. in: ρος</form> proiectus 2.
@@ -8750,7 +8750,7 @@ Discarded POSS_LINE_REF  1. in: orm> flabrum, flamen 1., flatus, hiber
 Discarded xref 263, 57 without prev. xref in: </emph> turgo, III, 263, 57 <emph>s. int.<
 Discarded POSS_LINE_REF  1. in: , latibulum, lustrum 1.
 Discarded xref 242, 21 without prev. xref in: ucem portans), III, 242, 21 <emph>s. inter
-Discarded xref 406, 43 without prev. xref in: > \*\*\*\*\*tus II, 406, 43. <pb n="VII.67
+Discarded xref 406, 43 without prev. xref in: > \*\*\*\*\*tus II, 406, 43.
 Discarded POSS_LINE_REF  1. in: ριάζω</form> persono 1.
 Discarded POSS_LINE_REF  1. in: /form> noto, persono 1.
 Discarded POSS_LINE_REF  2. in: χαρακωμένος vallatus 2.
@@ -15029,7 +15029,7 @@ Discarded POSS_LINE_REF  62  in: ers.&apos; p.</emph> 62 <emph>sq. V.</e
 Discarded POSS_LINE_REF  14. in: h>Aldhelm. p.</emph> 14.
 Discarded xref 4, 5 without prev. xref in: mph>Paralip.</emph> 4, 5
 Discarded xref 281, 16 without prev. xref in: f. Festus p.</emph> 281, 16.
-Xref I 13, 21 has an invalid volume number.
+Discarded xref I 13, 21 after invalid source in: f. Iul. Val.</emph> I 13, 21 (<emph>W. Hera
 Discarded xref 57, 84 without prev. xref in: f. Not. Tir.</emph> 57, 84
 Discarded xref 165, 12 without prev. xref in: 12
 Discarded xref I 550, 13 after invalid source in:  Bob. GR. L.</emph> I 550, 13. <emph>Cf. Fes
@@ -16755,7 +16755,7 @@ Discarded POSS_LINE_REF  2. in: xpromo, -ομαι deligo 2., eligo, ἐξειλ�
 Discarded POSS_LINE_REF  2. in: /form> obstupefactus 2., stupefactus, 
 Discarded POSS_LINE_REF  2. in: ερριμμένος proiectus 2.
 Discarded POSS_LINE_REF  2. in: κριψις</form> iactus 2.
-Discarded POSS_LINE_REF  2. in: productus, proiectus 2., protentus<emp
+Discarded POSS_LINE_REF  2. in: productus, proiectus 2., protentus, -η
 Discarded POSS_LINE_REF  1. in: form> amoveo, effero 1., fero, promo, 
 Discarded POSS_LINE_REF  2. in: um, ἐξενεχθείς latus 2., prolatus.
 Discarded POSS_LINE_REF  2. in: ρος</form> proiectus 2.
@@ -17578,7 +17578,7 @@ Discarded POSS_LINE_REF  1. in: orm> flabrum, flamen 1., flatus, hiber
 Discarded xref 263, 57 without prev. xref in: </emph> turgo, III, 263, 57 <emph>s. int.<
 Discarded POSS_LINE_REF  1. in: , latibulum, lustrum 1.
 Discarded xref 242, 21 without prev. xref in: ucem portans), III, 242, 21 <emph>s. inter
-Discarded xref 406, 43 without prev. xref in: > \*\*\*\*\*tus II, 406, 43. <pb n="VII.67
+Discarded xref 406, 43 without prev. xref in: > \*\*\*\*\*tus II, 406, 43.
 Discarded POSS_LINE_REF  1. in: ριάζω</form> persono 1.
 Discarded POSS_LINE_REF  1. in: /form> noto, persono 1.
 Discarded POSS_LINE_REF  2. in: χαρακωμένος vallatus 2.

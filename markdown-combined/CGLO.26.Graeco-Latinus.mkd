@@ -241,7 +241,7 @@ fellis.
 
 **ἄγλωσσος** elinguis.
 
-**ἄγν****αφος** *et* **ἄκναφος** immundus, impolitus, infullonicatus,
+**ἄγναφος** *et* **ἄκναφος** immundus, impolitus, infullonicatus,
 non fullatum, rudis.
 
 **ἁγνεία** castimonium, castitas.
@@ -429,7 +429,7 @@ pervigilium (*cf.* provig.), vigilantia, vigilia. *Cf.* παννυχισμός.
 
 **ἀγχίνους** astutus, exactus, sagax, sollers.
 
-**\*Αγχίσειος** Anchiseos. *Cf.* menses.
+**\*Ἀγχίσειος** Anchiseos. *Cf.* menses.
 
 **ἀγχιστεία** affinitas, propinquitas, proximitas. *Cf.* ἑορτή
 (lemuria).
@@ -635,7 +635,7 @@ potens, -ον impenetrabile.
 
 **ᾄδω** cano, canto, -ων canorus.
 
-**Αδωνις** Adonis.
+**Ἄδωνις** Adonis.
 
 **ἀδωροδόκητος** edecumatus, immunis.
 
@@ -643,7 +643,7 @@ potens, -ον impenetrabile.
 
 **ἀειδής** informis.
 
-**ἀείδ****ιος (= ἀίδιος)** aeternus, perennis, perpetuus, sempiternus.
+**ἀείδιος (= ἀίδιος)** aeternus, perennis, perpetuus, sempiternus.
 *Cf.* semperviva (abdius = ἀείδιος *St.*).
 
 **\*ἀειδιότης** aeternitas, cyclas, perennitas, perpetuitas.
@@ -6724,8 +6724,6 @@ regiis. *Cf.* absida.
 
 **\*αωτεγχύτης** arutaena.
 
-B.
-
 **βαβαί** babae.
 
 **\*βαβάλιον** cunabulum, cunae.
@@ -7792,8 +7790,6 @@ gleba. *Cf.* τυκάνη.
 
 **βῶξ** boca. *Cf.* βώκη.
 
-Γ.
-
 **γαγάτης** *cf.* gagathenos.
 
 **γαγγαλίζω** *et* **γαργ.** titillo, vello. *Cf.* gargarizo,
@@ -8167,7 +8163,7 @@ procreo (ἐπὶ πατρός), -ῶμαι nascor, -ώμενον nascentem (*cf
 
 **γεωπονία** *vel* **γεοπ.** excultus. *Cf.* γεηπ.
 
-***γεοπονῶ*** exculto.
+**γεοπονῶ** exculto.
 
 **γεωργητός** culta.
 
@@ -8698,8 +8694,6 @@ venefica, - φαρμακίς strix (striga), venefica, - ἀδελφοῦ fratri
 **γωνιαῖος** angularius.
 
 **γωρυτός** *cf.* goruthus (*expl.* pharetra).
-
-Δ.
 
 **δάγμα** morsus.
 
@@ -11065,149 +11059,6 @@ occidente.
 <pb n="VII.503" facs="7.503.jpg"></pb>
 **δύσοσμον** foetidum.
 
-**\*δυσουρητικά** *cf.* đysuretica. **δυσουρία** substillum. *Cf.*
-dysuria, **δυσουρῶ:** -οῦντας *cf.* dysuruntas *(expl. λί&ιώντας).*
-
-***ΰυόπα&εΐ** cf.* dolat.
-
-**δυσπειθής** dolosus.
-
-**δυσπερίληπτος** incomplexus, in.com- prehensibilis.
-
-**\*δυσπιθῶ** diffido.
-
-**δύσπιστος** incredibilis.
-
-**όὔσπνοια** suspirio, suspirium. *Cf.* dys- pnoia.
-
-**δυσπνοϊκός** suspiriosus, *cf.* dyspnoicos *(expl.* difficultas
-spirandi).
-
-**δύσριγος** algidus, alsiosus, **δυσσέβεια** scelus.
-
-**δυσσέβημα** facinus.
-
-**δυσσεβής** facinorosus, impius, scele- ratus.
-
-**δυσσεβῶ** violo.
-
-**δυστηνία** anxietas.
-
-**δύστηνος** importabilis.
-
-**δύστροπος** callidus, malemoratus, mo­rosus.
-
-**Δύστρος** Distros. *Cf.* menses, **δυστυχής** calamitosus, infelix,
-**δυστυχία** aerumna, calamitas, casus, clades.
-
-**δυστυχῶς** infeliciter.
-
-***όυβφημία*** impietas, infamia.
-
-**δυσφημῶ:** -εῖ impie loquitur, infauste loquitur.
-
-**δυσφορῶ** haesito.
-
-**δυσχείμερος** algidus.
-
-**δυσχέρεια** difficultas, offensio.
-
-**δυσχερής** arduus, difficilis, inenodabilis, **δυσχερῶς** difficile,
-difficulter.
-
-**δυσχρηστία** incommodum, **δύσχρηστος** incommodus, **δυσχρηστῶ**
-incommodo, **δυσώδης** olidus, putidus, taeter, **δυσωδία** *(et
-**-ώΰεια)*** foetor, mephitis, putor.
-
-**δυσώπησις** ambitio.
-
-**δυσωπία** ambitio.
-
-**δυσωπῶ** confundo, exoro.
-
-**δὔτης** urinator, - ὄἤνις mergus.
-
-**δυτικός** occasivus.
-
-**δώδεκα** duodecim, duodena. *Cf.* γράμμα, δέκα.
-
-**δωδέκατος:** -η duodecima, -ov duo- decies.
-
-**δῶμά** tectum. *Cf.* domata.
-
-**δωμάτιον** cubiculum.
-
-**δωρακινόν** duracinum, persum.
-
-**δωρεά** beneficium, congiarium, dona- tio, lib er alitas,
-munificentia, - θείά indulgentia, - Καίσαρος congiarium, κατὰ -άν
-gratuito, δωρεάν *(adv.) v.* λαμβάνω, δωρεᾶς *(sic potius quam* δω-
-ρεάς) ἀντὶ τοῦ δώρου gratia (-tis).
-
-**δωρητικός** donator.
-
-**δωρητός** donaticius, donatus.
-
-**δωριμαῖος** gratuitus.
-
-**δωροδοκία** munificentia.
-
-**δωροδόκος** ambitiosus, continens.
-
-**δωροδοκῶ** demunero, munero, **δωροδότης** munerarius.
-
-**\*δωροκόπος** munerator.
-
-**δωροκοπῶ** munero.
-
-**δῶρον** donum, munus, munusculum, - στρατιώταις donativum. *Cf.
-μετανοώ. **όωροϋμαε*** dono, munero, -ηθέντα dono collato.
-
-ἔά hem, ἔα ἔα em (he, em; *cf.* hem).
-
-**ἐάν** an, aut, si, sin, - δέ an, ast, - δέ τις ac si quis, - μὲν οὖν
-siquidem, - μή nisi, - εἴπω *etc.* si dicam *etc.*
-
-***εαρ*** ver. ***V. ωρα.***
-
-***έα(μνός*** vernus. ***V.*** ἰσημερία, καιρός, τροπή.
-
-**έαυτοῦ** *etc.* sui, suimet, suus, sibimet, sibimet ipsi, semet, semet
-ipsum, suamet, suamet ipsa, δι' ἑαυτοῦ per se, per semet ipsum, καθ'
-ἑαυτόν in se, secum, μεθ' ἑαυτοῦ *etc.* secum, παρ' ἑαυτῷ apud me (a.
-se). *Cf. ί\'δι,ος. **έβΰομάς** (Eins.)* hebdomada. *Cf.* septem,
-**ἑβδόμη** septima.
-
-**ἐγγαιος** *et **-ειος*** terrester, -α κτήματα praedium (-a).
-
-Corp. gloss. lat. tom. VII. fasc. II.
-
-**ἐγγαμίζω ἐγγειος υ. ἐγγελῶ irrideo, ἐγγίζω appropinquo, propinquo.**
-
-**ἔγγιστα iuxta, prope** *(et* **proxime), εἰς τὸ - propior
-(proximum).**
-
-**ἔγγιστος propinquus, propior (proxi- mus).**
-
-**ἐγγλυκάζον sucidum.**
-
-**ἐγγλυκαίνω in dulco.**
-
-**\*εγγλυφα caelatum (-a), ἐγγλύφω caelo, insculpo.**
-
-**\*ἔγγομος onustus.**
-
-**ἐγγόνη neptis. *V, άνήρ.***
-
-***εγγονος* nepos, -ot posterus (-i).** *Cf, γαμ,ετη.*
-
-**\*ἐγγραφεύς descriptor.**
-
-**33**
-
-<pb n="VII.503" facs="7.503.jpg"></pb>
-**δύσοσμον** foetidum.
-
 **\*δυσουρητικά** *cf.* dysuretica.
 
 **δυσουρία** substillum. *Cf.* dysuria.
@@ -11325,7 +11176,6 @@ gratia (-tis).
 
 **δωροῦμαι** dono, munero, -ηθέντα dono collato.
 
-<pb n="VII.503" facs="7.503.jpg"></pb>
 **ἔά** hem, **ἔα** **ἔα** em (he, em; *cf.* hem).
 
 **ἔα** hem, ἔα ἔα em (he, em; *cf.* hem).
@@ -12448,7 +12298,7 @@ ectasis (*expl.* productio syllabae).
 **ἐκτάσσω** delego.
 
 **ἐκτείνω** affecto, detendo, extendo, porrigo, produco; ἐκτεταμένος
-elatus, porrectus, productus, proiectus 2., protentus****, -ην ἐπὶ
+elatus, porrectus, productus, proiectus 2., protentus, -ην ἐπὶ
 χρόνου propagatam.
 
 **ἐκτελῶ** efficio, perficio, -ῶν persolvens, -έσας emensus, -ισθείς
@@ -16558,7 +16408,7 @@ gratulatio. *Cf.* eucharistia.
 v.* feriae), votum, - ὅ τάττεταί τις θεῷ votum, κατ' -ήν ex voto. *Cf.*
 ἐπαγγέλλομαι, ἐπιτυγχάνω.
 
-***εὔχομαι*** devoveo, opto, precor, voveo. *Cf.* antiquare.
+**εὔχομαι** devoveo, opto, precor, voveo. *Cf.* antiquare.
 
 **\*εὐχοχόος** *cf.* euchochous (*expl.* orationem fundens).
 
@@ -16785,8 +16635,6 @@ tertio, - ὡδε usque eo, usque hic, - θερμόν ἐστι dum calet.
 
 **ἑωσφόρος** (ἀστήρ) lucifer.
 
-**Ζ**
-
 **ζάκοτος** iracundus.
 
 **ζάκουρος** antistes.
@@ -16903,7 +16751,7 @@ tractus.
 
 **ζμίλη** scalpellum, scalpulus. *V.* σμίλα.
 
-**ζμυρ*- ****v.* σμυρ-.
+**ζμυρ-** *v.* σμυρ-.
 
 **ζμύραινα** *v.* μύραινα.
 
@@ -17052,8 +16900,6 @@ praecinctus 1. (-a).
 **ζῶστρον:** -α (*an* ζώστρα?) cinctura, cingulum (gingla).
 
 **ζωτικός** vitalis, vivalis, vividus.
-
-**Η**
 
 **ἤ** an, aut, quam, ve, vel, - οὐ necne, - τί quidve. *Cf.* ἦ, ἤτοι,
 πρίν.
@@ -18235,8 +18081,6 @@ impetratus 1., sacer (-crum), sacrificium, sanctus (-um), victima, -
 
 **θώψ** ambitiosus, blandus, φωνῇ - bubo.
 
-I.
-
 **ἴαμα** remedium, sanitas.
 
 **\*ιαμας** iuridicus.
@@ -18914,7 +18758,7 @@ aspersus. *Cf.* ζωγρεῖον, κύημα, λεπίς, φολίς, κολυ�
 
 **ἰχνευτής** investigator, sagax, vestigator. *Cf.* κύων.
 
-***ἰχνεύω*** hittio, vestigo.
+**ἰχνεύω** hittio, vestigo.
 
 **ἰχνηλατῶ** indago 2.
 
@@ -18935,8 +18779,6 @@ aspersus. *Cf.* ζωγρεῖον, κύημα, λεπίς, φολίς, κολυ�
 **\*ιων ιων** eho, heus.
 
 **Ἰώνικόν** πέλαγος (*Eins.*) Ionicum mare.
-
-Κ.
 
 **καβάλλης** μηχανικός cantherius.
 
@@ -22875,9 +22717,7 @@ prohibiti.
 
 **κωμαστής** lascivus, procax.
 
-**κώμη** castellum, viculus, vicus, villa (*cf.*
-
-*p.* 438). *Cf.* οἰκονόμος.
+**κώμη** castellum, viculus, vicus, villa (*cf. p.* 438). *Cf.* οἰκονόμος.
 
 **κωμηδόν** vicatim.
 
@@ -22942,8 +22782,6 @@ muscarum, basterna vel sella Alexandrina, stragulum vel superlectile).
 **\*κώφαγρος** ruppo rusco, rusco. *Cf.* κοίαγρος.
 
 **κωφός** mutus, surdus.
-
-Λ.
 
 **λαβή** ansa, capulum, manubrium, - ἀσπίδος arduus (*cf. etiam*
 ancyla), - δακτύλου acerrale (*v. p.* 434), - μαχαίρας *et* μαχαιρίου
@@ -24087,9 +23925,8 @@ p.* 438), λελυμένη τοὺς πλοκάμους passa crines. *Cf.* �
 domesticum; λωτόν III, 264, 62 *s. interpr.*, *cf.* lotus *s. f.*
 
 **λωφῶ** requiesco.
-<pb n="VII.575" facs="7.575.jpg"></pb>
-Μ.
 
+<pb n="VII.575" facs="7.575.jpg"></pb>
 **μὰ** τόν per.
 
 **μάγγανον** manganum, - πολεμικόν ballista, tormentum.
@@ -25808,7 +25645,7 @@ ferreus (*et* vectis), - θύρας sera, - ληνοῦ pertica, - λιθουρ�
 
 **μυθάρι(ο)ν** fabella, fabula.
 
-***μυθεύομαι*** fabulor (-o).
+**μυθεύομαι** fabulor (-o).
 
 **μυθολογία** fabellatio, fabularum ratio (*cf.* mythologia).
 
@@ -25889,8 +25726,8 @@ caraborum).
 
 **μυοσόβιον** *v.* μυιοσόβιον.
 
-**μύραινα** (ὁ ἰχθύς) *et* **\*μυρήνη** (*Eins.*) *et* **σμυρ*- ****et*
-**ζμνρ-** murena.
+**μύραινα** (ὁ ἰχθύς) *et* **\*μυρήνη** (*Eins.*) *et* **σμυρ-** *et*
+**ζμυρ-** murena.
 
 **μυρεψικόν** myrobalanus, *cf.* myrepsica (*expl.* unguentaria).
 
@@ -26047,8 +25884,6 @@ ingeniosus, fatuus).
 **μωρῶς** absurde, inepte. *Cf.* morus 2. (moro *expl.* fatue.
 
 **μῶχος** *v.* μῶκος.
-
-N.
 
 **\*ναβλίζω (?)** *cf.* nablizo (*expl.* psallo).
 
@@ -26636,9 +26471,8 @@ tergo), κατὰ -ον de tergo.
 **νωχελής** segnis, vinnicus.
 
 **νωχελῶς:** ποσῶς νωχελέστερον aliquo setius.
-<pb n="VII.590" facs="7.590.jpg"></pb>
-Ξ
 
+<pb n="VII.590" facs="7.590.jpg"></pb>
 **ξαίνω** carmino, carpo, puto 2., - ἐπὶ ἐρίου carmino.
 
 **ξανθίζω** irrubio.
@@ -26828,8 +26662,6 @@ princeps).
 **ξυστρωτά** instriata, striata (*et* striglata *sim.*).
 
 **ξύω** rado, strigo, κεξυσμένος rasus.
-
-O.
 
 **ὁ:** - αὐτός idem, idemque, is, - δέ at ille, - δεῖνα ille, μετὰ τὸ
 postquam, πρὸ τοῦ ante, antequam, τῇ ἄνω *v.* ἄνω.
@@ -33796,9 +33628,7 @@ rutilus. *Cf.* θρίξ.
 
 **\*πωγωνοκουρία** barbatoria.
 
-**πῶλος** equleus, pullus, veredus. *Cf.*
-
-ὀγκῶμαι.
+**πῶλος** equleus, pullus, veredus. *Cf.* ὀγκῶμαι.
 
 **πωλοτρόφος** II, 426, 57 *s. interpr.*
 
@@ -33827,8 +33657,6 @@ veretri).
 **πως:** εἴ πως siquis (siqua), siquo modo (siquo modo usquam).
 
 **πῶυ** grex.
-
-P.
 
 **ῥαβδίζω** fustigo, virgis caedo.
 
@@ -34250,8 +34078,6 @@ vividus.
 **ῥῶπος** purgamentum, - ὁ παντοῖος φόρτος II, 429, 18 *s. interpr.*
 
 **ῥῶσις** incolumitas, sanitas, valetudo.
-
-Σ.
 
 **Σαβάδιος** Sabadius.
 
@@ -37858,8 +37684,6 @@ cumulus, - γῆς agger, rudus, - λίθων ἢ ξύλων congeries, - ξύλ
 
 **σώφρων** castus, disertus, modestus, pudicus, sobrius, οὐ - insaniens.
 
-Τ.
-
 **\*ταβερνοδύτης** ganeo 1, sabinario.
 
 **τάβλα** tabula. *Cf.* μονόχωρος.
@@ -38318,7 +38142,7 @@ et dolor cervicis, vulnus, putredo vel retrotensio).
 
 **τετράπους:** -ποδες quadriga (-ae). *Cf.* ἀγωγή, σηκός.
 
-***τετράπτωτος** cf.* tetraptota (*expl.* quattuor casuum varietas).
+**τετράπτωτος** *cf.* tetraptota (*expl.* quattuor casuum varietas).
 
 **τετράπυλον** quadrivium.
 
@@ -38665,7 +38489,7 @@ monendum erat* \*\*sectio *in cod. esse*; *an* resectio?). *Cf.* tomen
 
 **\*τόμιος** maialis. *Cf.* πρόβατον.
 
-***τόμος*** divisio, frustum, quadra II, 457, 8 *s. interpr.*, *cf.*
+**τόμος** divisio, frustum, quadra II, 457, 8 *s. interpr.*, *cf.*
 tomus (*expl.* carta, incisio, divisio, liber), - βιβλίων *et* χάρτου
 scapus.
 
@@ -39444,8 +39268,6 @@ fortuito, κατὰ -ην forte, fortuito, κατὰ -ην τινά casus (casu
 **τύχος** *cf.* margus.
 
 **\*τύχω** consequor (-o).
-
-T.
 
 **ὕαινα** belua, *cf.* hyaena (*expl.* nocturnum monstrum similis cani
 *sim.*).
@@ -40670,8 +40492,6 @@ summus, superus, θεοὶ -οι dii summi, Ὑψίστη Suadala.
 
 **ὕω** pluo.
 
-Φ.
-
 **φάβα** faba, faberrae, φάβατος κόκκος fabatrum.
 
 **φαγεδαινικός** *cf.* fagedinicus (*expl.* -ὄρεξις, βούλιμος). *Cf.*
@@ -41622,9 +41442,8 @@ lucem portans), III, 242, 21 *s. interpr.*, Ἄρτεμις - Diana lucifera,
 **φωτιστήρια:** διαφανῆ - λυχνικά luminaria.
 
 **πεφ** \*\*\*\*\*tus II, 406, 43.
-<pb n="VII.678" facs="7.678.jpg"></pb>
-X.
 
+<pb n="VII.678" facs="7.678.jpg"></pb>
 **χαίνω** *et* κέχηνα hisco, χαίνων hiaus. *Cf.* χάσκω.
 
 **χαιρέφυλλον** *v.* κηρίφυλλον.
@@ -43057,8 +42876,6 @@ quadras).
 **ψωρός** scaber, scabiosus.
 
 **ψώχω** stringo.
-
-Ω.
 
 **ὤ:** ὤμοι vae (vae mihi), ὢ πόποι attat.
 

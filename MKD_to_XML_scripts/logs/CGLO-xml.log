@@ -693,70 +693,52 @@ INFO:root:Adding XML attributes to C:\Users\adamg\cglo-git\XML/CGLO.26.Graeco-La
 INFO:root:Error: no <form> tag in paragraph at line 1056
 INFO:root:Error: no <form> tag in paragraph at line 2394
 INFO:root:Error: no <form> tag in paragraph at line 3990
-INFO:root:Error: no <form> tag in paragraph at line 6178
-INFO:root:Error: no <form> tag in paragraph at line 7150
-INFO:root:Error: no <form> tag in paragraph at line 7956
-INFO:root:Error: no <form> tag in paragraph at line 8174
-INFO:root:Error: no <form> tag in paragraph at line 8272
-INFO:root:Error: no <form> tag in paragraph at line 9350
-INFO:root:Error: no <form> tag in paragraph at line 9706
-INFO:root:Error: no <form> tag in paragraph at line 10158
-INFO:root:Error: no <form> tag in paragraph at line 10170
-INFO:root:Upper-case sublemma (Εἰλήθυια at page VII.506, line 10658)?
-INFO:root:Error: no <form> tag in paragraph at line 10980
-INFO:root:Error: no <form> tag in paragraph at line 11000
-INFO:root:Error: no <form> tag in paragraph at line 11850
-INFO:root:Error: no <form> tag in paragraph at line 12360
-INFO:root:Error: no <form> tag in paragraph at line 12894
-INFO:root:Error: no <form> tag in paragraph at line 14120
-INFO:root:Error: no <form> tag in paragraph at line 14298
-INFO:root:Upper-case sublemma (Ἔρως at page VII.528, line 14302)?
-INFO:root:Upper-case sublemma (Ἑστία at page VII.528, line 14350)?
-INFO:root:Error: no <form> tag in paragraph at line 14352
-INFO:root:Error: no <form> tag in paragraph at line 14914
-INFO:root:Error: no <form> tag in paragraph at line 14930
-INFO:root:Error: no <form> tag in paragraph at line 15580
-INFO:root:Error: no <form> tag in paragraph at line 16592
-INFO:root:Error: no <form> tag in paragraph at line 17216
-INFO:root:Upper-case sublemma (Καπιτ. at page VII.550, line 17790)?
-INFO:root:Error: no <form> tag in paragraph at line 18706
-INFO:root:Error: no <form> tag in paragraph at line 20652
-INFO:root:Error: no <form> tag in paragraph at line 20818
-INFO:root:Error: no <form> tag in paragraph at line 20882
-INFO:root:Error: no <form> tag in paragraph at line 20926
-INFO:root:Upper-case sublemma (Λήμνιος at page VII.571, line 21370)?
-INFO:root:Error: no <form> tag in paragraph at line 21902
-INFO:root:Error: no <form> tag in paragraph at line 22926
-INFO:root:Error: no <form> tag in paragraph at line 23682
-INFO:root:Error: no <form> tag in paragraph at line 24380
-INFO:root:Error: no <form> tag in paragraph at line 25606
-INFO:root:Error: no <form> tag in paragraph at line 25752
-INFO:root:Error: no <form> tag in paragraph at line 27600
-INFO:root:Error: no <form> tag in paragraph at line 27798
-INFO:root:Error: no <form> tag in paragraph at line 28064
-INFO:root:Error: no <form> tag in paragraph at line 28542
-INFO:root:Error: no <form> tag in paragraph at line 28544
-INFO:root:Upper-case sublemma (Πρίηπος at page VII.622, line 29070)?
-INFO:root:Error: no <form> tag in paragraph at line 30470
-INFO:root:Error: no <form> tag in paragraph at line 30526
-INFO:root:Error: no <form> tag in paragraph at line 30582
-INFO:root:Error: no <form> tag in paragraph at line 30610
-INFO:root:Error: no <form> tag in paragraph at line 30666
-INFO:root:Error: no <form> tag in paragraph at line 30676
-INFO:root:Error: no <form> tag in paragraph at line 30722
-INFO:root:Error: no <form> tag in paragraph at line 30996
-INFO:root:Upper-case sublemma (Σέραπις at page VII.635, line 31102)?
-INFO:root:Upper-case sublemma (Σειρῆναι at page VII.635, line 31190)?
-INFO:root:Error: no <form> tag in paragraph at line 31238
-INFO:root:Error: no <form> tag in paragraph at line 31372
-INFO:root:Error: no <form> tag in paragraph at line 31894
-INFO:root:Error: no <form> tag in paragraph at line 34200
-INFO:root:Error: no <form> tag in paragraph at line 34444
-INFO:root:Error: no <form> tag in paragraph at line 34504
-INFO:root:Error: no <form> tag in paragraph at line 35562
-INFO:root:Error: no <form> tag in paragraph at line 36658
-INFO:root:Error: no <form> tag in paragraph at line 37880
-INFO:root:Error: no <form> tag in paragraph at line 38774
+INFO:root:Error: no <form> tag in paragraph at line 8168
+INFO:root:Error: no <form> tag in paragraph at line 8266
+INFO:root:Error: no <form> tag in paragraph at line 9344
+INFO:root:Error: no <form> tag in paragraph at line 9700
+INFO:root:Upper-case sublemma (Εἰλήθυια at page VII.506, line 10526)?
+INFO:root:Error: no <form> tag in paragraph at line 10848
+INFO:root:Error: no <form> tag in paragraph at line 10868
+INFO:root:Error: no <form> tag in paragraph at line 11718
+INFO:root:Error: no <form> tag in paragraph at line 12228
+INFO:root:Error: no <form> tag in paragraph at line 12762
+INFO:root:Error: no <form> tag in paragraph at line 13988
+INFO:root:Error: no <form> tag in paragraph at line 14166
+INFO:root:Upper-case sublemma (Ἔρως at page VII.528, line 14170)?
+INFO:root:Upper-case sublemma (Ἑστία at page VII.528, line 14218)?
+INFO:root:Error: no <form> tag in paragraph at line 14220
+INFO:root:Error: no <form> tag in paragraph at line 14782
+INFO:root:Error: no <form> tag in paragraph at line 14798
+INFO:root:Error: no <form> tag in paragraph at line 15444
+INFO:root:Upper-case sublemma (Καπιτ. at page VII.550, line 17650)?
+INFO:root:Error: no <form> tag in paragraph at line 18566
+INFO:root:Error: no <form> tag in paragraph at line 20512
+INFO:root:Error: no <form> tag in paragraph at line 20782
+INFO:root:Upper-case sublemma (Λήμνιος at page VII.571, line 21226)?
+INFO:root:Error: no <form> tag in paragraph at line 21758
+INFO:root:Error: no <form> tag in paragraph at line 22782
+INFO:root:Error: no <form> tag in paragraph at line 25458
+INFO:root:Error: no <form> tag in paragraph at line 25604
+INFO:root:Error: no <form> tag in paragraph at line 27452
+INFO:root:Error: no <form> tag in paragraph at line 27650
+INFO:root:Error: no <form> tag in paragraph at line 27916
+INFO:root:Error: no <form> tag in paragraph at line 28394
+INFO:root:Error: no <form> tag in paragraph at line 28396
+INFO:root:Upper-case sublemma (Πρίηπος at page VII.622, line 28922)?
+INFO:root:Error: no <form> tag in paragraph at line 30322
+INFO:root:Error: no <form> tag in paragraph at line 30378
+INFO:root:Error: no <form> tag in paragraph at line 30514
+INFO:root:Error: no <form> tag in paragraph at line 30524
+INFO:root:Error: no <form> tag in paragraph at line 30570
+INFO:root:Upper-case sublemma (Σέραπις at page VII.635, line 30948)?
+INFO:root:Upper-case sublemma (Σειρῆναι at page VII.635, line 31036)?
+INFO:root:Error: no <form> tag in paragraph at line 31084
+INFO:root:Error: no <form> tag in paragraph at line 31218
+INFO:root:Error: no <form> tag in paragraph at line 31740
+INFO:root:Error: no <form> tag in paragraph at line 34288
+INFO:root:Error: no <form> tag in paragraph at line 34348
+INFO:root:Error: no <form> tag in paragraph at line 37720
 INFO:root:Adding XML attributes to C:\Users\adamg\cglo-git\XML/CGLO.27.Anglosaxonicus.xml
 INFO:root:Upper-case sublemma (EA at page VII.697, line 1136)?
 INFO:root:Upper-case sublemma (E at page VII.711, line 3376)?

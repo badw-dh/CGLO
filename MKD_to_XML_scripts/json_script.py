@@ -86,6 +86,11 @@ def lemma_dict_to_json(lemma_list):
     counter = 1
 
     for item in lemma_list:
+        # Disregard addenda I and II since material is repeated in Addenda III
+        section = item["id"].split("-")[0]
+        if section == "corr_I" or section == "corr_II":
+            continue
+
         lemma = rename_corrigenda(item)  # add [CORR] or [ADD] to corrigenda lemmata
         lemma = remove_parentheses(lemma)  # delete all parenthesis except (?) and (!)
         lemma = escape(lemma)

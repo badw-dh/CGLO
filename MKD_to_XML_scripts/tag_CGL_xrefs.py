@@ -278,7 +278,8 @@ def invalid_source_precedes(prior_text):
     INVALID_SOURCES = (' L', 'Isid', 'epist', 'Oros', 'Ien', 'Epi', 'Verg',
     'carm', 'Sat', 'Aen', 'Gell', 'Ecl', 'GL', 'Aurel', 'inst', ' ep', 'Eun',
     'sat', 'Hor', ' ac', 'Quint', 'dial', ' Ep', 'Max', 'Carm', 'off', 'Trist',
-    'Colum', 'Is', 'Orig', 'Hor. c', 'hist', 'Anthol. l', 'rer', 'de re r', 'Hec')
+    'Colum', 'Is', 'Orig', 'Hor. c', 'hist', 'Anthol. l', 'rer', 'de re r',
+    'Hec', 'Val')
 
     try:
         split_prior_text = prior_text.split('.')
