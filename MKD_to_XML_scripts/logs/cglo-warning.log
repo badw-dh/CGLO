@@ -1084,16 +1084,6 @@ Discarded xref 16, 19 without prev. xref in: = <emph>Luc.</emph> 16, 19
 Discarded xref 52, 24 without prev. xref in: ucher. form.</emph> 52, 24
 Discarded xref 27, 4 without prev. xref in: ph>Isid.</emph> XIX 27, 4
 Discarded xref 26, 1 without prev. xref in:  Vulg. Exod.</emph> 26, 1
-Discarded xref 86, 11 without prev. xref in: <emph>= Non.</emph> 86, 11
-Discarded POSS_LINE_REF  1; in: τρα III 193, 70/194, 1; 403, 59. <emph
-Discarded xref 403, 59 without prev. xref in: III 193, 70/194, 1; 403, 59. <emph>Cf.</em
-Discarded xref I 34, 5 after invalid source in: ph>Cf. Isid.</emph> I 34, 5; <emph>GR. L.<
-Discarded xref IV 394, 32 after invalid source in: <emph>GR. L.</emph> IV 394, 32; V 293, 14.
-Discarded xref V 293, 14 after invalid source in: </emph> IV 394, 32; V 293, 14.
-Discarded xref IV 395, 18 after invalid source in: ph>Cf. GB L.</emph> IV 395, 18.
-Discarded xref 45, 16 without prev. xref in: tus Pauli p.</emph> 45, 16; 225, 8; <emph
-Discarded xref 225, 8 without prev. xref in: i p.</emph> 45, 16; 225, 8; <emph>Loewe P
-Discarded xref 39, 3 without prev. xref in: tus Pauli p.</emph> 39, 3; <emph>Ritschl
 Processing CGLO.03.C.mkd
 Discarded xref 86, 11 without prev. xref in: <emph>= Non.</emph> 86, 11
 Discarded POSS_LINE_REF  1; in: τρα III 193, 70/194, 1; 403, 59. <emph
@@ -3178,8 +3168,6 @@ Discarded xref 95, 10 without prev. xref in: st. Pauli p.</emph> 95, 10
 Discarded xref VII 431, 7 after invalid source in: h>Cf. GR. L.</emph> VII 431, 7.
 Discarded xref 27, 25 without prev. xref in: om. sacra p.</emph> 27, 25
 Xref I 581, 33 has an invalid volume number.
-Discarded xref V 419, 40 after invalid source in: l. hist.</emph> I 1 V 419, 40 = 428, 20.
-Discarded xref 428, 20 without prev. xref in: ph> I 1 V 419, 40 = 428, 20.
 Discarded xref 119, 16 without prev. xref in: = <emph>Non.</emph> 119, 16
 Discarded xref 705, 53 without prev. xref in: rab. lat. p.</emph> 705, 53 Vulc. (<emph>u
 Discarded POSS_LINE_REF  72; in: 1896 <emph>p.</emph> 72; <emph>Schuchar
@@ -7642,7 +7630,7 @@ Discarded xref VII 425, 1 after invalid source in: ph>et GR. L.</emph> VII 425, 
 Discarded xref IV 567, 15 after invalid source in: h>cf. GR. L.</emph> IV 567, 15
 Discarded xref 437, 20 without prev. xref in: ; <emph>Non.</emph> 437, 20
 Discarded POSS_LINE_REF  36; in: m> ὑαλουργός II 461; 36; III 371, 32. <
-Discarded xref 14, 15 without prev. xref in: IVon. 14, 15
+Discarded xref 14, 15 without prev. xref in: 15
 Discarded POSS_LINE_REF  84. in:  Loewe GL. N.</emph> 84.
 Discarded xref 39, 14 without prev. xref in: 14
 Discarded xref 376, 15 without prev. xref in: f. Festus p.</emph> 376, 15.
@@ -9946,16 +9934,6 @@ Discarded xref IV 395, 18 after invalid source in: ph>Cf. GB L.</emph> IV 395, 1
 Discarded xref 45, 16 without prev. xref in: tus Pauli p.</emph> 45, 16; 225, 8; <emph
 Discarded xref 225, 8 without prev. xref in: i p.</emph> 45, 16; 225, 8; <emph>Loewe P
 Discarded xref 39, 3 without prev. xref in: tus Pauli p.</emph> 39, 3; <emph>Ritschl
-Discarded xref 86, 11 without prev. xref in: <emph>= Non.</emph> 86, 11
-Discarded POSS_LINE_REF  1; in: τρα III 193, 70/194, 1; 403, 59. <emph
-Discarded xref 403, 59 without prev. xref in: III 193, 70/194, 1; 403, 59. <emph>Cf.</em
-Discarded xref I 34, 5 after invalid source in: ph>Cf. Isid.</emph> I 34, 5; <emph>GR. L.<
-Discarded xref IV 394, 32 after invalid source in: <emph>GR. L.</emph> IV 394, 32; V 293, 14.
-Discarded xref V 293, 14 after invalid source in: </emph> IV 394, 32; V 293, 14.
-Discarded xref IV 395, 18 after invalid source in: ph>Cf. GB L.</emph> IV 395, 18.
-Discarded xref 45, 16 without prev. xref in: tus Pauli p.</emph> 45, 16; 225, 8; <emph
-Discarded xref 225, 8 without prev. xref in: i p.</emph> 45, 16; 225, 8; <emph>Loewe P
-Discarded xref 39, 3 without prev. xref in: tus Pauli p.</emph> 39, 3; <emph>Ritschl
 Discarded xref VII 108, 11 after invalid source in: h>cf. GR. L.</emph> VII 108, 11
 Discarded POSS_LINE_REF  8. in: Apul. Met. VI</emph> 8.
 Discarded xref 91, 1 without prev. xref in: <emph>= Non.</emph> 91, 1
@@ -12025,8 +12003,6 @@ Discarded xref 95, 10 without prev. xref in: st. Pauli p.</emph> 95, 10
 Discarded xref VII 431, 7 after invalid source in: h>Cf. GR. L.</emph> VII 431, 7.
 Discarded xref 27, 25 without prev. xref in: om. sacra p.</emph> 27, 25
 Xref I 581, 33 has an invalid volume number.
-Discarded xref V 419, 40 after invalid source in: l. hist.</emph> I 1 V 419, 40 = 428, 20.
-Discarded xref 428, 20 without prev. xref in: ph> I 1 V 419, 40 = 428, 20.
 Discarded xref 119, 16 without prev. xref in: = <emph>Non.</emph> 119, 16
 Discarded xref 705, 53 without prev. xref in: rab. lat. p.</emph> 705, 53 Vulc. (<emph>u
 Discarded POSS_LINE_REF  72; in: 1896 <emph>p.</emph> 72; <emph>Schuchar
@@ -16473,7 +16449,7 @@ Discarded xref VII 425, 1 after invalid source in: ph>et GR. L.</emph> VII 425, 
 Discarded xref IV 567, 15 after invalid source in: h>cf. GR. L.</emph> IV 567, 15
 Discarded xref 437, 20 without prev. xref in: ; <emph>Non.</emph> 437, 20
 Discarded POSS_LINE_REF  36; in: m> ὑαλουργός II 461; 36; III 371, 32. <
-Discarded xref 14, 15 without prev. xref in: IVon. 14, 15
+Discarded xref 14, 15 without prev. xref in: 15
 Discarded POSS_LINE_REF  84. in:  Loewe GL. N.</emph> 84.
 Discarded xref 39, 14 without prev. xref in: 14
 Discarded xref 376, 15 without prev. xref in: f. Festus p.</emph> 376, 15.
@@ -17676,3 +17652,86 @@ Discarded POSS_LINE_REF  1. in: bot</form> delibutus 1.
 Discarded xref 186, 18 without prev. xref in: /form> anethum III, 186, 18 <emph>cod. alt
 Discarded xref 2, 47 without prev. xref in: > Ps. Acr. Hor. ep. 2, 47 huius anni, qu
 Discarded xref 503, 23 without prev. xref in: 
+Xref I 2, 15 has an invalid volume number.
+Xref VII 108, 1 has an invalid volume number.
+No named glossary found for xref II 747, 5.
+No named glossary found for xref V 955, 21.
+No named glossary found for xref IV 627, 47.
+No named glossary found for xref II 1, 2.
+No named glossary found for xref II 1, 2.
+Xref I 5, 25 has an invalid volume number.
+Xref I 6, 21 has an invalid volume number.
+No named glossary found for xref II 2, 3.
+Xref I 19, 7 has an invalid volume number.
+No named glossary found for xref II 1, 1.
+No named glossary found for xref II 1, 1.
+No named glossary found for xref IV 658, 31.
+No named glossary found for xref IV 658, 32.
+No named glossary found for xref II 2, 3.
+No named glossary found for xref II 1, 2.
+Xref VII 3, 5 has an invalid volume number.
+Xref I 14, 2 has an invalid volume number.
+Xref I 2, 26 has an invalid volume number.
+Xref I 22, 7 has an invalid volume number.
+Xref I 2, 72 has an invalid volume number.
+Xref I 2, 57 has an invalid volume number.
+Xref I 4, 6 has an invalid volume number.
+No named glossary found for xref V 1, 19.
+Xref I 26, 55 has an invalid volume number.
+Xref I 581, 33 has an invalid volume number.
+Xref I 497, 6 has an invalid volume number.
+Xref I 29, 15 has an invalid volume number.
+Xref I 3, 21 has an invalid volume number.
+No named glossary found for xref II 1, 2.
+Xref I 27, 6 has an invalid volume number.
+Xref I 9, 7 has an invalid volume number.
+Xref I 6, 64 has an invalid volume number.
+No named glossary found for xref II 2, 102.
+Xref I 28, 21 has an invalid volume number.
+Xref I 15, 1 has an invalid volume number.
+Xref I 16, 60 has an invalid volume number.
+Xref I 1, 87 has an invalid volume number.
+No named glossary found for xref II 2, 209.
+Xref VI 8, 1 has an invalid volume number.
+Xref VII 2, 6 has an invalid volume number.
+No named glossary found for xref II 1, 2.
+Xref I 37, 4 has an invalid volume number.
+Xref VI 4, 4 has an invalid volume number.
+Xref VII 11, 8 has an invalid volume number.
+Xref VI 3, 5 has an invalid volume number.
+Xref VII 2, 13 has an invalid volume number.
+Xref I 1, 13 has an invalid volume number.
+Xref I 2, 18 has an invalid volume number.
+No named glossary found for xref II 1, 2.
+No named glossary found for xref II 1, 70.
+Xref I 17, 59 has an invalid volume number.
+No named glossary found for xref II 621, 72.
+Xref I 1, 51 has an invalid volume number.
+No named glossary found for xref II 1, 2.
+Xref I 554, 25 has an invalid volume number.
+No named glossary found for xref II 1, 2.
+No named glossary found for xref III 2, 10.
+No named glossary found for xref II 1, 1.
+No named glossary found for xref II 1, 1.
+No named glossary found for xref IV 1, 13.
+No named glossary found for xref II 1, 2.
+Xref I 3, 5 has an invalid volume number.
+No named glossary found for xref II 2, 27.
+No named glossary found for xref II 619, 35.
+Xref I 1, 25 has an invalid volume number.
+No named glossary found for xref II 1, 28.
+No named glossary found for xref III 1, 41.
+Xref I 4, 14 has an invalid volume number.
+Xref I 553, 12 has an invalid volume number.
+No named glossary found for xref IV 2, 16.
+Xref I 3, 44 has an invalid volume number.
+Xref I 6, 38 has an invalid volume number.
+Xref I 7, 16 has an invalid volume number.
+Xref I 1, 106 has an invalid volume number.
+Xref I 4, 2 has an invalid volume number.
+No named glossary found for xref II 648, 4.
+Xref I 10, 21 has an invalid volume number.
+No named glossary found for xref V 2, 16.
+Xref I 10, 36 has an invalid volume number.
+No named glossary found for xref IV 993, 22.
+Xref I 15, 54 has an invalid volume number.

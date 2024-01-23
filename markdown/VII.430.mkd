@@ -1,31 +1,31 @@
-**Vulgaris** κοινός, λεώδης, χυδαῖος II 212, 48 (uulgare *cod. corr.
+**Uulgaris** κοινός, λεώδης, χυδαῖος II 212, 48 (uulgare *cod. corr.
 e*). κοινός II 560, 10 (*suppl. Boysen*); III 467, 5; 496, 34 (iginus).
 δημότης II 269, 50; III 274, 65. communis II 597, 42. **uulgare**
 adsiduum, cottidianum IV 427, 11.
 
-**Vulgatus** περίπυστος II 404, 20 (ligatus *e*). τεθρυλημένος II 452,
+**Uulgatus** περίπυστος II 404, 20 (ligatus *e*). τεθρυλημένος II 452,
 32. διατεθρυλημένος II 211, 20 (uu *et* uo). **uulgatum** δεδημευμένον,
 διαπεφημισμένον II 212, 45. omnibus patefactum IV 196, 53. **uulgata**
 in notitita\<m\> data IV 297, 11. manifestata V 337, 14.
 
-**Vulgellus** δελφίν III 318, 7; 514, 18.
+**Uulgellus** δελφίν III 318, 7; 514, 18.
 
-**Vulgenarius** μοιλπολης (μολγοπώλης *Vulc.* unguentarius μυροπώλης
+**Uulgenarius** μοιλπολης (μολγοπώλης *Vulc.* unguentarius μυροπώλης
 *H.*) III 367, 34.
 
-**Vulgi oro ... potest (?)** V 664, 66.
+**Uulgi oro ... potest (?)** V 664, 66.
 
-**Vulgo** θρυλῶ II 329, 35. φημίζω II 470, 44. **uulgare** omnibus
+**Uulgo** θρυλῶ II 329, 35. φημίζω II 470, 44. **uulgare** omnibus
 patefacere IV 580, 34. **uulgauit** uulgo praebuit V 648, 31 (*Non.*
 182, 23). **uulgatur** diffunditur IV 196, 52. **uulgatum est**
 manifestatum est IV 580, 35. *V.* ualabit.
 
-**Vulgus** δῆμος II 269, 38. πλῆθος (uulgus singulariter tantum
+**Uulgus** δῆμος II 269, 38. πλῆθος (uulgus singulariter tantum
 declinabitur) II 409, 35 (*GR. L.* I 21, 15). δῆμος καὶ λαός III 274, 60
 (*unde*?). οἱ πολλοί III 274, 61 (*unde*?). ὄχλος II 528, 31.
-regulariter generis masculini est. Virgilius (*Aen.* II 99) uero posuit
+regulariter generis masculini est. Uirgilius (*Aen.* II 99) uero posuit
 et neutraliter *Plac.* V 103, 11. nota masculini generis magis esse quam
-neutri. Virgilius (*l. s. s.*): spargere uoces in uulgum. et masculini
+neutri. Uirgilius (*l. s. s.*): spargere uoces in uulgum. et masculini
 generis esse oportere indicat casus genitiuus singularis totidem
 syllabis quot nominatiuus in hoc genere *Plac.* V 103, 12. populus IV
 427, 10. plebs V 337, 21. populus diuersus IV 197, 1. uilis populus uel
@@ -35,23 +35,23 @@ IV 297, 8. populi, passim uel omnes IV 197, 7. passim, palam aut populus
 plebeius IV 580, 37. passim uel oeghuuaer (*AS.*) V 399, 2. *V.*
 ignobili uulgo, in uulgum.
 
-**Vulgus imperitum** quia generis est neutri V 255, 13.
+**Uulgus imperitum** quia generis est neutri V 255, 13.
 
-**Vulnerarius** [τε]τρωτός III 363, 1 (τιτρ.?).
+**Uulnerarius** [τε]τρωτός III 363, 1 (τιτρ.?).
 
-**Vulneratus** τραυματίας II 212, 52; 458, 20. τετραυματισμένος II 454,
+**Uulneratus** τραυματίας II 212, 52; 458, 20. τετραυματισμένος II 454,
 29.
 
-**Vulnero** τραυματίζω II 458, 21; III 160, 35. τιτρώσκω II 456, 34.
+**Uulnero** τραυματίζω II 458, 21; III 160, 35. τιτρώσκω II 456, 34.
 **uulneras** τραυματίζεις III 160, 36.
 
-**Vulniferus** τραυματοποιός II 458, 22.
+**Uulniferus** τραυματοποιός II 458, 22.
 
-**Vulnificat** uulnera facit IV 196, 51.
+**Uulnificat** uulnera facit IV 196, 51.
 
-**Vulnificus** uulnerator V 583, 7. uulnera faciens V 255, 15.
+**Uulnificus** uulnerator V 583, 7. uulnera faciens V 255, 15.
 
-**Vulnus** τραῦμα II 212, 49; 458, 19; III 29, 56; 160, 37; 206, 10;
+**Uulnus** τραῦμα II 212, 49; 458, 19; III 29, 56; 160, 37; 206, 10;
 296, 49; 343, 32; 363, 52 (δλειμα: *corr. Vulc.* θλῆμα *pro* θλάσμα
 *H.*); 467, 7; 471, 74 (polnus τρῶμα); 565, 28. **uulnus ulnus** (ulcus
 *e*) ἕλκος II 212, 41. **uulnus** ἕλκος III 474, 47; 562, 22. ἀπορία III
@@ -60,45 +60,45 @@ dolor IV 580, 52; V 336, 45. **uulnera** τραύματα III 209, 19; 298, 62.
 morsa apium sunt quibus etiam quae percusserint moriuntur V 255, 14.
 **uulneribus** ictibus IV 470, 47 (*Verg. Aen.* II 630).
 
-**Vulpecula** (-pic- *cod.*) θήλεια ἀλώπηξ II 328, 19 (uulpicula *etiam
+**Uulpecula** (-pic- *cod.*) θήλεια ἀλώπηξ II 328, 19 (uulpicula *etiam
 Not. Tir.* 108, 85). **uulpecula** et **uulpes** ἀλώπηξ II 212, 40.
 
-**Vulpes** ἀλώπηξ III 90, 58; 259, 32. **uulpis** ἀλώπηξ III 18, 45;
+**Uulpes** ἀλώπηξ III 90, 58; 259, 32. **uulpis** ἀλώπηξ III 18, 45;
 189, 57; 361, 28; 488, 4. ἀλωπός III 431, 18. **uulpes** ἀλωπεκία III
 122, 65. **uulpex** uulpes II 597, 43. **uulpes** euiolat (= eiul.),
 \<canis\> gannit II 597, 39. **uulpes** ἀλώπεκες III 551, 36. *V.*
 uulpecula. *Cf. GR. L.* IV 198, 14; VII 112, 4.
 
-**Vulpina** ἀλωπεκία III 316, 64; 507, 32.
+**Uulpina** ἀλωπεκία III 316, 64; 507, 32.
 
-**Vulpinare** fraudes et dolos facere V 648, 36 (*Non.* 46, 23).
+**Uulpinare** fraudes et dolos facere V 648, 36 (*Non.* 46, 23).
 
-**Vulsella** τριχολαβίς, ἀκανθολαβίς II 212, 50. **uolcella**
+**Uulsella** τριχολαβίς, ἀκανθολαβίς II 212, 50. **uolcella**
 τριχολάβιον II 525, 14. **uulsella** *et* **uliella** (= ulsella)
 τριχολαβίς II 459, 57. **bulsella** τριχολάβον (?) III 325, 60.
 σκενδαλον (σχένδυλον *Boucherie*) III 325, 59. **uerselle** τριχολαβίς
 III 207, 64. τριχολαβίδες III 204, 43. **uulsella** forficula II 597,
 40.
 
-**Vulsura** ῥῆγμα II 427, 53. τίλμα II 455, 35; 498, 29. **uolsura**
+**Uulsura** ῥῆγμα II 427, 53. τίλμα II 455, 35; 498, 29. **uolsura**
 sulcus II 597, 34.
 
-**Vulsus** διάσπασις II 274, 18.
+**Uulsus** διάσπασις II 274, 18.
 
-**Vulsus** *v.* luxum 1. **uulsum** ui abstractum IV 297, 7.
+**Uulsus** *v.* luxum 1. **uulsum** ui abstractum IV 297, 7.
 
-**Vultispicium** uultus inspiciendi indicium, quod in uultu agnoscitur
+**Uultispicium** uultus inspiciendi indicium, quod in uultu agnoscitur
 hominis animus *ex cod. S. Genov. adfert Quicherat.*
 
-**Vultuire** *v.* ultuire.
+**Uultuire** *v.* ultuire.
 
-**Vultuosus** tristis IV 403, 37; 297, 32 (ultosus); V 612, 58. tristis
+**Uultuosus** tristis IV 403, 37; 297, 32 (ultosus); V 612, 58. tristis
 uultibus IV 580, 38; V 336, 51. uultibus tristis IV 197, 2. qui semper
 uultum mutat IV 297, 9. qui saepe uultum mutat, id est nunc tristis nunc
 aliter atque aliter V 527, 48; 583, 8. **uultuosum** tristem V 519, 53;
 649, 7 (*Non.* 188, 17).
 
-**Vultu quo** quo uultu IV 470, 49 (*Verg. Aen.* I 255).
+**Uultu quo** quo uultu IV 470, 49 (*Verg. Aen.* I 255).
 
-**Vultur** γύψ III 187, 65; 257, 45; 360, 41; 435, 29; 492, 10 (dipi
+**Uultur** γύψ III 187, 65; 257, 45; 360, 41; 435, 29; 492, 10 (dipi
 *cod.* γύπη?); 495, 44. **uultor** γύψ II 265, 53. *V.* ultor.

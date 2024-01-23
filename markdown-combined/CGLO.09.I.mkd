@@ -442,7 +442,7 @@ V 75, 20; IV 246, 4. propterea *Plac.* V 75, 21. *V.* idcirco.
 
 **Ideo minus** quo minus IV 350, 26.
 
-**Ideoque** δι' ὃ δή II 278, 9. δἰ ὅπερ II 278, 23. καὶ διὰ τοῦτο II
+**Ideoque** δι' ὃ δή II 278, 9. δι’ ὅπερ II 278, 23. καὶ διὰ τοῦτο II
 335, 55.
 
 **Id est** hoc est IV 350, 27.
@@ -461,7 +461,7 @@ graece, genere masculino (?) V 110, 43. **idiomati** consuetudini V 416,
 ignarus, ignorans IV 88, 57. imperitus, ignarus, nescius IV 350, 28
 (ideota). imperitus litterarum IV 246, 8. imperitus graece V 110, 42.
 rusticus uel indoctus IV 88, 60. ignota (ignorans?) V 301, 22.
-**idiotae** stulti V 420, 33 (*Euseb. eccl. hist.* IV 16) = 429, 15).
+**idiotae** stulti V 420, 33 (*Euseb. eccl. hist.* IV 16) = 429, 15.
 *Cf. GR. L.* VII 304, 12; *Isid.* X 143.
 
 **Id ipsum** τοῦτο II 456, 35 (ταυτό?). τοῦτο αὐτό II 457, 50. hoc ipsum

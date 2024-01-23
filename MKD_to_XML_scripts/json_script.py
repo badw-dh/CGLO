@@ -258,17 +258,29 @@ def remove_parentheses(lemma):
 # Palaeotheodiscum -> T
 # Anglosaxonicum -> A
 def abbreviate_lang(lang):
-    if lang == 'Palaeotheodiscum':
-        return 'T'
-    else:
-        return lang[0].upper()
+    # if lang == 'Palaeotheodiscum':
+    #     return 'T'
+    # else:
+    #     return lang[0].upper()
+    return lang
 
 
-if __name__ == "__main__":
-    # convert_directory_to_JSON(default_XML_path, default_JSON_path)
-
+# generates a JSON file and lemma list file using default directories.
+def generate_JSON():
     lemma_stack = convert_file_to_JSON(DEFAULT_FILE, DEFAULT_XML_PATH, DEFAULT_JSON_PATH)
 
     # Print a file with just lemmata and cross-references.
     with open(f"{DEFAULT_JSON_PATH}/lemma_list.txt", "w", encoding="utf-8") as f:
         f.write(lemma_list_to_txt(lemma_stack))
+
+
+if __name__ == "__main__":
+    generate_JSON()
+
+    # convert_directory_to_JSON(default_XML_path, default_JSON_path)
+
+    # lemma_stack = convert_file_to_JSON(DEFAULT_FILE, DEFAULT_XML_PATH, DEFAULT_JSON_PATH)
+    #
+    # # Print a file with just lemmata and cross-references.
+    # with open(f"{DEFAULT_JSON_PATH}/lemma_list.txt", "w", encoding="utf-8") as f:
+    #     f.write(lemma_list_to_txt(lemma_stack))

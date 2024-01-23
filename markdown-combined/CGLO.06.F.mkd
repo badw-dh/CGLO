@@ -3250,7 +3250,7 @@ diminutiue V 295, 41. flores IV 343, 47. flos, flores, aetates V 457,
 
 **Flos ipse** (ipso *cod.*) et masculino genere dicuntur et neutro
 [uiolentia] V 534, 35 (*Ter. Eun.* 319: *ante* uiolentia *intercidit
-lemma* ui. *Cf. GR. L.* IV 213, 18.
+lemma* ui). *Cf. GR. L.* IV 213, 18.
 
 **Flos iunci** hisquioantos (= σχοίνου ἄνθος) III 625, 3.
 
@@ -5076,7 +5076,7 @@ flamma IV 520, 50; V 297, 2. fulgur, iacula (iaculum *abc*) IV 240, 12.
 fulgur uel iacula IV 80, 26. fulcimentum editum iaculi (*? cf.*
 fulmentum) V 203, 24. fulgoriacolum (*ubi* fulguriaculum *Loewe GL. N.*
 165, fulgur iaculum *reiciens*) *cod. Ambros. B* 31 *sup.; cf. a b c* IV
-240, 12). **flumina** ful\<gura\> (?) IV 520, 13.
+240, 12. **flumina** ful\<gura\> (?) IV 520, 13.
 
 **Fulmentum** adminiculum, fulcimentum IV 79, 1; V 203, 25.
 **fullomenta** subpositoria V 297, 29. *Cf.* ἐπικόπανον
@@ -5367,7 +5367,7 @@ Georg.* IV 256.
 **Funus et ferias** prouerbium est de morte dictum (*ita Deuerling.* est
 morediat *R.* morte dicit \<dicitur ?\> *GP*), quoniam funere publico
 feriae \<in\>dicuntur (*suppl. Deuerling*) *Plac.* V 22, 27 = V 71, 3
-(dicantur *vel* dicebantur) = V 105, 23 dicuntur).
+(dicantur *vel* dicebantur) = V 105, 23 dicuntur.
 
 **Funus imaginarium** tumulus sine cadauer IV 79, 26; 240, 26 (cadauere
 *ab*); 520, 29; V 204, 1; 297, 14 (cadauere). dicitur tumulus sine

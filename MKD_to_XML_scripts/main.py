@@ -13,6 +13,7 @@ from combine_mkd import *
 from combine_xml import combine_XML_files
 from rename_mkd import rename_mkd_files
 from add_xml_attribs import add_attribs_to_dir
+from json_script import generate_JSON
 
 # Default data directories
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -76,11 +77,11 @@ if args.directory:
 match mode:
     case 'default':
         # Clean up the markdown files and save them to directory mkd_clean_path.
-        clean_MKD_directory(MKD_INPUT_PATH, MKD_CLEAN_PATH)
+        # clean_MKD_directory(MKD_INPUT_PATH, MKD_CLEAN_PATH)
 
         # Next combine all markdown files in mkd_clean_path together, save in mkd_combined_path.
         # combine_MKD_TOC(mkd_clean_path)
-        combine_MKD_TOC(MKD_CLEAN_PATH)
+        combine_MKD_TOC(MKD_CLEAN_PATH, MKD_COMBINED_PATH)
 
         # Next generate an XML from all files in xml_output_path and save.
         generate_XML_from_dir(MKD_COMBINED_PATH, XML_OUTPUT_PATH)
@@ -92,6 +93,9 @@ match mode:
         combine_XML_files(XML_OUTPUT_PATH)
 
         # Fill in lemma cross-refs <xr> with <target> tags.
+
+        # Generate a JSON and lemma list file using default directories.
+        generate_JSON()
 
     case 'rename':
         # Check the input files and change any names that don't conform to the

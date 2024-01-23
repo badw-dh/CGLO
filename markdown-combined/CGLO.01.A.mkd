@@ -1661,7 +1661,7 @@ cuiuscumque rei, sed et congregatio manipulorum sic dicitur V 546, 46 (=
 **Acetabulum** ὀξυβάφιον II 13, 37; III 203, 26; 379, 10 (acit.); 438,
 10; 474, 7. ὀξύβαφον II 384, 46; III 22, 49 (acit.); 93, 59.
 **acetabula** ὀξύβαφα III 324, 68 (*inter vasa argentea: cf. Funck
-Philol.* LIII 127.) **acetabulum** id est scrafia(?) de ouo III 607, 15.
+Philol.* LIII 127). **acetabulum** id est scrafia(?) de ouo III 607, 15.
 **aceptabulum** scarfia de ouo III 553, 15. **acceptabulum** id est
 scarfia de ouo III 616, 22. scarfia oui III 586, 22. **accitabulum**
 quasi accitum ferro dicitur, id est sonabulum *Papias. Cf. Isid.* III
@@ -2610,7 +2610,7 @@ II 10, 45. conpositiones IV 304, 5.
 **Adipiscendi** consequendi IV 10, 43.
 
 **Adipiscor** ἐπιτυγχάνω II 312, 32. προσκτῶμαι II 422, 6. κτῶμαι II
-356, 15. **adipiscitur** ἀπολαύει, ἐπιτύγχανει II 6, 22 = 555, 9.
+356, 15. **adipiscitur** ἀπολαύει, ἐπιτυγχάνει II 6, 22 = 555, 9.
 περικτᾶται, περιγίνεται, ἐπιτυγχάνει II 10, 39. consequitur IV 203, 16.
 adsequitur uel inueni[e]t IV 8, 12. assequitur, inuenit[ur],
 fruitur, nanciscitur, obtinet IV 478, 25. consequitur aut impetrat IV 7,
@@ -2632,7 +2632,7 @@ aditus εὐπρόσιτος *c*) II 7, 7.
 
 **Aditio** ἔντευξις II 300, 35.
 
-**Aditus** εἴσοδος II 6, 19; III 302, 58; 493, 11; 517, 56. εἰσοδος ἐπὶ
+**Aditus** εἴσοδος II 6, 19; III 302, 58; 493, 11; 517, 56. εἴσοδος ἐπὶ
 οἰκίας II 287, 18. πρόσ\<οδος\> II 10, 38. ἔλευσις II 295, 6.
 προσέλευσις II 420, 62; 487, 16. πρόσοδος ἡ προσέλευσις II 422, 22.
 ἔντευξις II 6, 48. εἴσοδος, ἔντευξις II 537, 9; 549, 17. δίοδος,
@@ -3311,7 +3311,7 @@ interioribus partibus V 261, 63.
 539, 66; III 83, 48; 301, 27; 400, 38. ναὸς ἢ οἶκος II 552, 24. templum
 II 565, 25. **aedes** ναοί III 301, 30. αὐλαί, ναοί II 11, 45.
 <pb n="VI.31" facs="6.31.jpg"></pb>
-οἰκίαι (singularia non habet: εἰ γὰρ **aedem** εἴπῃς, ναόν σημαίνει) II
+οἰκίαι (singularia non habet: εἰ γὰρ **aedem** εἴπῃς, ναόν σημαίνει) II
 380, 17. *Cf. GR. L.* I 33, 6; 327, 33; 548, 38. aedificia IV 12, 24.
 aedificia urbana V 339, 25. domus, aedificia urbana V 490, 34. domus uel
 templa IV 11, 27; domum uel templa V 262, 46. templa aut domos IV 59,
@@ -6322,7 +6322,7 @@ siue figuratas IV 16, 34; V 165, 47 (ambiguata). *V.* diploma.
 **Ambimanus** περιδέξιος II 16, 5.
 
 **Ambio** κυκλεύω II 356, 30. περιέρι χομαι II 402, 41. κολακεύω II 352,
-7. θωπεύω II 330, 13. **ambit** περιέρχετα-. κολακεύει II 16, 6. circuit
+7. θωπεύω II 330, 13. **ambit** περιέρχεται, κολακεύει II 16, 6. circuit
 IV 15, 40. circumit IV 308, 16. per aliquem rogat IV 405, 36. circumdat,
 conplectitur IV 480, 43. **ambiamus** amplectamus V 547, 7. **ambire**
 amplecti, circum retinere V 549, 22. circuire IV 427, 17 (*Verg. Aen.*
@@ -6576,7 +6576,7 @@ necessitudo, adfinitas IV 308, 31.
 
 **Amictorium** ἐπιβόλαιον II 307, 15. περιβόλαιον II 402, 18. σκέπασμα,
 τὸ περιβόλαιον II 433, 6. anaboladium III 510, 3. detruncatio
-(destructio *a*: *quod quo eius qui vertit erorre factum sit latet*) II
+(destructio *a*: *quod quo eius qui vertit errore factum sit latet*) II
 566, 17. uestimentum V 265, 23. *Cf.* adiutorium.
 
 **Amictuo** aui, id est cooperio uel amicio *gloss. Sal.*
@@ -7756,7 +7756,7 @@ conandum IV 482, 4. abiciendum (adiuuandum? ambiendum *Buech.*) V 547,
 adiuuante *add.*). **adnitentibus** postulantibus IV 304, 35; 482, 3.
 tilgendum (vel tilgendun, *dat. plur., AS.*) V 341, 7.
 
-**Annititur** ἐπερείδεται II 8, 22. cona tur an iuuat IV 8, 42; 479, 42.
+**Annititur** ἐπερείδεται II 8, 22. conatur an iuuat IV 8, 42; 479, 42.
 postulat uel plus conatur IV 304, 36. **annit** incumbit IV 18, 29.
 incumbit, inclinatur IV 478, 13. **adniteremur** adiuuaremur(!) uel
 opitularemur IV 482, 2; V 625, 26.
@@ -10577,7 +10577,7 @@ IV 207, 35; 484, 6. **adrogantissime** uulanclicae (*AS.* gelphlich est
 34 (ador *cod.* adoptatus *c, fortasse recte*).
 
 **Arrogo** (*vel* adr.) προσχαρίζομαι II 423, 39. **adrogo mihi**
-χαρίζσμαι ἐμαυτῷ II 475, 38. ἀπονέμω ἐμαυτῳ II 239, 18. **adrogo**
+χαρίζομαι ἐμαυτῷ II 475, 38. ἀπονέμω ἐμαυτῷ II 239, 18. **adrogo**
 ἀπονέμω II 239, 17. ἀλαζονεύομαι II 224, 34. **adrogat** ὑπερηφανεῖ,
 λοιδορεῖ II 8, 18. adscribit uel deputat IV 9, 48; 20, 34 (disputat);
 484, 3. uindicat, extollit IV 484, 4. **adrogant** addunt *Plac.* V 5,

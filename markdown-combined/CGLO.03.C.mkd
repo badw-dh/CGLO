@@ -862,7 +862,7 @@ caeuedus.
 compos II 571, 18 (*ubi* computus *Loewe GL. N.* p. 26 : *cf.* III 81,
 11/12; cautulus compos \<= uigil\> *van der Vliet Arch.* IX 302, non
 recte). **calculum** (*Arch.* IV 180) ψῆφος III 467, 52. **calculus**
-diminutivum V 273, 63. lapillus, calex enim lapis est, unde et calculari
+diminutiuum V 273, 63. lapillus, calex enim lapis est, unde et calculari
 dicitur, id est numerus IV 30, 6 (*cf. Isid.* XVIII 62); 492, 41; V
 174, 1. lapillus IV 30, 39; V 174, 2. computus, a lapillis quos sibi
 componunt: calx (!) enim lapis est V 273, 62. lapis minutissimus V 174,
@@ -5058,7 +5058,7 @@ III 597, 18.
 **Charadrion** (*sine interpr.*) V 354, 67 (*Vulg. Lev.* 11, 19).
 **charadriae** fulicae, sturni V 445, 17; 564, 36 (samni). **karitrius**
 genus auis, et est album et pinna eius non exuritur IV 252, 51.
-**calatrio** tylasiodos \*\*\*\* on II 509, 51 (τυλάς ἡ ᾠδός ὄρνεον).
+**calatrio** tylasiodos \*\*\*\* on II 509, 51 (τυλάς ἡ ᾠδὸς ὄρνεον).
 **cadrio** (?) νυκτικόραξ III 90, 8. *Cf. Sittl Arch.* II 479. *V.*
 bubo.
 

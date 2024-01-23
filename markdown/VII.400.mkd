@@ -1,12 +1,12 @@
 302, 19; 493, 10; 517, 53. beneficium V 559, 11. **ueniam** pacem uel
 beneficium IV 192, 5. *Cf. Serv. in Aen.* I 519.
 
-**Venilia** maris exaestuatio quae ad litus uenit. Varro: uenilia unda
+**Uenilia** maris exaestuatio quae ad litus uenit. Uarro: uenilia unda
 quae ad litus uenit, salacia quae ad mare redit *Scal.* V 613, 39 (*Osb.
 p.* 604, 623; *Augustin. de civ.* VII 22, *Varro de l. l.*V 72). *Cf.
 Loewe Prodr.* 48; *GL. N.* 128; *Agahd, Varr. antiqu. rer. div. p.* 210.
 
-**Venio** ἔρχομαι II 314, 62; III 70, 23 = 637, 2; 137, 19; 420, 57;
+**Uenio** ἔρχομαι II 314, 62; III 70, 23 = 637, 2; 137, 19; 420, 57;
 466, 9; 494, 48. **uenis** ἔρχῃ III 420, 58. **uenit** ἥκει καὶ ἔρχεται
 II 205, 66. ἔρχεται III 420, 59. **uenimus** ἐρχόμεθα III 137, 21.
 **ueniunt** ἔρχονται III 137, 20; 420, 64. **ueniant** ἔλθωσιν III 420,
@@ -21,82 +21,82 @@ huc** ἔλθατε ώδε III 516, 13. **ueniebam** ἤρχομην III 143, 2
 **ueni\<s\>tis** ἤλθατε III 137, 22. **uenerunt** ἦλθαν III 420, 63
 (uenerant); 68. *Cf.* **ueniunt** bona V 335, 9. *V.* ueneo.
 
-**Venor** θηρεύω III 75, 27; 145, 43; 420, 78; 466, 12. κυνηγῶ III 147,
+**Uenor** θηρεύω III 75, 27; 145, 43; 420, 78; 466, 12. κυνηγῶ III 147,
 55. κυνηγετῶ II 356, 55. **uenior** circumuenior V 648, 41 (*Non.* 183,
 14). **uenaris** θηρεύεις III 145, 44; 421, 3. **uenatur** θηρεύει III
 145, 45; 420, 76. **uenamur** θηρεύομεν III 421, 1. **uenantur**
 θηρεύουσιν III 421, 2. **uenare** θήρευσον III 420, 75 (uenari *cod.*).
 
-**Venter** κοιλία ὅ ἐστι γαστήρ II 351, 40. κοιλία II 205, 67; 490, 21;
+**Uenter** κοιλία ὅ ἐστι γαστήρ II 351, 40. κοιλία II 205, 67; 490, 21;
 514, 10; 539, 54; 557, 1; III 12, 56; 86, 10; 176, 9; 248, 33; 311, 30;
 466, 13; 497, 64; 526, 5; 556, 5; 620, 49. **uentre** κοιλία II 563, 27.
 **uenter** κοιλία, γαστήρ II 552, 10. γαστήρ III 349, 60; 351, 34;
 394, 64; 564, 44. **uentrem** aluum IV 400, 38.
 
-**Venter merguli** cinideossedes (?) III 555, 11. **uentrem de mergulo**
+**Uenter merguli** cinideossedes (?) III 555, 11. **uentrem de mergulo**
 cinidiosedes III 619, 39 (νηδὺς αἰθυίας? χηνιδέως νηδύς *Stadl.*).
 
-**Venticapium** *v.* flabellum.
+**Uenticapium** *v.* flabellum.
 
-**Ventilabrum** λικμητήριον II 360, 69. λικμητήρ II 528, 22. λικμητρίς
+**Uentilabrum** λικμητήριον II 360, 69. λικμητήρ II 528, 22. λικμητρίς
 II 506, 10. πτύον II 425, 47; 523, 57; III 263, 3. pala uentilandi II
 596, 36. uentilatorium IV 578, 38. uelabrum, uelatorium uel
 uentilatorium V 631, 66. instrumentum quo palea uentilatur V 252, 20.
 *Cf. Isid.* XX 14, 10.
 
-**Ventilamentum** λικμητήριον II 360, 69.
+**Uentilamentum** λικμητήριον II 360, 69.
 
-**Ventilatio** φανέρωσις II 470, 3.
+**Uentilatio** φανέρωσις II 470, 3.
 
-**Ventilator** ὁπλοπετὴς καὶ λικμητής II 206, 2 (*ubi* ὁπλοπαίκτης *c:*
+**Uentilator** ὁπλοπετὴς καὶ λικμητής II 206, 2 (*ubi* ὁπλοπαίκτης *c:*
 ὁ προπετής *Vulc.*). ὁπλοπαίκτης III 308, 65.
 
-**Ventilatorium** *sine interpr.* II 596, 37 (*pertinet ad* uentilabrum
+**Uentilatorium** *sine interpr.* II 596, 37 (*pertinet ad* uentilabrum
 II 596, 36).
 
-**Ventilo** λικμῶ II 360, 70. ἀνεμίζω II 225, 48. **uentilat** ῥίπτει,
+**Uentilo** λικμῶ II 360, 70. ἀνεμίζω II 225, 48. **uentilat** ῥίπτει,
 ῥιπίζει II 206, 1. **uentilare** γυ\<μ\>νάζεσθαι II 206, 7. γυμνάσαι II
 265, 34. **uentilabam** uigilabam, custodiebam V 492, 52. **uentiletur**
 συγκροτεῖται, δικάζεται II 206, 5. **uentilata est** ἐζητήθη II 284, 48.
 *V.* scobet.
 
-**Ventitaras** frequentaueras V 631, 67.
+**Uentitaras** frequentaueras V 631, 67.
 
-**Vento ferenti** prospero flanti IV 468, 40 (*Verg. Aen.* III 473).
+**Uento ferenti** prospero flanti IV 468, 40 (*Verg. Aen.* III 473).
 
-**Ventositas** col[l]i et uiscerum inflammatio III 607, 1.
+**Uentositas** col[l]i et uiscerum inflammatio III 607, 1.
 
-**Ventosus** ἀνεμώδης II 225, 50. turbidus IV 468, 41 (*v.* turbidus *et
+**Uentosus** ἀνεμώδης II 225, 50. turbidus IV 468, 41 (*v.* turbidus *et
 Verg. Aen.* V 696). **uentosum** ἀνεμῶδες III 295, 12; 507, 64.
 
-**Ventralis** κοιλιόδεσμος II 351, 44; 495, 61. ligatura uentris II 596,
+**Uentralis** κοιλιόδεσμος II 351, 44; 495, 61. ligatura uentris II 596,
 63. **uentrales** κοιλιόδεσμος, φοῦνδα II 206, 3 (uentrale *g*). φοῦνδα
 III 21, 36; 92, 70, **uentralis** φοῦνδα III 323, 31. **uentrale**
 φοῦνδα II 548, 65 (*GR. L.* I 554, 32). περίζωμα II 402, 44. fascia IV
 400, 31; V 631, 68. quod solum uentrem operit (*vel* operiat) IV 190,
 30; 577, 38. *Cf.* **uentrile** φοῦνδαμ III 370, 9.
 
-**Ventricellu\<s\>** κοιλίδιν III 14, 49.
+**Uentricellu\<s\>** κοιλίδιν III 14, 49.
 
-**Ventricosus** magnum uentrem habens II 596, 50. *V.* uentriculosus.
+**Uentricosus** magnum uentrem habens II 596, 50. *V.* uentriculosus.
 
-**Ventriculi (uerticuli *H.*) digiti** σκυτάλαι II 206, 8.
+**Uentriculi (uerticuli *H.*) digiti** σκυτάλαι II 206, 8.
 
-**Ventriculosus** *v.* gulosus.
+**Uentriculosus** *v.* gulosus.
 
-**Ventriculus** γαστροκνημία (= sura) II 206, 9; 261, 46
+**Uentriculus** γαστροκνημία (= sura) II 206, 9; 261, 46
 (**uenterculus** γαστροκνημία II 514, 13). stomachus auis uel cesol
 (*AS.*) V 398, 48 (*v.* gurgustium). **uentriculum** κοιλίδιν III 314,
 49; 526, 23; 287, 43 (uentraculum) = 658, 17 (κοιλίδιον).
 **uentriclu\<m\>** κοιλίδιον III 183, 28.
 
-**Ventrile** *v.* uentralis.
+**Uentrile** *v.* uentralis.
 
-**Ventriloqui** praecantatores *Scal.* V 613, 29.
+**Uentriloqui** praecantatores *Scal.* V 613, 29.
 
-**Ventris proluuies** (*Verg. Aen.* III 216) ab stercoris fluxu
+**Uentris proluuies** (*Verg. Aen.* III 216) ab stercoris fluxu
 dicitur, proluuies autem uel capax † audita (auiditas?) faucium uel
 fluxus uentris intellegitur: nam omnis humor intra corpus proluuies
 dicitur, ut 'pleno se proluit auro' V 252, 21 (*Verg. Aen.* I 739).
 
-**Ventris solutio** kiliacis (κοιλιακή? κοιλιολυσία?) III 528, 14.
+**Uentris solutio** kiliacis (κοιλιακή? κοιλιολυσία?) III 528, 14.
