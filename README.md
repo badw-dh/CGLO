@@ -57,7 +57,7 @@ A bibtex entry for *CGLO*:
 
 ## Authors and Contributors
 
-The corpus was digitized under the direction of Dr. Adam Gitner with the following main contributors: Dr. Alessia Pezzella, Dr. Andrea Consalvi, Javier Agredo, and Bertold Carl Ammer.
+The corpus was digitized under the direction of Dr. Adam Gitner with the following main contributors: Dr. Alessia Pezzella, Dr. Andrea Consalvi, Javier Agredo, and Bertold Carl Ammer. Dr. Franck Cinato provided invaluable guidance, including advice about the XML scheme, and the *CGL* table of contents.
 
 ## Curator
 
